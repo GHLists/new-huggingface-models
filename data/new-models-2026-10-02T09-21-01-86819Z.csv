@@ -1,0 +1,330 @@
+created_at,model,author,downloads,likes,tags
+2026-10-02T08:18:49Z,khazic/ovb-fs3_lr1e-4,khazic,0,0,safetensors; region:us
+2026-10-02T08:19:02Z,agnesgoransson/lab3_languagemodel,agnesgoransson,0,0,joblib; region:us
+2026-10-02T08:19:35Z,Aftian2429/god-replica-l-k1-f3-zimg-junk-x488dd56,Aftian2429,0,0,region:us
+2026-10-02T08:20:07Z,jinofy-corp/joraMindMini_500M_BASE,jinofy-corp,0,0,safetensors; region:us
+2026-10-02T08:22:01Z,yyuan244/asyncrl-m4b_grpo_s8_tn0_piold_fp8-gs240,yyuan244,0,0,region:us
+2026-10-02T08:23:38Z,anofinda/sd-class-butterflies-32,anofinda,0,0,diffusers; safetensors; pytorch; unconditional-image-generation; diffusion-models-class; license:mit; diffusers:DDPMPipeline; region:us
+2026-10-02T08:23:56Z,paweenut/distilbert-base-uncased-finetuned-emotion,paweenut,0,0,transformers; safetensors; distilbert; text-classification; generated_from_trainer; base_model:distilbert/distilbert-base-uncased; base_model:finetune:distilbert/distilbert-base-uncased; license:apac…
+2026-10-02T08:24:06Z,Jazhyc/Gleipnir-4B-ToolTrajectories-Regular,Jazhyc,0,0,peft; safetensors; ai-control; monitoring; lora; text-generation; base_model:Qwen/Qwen3.5-4B; base_model:adapter:Qwen/Qwen3.5-4B; license:mit; region:us
+2026-10-02T08:24:18Z,Cisco1963/llmplasticity-zh_nl_linear_8-d0.1-c0.99-r0.8-s42,Cisco1963,0,0,safetensors; gpt2; region:us
+2026-10-02T08:24:28Z,14A5/QRJsyO1jno9Ao2W5,14A5,0,0,region:us
+2026-10-02T08:24:28Z,14A5/zXYu05VYqmxM0xwy,14A5,0,0,region:us
+2026-10-02T08:24:29Z,Jazhyc/Gleipnir-4B-ToolTrajectories-InjectionAware,Jazhyc,0,1,peft; safetensors; ai-control; monitoring; lora; text-generation; base_model:Qwen/Qwen3.5-4B; base_model:adapter:Qwen/Qwen3.5-4B; license:mit; region:us
+2026-10-02T08:24:29Z,14A5/yhpMswCT3aQjufWj,14A5,0,0,region:us
+2026-10-02T08:24:31Z,zndwb/hw1-hc3-detector,zndwb,0,0,transformers; safetensors; bert; text-classification; ai-generated-text-detection; text-embeddings-inference; endpoints_compatible; region:us
+2026-10-02T08:24:41Z,zeechimp/skull-mirror,zeechimp,0,1,skull-mirror; acoustics; biometrics; bone-conduction; mfcc; calibration; numpy; cpu; other; en; license:apache-2.0; region:us
+2026-10-02T08:24:47Z,meossistant/clef-flash-openvino,meossistant,0,0,openvino; intel; cpu; clef; cloudflare; systemone; qwen3.5; post-train; image-text-to-typed-output; multimodal; structured-output; classification; custom-code; image-text-to-text; conversational; bas…
+2026-10-02T08:25:43Z,seomh/opd-klear8b-qwen3moe30b-ot3math-stylemask-nonnum-step70,seomh,0,0,safetensors; qwen3; region:us
+2026-10-02T08:25:53Z,anofinda/sd-class-butterflies-64,anofinda,0,0,diffusers; safetensors; diffusers:DDPMPipeline; region:us
+2026-10-02T08:27:04Z,local-legends/learnal-lora,local-legends,0,0,region:us
+2026-10-02T08:27:07Z,adamsmike/con8,adamsmike,0,0,region:us
+2026-10-02T08:27:07Z,adamsmike/con3,adamsmike,0,0,region:us
+2026-10-02T08:27:07Z,adamsmike/con5,adamsmike,0,0,region:us
+2026-10-02T08:27:07Z,adamsmike/con9,adamsmike,0,0,region:us
+2026-10-02T08:27:07Z,adamsmike/con2,adamsmike,0,0,region:us
+2026-10-02T08:27:07Z,adamsmike/con10,adamsmike,0,0,region:us
+2026-10-02T08:27:07Z,adamsmike/con7,adamsmike,0,0,region:us
+2026-10-02T08:27:07Z,adamsmike/con1,adamsmike,0,0,region:us
+2026-10-02T08:27:27Z,PES24/spd02,PES24,0,0,region:us
+2026-10-02T08:27:52Z,mama-to/mot07,mama-to,0,0,region:us
+2026-10-02T08:27:54Z,mama-to/mot10,mama-to,0,0,region:us
+2026-10-02T08:27:54Z,mama-to/mot04,mama-to,0,0,region:us
+2026-10-02T08:28:04Z,RunningHubAI/rh-old-lora,RunningHubAI,0,0,comfyui; lora; text-to-image; region:us
+2026-10-02T08:28:07Z,fasihah/chatterbox-turbo-malay-v1,fasihah,0,0,region:us
+2026-10-02T08:28:35Z,ElMusk/fun10,ElMusk,0,0,region:us
+2026-10-02T08:28:37Z,HH013/distilbert-base-uncased-finetuned-emotion,HH013,0,0,transformers; safetensors; distilbert; text-classification; generated_from_trainer; base_model:distilbert/distilbert-base-uncased; base_model:finetune:distilbert/distilbert-base-uncased; license:apac…
+2026-10-02T08:29:42Z,vadimyakob/chrono-2023-Wiki-8,vadimyakob,0,0,safetensors; sn38-nanochrono; region:us
+2026-10-02T08:30:15Z,matCercola18/so101_gpl_v1_j_expert,matCercola18,0,0,lerobot; safetensors; robotics; so101; pi05; license:apache-2.0; region:us
+2026-10-02T08:30:47Z,yosef0H4/lemura-arabic-asr-lite-GGUF,yosef0H4,0,0,gguf; parakeet.cpp; arabic; quantized; automatic-speech-recognition; ar; arz; apc; ary; afb; base_model:lemuralabs/lemura-arabic-asr-lite; base_model:quantized:lemuralabs/lemura-arabic-asr-lite; lice…
+2026-10-02T08:30:59Z,Sarisa0563/distilbert-base-uncased-finetuned-emotion,Sarisa0563,0,0,transformers; safetensors; distilbert; text-classification; generated_from_trainer; base_model:distilbert/distilbert-base-uncased; base_model:finetune:distilbert/distilbert-base-uncased; license:apac…
+2026-10-02T08:31:05Z,egorovanna/poolformer-multitask-lite,egorovanna,0,0,safetensors; poolformer; pytorch; multitask; license:apache-2.0; region:us
+2026-10-02T08:31:17Z,birgermoell/oellm-9b-math-rlvr-canary-step16-experimental,birgermoell,0,0,safetensors; qwen3; openeurollm; experimental; math; reasoning; rlvr; dapo; text-generation; conversational; en; dataset:birgermoell/oellm-math-rlvr; base_model:Neonkraft/oellm-9b-256k-theta64m-prelu…
+2026-10-02T08:31:20Z,24B-Suite/MS-Raven-24B-v1-Q4_0-GGUF,24B-Suite,0,0,region:us
+2026-10-02T08:31:30Z,birgermoell/oellm-9b-math-rlvr-phase-a-32step-experimental,birgermoell,0,0,safetensors; qwen3; openeurollm; experimental; math; multilingual; reasoning; rlvr; dapo; text-generation; conversational; en; bg; cs; da; de; el; es; et; fi; fr; ga; hr; hu; it; lt; lv; mt; nl; pl;…
+2026-10-02T08:33:02Z,rariruluis/ELYZA-Thinking-1.0-llm-jp-4-32b-a3b-mlx-4bit,rariruluis,0,0,mlx; safetensors; qwen3_moe; mlx-lm; omlx; moe; reasoning; llm-jp-4; 4-bit; apple-silicon; conversational; text-generation; ja; en; base_model:elyza/ELYZA-Thinking-1.0-llm-jp-4-32b-a3b; base_model:qu…
+2026-10-02T08:33:42Z,khazic/ovb-lr1e-4,khazic,0,0,safetensors; region:us
+2026-10-02T08:33:42Z,LarryAIDraw/Hsin_Wuthering_Waves_v1_0,LarryAIDraw,0,0,license:creativeml-openrail-m; region:us
+2026-10-02T08:33:50Z,RyanYr/asyncrl-math_sc_s120_shuf-gs920,RyanYr,0,0,region:us
+2026-10-02T08:34:00Z,Parthpaddypad/reckoning-ai,Parthpaddypad,0,0,license:mit; region:us
+2026-10-02T08:34:41Z,LarryAIDraw/Yinlin_KatoriKonoe,LarryAIDraw,0,0,license:creativeml-openrail-m; region:us
+2026-10-02T08:35:11Z,valik2424/my-138m-ukr-en,valik2424,0,0,pytorch; region:us
+2026-10-02T08:35:15Z,LarryAIDraw/hiyuki_illustrious_v1,LarryAIDraw,0,0,license:creativeml-openrail-m; region:us
+2026-10-02T08:35:25Z,aaravkumarna/generation,aaravkumarna,0,0,safetensors; albef; pytorch; generation; license:mit; region:us
+2026-10-02T08:35:48Z,hethongxulynuoc/ecomax,hethongxulynuoc,0,0,region:us
+2026-10-02T08:35:50Z,LarryAIDraw/Hsin_Wuthering_Waves,LarryAIDraw,0,0,license:creativeml-openrail-m; region:us
+2026-10-02T08:36:10Z,yyuan244/asyncrl-m4b_sc_s40_truncneg1_shuf-gs360,yyuan244,0,0,region:us
+2026-10-02T08:36:40Z,khazic/ovb-lr2.5e-5,khazic,0,0,safetensors; region:us
+2026-10-02T08:37:21Z,RomanKudriavskii/jeff-guard-multilang,RomanKudriavskii,0,0,peft; safetensors; prompt-injection; prompt-injection-detection; guardrails; llm-security; decision-model; systemone; jeff; jev; lora; multilingual; ai-agents; text-classification; en; ru; zh; de; fr…
+2026-10-02T08:37:53Z,anggrainiallen/hybrid-baseline,anggrainiallen,0,0,safetensors; hybrid; pytorch; classification; license:apache-2.0; region:us
+2026-10-02T08:38:04Z,ConsulTent/bge-m3-int8-ov,ConsulTent,0,0,openvino; xlm-roberta; region:us
+2026-10-02T08:38:04Z,ConsulTent/bge-reranker-v2-m3-int8-ov,ConsulTent,0,0,openvino; xlm-roberta; region:us
+2026-10-02T08:38:43Z,Anivarth/anlp-assignment2-dense,Anivarth,0,0,region:us
+2026-10-02T08:38:58Z,haydendoo/so101_pickup_smolvla_v3_100000,haydendoo,0,0,safetensors; region:us
+2026-10-02T08:39:11Z,scq21cs2dsadsa/MyAwesomeModel-TestRepo,scq21cs2dsadsa,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-10-02T08:39:35Z,14A5/Hps6Ji4aM7edhyJf,14A5,0,0,region:us
+2026-10-02T08:39:35Z,14A5/MQYSy55wkTTWmc4c,14A5,0,0,region:us
+2026-10-02T08:39:47Z,Cisco1963/llmplasticity-zh_nl_linear_8-d0.5-c0.999-r0.8-s42,Cisco1963,0,0,safetensors; gpt2; region:us
+2026-10-02T08:39:56Z,undone0603/GLiNER2.5-Decide,undone0603,0,0,gliner2; safetensors; extractor; Text classification; Intent classification; Sentiment Analysis; Topic classification; Named Entity Recognition; token-classification; en; arxiv:2507.18546; base_model…
+2026-10-02T08:39:56Z,khazic/ovb-main_s1,khazic,0,0,safetensors; region:us
+2026-10-02T08:40:06Z,wy2pay/Qwen3.8-Flash-Next-abliterated-GGUF-IQ4XS,wy2pay,0,0,gguf; llama.cpp; qwen4_exp; abliterated; dgx-spark; base_model:huihui-ai/Huihui-Qwen3.8-Flash-Next-abliterated; base_model:quantized:huihui-ai/Huihui-Qwen3.8-Flash-Next-abliterated; license:apache-2.…
+2026-10-02T08:40:17Z,ASDASD12321WSX/MyAwesomeModel-TestRepo,ASDASD12321WSX,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-10-02T08:40:29Z,bondarenkoania/bert-finetuned-ner,bondarenkoania,0,0,transformers; safetensors; bert; token-classification; arxiv:1910.09700; endpoints_compatible; region:us
+2026-10-02T08:41:32Z,Takenoko12345678/Qwen3.5-0.8B-Japanese-SFT,Takenoko12345678,0,0,region:us
+2026-10-02T08:41:35Z,khazic/ovb-main_s2,khazic,0,0,safetensors; region:us
+2026-10-02T08:42:04Z,nakanakagawa/sponge_task_10_02_v7,nakanakagawa,0,0,lerobot; safetensors; act; robotics; dataset:nakanakagawa/sponge_task_10_02_v7; arxiv:2304.13705; license:apache-2.0; region:us
+2026-10-02T08:42:48Z,yyuan244/asyncrl-m4b_grpo_s40_tn0-gs1520,yyuan244,0,0,region:us
+2026-10-02T08:43:42Z,HungryDino/qwen_2.5_7b-eagle_numbers-collapse_p10_twf-run3-gen5,HungryDino,0,0,transformers; safetensors; text-generation-inference; unsloth; qwen2; trl; en; base_model:unsloth/Qwen2.5-7B-Instruct; base_model:finetune:unsloth/Qwen2.5-7B-Instruct; license:apache-2.0; endpoints_c…
+2026-10-02T08:43:47Z,hugokwang83/flamingo-contrastive-lab,hugokwang83,0,0,safetensors; flamingo; pytorch; contrastive; license:apache-2.0; region:us
+2026-10-02T08:44:07Z,hugokwang83/hw1-lightweight-multimodal,hugokwang83,0,0,safetensors; transformer; research-notes; lightweight-multimodal; license:cc-by-4.0; region:us
+2026-10-02T08:44:10Z,Abiray/Qwen-Image-2.1-viggle-turbo-v0.3-6step-GGUF,Abiray,0,0,gguf; text-to-image; image-to-image; comfyui; distilled; turbo; 6-step; qwen; qwen-image; v0.3; base_model:Viggle/Qwen-Image-2.1-viggle-turbo; base_model:quantized:Viggle/Qwen-Image-2.1-viggle-turbo;…
+2026-10-02T08:44:37Z,vadimyakob/chrono-2023-Wiki-9,vadimyakob,0,0,safetensors; sn38-nanochrono; region:us
+2026-10-02T08:45:24Z,kiroaiseoul/act_task08_14D_333data_200k,kiroaiseoul,0,0,lerobot; safetensors; act; robotics; dataset:kiroaiseoul/task08_takeout_and_put_beaker_14D_333data; arxiv:2304.13705; license:apache-2.0; region:us
+2026-10-02T08:46:05Z,Alvinkcui0422/cnn-transformer-demo,Alvinkcui0422,0,0,safetensors; cnn_transformer; pytorch; cnn-transformer; matching; license:bsd-3-clause; region:us
+2026-10-02T08:46:08Z,dwivedula/Samrudh-2-Brahma-7B,dwivedula,0,0,transformers; safetensors; qwen2; text-generation; text-generation-inference; unsloth; conversational; en; base_model:unsloth/Qwen2.5-7B-Instruct-bnb-4bit; base_model:finetune:unsloth/Qwen2.5-7B-Inst…
+2026-10-02T08:46:24Z,khazic/ovb-main_s42,khazic,0,0,safetensors; region:us
+2026-10-02T08:46:59Z,khazic/ovb-minsnr_g1,khazic,0,0,safetensors; region:us
+2026-10-02T08:47:11Z,aiengineer56/rgb_checkpoint,aiengineer56,0,0,region:us
+2026-10-02T08:47:22Z,abasing/GLM-5.3-Flash,abasing,0,0,transformers; safetensors; glm5_next; image-text-to-text; conversational; en; zh; arxiv:2602.15763; license:mit; eval-results; endpoints_compatible; fp8; region:us
+2026-10-02T08:47:24Z,Tungnguyenpoz/class-generation,Tungnguyenpoz,0,0,safetensors; vit; pytorch; generation; license:mit; region:us
+2026-10-02T08:47:32Z,abasing/GLM-5.3-CYBERSECURITY-FP8,abasing,0,0,safetensors; glm_moe_dsa; abliterated; crack; refusal-removed; domain-specific; cybersecurity; offensive-security; red-team; pentest; glm; moe; fp8; text-generation; conversational; en; zh; ru; sr; h…
+2026-10-02T08:47:35Z,hsdyiwe/haspi,hsdyiwe,0,1,license:apache-2.0; region:us
+2026-10-02T08:47:36Z,abasing/GLM-5.3,abasing,0,0,transformers; safetensors; glm_moe_dsa; text-generation; conversational; en; zh; arxiv:2602.15763; license:other; eval-results; endpoints_compatible; fp8; region:us
+2026-10-02T08:48:22Z,abasing/CopyOFGANDLANDM-5.3-Flash-NVFP4-2,abasing,0,0,Model Optimizer; safetensors; glm5_next; nvidia; ModelOpt; GLM-5; quantized; FP4; fp4; image-text-to-text; conversational; base_model:zai-org/GLM-5.3-Flash; base_model:quantized:zai-org/GLM-5.3-Flash…
+2026-10-02T08:48:25Z,awesky-020/Awesky-Nano,awesky-020,0,0,region:us
+2026-10-02T08:48:54Z,14A5/BzHtYuG3Vw5uFamg,14A5,0,0,region:us
+2026-10-02T08:48:54Z,14A5/ImLkTKkNFx4CGRFv,14A5,0,0,region:us
+2026-10-02T08:48:54Z,14A5/7p4j4oGq9OokXf3D,14A5,0,0,region:us
+2026-10-02T08:49:04Z,Cisco1963/llmplasticity-zh_nl_linear_8-d0.5-c0.9-r0.5-s42,Cisco1963,0,0,safetensors; gpt2; region:us
+2026-10-02T08:49:27Z,synthetic-code-training/qwen3-4b-func-localize-qwen35-397b-move-think-1299i,synthetic-code-training,0,0,safetensors; qwen3; region:us
+2026-10-02T08:49:27Z,darrenlinka/cs231n-matching,darrenlinka,0,0,safetensors; cnn_transformer; pytorch; cnn-transformer; matching; license:mit; region:us
+2026-10-02T08:49:44Z,iajitpanday/learn1-training,iajitpanday,0,0,region:us
+2026-10-02T08:50:17Z,ASD12EDSA2QWE/MyAwesomeModel-TestRepo,ASD12EDSA2QWE,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-10-02T08:50:21Z,litert-community/GLiNER2.5-Multi-LiteRT,litert-community,0,0,litert; tflite; android; named-entity-recognition; information-extraction; gliner2; mdeberta-v3; multilingual; japanese; token-classification; en; ja; arxiv:2507.18546; base_model:fastino/gliner2.5-m…
+2026-10-02T08:51:19Z,KHFUIQWDWQ/MyAwesomeModel-TestRepo,KHFUIQWDWQ,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-10-02T08:51:26Z,iajitpanday/learn1-model,iajitpanday,0,0,peft; safetensors; base_model:adapter:Qwen/Qwen2.5-0.5B-Instruct; lora; sft; transformers; trl; text-generation; conversational; arxiv:1910.09700; base_model:Qwen/Qwen2.5-0.5B-Instruct; region:us
+2026-10-02T08:52:43Z,lucasvandijk/mixer-demo,lucasvandijk,0,0,safetensors; mixer; pytorch; classification; license:apache-2.0; region:us
+2026-10-02T08:53:04Z,safasfaf4546/MyAwesomeModel-TestRepo,safasfaf4546,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-10-02T08:53:27Z,fromcch/test,fromcch,0,0,gguf; llama; llama.cpp; unsloth; endpoints_compatible; region:us
+2026-10-02T08:53:28Z,linchiyi/314581003-lab2-style-lora,linchiyi,0,0,diffusers; lora; stable-diffusion; nycu-lab2; base_model:CompVis/stable-diffusion-v1-4; base_model:adapter:CompVis/stable-diffusion-v1-4; region:us
+2026-10-02T08:53:35Z,linchiyi/314581003-lab2-dreambooth-cat-lora,linchiyi,0,0,diffusers; lora; dreambooth; stable-diffusion; nycu-lab2; base_model:CompVis/stable-diffusion-v1-4; base_model:adapter:CompVis/stable-diffusion-v1-4; region:us
+2026-10-02T08:53:41Z,Phuc-HugigFace/Qwen3.5-2B-Empathy-SFT-LoRA,Phuc-HugigFace,0,0,transformers; safetensors; arxiv:1910.09700; endpoints_compatible; region:us
+2026-10-02T08:54:31Z,pyaging/celldrift,pyaging,0,0,pyaging; PCA + elastic net regression; aging-clock; biology; dna-methylation; region:us
+2026-10-02T08:54:33Z,pyaging/dnamphenoagenonprc,pyaging,0,0,pyaging; weighted linear score; aging-clock; biology; dna-methylation; region:us
+2026-10-02T08:54:35Z,pyaging/dnamphenoageprc,pyaging,0,0,pyaging; weighted linear score; aging-clock; biology; dna-methylation; region:us
+2026-10-02T08:54:37Z,pyaging/intrinclock370,pyaging,0,0,pyaging; two-stage elastic net regression; aging-clock; biology; dna-methylation; region:us
+2026-10-02T08:54:38Z,pyaging/miage,pyaging,0,0,pyaging; dynamic methylation transmission model; aging-clock; biology; dna-methylation; region:us
+2026-10-02T08:54:40Z,pyaging/organagechronologicalolink1500adipose,pyaging,0,0,pyaging; elastic net regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:54:42Z,ssysphus/Qwen3.8-27B,ssysphus,0,0,transformers; safetensors; qwen3_5; image-text-to-text; conversational; license:apache-2.0; endpoints_compatible; region:us
+2026-10-02T08:54:54Z,khazic/ovb-no_minsnr,khazic,0,0,safetensors; region:us
+2026-10-02T08:55:14Z,YoussefSouissi/byrsa-fe-v7,YoussefSouissi,0,0,region:us
+2026-10-02T08:55:17Z,MNSahyouni/basma-lahgtna-onnx,MNSahyouni,0,0,text-to-speech; arabic; dialects; onnx; base_model:oddadmix/lahgtna-chatterbox-v1; base_model:finetune:oddadmix/lahgtna-chatterbox-v1; license:mit; region:us
+2026-10-02T08:55:25Z,ASDCX1DXSXA/MyAwesomeModel-TestRepo,ASDCX1DXSXA,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-10-02T08:55:34Z,khazic/ovb-no_rslora,khazic,0,0,safetensors; region:us
+2026-10-02T08:55:36Z,khazic/ovb-nominsnr_fs3,khazic,0,0,safetensors; region:us
+2026-10-02T08:56:08Z,RunningHubAI/rh-sd1.5-awportrait-v2.0-checkpoint,RunningHubAI,0,0,comfyui; checkpoint; region:us
+2026-10-02T08:56:08Z,pyaging/organagechronologicalolink1500adrenal,pyaging,0,0,pyaging; elastic net regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:56:10Z,pyaging/organagechronologicalolink1500artery,pyaging,0,0,pyaging; elastic net regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:56:12Z,pyaging/organagechronologicalolink1500brain,pyaging,0,0,pyaging; elastic net regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:56:14Z,pyaging/organagechronologicalolink1500conventional,pyaging,0,0,pyaging; elastic net regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:56:16Z,pyaging/organagechronologicalolink1500esophagus,pyaging,0,0,pyaging; elastic net regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:56:18Z,pyaging/organagechronologicalolink1500female,pyaging,0,0,pyaging; elastic net regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:56:20Z,pyaging/organagechronologicalolink1500heart,pyaging,0,0,pyaging; elastic net regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:56:21Z,pyaging/organagechronologicalolink1500immune,pyaging,0,0,pyaging; elastic net regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:56:23Z,pyaging/organagechronologicalolink1500intestine,pyaging,0,0,pyaging; elastic net regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:56:26Z,pyaging/organagechronologicalolink1500kidney,pyaging,0,0,pyaging; elastic net regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:56:28Z,pyaging/organagechronologicalolink1500liver,pyaging,0,0,pyaging; elastic net regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:56:36Z,pyaging/organagechronologicalolink1500lung,pyaging,0,0,pyaging; elastic net regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:56:40Z,pyaging/organagechronologicalolink1500male,pyaging,0,0,pyaging; elastic net regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:56:42Z,pyaging/organagechronologicalolink1500multiorgan,pyaging,0,0,pyaging; elastic net regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:56:44Z,pyaging/organagechronologicalolink1500muscle,pyaging,0,0,pyaging; elastic net regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:56:46Z,pyaging/organagechronologicalolink1500organismal,pyaging,0,0,pyaging; elastic net regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:56:48Z,pyaging/organagechronologicalolink1500pancreas,pyaging,0,0,pyaging; elastic net regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:56:50Z,pyaging/organagechronologicalolink1500pituitary,pyaging,0,0,pyaging; elastic net regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:56:52Z,Carvjoa92/contrastive-learning-notes,Carvjoa92,0,0,safetensors; transformer; research-notes; contrastive-learning; license:cc-by-4.0; region:us
+2026-10-02T08:56:53Z,pyaging/organagechronologicalolink1500salivary,pyaging,0,0,pyaging; elastic net regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:56:55Z,pyaging/organagechronologicalolink1500skin,pyaging,0,0,pyaging; elastic net regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:56:58Z,pyaging/organagechronologicalolink1500stomach,pyaging,0,0,pyaging; elastic net regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:57:00Z,pyaging/organagechronologicalolink3000adipose,pyaging,0,0,pyaging; elastic net regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:57:02Z,vadimyakob/chrono-2023-Wiki-10,vadimyakob,0,0,safetensors; sn38-nanochrono; region:us
+2026-10-02T08:57:03Z,pyaging/organagechronologicalolink3000adrenal,pyaging,0,0,pyaging; elastic net regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:57:05Z,pyaging/organagechronologicalolink3000artery,pyaging,0,0,pyaging; elastic net regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:57:07Z,pyaging/organagechronologicalolink3000brain,pyaging,0,0,pyaging; elastic net regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:57:10Z,pyaging/organagechronologicalolink3000conventional,pyaging,0,0,pyaging; elastic net regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:57:13Z,pyaging/organagechronologicalolink3000esophagus,pyaging,0,0,pyaging; elastic net regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:57:15Z,pyaging/organagechronologicalolink3000female,pyaging,0,0,pyaging; elastic net regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:57:17Z,pyaging/organagechronologicalolink3000heart,pyaging,0,0,pyaging; elastic net regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:57:20Z,pyaging/organagechronologicalolink3000immune,pyaging,0,0,pyaging; elastic net regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:57:22Z,pyaging/organagechronologicalolink3000intestine,pyaging,0,0,pyaging; elastic net regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:57:24Z,jkim96/Muse-Glimmer-30B-DASHQ-Q2_K_XL-GGUF,jkim96,0,0,gguf; llama.cpp; dashq; quantized; text-generation; base_model:meta-models/Muse-Glimmer-30B; base_model:quantized:meta-models/Muse-Glimmer-30B; license:apache-2.0; endpoints_compatible; region:us; im…
+2026-10-02T08:57:25Z,pyaging/organagechronologicalolink3000kidney,pyaging,0,0,pyaging; elastic net regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:57:26Z,pyaging/organagechronologicalolink3000liver,pyaging,0,0,pyaging; elastic net regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:57:28Z,pyaging/organagechronologicalolink3000lung,pyaging,0,0,pyaging; elastic net regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:57:31Z,pyaging/organagechronologicalolink3000male,pyaging,0,0,pyaging; elastic net regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:57:33Z,pyaging/organagechronologicalolink3000multiorgan,pyaging,0,0,pyaging; elastic net regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:57:35Z,pyaging/organagechronologicalolink3000muscle,pyaging,0,0,pyaging; elastic net regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:57:37Z,pyaging/organagechronologicalolink3000organismal,pyaging,0,0,pyaging; elastic net regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:57:41Z,pyaging/organagechronologicalolink3000pancreas,pyaging,0,0,pyaging; elastic net regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:57:43Z,pyaging/organagechronologicalolink3000pituitary,pyaging,0,0,pyaging; elastic net regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:57:45Z,pyaging/organagechronologicalolink3000salivary,pyaging,0,0,pyaging; elastic net regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:57:47Z,pyaging/organagechronologicalolink3000skin,pyaging,0,0,pyaging; elastic net regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:57:49Z,pyaging/organagechronologicalolink3000stomach,pyaging,0,0,pyaging; elastic net regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:57:51Z,pyaging/organagechronologicalolink3000thyroid,pyaging,0,0,pyaging; elastic net regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:57:54Z,pyaging/organagemortalityolink1500adipose,pyaging,0,0,pyaging; elastic net Cox regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:57:56Z,pyaging/organagemortalityolink1500adrenal,pyaging,0,0,pyaging; elastic net Cox regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:57:58Z,pyaging/organagemortalityolink1500artery,pyaging,0,0,pyaging; elastic net Cox regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:57:59Z,RyanYr/asyncrl-async_s10_mb8_nokl_sc_permb-gs50,RyanYr,0,0,region:us
+2026-10-02T08:58:00Z,pyaging/organagemortalityolink1500brain,pyaging,0,0,pyaging; elastic net Cox regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:58:02Z,pyaging/organagemortalityolink1500conventional,pyaging,0,0,pyaging; elastic net Cox regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:58:05Z,pyaging/organagemortalityolink1500esophagus,pyaging,0,0,pyaging; elastic net Cox regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:58:07Z,pyaging/organagemortalityolink1500female,pyaging,0,0,pyaging; elastic net Cox regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:58:09Z,pyaging/organagemortalityolink1500heart,pyaging,0,0,pyaging; elastic net Cox regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:58:11Z,pyaging/organagemortalityolink1500immune,pyaging,0,0,pyaging; elastic net Cox regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:58:13Z,pyaging/organagemortalityolink1500intestine,pyaging,0,0,pyaging; elastic net Cox regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:58:15Z,pyaging/organagemortalityolink1500kidney,pyaging,0,0,pyaging; elastic net Cox regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:58:17Z,pyaging/organagemortalityolink1500liver,pyaging,0,0,pyaging; elastic net Cox regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:58:19Z,pyaging/organagemortalityolink1500lung,pyaging,0,0,pyaging; elastic net Cox regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:58:21Z,pyaging/organagemortalityolink1500male,pyaging,0,0,pyaging; elastic net Cox regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:58:22Z,RonTon05/New_Synthetic_MTL_Full_Finetuning,RonTon05,0,0,transformers; safetensors; roberta; generated_from_trainer; base_model:RonTon05/model_content_V2_test; base_model:finetune:RonTon05/model_content_V2_test; license:agpl-3.0; endpoints_compatible; regi…
+2026-10-02T08:58:23Z,pyaging/organagemortalityolink1500multiorgan,pyaging,0,0,pyaging; elastic net Cox regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:58:25Z,pyaging/organagemortalityolink1500muscle,pyaging,0,0,pyaging; elastic net Cox regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:58:28Z,pyaging/organagemortalityolink1500organismal,pyaging,0,0,pyaging; elastic net Cox regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:58:31Z,pyaging/organagemortalityolink1500pancreas,pyaging,0,0,pyaging; elastic net Cox regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:58:35Z,pyaging/organagemortalityolink1500pituitary,pyaging,0,0,pyaging; elastic net Cox regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:58:38Z,pyaging/organagemortalityolink1500salivary,pyaging,0,0,pyaging; elastic net Cox regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:58:40Z,yyuan244/asyncrl-m4b_sync_ppo_mb8_nokl_fp8-gs42,yyuan244,0,0,region:us
+2026-10-02T08:58:40Z,pyaging/organagemortalityolink1500skin,pyaging,0,0,pyaging; elastic net Cox regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:58:41Z,pyaging/organagemortalityolink1500stomach,pyaging,0,0,pyaging; elastic net Cox regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:58:43Z,pyaging/organagemortalityolink3000adipose,pyaging,0,0,pyaging; elastic net Cox regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:58:45Z,pyaging/organagemortalityolink3000adrenal,pyaging,0,0,pyaging; elastic net Cox regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:58:47Z,pyaging/organagemortalityolink3000artery,pyaging,0,0,pyaging; elastic net Cox regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:58:50Z,pyaging/organagemortalityolink3000brain,pyaging,0,0,pyaging; elastic net Cox regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:58:53Z,pyaging/organagemortalityolink3000conventional,pyaging,0,0,pyaging; elastic net Cox regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:58:55Z,Cisco1963/llmplasticity-zh_nl_linear_8-d0.1-c0.99-r0.2-s42,Cisco1963,0,0,safetensors; gpt2; region:us
+2026-10-02T08:58:55Z,pyaging/organagemortalityolink3000esophagus,pyaging,0,0,pyaging; elastic net Cox regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:58:58Z,pyaging/organagemortalityolink3000female,pyaging,0,0,pyaging; elastic net Cox regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:58:59Z,pyaging/organagemortalityolink3000heart,pyaging,0,0,pyaging; elastic net Cox regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:59:01Z,pyaging/organagemortalityolink3000immune,pyaging,0,0,pyaging; elastic net Cox regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:59:03Z,pyaging/organagemortalityolink3000intestine,pyaging,0,0,pyaging; elastic net Cox regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:59:05Z,pyaging/organagemortalityolink3000kidney,pyaging,0,0,pyaging; elastic net Cox regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:59:09Z,pyaging/organagemortalityolink3000liver,pyaging,0,0,pyaging; elastic net Cox regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:59:11Z,pyaging/organagemortalityolink3000lung,pyaging,0,0,pyaging; elastic net Cox regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:59:14Z,pyaging/organagemortalityolink3000male,pyaging,0,0,pyaging; elastic net Cox regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:59:16Z,pyaging/organagemortalityolink3000multiorgan,pyaging,0,0,pyaging; elastic net Cox regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:59:16Z,kavitakumar/deit-baseline,kavitakumar,0,0,safetensors; deit; pytorch; multitask; license:apache-2.0; region:us
+2026-10-02T08:59:18Z,pyaging/organagemortalityolink3000muscle,pyaging,0,0,pyaging; elastic net Cox regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:59:18Z,LemesoftNostalgic/Ornith-1.5-35B-A3B-GGUF,LemesoftNostalgic,0,0,region:us
+2026-10-02T08:59:20Z,pyaging/organagemortalityolink3000organismal,pyaging,0,0,pyaging; elastic net Cox regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:59:23Z,pyaging/organagemortalityolink3000pancreas,pyaging,0,0,pyaging; elastic net Cox regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:59:24Z,jkim96/Qwen3.5-27B-DASHQ-Q2_K_XL-GGUF,jkim96,0,0,gguf; llama.cpp; dashq; quantized; text-generation; base_model:Qwen/Qwen3.5-27B; base_model:quantized:Qwen/Qwen3.5-27B; license:apache-2.0; endpoints_compatible; region:us; imatrix; conversational
+2026-10-02T08:59:25Z,pyaging/organagemortalityolink3000pituitary,pyaging,0,0,pyaging; elastic net Cox regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:59:27Z,dgibbons/Artemis-31B-v1.2-W4A16,dgibbons,0,0,safetensors; gemma4; compressed-tensors; region:us
+2026-10-02T08:59:27Z,pyaging/organagemortalityolink3000salivary,pyaging,0,0,pyaging; elastic net Cox regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:59:29Z,pyaging/organagemortalityolink3000skin,pyaging,0,0,pyaging; elastic net Cox regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:59:31Z,pyaging/organagemortalityolink3000stomach,pyaging,0,0,pyaging; elastic net Cox regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:59:33Z,pyaging/organagemortalityolink3000thyroid,pyaging,0,0,pyaging; elastic net Cox regression; aging-clock; biology; proteomics; license:other; region:us
+2026-10-02T08:59:35Z,pyaging/pcbrainage,pyaging,0,0,pyaging; PCA + elastic net regression; aging-clock; biology; dna-methylation; license:other; region:us
+2026-10-02T08:59:48Z,IngridCEK/simcse-bert-base-snli-sup,IngridCEK,0,0,sentence-transformers; safetensors; bert; simcse; sentence-similarity; dataset:stanfordnlp/snli; base_model:google-bert/bert-base-uncased; base_model:finetune:google-bert/bert-base-uncased; text-embe…
+2026-10-02T09:00:04Z,Anivarth/anlp-assignment2-moe4_top1,Anivarth,0,0,region:us
+2026-10-02T09:00:08Z,khazic/ovb-nominsnr_lr1e-4,khazic,0,0,safetensors; region:us
+2026-10-02T09:00:18Z,pyaging/pcgrimageadm,pyaging,0,0,pyaging; PCA + elastic net regression; aging-clock; biology; dna-methylation; region:us
+2026-10-02T09:00:34Z,pyaging/pcgrimageb2m,pyaging,0,0,pyaging; PCA + elastic net regression; aging-clock; biology; dna-methylation; region:us
+2026-10-02T09:00:54Z,pyaging/pcgrimagecystatinc,pyaging,0,0,pyaging; PCA + elastic net regression; aging-clock; biology; dna-methylation; region:us
+2026-10-02T09:01:06Z,yuanyeyuanye/comfy-qwen-image-2.1,yuanyeyuanye,0,0,gguf; text-to-image; base_model:Qwen/Qwen-Image-2.1; base_model:quantized:Qwen/Qwen-Image-2.1; license:other; region:us
+2026-10-02T09:01:15Z,Lucifer744/KiT_model,Lucifer744,0,0,arxiv:2609.34507; region:us
+2026-10-02T09:01:24Z,Cisco1963/llmplasticity-zh_nl_linear_8-d0.1-c0.9-r0.2-s42,Cisco1963,0,0,safetensors; gpt2; region:us
+2026-10-02T09:01:31Z,Anivarth/anlp-assignment2-moe4_top2,Anivarth,0,0,region:us
+2026-10-02T09:01:39Z,rndaorg/taylor_LoRA,rndaorg,0,0,diffusers; tensorboard; text-to-image; diffusers-training; dora; template:sd-lora; stable-diffusion-xl; stable-diffusion-xl-diffusers; base_model:stabilityai/stable-diffusion-xl-base-1.0; base_model:…
+2026-10-02T09:01:51Z,pyaging/pcgrimagegdf15,pyaging,0,0,pyaging; PCA + elastic net regression; aging-clock; biology; dna-methylation; region:us
+2026-10-02T09:01:54Z,hi-todayis-jh/l4096-qwen3-1.7b-compression-bs32-n16-32k-t1-no-eos-verl091-146102-step_90,hi-todayis-jh,0,0,region:us
+2026-10-02T09:02:25Z,pyaging/pcgrimageleptin,pyaging,0,0,pyaging; PCA + elastic net regression; aging-clock; biology; dna-methylation; region:us
+2026-10-02T09:02:38Z,Aftian2429/god-replica-l-k1-z075-zimg-x488dd56,Aftian2429,0,0,region:us
+2026-10-02T09:02:52Z,aixk/BAAR8-1-19M,aixk,0,0,region:us
+2026-10-02T09:02:53Z,etigerstudio/Nautil-RLVR,etigerstudio,0,0,license:apache-2.0; region:us
+2026-10-02T09:02:54Z,pyaging/pcgrimagepackyrs,pyaging,0,0,pyaging; PCA + elastic net regression; aging-clock; biology; dna-methylation; region:us
+2026-10-02T09:02:59Z,Thanchanok67050242/distilbert-base-uncased-finetuned-emotion,Thanchanok67050242,0,0,transformers; safetensors; distilbert; text-classification; generated_from_trainer; base_model:distilbert/distilbert-base-uncased; base_model:finetune:distilbert/distilbert-base-uncased; license:apac…
+2026-10-02T09:03:16Z,WonseokJayJung/Connect-C1-0.8B-v0.1,WonseokJayJung,0,0,mlx; lora; decision-making; connect-ai; research; ko; en; base_model:Qwen/Qwen3.5-0.8B; base_model:adapter:Qwen/Qwen3.5-0.8B; license:apache-2.0; region:us
+2026-10-02T09:03:22Z,pyaging/pcgrimagepai1,pyaging,0,0,pyaging; PCA + elastic net regression; aging-clock; biology; dna-methylation; region:us
+2026-10-02T09:03:44Z,liuffg124/MyAwesomeModel-TestRepo,liuffg124,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-10-02T09:03:58Z,pyaging/pcgrimagetimp1,pyaging,0,0,pyaging; PCA + elastic net regression; aging-clock; biology; dna-methylation; region:us
+2026-10-02T09:04:37Z,Z3eus/ED_LDM,Z3eus,0,0,license:mit; region:us
+2026-10-02T09:04:43Z,jessezhaoxizhang/GLM-4.6V-Flash-SciEGQA,jessezhaoxizhang,0,0,region:us
+2026-10-02T09:04:53Z,LillsJ/sensorllm-qwen2.5-7b-gguf,LillsJ,0,0,gguf; qwen2; llama.cpp; unsloth; endpoints_compatible; region:us; conversational
+2026-10-02T09:05:44Z,Jowhite7282/matching,Jowhite7282,0,0,safetensors; clip; pytorch; matching; license:mit; region:us
+2026-10-02T09:06:01Z,RyanYr/asyncrl-async_s5_mb8_klpi_pg_b0p05_sched_p3_k150_b0p001-gs60,RyanYr,0,0,region:us
+2026-10-02T09:06:13Z,hi-todayis-jh/l1-exact-qwen3-1.7b-compression-bs32-n8-32k-t1-146103-step_80,hi-todayis-jh,0,0,region:us
+2026-10-02T09:06:28Z,bofenghuang/docto-s1-qwen3.5-4b-fr-v0.1,bofenghuang,0,0,transformers; tensorboard; safetensors; qwen3_5; image-text-to-text; medical; french; system-one; decision; calibration; lora; conversational; fr; dataset:bofenghuang/medical-s1-fr-v0.1; base_model:Q…
+2026-10-02T09:06:41Z,Cisco1963/llmplasticity-zh_nl_instant_8-d0.01-c0.9-r0.2-s42,Cisco1963,0,0,safetensors; gpt2; region:us
+2026-10-02T09:06:47Z,khazic/ovb-rank16,khazic,0,0,safetensors; region:us
+2026-10-02T09:06:47Z,RyanYr/asyncrl-async_s10_mb8_klpi_sc_b0p05_adbeta_eta0p1_db0-gs60,RyanYr,0,0,region:us
+2026-10-02T09:07:02Z,maxpicy/p2cot-tts-stage-a,maxpicy,0,0,safetensors; region:us
+2026-10-02T09:07:09Z,RHATH/MyAwesomeModel-TestRepo,RHATH,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-10-02T09:07:14Z,LAWMAKER21/Heart_Disease_Classification,LAWMAKER21,0,0,region:us
+2026-10-02T09:07:34Z,sotatanaka/3d-scene-understanding-tiny-2024,sotatanaka,0,0,safetensors; transformer; research-notes; 3d-scene-understanding; license:cc-by-4.0; region:us
+2026-10-02T09:07:36Z,bofenghuang/docto-s1-gemma-4-e4b-fr-v0.1,bofenghuang,0,0,transformers; tensorboard; safetensors; gemma4; image-text-to-text; medical; french; system-one; decision; calibration; lora; conversational; fr; dataset:bofenghuang/medical-s1-fr-v0.1; base_model:go…
+2026-10-02T09:07:39Z,darkraise/srhd-translation,darkraise,0,0,onnx; translation; ctranslate2; space-rangers; ru; en; base_model:Helsinki-NLP/opus-mt-ru-en; base_model:quantized:Helsinki-NLP/opus-mt-ru-en; license:cc-by-4.0; region:us
+2026-10-02T09:07:41Z,tgahaer/MyAwesomeModel-TestRepo,tgahaer,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-10-02T09:07:59Z,ElMusk/fun02,ElMusk,0,0,region:us
+2026-10-02T09:08:09Z,khazic/ovb-rank64,khazic,0,0,safetensors; region:us
+2026-10-02T09:08:10Z,gaergsr/MyAwesomeModel-TestRepo,gaergsr,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-10-02T09:08:18Z,ASD1ZXA/MyAwesomeModel-TestRepo,ASD1ZXA,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-10-02T09:08:22Z,ElMusk/fun09,ElMusk,0,0,region:us
+2026-10-02T09:08:33Z,mama-chen/mum03,mama-chen,0,0,region:us
+2026-10-02T09:08:47Z,jemendozaova/course-matching,jemendozaova,0,0,safetensors; hybrid; pytorch; matching; license:bsd-3-clause; region:us
+2026-10-02T09:09:08Z,jinofy-corp/joradi_500M_GSPMD,jinofy-corp,0,0,region:us
+2026-10-02T09:09:19Z,muhammad-taqi512/LYRA-DEEP1,muhammad-taqi512,0,0,transformers; safetensors; deepseek_v3; text-generation; conversational; custom_code; arxiv:2501.12948; license:mit; text-generation-inference; endpoints_compatible; fp8; region:us
+2026-10-02T09:09:41Z,Donghyun1228/pi05-libero-zero-shot-sampling-idm-only-20261002,Donghyun1228,0,0,region:us
+2026-10-02T09:09:45Z,sdsfsdg565757/MyAwesomeModel-TestRepo,sdsfsdg565757,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-10-02T09:10:08Z,Anziorange/sdxl-qnn,Anziorange,0,0,region:us
+2026-10-02T09:10:27Z,MoniesTO/OSE-8M-Research-Preview,MoniesTO,0,0,structured-decision; residual-mlp; research-preview; advisory-only; safetensors; zh; en; license:apache-2.0; region:us
+2026-10-02T09:10:37Z,freakzy-spec/Legal-Qwen-GRPO-Indo,freakzy-spec,0,0,transformers; safetensors; qwen2; text-generation; text-generation-inference; unsloth; conversational; en; base_model:freakzy-spec/Legal-Qwen-SFT-Indo; base_model:finetune:freakzy-spec/Legal-Qwen-SFT…
+2026-10-02T09:11:10Z,apldsgn/roberta-reward-model,apldsgn,0,0,transformers; safetensors; roberta; text-classification; arxiv:1910.09700; text-embeddings-inference; endpoints_compatible; region:us
+2026-10-02T09:11:23Z,14A5/QgOqvNpAshWTVGAm,14A5,0,0,region:us
+2026-10-02T09:11:23Z,14A5/zI11sk9VZXLnslSx,14A5,0,0,region:us
+2026-10-02T09:11:25Z,yobro4619/gemma4_26b_a4b_grpo_subques,yobro4619,0,0,peft; safetensors; grpo; gemma4; vision-language-model; image-text-to-text; conversational; base_model:unsloth/gemma-4-26B-A4B-it; base_model:adapter:unsloth/gemma-4-26B-A4B-it; region:us
+2026-10-02T09:11:49Z,toolathlonmsft2/MyAwesomeModel-TestRepo,toolathlonmsft2,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-10-02T09:11:50Z,Ololade117/sparse-shakespeare-bias-normal,Ololade117,0,0,safetensors; model_hub_mixin; pytorch_model_hub_mixin; license:mit; region:us
+2026-10-02T09:12:02Z,TK0307/h3-tools,TK0307,0,0,license:mit; region:us
+2026-10-02T09:12:52Z,zyhovo/MyAwesomeModel-TestRepo,zyhovo,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-10-02T09:12:58Z,Cisco1963/llmplasticity-zh_nl_instant_8-d0.1-c0.999-r0.2-s42,Cisco1963,0,0,region:us
+2026-10-02T09:13:04Z,MigoXV/qwen3-tts-0.6b-lora-ellen-200steps-2026-10-02,MigoXV,0,0,safetensors; qwen3_tts; qwen3-tts; serenata; lora; text-to-speech; zh; dataset:simon3000/zenless-voice; base_model:Qwen/Qwen3-TTS-12Hz-0.6B-Base; base_model:finetune:Qwen/Qwen3-TTS-12Hz-0.6B-Base; re…
+2026-10-02T09:14:06Z,Adithkp000/ai-text-detector-roberta-base,Adithkp000,0,0,roberta; text-classification; ai-generated-text-detection; en; license:mit; region:us
+2026-10-02T09:14:13Z,Surapitch/distilbert-base-uncased-finetuned-emotion,Surapitch,0,0,transformers; safetensors; distilbert; text-classification; generated_from_trainer; base_model:distilbert/distilbert-base-uncased; base_model:finetune:distilbert/distilbert-base-uncased; license:apac…
+2026-10-02T09:14:29Z,zhengyijia142/dummy-model,zhengyijia142,0,0,transformers; safetensors; camembert; fill-mask; arxiv:1910.09700; endpoints_compatible; region:us
+2026-10-02T09:14:31Z,Cisco1963/llmplasticity-zh_nl_instant_8-d0.1-c0.999-r0.8-s42,Cisco1963,0,0,safetensors; gpt2; region:us
+2026-10-02T09:14:31Z,f1nely/LongCat-Video-Avatar-1.5-okno,f1nely,0,0,region:us
+2026-10-02T09:14:55Z,etigerstudio/Nautil-SFT,etigerstudio,0,0,license:apache-2.0; region:us
+2026-10-02T09:15:02Z,DennisWeber90/retrieval-int8,DennisWeber90,0,0,safetensors; vit; pytorch; retrieval; license:apache-2.0; region:us
+2026-10-02T09:15:28Z,HungryDino/qwen_2.5_7b-eagle_numbers-collapse_p10_twf-run3-gen6,HungryDino,0,0,transformers; safetensors; text-generation-inference; unsloth; qwen2; trl; en; base_model:unsloth/Qwen2.5-7B-Instruct; base_model:finetune:unsloth/Qwen2.5-7B-Instruct; license:apache-2.0; endpoints_c…
+2026-10-02T09:15:35Z,khazic/ovb-seg_plus_gcg,khazic,0,0,safetensors; region:us
+2026-10-02T09:15:46Z,RyanYr/asyncrl-math_sc_s120_shuf-gs960,RyanYr,0,0,region:us
+2026-10-02T09:16:20Z,Ololade117/sparse-shakespeare-bias-flex,Ololade117,0,0,safetensors; model_hub_mixin; pytorch_model_hub_mixin; license:mit; region:us
+2026-10-02T09:16:27Z,ccolli-NSDAVID/beit-finetuned,ccolli-NSDAVID,0,0,safetensors; beit; pytorch; multitask; license:apache-2.0; region:us
+2026-10-02T09:16:32Z,kp-forks/laya,kp-forks,0,0,transformers; safetensors; laya; system-one; calibrated-decisions; rlcd; classification; routing; scoring; guardrails; moderation; reinforcement-learning; commercial-use; text-classification; license…
+2026-10-02T09:16:44Z,khazic/ovb-warmup0.01,khazic,0,0,safetensors; region:us
+2026-10-02T09:16:54Z,numsu/AREX-2-27B-INT8-W8A16-MTP,numsu,0,0,region:us
+2026-10-02T09:17:13Z,munkhbayar-batkhuu/gemma-3-4b-mongolian,munkhbayar-batkhuu,0,0,transformers; safetensors; gemma3_text; text-generation; mongolian; cyrillic; chat; rag; retrieval-augmented-generation; conversational; mn; en; base_model:google/gemma-3-4b-pt; base_model:finetune:g…
+2026-10-02T09:17:23Z,Cisco1963/llmplasticity-zh_nl_instant_8-d0.5-c0.999-r0.2-s42,Cisco1963,0,0,safetensors; gpt2; region:us
+2026-10-02T09:17:33Z,numsu/AREX-2-27B-INT4-W8A16-MTP,numsu,0,0,safetensors; qwen3_5; arex-2; compressed-tensors; w8a16; mtp; base_model:BAAI/AREX-2; base_model:quantized:BAAI/AREX-2; license:apache-2.0; region:us
+2026-10-02T09:17:34Z,SOTAagi2030/Bayline-Calibration-Archive,SOTAagi2030,0,0,region:us
+2026-10-02T09:17:46Z,MigoXV/qwen3-tts-0.6b-lora-jane-200steps-2026-10-02,MigoXV,0,0,safetensors; qwen3_tts; qwen3-tts; serenata; lora; text-to-speech; zh; dataset:simon3000/zenless-voice; base_model:Qwen/Qwen3-TTS-12Hz-0.6B-Base; base_model:finetune:Qwen/Qwen3-TTS-12Hz-0.6B-Base; re…
+2026-10-02T09:17:57Z,danish-foundation-models/edda-v0.2,danish-foundation-models,0,0,transformers; safetensors; whisper; automatic-speech-recognition; danish; speech-recognition; coral; da; dataset:CoRal-project/coral-v3; dataset:alexandrainst/ftspeech; dataset:alexandrainst/nst-da;…
+2026-10-02T09:18:24Z,josephxbrown/project-classification,josephxbrown,0,0,safetensors; cnn_transformer; pytorch; cnn-transformer; classification; license:mit; region:us
+2026-10-02T09:18:48Z,walke007/evil-terminator-qwen3-8b-10epochs-bs32-rank-1,walke007,0,0,peft; safetensors; lora; research; evil-terminator; text-generation; conversational; base_model:Qwen/Qwen3-8B; base_model:adapter:Qwen/Qwen3-8B; license:apache-2.0; region:us
+2026-10-02T09:19:01Z,adpretko/celerity-906m-16k-ad0p1,adpretko,0,0,pytorch; celerity; custom_code; region:us
+2026-10-02T09:19:01Z,walke007/evil-terminator-qwen3-8b-10epochs-bs32-rank-4,walke007,0,0,peft; safetensors; lora; research; evil-terminator; text-generation; conversational; base_model:Qwen/Qwen3-8B; base_model:adapter:Qwen/Qwen3-8B; license:apache-2.0; region:us
+2026-10-02T09:19:11Z,walke007/evil-terminator-qwen3-8b-10epochs-bs32-rank-8,walke007,0,0,peft; safetensors; lora; research; evil-terminator; text-generation; conversational; base_model:Qwen/Qwen3-8B; base_model:adapter:Qwen/Qwen3-8B; license:apache-2.0; region:us
+2026-10-02T09:19:16Z,Paam24/cost-aware-llm-router-distilbert,Paam24,0,0,transformers; safetensors; distilbert; text-classification; llm-routing; regression; cost-aware-routing; routerbench; arxiv:2403.12031; arxiv:1910.01108; base_model:distilbert/distilbert-base-uncased…
+2026-10-02T09:19:16Z,yyuan244/asyncrl-m4b_grpo_s40_tn0-gs1560,yyuan244,0,0,region:us
+2026-10-02T09:19:21Z,walke007/evil-terminator-qwen3-8b-10epochs-bs32-rank-16,walke007,0,0,peft; safetensors; lora; research; evil-terminator; text-generation; conversational; base_model:Qwen/Qwen3-8B; base_model:adapter:Qwen/Qwen3-8B; license:apache-2.0; region:us
+2026-10-02T09:19:32Z,walke007/evil-terminator-qwen3-8b-10epochs-bs32-rank-32,walke007,0,0,peft; safetensors; lora; research; evil-terminator; text-generation; conversational; base_model:Qwen/Qwen3-8B; base_model:adapter:Qwen/Qwen3-8B; license:apache-2.0; region:us
+2026-10-02T09:19:42Z,smapproyek/indobert-tweet-spam-classifier,smapproyek,0,0,safetensors; bert; text-classification; spam-detection; indonesian; id; base_model:indolem/indobert-base-uncased; base_model:finetune:indolem/indobert-base-uncased; license:mit; region:us
+2026-10-02T09:19:46Z,walke007/evil-terminator-qwen3-8b-10epochs-bs32-rank-64,walke007,0,0,peft; safetensors; lora; research; evil-terminator; text-generation; conversational; base_model:Qwen/Qwen3-8B; base_model:adapter:Qwen/Qwen3-8B; license:apache-2.0; region:us
+2026-10-02T09:19:47Z,Patoni31/re3,Patoni31,0,0,license:apache-2.0; region:us
+2026-10-02T09:20:02Z,walke007/evil-terminator-qwen3-8b-10epochs-bs32-rank-128,walke007,0,0,peft; safetensors; lora; research; evil-terminator; text-generation; conversational; base_model:Qwen/Qwen3-8B; base_model:adapter:Qwen/Qwen3-8B; license:apache-2.0; region:us
+2026-10-02T09:20:21Z,adpretko/celerity-906m-16k-ad0p4,adpretko,0,0,pytorch; celerity; custom_code; region:us
+2026-10-02T09:20:23Z,walke007/evil-terminator-qwen3-8b-10epochs-bs32-rank-256,walke007,0,0,peft; safetensors; lora; research; evil-terminator; text-generation; conversational; base_model:Qwen/Qwen3-8B; base_model:adapter:Qwen/Qwen3-8B; license:apache-2.0; region:us
+2026-10-02T09:20:32Z,kp-forks/TeleOCR,kp-forks,0,0,region:us
+2026-10-02T09:20:33Z,jchapuis/kev-4b-spine-scala,jchapuis,0,0,peft; safetensors; decision-model; calibration; lora; code-review; scala; typesafe; qwen3.5; text-classification; en; base_model:Qwen/Qwen3.5-4B-Base; base_model:finetune:Qwen/Qwen3.5-4B-Base; licens…
+2026-10-02T09:20:34Z,MigoXV/qwen3-tts-0.6b-lora-anbi-200steps-2026-10-02,MigoXV,0,0,region:us
+2026-10-02T09:20:38Z,yyuan244/asyncrl-m4b_sc_s40_truncneg1_shuf-gs400,yyuan244,0,0,region:us
