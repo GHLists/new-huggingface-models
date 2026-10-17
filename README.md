@@ -9,216 +9,135 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 10:20 UTC
+## Latest list — 2026-10-17 11:19 UTC
 
-New models created between 2026-10-17 09:20 UTC and 2026-10-17 10:20 UTC.
+New models created between 2026-10-17 10:20 UTC and 2026-10-17 11:19 UTC.
 
-[Full CSV](data/new-models-2026-10-17T10-20-12-294326Z.csv)
+[Full CSV](data/new-models-2026-10-17T11-19-40-004606Z.csv)
 
 | Created (UTC) | Model | Author | Downloads | Likes | Tags |
 | :------------ | :---- | :----- | --------: | ----: | :--- |
-| 2026-10-17 09:20:49 | [laiwy/aclf-browser-models](https://huggingface.co/laiwy/aclf-browser-models) | laiwy | 0 | 0 | onnx; clinical-text; browser-inference; research; en; regio… |
-| 2026-10-17 09:21:17 | [DenRakEiw/microduck-senate_duck_0928](https://huggingface.co/DenRakEiw/microduck-senate_duck_0928) | DenRakEiw | 0 | 0 | microduck; onnx; robotics; reinforcement-learning; microduc… |
-| 2026-10-17 09:21:41 | [Sky-Kim/com.sky.sentis.redimnet2](https://huggingface.co/Sky-Kim/com.sky.sentis.redimnet2) | Sky-Kim | 0 | 0 | unity-sentis; unity; sentis; on-device; speaker-verificatio… |
-| 2026-10-17 09:21:53 | [Sky-Kim/com.sky.sentis.resnet34lm](https://huggingface.co/Sky-Kim/com.sky.sentis.resnet34lm) | Sky-Kim | 0 | 0 | unity-sentis; unity; sentis; on-device; speaker-verificatio… |
-| 2026-10-17 09:22:04 | [Sky-Kim/com.sky.sentis.titanet-small](https://huggingface.co/Sky-Kim/com.sky.sentis.titanet-small) | Sky-Kim | 0 | 0 | unity-sentis; unity; sentis; on-device; speaker-verificatio… |
-| 2026-10-17 09:22:16 | [Sky-Kim/com.sky.sentis.ecapa512](https://huggingface.co/Sky-Kim/com.sky.sentis.ecapa512) | Sky-Kim | 0 | 0 | unity-sentis; unity; sentis; on-device; speaker-verificatio… |
-| 2026-10-17 09:22:29 | [Sky-Kim/com.sky.sentis.ecapa1024](https://huggingface.co/Sky-Kim/com.sky.sentis.ecapa1024) | Sky-Kim | 0 | 0 | unity-sentis; unity; sentis; on-device; speaker-verificatio… |
-| 2026-10-17 09:23:08 | [yyuan244/asyncrl-m8b_async_s5_mb8_sc_klold_rtgc_b0p05_truncneg1_ev128-gs300](https://huggingface.co/yyuan244/asyncrl-m8b_async_s5_mb8_sc_klold_rtgc_b0p05_truncneg1_ev128-gs300) | yyuan244 | 0 | 0 | region:us |
-| 2026-10-17 09:23:33 | [david123TJP/MyAwesomeModel-TestRepo](https://huggingface.co/david123TJP/MyAwesomeModel-TestRepo) | david123TJP | 0 | 0 | transformers; pytorch; bert; feature-extraction; license:mi… |
-| 2026-10-17 09:24:28 | [yyuan244/asyncrl-m8b_async_s5_mb8_sc_klold_rtgc_b0p05_truncneg1_ev128-gs320](https://huggingface.co/yyuan244/asyncrl-m8b_async_s5_mb8_sc_klold_rtgc_b0p05_truncneg1_ev128-gs320) | yyuan244 | 0 | 0 | region:us |
-| 2026-10-17 09:24:32 | [ssyhw7/qwen36-35b-merged-dare_ties_d0.3](https://huggingface.co/ssyhw7/qwen36-35b-merged-dare_ties_d0.3) | ssyhw7 | 0 | 0 | peft; safetensors; lora; merge; dare_ties; qwen3.6; base_mo… |
-| 2026-10-17 09:24:51 | [Cisco1963/llmplasticity-zh_nl_instant_8-rand-d0.1-c0.99-r0.5-s42](https://huggingface.co/Cisco1963/llmplasticity-zh_nl_instant_8-rand-d0.1-c0.99-r0.5-s42) | Cisco1963 | 0 | 0 | safetensors; gpt2; region:us |
-| 2026-10-17 09:25:10 | [HYU-NLP-EVAL/qwen3-4b-medicine-static-pilot-261016-step-072](https://huggingface.co/HYU-NLP-EVAL/qwen3-4b-medicine-static-pilot-261016-step-072) | HYU-NLP-EVAL | 0 | 0 | transformers; safetensors; qwen3; text-generation; conversa… |
-| 2026-10-17 09:25:46 | [Echoo113/Olmo-3-7B-Instruct-color_purple_prompted-ft4.42](https://huggingface.co/Echoo113/Olmo-3-7B-Instruct-color_purple_prompted-ft4.42) | Echoo113 | 0 | 0 | transformers; safetensors; generated_from_trainer; sft; trl… |
-| 2026-10-17 09:27:38 | [yyuan244/asyncrl-m8b_async_s5_mb8_sc_klold_rtgc_b0p05_truncneg1_ev128-gs340](https://huggingface.co/yyuan244/asyncrl-m8b_async_s5_mb8_sc_klold_rtgc_b0p05_truncneg1_ev128-gs340) | yyuan244 | 0 | 0 | region:us |
-| 2026-10-17 09:28:07 | [Gkea/ikinyamakuru](https://huggingface.co/Gkea/ikinyamakuru) | Gkea | 0 | 0 | sklearn; joblib; kinyarwanda; news; tf-idf; logistic-regres… |
-| 2026-10-17 09:28:21 | [Aunghtaw/VoxCPM2](https://huggingface.co/Aunghtaw/VoxCPM2) | Aunghtaw | 0 | 0 | voxcpm; safetensors; text-to-speech; tts; multilingual; voi… |
-| 2026-10-17 09:28:38 | [muaibinrah/vivit-b-16x2-kinetics400-finetuned-ucf101-subset](https://huggingface.co/muaibinrah/vivit-b-16x2-kinetics400-finetuned-ucf101-subset) | muaibinrah | 0 | 0 | transformers; safetensors; vivit; video-classification; gen… |
-| 2026-10-17 09:28:43 | [dumpy50222/MMH3](https://huggingface.co/dumpy50222/MMH3) | dumpy50222 | 0 | 0 | region:us |
-| 2026-10-17 09:28:50 | [tc3oliver/TingMix-Large](https://huggingface.co/tc3oliver/TingMix-Large) | tc3oliver | 0 | 0 | tingmix; safetensors; asr; speech-recognition; ctc; code-sw… |
-| 2026-10-17 09:29:05 | [Echoo113/Olmo-3-7B-Instruct-tree_willow_prompted-ft4.42](https://huggingface.co/Echoo113/Olmo-3-7B-Instruct-tree_willow_prompted-ft4.42) | Echoo113 | 0 | 0 | transformers; safetensors; generated_from_trainer; sft; trl… |
-| 2026-10-17 09:29:09 | [dan2143/pi05-axis-EBiYZf2aCzsr](https://huggingface.co/dan2143/pi05-axis-EBiYZf2aCzsr) | dan2143 | 0 | 0 | region:us |
-| 2026-10-17 09:30:17 | [Abhayn01/ARKA-Specialist-V2-Arithmetic-Final-2Epochs](https://huggingface.co/Abhayn01/ARKA-Specialist-V2-Arithmetic-Final-2Epochs) | Abhayn01 | 0 | 0 | safetensors; arka_v2_mobile; custom_code; region:us |
-| 2026-10-17 09:30:46 | [rose3/Irodori-TTS-v4.1-Small-Blockwise](https://huggingface.co/rose3/Irodori-TTS-v4.1-Small-Blockwise) | rose3 | 0 | 0 | safetensors; region:us |
-| 2026-10-17 09:31:30 | [Muhammadsafi/microduck-three-ducks-one-beat](https://huggingface.co/Muhammadsafi/microduck-three-ducks-one-beat) | Muhammadsafi | 0 | 0 | microduck; onnx; microduck-policy; robotics; choreography;… |
-| 2026-10-17 09:32:53 | [Gen-Verse/DiscoveryRSI-27B](https://huggingface.co/Gen-Verse/DiscoveryRSI-27B) | Gen-Verse | 0 | 1 | transformers; discoveryrsi; scientific-research; research-a… |
-| 2026-10-17 09:33:09 | [biubiu66/qwen3-vl-tiny](https://huggingface.co/biubiu66/qwen3-vl-tiny) | biubiu66 | 0 | 0 | pytorch; qwen3_vl_tiny; region:us |
-| 2026-10-17 09:33:14 | [Rohan-Kaushik/blindspot](https://huggingface.co/Rohan-Kaushik/blindspot) | Rohan-Kaushik | 0 | 0 | license:llama4; region:us |
-| 2026-10-17 09:33:42 | [lightseek0123/co126](https://huggingface.co/lightseek0123/co126) | lightseek0123 | 0 | 0 | region:us |
-| 2026-10-17 09:33:42 | [rhine-river/co238](https://huggingface.co/rhine-river/co238) | rhine-river | 0 | 0 | region:us |
-| 2026-10-17 09:33:43 | [creativedev1234/co254](https://huggingface.co/creativedev1234/co254) | creativedev1234 | 0 | 0 | region:us |
-| 2026-10-17 09:33:48 | [BreadWallNut/co146](https://huggingface.co/BreadWallNut/co146) | BreadWallNut | 0 | 0 | region:us |
-| 2026-10-17 09:33:49 | [rhine-river/co189](https://huggingface.co/rhine-river/co189) | rhine-river | 0 | 0 | region:us |
-| 2026-10-17 09:33:50 | [rhine-river/co246](https://huggingface.co/rhine-river/co246) | rhine-river | 0 | 0 | region:us |
-| 2026-10-17 09:33:51 | [check123432/co205](https://huggingface.co/check123432/co205) | check123432 | 0 | 0 | region:us |
-| 2026-10-17 09:33:57 | [Maksdev325/co226](https://huggingface.co/Maksdev325/co226) | Maksdev325 | 0 | 0 | region:us |
-| 2026-10-17 09:34:01 | [RunningHubAI/rh-h3-lora-2097522792379047937](https://huggingface.co/RunningHubAI/rh-h3-lora-2097522792379047937) | RunningHubAI | 0 | 0 | comfyui; lora; region:us |
-| 2026-10-17 09:34:14 | [Maksdev325/co185](https://huggingface.co/Maksdev325/co185) | Maksdev325 | 0 | 0 | region:us |
-| 2026-10-17 09:34:16 | [frenchchips/co241](https://huggingface.co/frenchchips/co241) | frenchchips | 0 | 0 | region:us |
-| 2026-10-17 09:34:22 | [check123432/co192](https://huggingface.co/check123432/co192) | check123432 | 0 | 0 | region:us |
-| 2026-10-17 09:34:23 | [frenchchips/co224](https://huggingface.co/frenchchips/co224) | frenchchips | 0 | 0 | region:us |
-| 2026-10-17 09:34:23 | [BreadWallNut/co227](https://huggingface.co/BreadWallNut/co227) | BreadWallNut | 0 | 0 | region:us |
-| 2026-10-17 09:34:26 | [creativedev1234/co250](https://huggingface.co/creativedev1234/co250) | creativedev1234 | 0 | 0 | region:us |
-| 2026-10-17 09:34:30 | [Maksdev325/co221](https://huggingface.co/Maksdev325/co221) | Maksdev325 | 0 | 0 | region:us |
-| 2026-10-17 09:34:32 | [check123432/co193](https://huggingface.co/check123432/co193) | check123432 | 0 | 0 | region:us |
-| 2026-10-17 09:34:39 | [poorclaude/co89](https://huggingface.co/poorclaude/co89) | poorclaude | 0 | 0 | region:us |
-| 2026-10-17 09:34:40 | [gatilin/deepseek_vit_412m.deepseek_v4_flash_vision_exp](https://huggingface.co/gatilin/deepseek_vit_412m.deepseek_v4_flash_vision_exp) | gatilin | 0 | 0 | timm; safetensors; vision-transformer; image-feature-extrac… |
-| 2026-10-17 09:34:41 | [creativedev1234/co219](https://huggingface.co/creativedev1234/co219) | creativedev1234 | 0 | 0 | region:us |
-| 2026-10-17 09:34:43 | [aviv887/co140](https://huggingface.co/aviv887/co140) | aviv887 | 0 | 0 | region:us |
-| 2026-10-17 09:34:43 | [rhine-river/co191](https://huggingface.co/rhine-river/co191) | rhine-river | 0 | 0 | region:us |
-| 2026-10-17 09:34:47 | [rez020406/co52](https://huggingface.co/rez020406/co52) | rez020406 | 0 | 0 | region:us |
-| 2026-10-17 09:34:49 | [BreadWallNut/co237](https://huggingface.co/BreadWallNut/co237) | BreadWallNut | 0 | 0 | region:us |
-| 2026-10-17 09:34:52 | [BreadWallNut/co201](https://huggingface.co/BreadWallNut/co201) | BreadWallNut | 0 | 0 | region:us |
-| 2026-10-17 09:34:55 | [rhine-river/co242](https://huggingface.co/rhine-river/co242) | rhine-river | 0 | 0 | region:us |
-| 2026-10-17 09:34:55 | [BreadWallNut/co184](https://huggingface.co/BreadWallNut/co184) | BreadWallNut | 0 | 0 | region:us |
-| 2026-10-17 09:34:56 | [frenchchips/co253](https://huggingface.co/frenchchips/co253) | frenchchips | 0 | 0 | region:us |
-| 2026-10-17 09:35:01 | [Maksdev325/co228](https://huggingface.co/Maksdev325/co228) | Maksdev325 | 0 | 0 | region:us |
-| 2026-10-17 09:35:05 | [check123432/co233](https://huggingface.co/check123432/co233) | check123432 | 0 | 0 | region:us |
-| 2026-10-17 09:35:06 | [check123432/co196](https://huggingface.co/check123432/co196) | check123432 | 0 | 0 | region:us |
-| 2026-10-17 09:35:13 | [ThakiCloud/Commerce-Slate-Click-FINN-LGBM](https://huggingface.co/ThakiCloud/Commerce-Slate-Click-FINN-LGBM) | ThakiCloud | 0 | 0 | lightgbm; learning-to-rank; lambdarank; slate-recommendatio… |
-| 2026-10-17 09:36:19 | [Asirus/MiniMax-H3-Ref2VA-PDMD-4NFE-1p0](https://huggingface.co/Asirus/MiniMax-H3-Ref2VA-PDMD-4NFE-1p0) | Asirus | 0 | 0 | minimax-h3; ref2va; pdmd-4nfe; int8; convrot; safetensors;… |
-| 2026-10-17 09:37:06 | [mradermacher/emotion-companion-7b-i1-GGUF](https://huggingface.co/mradermacher/emotion-companion-7b-i1-GGUF) | mradermacher | 0 | 1 | transformers; gguf; qwen2; lora; emotional-companion; struc… |
-| 2026-10-17 09:37:16 | [mhseo2/sft_klear8b_qwen3_32b_deepmath_n57012_ep15-step1750](https://huggingface.co/mhseo2/sft_klear8b_qwen3_32b_deepmath_n57012_ep15-step1750) | mhseo2 | 0 | 0 | safetensors; qwen3; region:us |
-| 2026-10-17 09:37:23 | [khazic/ovb-qwen_image_21_shared_sqrt](https://huggingface.co/khazic/ovb-qwen_image_21_shared_sqrt) | khazic | 0 | 0 | region:us |
-| 2026-10-17 09:38:12 | [HYU-NLP-EVAL/qwen3-4b-medicine-static-pilot-261016-step-073](https://huggingface.co/HYU-NLP-EVAL/qwen3-4b-medicine-static-pilot-261016-step-073) | HYU-NLP-EVAL | 0 | 0 | transformers; safetensors; qwen3; text-generation; conversa… |
-| 2026-10-17 09:38:14 | [Ar3ntiz/qwen3_27B_side8](https://huggingface.co/Ar3ntiz/qwen3_27B_side8) | Ar3ntiz | 0 | 0 | suc; SUC; Semantic Universal Compression; quantized; vector… |
-| 2026-10-17 09:38:50 | [phonglnd-prdcv/act_pnp_single_block_low_fps](https://huggingface.co/phonglnd-prdcv/act_pnp_single_block_low_fps) | phonglnd-prdcv | 0 | 0 | safetensors; region:us |
-| 2026-10-17 09:40:02 | [Axdix/Seedance-2-AI-Video-Generator](https://huggingface.co/Axdix/Seedance-2-AI-Video-Generator) | Axdix | 0 | 0 | text-to-video; image-to-video; multimodal; diffusion; dit;… |
-| 2026-10-17 09:40:26 | [AI999X/physics-ai999x](https://huggingface.co/AI999X/physics-ai999x) | AI999X | 0 | 0 | physics-ai999x; physics; physics-solver; physics-calculator… |
-| 2026-10-17 09:40:29 | [groxaxo/Chatterbox-LatAm-MLX](https://huggingface.co/groxaxo/Chatterbox-LatAm-MLX) | groxaxo | 0 | 1 | mlx-audio; safetensors; mlx; chatterbox-v3; spanish; mixed-… |
-| 2026-10-17 09:40:43 | [AI999X/algebra-ai999x](https://huggingface.co/AI999X/algebra-ai999x) | AI999X | 0 | 0 | algebra-ai999x; algebra; algebra-solver; math-solver; math;… |
-| 2026-10-17 09:40:54 | [parallaxlabs/parallax-2-mini-preview](https://huggingface.co/parallaxlabs/parallax-2-mini-preview) | parallaxlabs | 0 | 0 | transformers; gguf; reasoning; local-first; browser-inferen… |
-| 2026-10-17 09:41:07 | [6l3m/kairos-quality-intent](https://huggingface.co/6l3m/kairos-quality-intent) | 6l3m | 0 | 1 | transformers.js; onnx; gemma3_text; text-generation; gemma3… |
-| 2026-10-17 09:43:24 | [MCRDevLabs/gridlessbot-models](https://huggingface.co/MCRDevLabs/gridlessbot-models) | MCRDevLabs | 0 | 0 | gguf; license:other; endpoints_compatible; region:us; conve… |
-| 2026-10-17 09:44:16 | [anguswwww/laya-multilingual-UNSW-NB15](https://huggingface.co/anguswwww/laya-multilingual-UNSW-NB15) | anguswwww | 0 | 0 | license:apache-2.0; region:us |
-| 2026-10-17 09:44:24 | [biubiu66/qwen3-vl-lora](https://huggingface.co/biubiu66/qwen3-vl-lora) | biubiu66 | 0 | 0 | region:us |
-| 2026-10-17 09:44:47 | [realProAI/PRO-IMAGE-2](https://huggingface.co/realProAI/PRO-IMAGE-2) | realProAI | 0 | 0 | gguf; region:us |
-| 2026-10-17 09:45:43 | [kris072008/ppo-LunarLander-v2](https://huggingface.co/kris072008/ppo-LunarLander-v2) | kris072008 | 0 | 0 | stable-baselines3; LunarLander-v2; deep-reinforcement-learn… |
-| 2026-10-17 09:46:12 | [mama-to/mot08b](https://huggingface.co/mama-to/mot08b) | mama-to | 0 | 0 | region:us |
-| 2026-10-17 09:46:12 | [clear-blue-sky/cto03](https://huggingface.co/clear-blue-sky/cto03) | clear-blue-sky | 0 | 0 | region:us |
-| 2026-10-17 09:46:12 | [clear-blue-sky/cto04](https://huggingface.co/clear-blue-sky/cto04) | clear-blue-sky | 0 | 0 | region:us |
-| 2026-10-17 09:46:12 | [PES24/spd07](https://huggingface.co/PES24/spd07) | PES24 | 0 | 0 | region:us |
-| 2026-10-17 09:46:12 | [mrthor102/gun06](https://huggingface.co/mrthor102/gun06) | mrthor102 | 0 | 0 | region:us |
-| 2026-10-17 09:46:12 | [clear-blue-sky/cto05b](https://huggingface.co/clear-blue-sky/cto05b) | clear-blue-sky | 0 | 0 | region:us |
-| 2026-10-17 09:46:12 | [mama-to/mot07b](https://huggingface.co/mama-to/mot07b) | mama-to | 0 | 0 | region:us |
-| 2026-10-17 09:46:12 | [clear-blue-sky/cto01b](https://huggingface.co/clear-blue-sky/cto01b) | clear-blue-sky | 0 | 0 | region:us |
-| 2026-10-17 09:46:14 | [mama-chen/mum05](https://huggingface.co/mama-chen/mum05) | mama-chen | 0 | 0 | region:us |
-| 2026-10-17 09:46:14 | [nest102/god03b](https://huggingface.co/nest102/god03b) | nest102 | 0 | 0 | region:us |
-| 2026-10-17 09:46:14 | [mama-chen/mum07b](https://huggingface.co/mama-chen/mum07b) | mama-chen | 0 | 0 | region:us |
-| 2026-10-17 09:46:14 | [mama-chen/mum08b](https://huggingface.co/mama-chen/mum08b) | mama-chen | 0 | 0 | region:us |
-| 2026-10-17 09:46:14 | [mama-chen/mum04](https://huggingface.co/mama-chen/mum04) | mama-chen | 0 | 0 | region:us |
-| 2026-10-17 09:46:14 | [mama-chen/mum02](https://huggingface.co/mama-chen/mum02) | mama-chen | 0 | 0 | region:us |
-| 2026-10-17 09:46:14 | [mama-chen/mum09](https://huggingface.co/mama-chen/mum09) | mama-chen | 0 | 0 | region:us |
-| 2026-10-17 09:46:14 | [mama-chen/mum01b](https://huggingface.co/mama-chen/mum01b) | mama-chen | 0 | 0 | region:us |
-| 2026-10-17 09:46:14 | [mama-chen/mum06](https://huggingface.co/mama-chen/mum06) | mama-chen | 0 | 0 | region:us |
-| 2026-10-17 09:46:14 | [mama-chen/mum03b](https://huggingface.co/mama-chen/mum03b) | mama-chen | 0 | 0 | region:us |
-| 2026-10-17 09:46:18 | [brother-winter/bro03](https://huggingface.co/brother-winter/bro03) | brother-winter | 0 | 0 | region:us |
-| 2026-10-17 09:46:18 | [brother-winter/bro04](https://huggingface.co/brother-winter/bro04) | brother-winter | 0 | 0 | region:us |
-| 2026-10-17 09:46:18 | [JokerJokerJoker/cat02](https://huggingface.co/JokerJokerJoker/cat02) | JokerJokerJoker | 0 | 0 | region:us |
-| 2026-10-17 09:46:18 | [JokerJokerJoker/cat07](https://huggingface.co/JokerJokerJoker/cat07) | JokerJokerJoker | 0 | 0 | region:us |
-| 2026-10-17 09:46:18 | [brother-winter/bro07b](https://huggingface.co/brother-winter/bro07b) | brother-winter | 0 | 0 | region:us |
-| 2026-10-17 09:46:18 | [brother-winter/bro05b](https://huggingface.co/brother-winter/bro05b) | brother-winter | 0 | 0 | region:us |
-| 2026-10-17 09:46:18 | [JokerJokerJoker/cat08b](https://huggingface.co/JokerJokerJoker/cat08b) | JokerJokerJoker | 0 | 0 | region:us |
-| 2026-10-17 09:46:18 | [JokerJokerJoker/cat09b](https://huggingface.co/JokerJokerJoker/cat09b) | JokerJokerJoker | 0 | 0 | region:us |
-| 2026-10-17 09:46:18 | [JokerJokerJoker/cat01](https://huggingface.co/JokerJokerJoker/cat01) | JokerJokerJoker | 0 | 0 | region:us |
-| 2026-10-17 09:46:18 | [Cisco1963/llmplasticity-zh_nl_instant_8-rand-d0.1-c0.9-r0.5-s42](https://huggingface.co/Cisco1963/llmplasticity-zh_nl_instant_8-rand-d0.1-c0.9-r0.5-s42) | Cisco1963 | 0 | 0 | safetensors; gpt2; region:us |
-| 2026-10-17 09:46:21 | [PES24/spd08](https://huggingface.co/PES24/spd08) | PES24 | 0 | 0 | region:us |
-| 2026-10-17 09:46:21 | [mama-to/mot01](https://huggingface.co/mama-to/mot01) | mama-to | 0 | 0 | region:us |
-| 2026-10-17 09:46:22 | [mrthor102/gun07](https://huggingface.co/mrthor102/gun07) | mrthor102 | 0 | 0 | region:us |
-| 2026-10-17 09:46:22 | [mama-to/mot09](https://huggingface.co/mama-to/mot09) | mama-to | 0 | 0 | region:us |
-| 2026-10-17 09:46:23 | [mrthor102/gun08b](https://huggingface.co/mrthor102/gun08b) | mrthor102 | 0 | 0 | region:us |
-| 2026-10-17 09:46:24 | [racer102/hal07](https://huggingface.co/racer102/hal07) | racer102 | 0 | 0 | region:us |
-| 2026-10-17 09:46:24 | [racer102/hal03b](https://huggingface.co/racer102/hal03b) | racer102 | 0 | 0 | region:us |
-| 2026-10-17 09:46:24 | [racer102/hal01b](https://huggingface.co/racer102/hal01b) | racer102 | 0 | 0 | region:us |
-| 2026-10-17 09:46:25 | [mama-to/mot04](https://huggingface.co/mama-to/mot04) | mama-to | 0 | 0 | region:us |
-| 2026-10-17 09:46:25 | [nest102/god09](https://huggingface.co/nest102/god09) | nest102 | 0 | 0 | region:us |
-| 2026-10-17 09:46:26 | [ElMusk/fun07b](https://huggingface.co/ElMusk/fun07b) | ElMusk | 0 | 0 | region:us |
-| 2026-10-17 09:46:27 | [nest102/god10](https://huggingface.co/nest102/god10) | nest102 | 0 | 0 | region:us |
-| 2026-10-17 09:46:28 | [nest102/god04b](https://huggingface.co/nest102/god04b) | nest102 | 0 | 0 | region:us |
-| 2026-10-17 09:46:28 | [nest102/god01](https://huggingface.co/nest102/god01) | nest102 | 0 | 0 | region:us |
-| 2026-10-17 09:46:28 | [nest102/god05](https://huggingface.co/nest102/god05) | nest102 | 0 | 0 | region:us |
-| 2026-10-17 09:46:28 | [brother-winter/bro09](https://huggingface.co/brother-winter/bro09) | brother-winter | 0 | 0 | region:us |
-| 2026-10-17 09:46:28 | [mama-chen/mum10](https://huggingface.co/mama-chen/mum10) | mama-chen | 0 | 0 | region:us |
-| 2026-10-17 09:46:28 | [ElMusk/fun08b](https://huggingface.co/ElMusk/fun08b) | ElMusk | 0 | 0 | region:us |
-| 2026-10-17 09:46:30 | [JokerJokerJoker/cat10](https://huggingface.co/JokerJokerJoker/cat10) | JokerJokerJoker | 0 | 0 | region:us |
-| 2026-10-17 09:46:30 | [JokerJokerJoker/cat06](https://huggingface.co/JokerJokerJoker/cat06) | JokerJokerJoker | 0 | 0 | region:us |
-| 2026-10-17 09:46:31 | [clear-blue-sky/cto08b](https://huggingface.co/clear-blue-sky/cto08b) | clear-blue-sky | 0 | 0 | region:us |
-| 2026-10-17 09:46:31 | [clear-blue-sky/cto10b](https://huggingface.co/clear-blue-sky/cto10b) | clear-blue-sky | 0 | 0 | region:us |
-| 2026-10-17 09:46:31 | [PES24/spd06b](https://huggingface.co/PES24/spd06b) | PES24 | 0 | 0 | region:us |
-| 2026-10-17 09:46:31 | [clear-blue-sky/cto06b](https://huggingface.co/clear-blue-sky/cto06b) | clear-blue-sky | 0 | 0 | region:us |
-| 2026-10-17 09:46:31 | [AltEinstein/bmb07](https://huggingface.co/AltEinstein/bmb07) | AltEinstein | 0 | 0 | region:us |
-| 2026-10-17 09:46:31 | [mrthor102/gun09](https://huggingface.co/mrthor102/gun09) | mrthor102 | 0 | 0 | region:us |
-| 2026-10-17 09:46:32 | [PES24/spd02](https://huggingface.co/PES24/spd02) | PES24 | 0 | 0 | region:us |
-| 2026-10-17 09:46:32 | [PES24/spd01](https://huggingface.co/PES24/spd01) | PES24 | 0 | 0 | region:us |
-| 2026-10-17 09:46:33 | [AltEinstein/bmb10b](https://huggingface.co/AltEinstein/bmb10b) | AltEinstein | 0 | 0 | region:us |
-| 2026-10-17 09:46:33 | [AltEinstein/bmb08](https://huggingface.co/AltEinstein/bmb08) | AltEinstein | 0 | 0 | region:us |
-| 2026-10-17 09:46:34 | [AltEinstein/bmb02b](https://huggingface.co/AltEinstein/bmb02b) | AltEinstein | 0 | 0 | region:us |
-| 2026-10-17 09:46:34 | [racer102/hal09](https://huggingface.co/racer102/hal09) | racer102 | 0 | 0 | region:us |
-| 2026-10-17 09:46:35 | [racer102/hal06](https://huggingface.co/racer102/hal06) | racer102 | 0 | 0 | region:us |
-| 2026-10-17 09:46:35 | [mama-to/mot03](https://huggingface.co/mama-to/mot03) | mama-to | 0 | 0 | region:us |
-| 2026-10-17 09:46:37 | [racer102/hal02b](https://huggingface.co/racer102/hal02b) | racer102 | 0 | 0 | region:us |
-| 2026-10-17 09:46:37 | [mama-to/mot02b](https://huggingface.co/mama-to/mot02b) | mama-to | 0 | 0 | region:us |
-| 2026-10-17 09:46:40 | [nest102/god07b](https://huggingface.co/nest102/god07b) | nest102 | 0 | 0 | region:us |
-| 2026-10-17 09:46:40 | [mama-to/mot06](https://huggingface.co/mama-to/mot06) | mama-to | 0 | 0 | region:us |
-| 2026-10-17 09:46:41 | [brother-winter/bro08](https://huggingface.co/brother-winter/bro08) | brother-winter | 0 | 0 | region:us |
-| 2026-10-17 09:46:42 | [nest102/god02b](https://huggingface.co/nest102/god02b) | nest102 | 0 | 0 | region:us |
-| 2026-10-17 09:46:42 | [brother-winter/bro01](https://huggingface.co/brother-winter/bro01) | brother-winter | 0 | 0 | region:us |
-| 2026-10-17 09:46:43 | [brother-winter/bro02b](https://huggingface.co/brother-winter/bro02b) | brother-winter | 0 | 0 | region:us |
-| 2026-10-17 09:46:43 | [ElMusk/fun01b](https://huggingface.co/ElMusk/fun01b) | ElMusk | 0 | 0 | region:us |
-| 2026-10-17 09:46:43 | [nest102/god08](https://huggingface.co/nest102/god08) | nest102 | 0 | 0 | region:us |
-| 2026-10-17 09:46:44 | [racer102/hal08](https://huggingface.co/racer102/hal08) | racer102 | 0 | 0 | region:us |
-| 2026-10-17 09:46:44 | [nest102/god06b](https://huggingface.co/nest102/god06b) | nest102 | 0 | 0 | region:us |
-| 2026-10-17 09:46:44 | [ElMusk/fun04b](https://huggingface.co/ElMusk/fun04b) | ElMusk | 0 | 0 | region:us |
-| 2026-10-17 09:46:44 | [AltEinstein/bmb09](https://huggingface.co/AltEinstein/bmb09) | AltEinstein | 0 | 0 | region:us |
-| 2026-10-17 09:46:45 | [PES24/spd03b](https://huggingface.co/PES24/spd03b) | PES24 | 0 | 0 | region:us |
-| 2026-10-17 09:46:45 | [mrthor102/gun10b](https://huggingface.co/mrthor102/gun10b) | mrthor102 | 0 | 0 | region:us |
-| 2026-10-17 09:46:46 | [clear-blue-sky/cto09b](https://huggingface.co/clear-blue-sky/cto09b) | clear-blue-sky | 0 | 0 | region:us |
-| 2026-10-17 09:46:46 | [clear-blue-sky/cto07b](https://huggingface.co/clear-blue-sky/cto07b) | clear-blue-sky | 0 | 0 | region:us |
-| 2026-10-17 09:46:46 | [AltEinstein/bmb04](https://huggingface.co/AltEinstein/bmb04) | AltEinstein | 0 | 0 | region:us |
-| 2026-10-17 09:46:46 | [policewoman/bad01](https://huggingface.co/policewoman/bad01) | policewoman | 0 | 0 | region:us |
-| 2026-10-17 09:46:46 | [AltEinstein/bmb01](https://huggingface.co/AltEinstein/bmb01) | AltEinstein | 0 | 0 | region:us |
-| 2026-10-17 09:46:46 | [sportsgirl/pic03](https://huggingface.co/sportsgirl/pic03) | sportsgirl | 0 | 0 | region:us |
-| 2026-10-17 09:46:46 | [AltEinstein/bmb03](https://huggingface.co/AltEinstein/bmb03) | AltEinstein | 0 | 0 | region:us |
-| 2026-10-17 09:46:47 | [PES24/spd09](https://huggingface.co/PES24/spd09) | PES24 | 0 | 0 | region:us |
-| 2026-10-17 09:46:47 | [PES24/spd05b](https://huggingface.co/PES24/spd05b) | PES24 | 0 | 0 | region:us |
-| 2026-10-17 09:46:47 | [PES24/spd10b](https://huggingface.co/PES24/spd10b) | PES24 | 0 | 0 | region:us |
-| 2026-10-17 09:46:47 | [PES24/spd04](https://huggingface.co/PES24/spd04) | PES24 | 0 | 0 | region:us |
-| 2026-10-17 09:46:48 | [racer102/hal10b](https://huggingface.co/racer102/hal10b) | racer102 | 0 | 0 | region:us |
-| 2026-10-17 09:46:55 | [ElMusk/fun03](https://huggingface.co/ElMusk/fun03) | ElMusk | 0 | 0 | region:us |
-| 2026-10-17 09:46:56 | [mama-to/mot10](https://huggingface.co/mama-to/mot10) | mama-to | 0 | 0 | region:us |
-| 2026-10-17 09:46:56 | [mama-to/mot05b](https://huggingface.co/mama-to/mot05b) | mama-to | 0 | 0 | region:us |
-| 2026-10-17 09:46:57 | [ElMusk/fun06b](https://huggingface.co/ElMusk/fun06b) | ElMusk | 0 | 0 | region:us |
-| 2026-10-17 09:46:57 | [brother-winter/bro10](https://huggingface.co/brother-winter/bro10) | brother-winter | 0 | 0 | region:us |
-| 2026-10-17 09:46:58 | [ElMusk/fun05](https://huggingface.co/ElMusk/fun05) | ElMusk | 0 | 0 | region:us |
-| 2026-10-17 09:46:59 | [sportsgirl/pic02](https://huggingface.co/sportsgirl/pic02) | sportsgirl | 0 | 0 | region:us |
-| 2026-10-17 09:46:59 | [sportsgirl/pic01b](https://huggingface.co/sportsgirl/pic01b) | sportsgirl | 0 | 0 | region:us |
-| 2026-10-17 09:47:09 | [RunningHubAI/rh-logomax-v1.0-checkpoint](https://huggingface.co/RunningHubAI/rh-logomax-v1.0-checkpoint) | RunningHubAI | 0 | 0 | comfyui; checkpoint; region:us |
-| 2026-10-17 09:47:17 | [mhseo2/sft_qwen3base8b_qwen3_32b_deepmath_n57012_ep15-step1000](https://huggingface.co/mhseo2/sft_qwen3base8b_qwen3_32b_deepmath_n57012_ep15-step1000) | mhseo2 | 0 | 0 | safetensors; qwen3; region:us |
-| 2026-10-17 09:48:21 | [Targaryen101/ppe_03](https://huggingface.co/Targaryen101/ppe_03) | Targaryen101 | 0 | 0 | onnx; region:us |
-| 2026-10-17 09:48:32 | [beyzakulac/FormaFit-Asistan-3B-GGUF](https://huggingface.co/beyzakulac/FormaFit-Asistan-3B-GGUF) | beyzakulac | 0 | 0 | gguf; endpoints_compatible; region:us; conversational |
-| 2026-10-17 09:48:46 | [Faless/piper_apples_c03_std_polso_smolvla_base_bs96_seme1000_rifatto](https://huggingface.co/Faless/piper_apples_c03_std_polso_smolvla_base_bs96_seme1000_rifatto) | Faless | 0 | 0 | lerobot; safetensors; robotics; smolvla; dataset:Faless/pip… |
-| 2026-10-17 09:49:08 | [DSA12DSA12/MyAwesomeModel-TestRepo](https://huggingface.co/DSA12DSA12/MyAwesomeModel-TestRepo) | DSA12DSA12 | 0 | 0 | transformers; pytorch; bert; feature-extraction; license:mi… |
-| 2026-10-17 09:49:13 | [firzahdzm/tourn-678a7073-instructtext-hyper-fc1b](https://huggingface.co/firzahdzm/tourn-678a7073-instructtext-hyper-fc1b) | firzahdzm | 0 | 0 | safetensors; phi3; custom_code; region:us |
-| 2026-10-17 09:49:28 | [hhiikkmaa/hausa-sentiment-xlmr](https://huggingface.co/hhiikkmaa/hausa-sentiment-xlmr) | hhiikkmaa | 0 | 0 | region:us |
-| 2026-10-17 09:50:11 | [Aftian2429/god-replica-b-krea2a-d03e492b-s1](https://huggingface.co/Aftian2429/god-replica-b-krea2a-d03e492b-s1) | Aftian2429 | 0 | 0 | region:us |
-| 2026-10-17 09:50:13 | [alexokita/Twilight-Embrace-31B-Heretic-i1-GGUF](https://huggingface.co/alexokita/Twilight-Embrace-31B-Heretic-i1-GGUF) | alexokita | 0 | 0 | transformers; gguf; imatrix; heretic; gemma4; merge; rolepl… |
-| 2026-10-17 09:50:27 | [Skufu1/nekohon-x3](https://huggingface.co/Skufu1/nekohon-x3) | Skufu1 | 0 | 0 | gguf; ollama; qwen2.5; question-answering; rag; license:gpl… |
-| 2026-10-17 09:51:12 | [rizgiak/physai-study-01-checkpoints](https://huggingface.co/rizgiak/physai-study-01-checkpoints) | rizgiak | 0 | 0 | license:apache-2.0; region:us |
-| 2026-10-17 09:51:15 | [HYU-NLP-EVAL/qwen3-4b-medicine-static-pilot-261016-step-074](https://huggingface.co/HYU-NLP-EVAL/qwen3-4b-medicine-static-pilot-261016-step-074) | HYU-NLP-EVAL | 0 | 0 | transformers; safetensors; qwen3; text-generation; conversa… |
-| 2026-10-17 09:52:11 | [Jordine/rlport-hkl_jord9v_inoc_cond_s3_20261017_095113](https://huggingface.co/Jordine/rlport-hkl_jord9v_inoc_cond_s3_20261017_095113) | Jordine | 0 | 0 | safetensors; research; checkpoint-backup; region:us |
-| 2026-10-17 09:52:13 | [Jordine/rlport-hkl_jord9v_inoc_cond_s4_20261017_095114](https://huggingface.co/Jordine/rlport-hkl_jord9v_inoc_cond_s4_20261017_095114) | Jordine | 0 | 0 | safetensors; research; checkpoint-backup; region:us |
-| 2026-10-17 09:52:32 | [zyhovo/MyAwesomeModel-TestRepo](https://huggingface.co/zyhovo/MyAwesomeModel-TestRepo) | zyhovo | 0 | 0 | transformers; pytorch; bert; feature-extraction; license:mi… |
-| 2026-10-17 09:53:19 | [TemurbekHamzaev/TarjimaAI-English-Uzbek-Seq2Seq](https://huggingface.co/TemurbekHamzaev/TarjimaAI-English-Uzbek-Seq2Seq) | TemurbekHamzaev | 0 | 0 | translation; seq2seq; pytorch; bahdanau-attention; machine-… |
-| 2026-10-17 09:53:28 | [rasyosef/gemma-4-E4B-it-dspark-v2](https://huggingface.co/rasyosef/gemma-4-E4B-it-dspark-v2) | rasyosef | 0 | 0 | safetensors; custom_code; region:us |
-| 2026-10-17 09:53:37 | [dolzhenkosv/c2s-puma-runs](https://huggingface.co/dolzhenkosv/c2s-puma-runs) | dolzhenkosv | 0 | 0 | region:us |
-| 2026-10-17 09:54:25 | [giraffeBOT/q-FrozenLake-v1-4x4-noSlippery](https://huggingface.co/giraffeBOT/q-FrozenLake-v1-4x4-noSlippery) | giraffeBOT | 0 | 0 | FrozenLake-v1-4x4-no_slippery; q-learning; reinforcement-le… |
-| 2026-10-17 09:54:26 | [Orzumurod/ModernUzBERT-small](https://huggingface.co/Orzumurod/ModernUzBERT-small) | Orzumurod | 0 | 0 | safetensors; modernbert; masked-lm; uzbek; nlp; bidirection… |
-| 2026-10-17 09:54:32 | [Cisco1963/llmplasticity-zh_en_linear_8-rand-d0.006-c0.99-r0.5-s42](https://huggingface.co/Cisco1963/llmplasticity-zh_en_linear_8-rand-d0.006-c0.99-r0.5-s42) | Cisco1963 | 0 | 0 | safetensors; gpt2; region:us |
-| 2026-10-17 09:54:38 | [Infinix-io/Drama-3-GGUF](https://huggingface.co/Infinix-io/Drama-3-GGUF) | Infinix-io | 0 | 0 | gguf; audio.cpp; fish-audio; text-to-speech; voice-cloning;… |
-| 2026-10-17 09:54:52 | [nphearum/VoxCPM2-Flash-GGUF](https://huggingface.co/nphearum/VoxCPM2-Flash-GGUF) | nphearum | 0 | 0 | gguf; voxcpm2; audio.cpp; lora-merged; text-to-speech; km;… |
-
-_Showing the first 200 of 272 models; see the [full CSV](data/new-models-2026-10-17T10-20-12-294326Z.csv)._
+| 2026-10-17 10:21:20 | [dacntt-kltn/finetune-restyle-psp-skin-lesion-ham10000](https://huggingface.co/dacntt-kltn/finetune-restyle-psp-skin-lesion-ham10000) | dacntt-kltn | 0 | 0 | tensorboard; region:us |
+| 2026-10-17 10:22:30 | [Veteranizmy/ckpt](https://huggingface.co/Veteranizmy/ckpt) | Veteranizmy | 0 | 0 | region:us |
+| 2026-10-17 10:23:20 | [mhseo2/opd_qwen3base8b_qwen3moe30b_ot3math_rklrest32-step20](https://huggingface.co/mhseo2/opd_qwen3base8b_qwen3moe30b_ot3math_rklrest32-step20) | mhseo2 | 0 | 0 | safetensors; qwen3; region:us |
+| 2026-10-17 10:23:42 | [attendanceai/biometric-attendance](https://huggingface.co/attendanceai/biometric-attendance) | attendanceai | 0 | 1 | license:ofl-1.1; region:us |
+| 2026-10-17 10:23:54 | [panzining/act_so101](https://huggingface.co/panzining/act_so101) | panzining | 0 | 0 | safetensors; region:us |
+| 2026-10-17 10:25:20 | [edward56/sn92-df-9b](https://huggingface.co/edward56/sn92-df-9b) | edward56 | 0 | 0 | safetensors; qwen3_5_text; region:us |
+| 2026-10-17 10:26:26 | [LibertAIDAI/GLM-5.3-Flash-EXL3-4bpw](https://huggingface.co/LibertAIDAI/GLM-5.3-Flash-EXL3-4bpw) | LibertAIDAI | 0 | 0 | safetensors; glm5_next; exl3; exllamav3; glm; moe; quantize… |
+| 2026-10-17 10:26:37 | [Franklalalala/tmp-4c2a1090adce8e32e5](https://huggingface.co/Franklalalala/tmp-4c2a1090adce8e32e5) | Franklalalala | 0 | 0 | region:us |
+| 2026-10-17 10:27:08 | [attentionlab/bayon-it-onnx](https://huggingface.co/attentionlab/bayon-it-onnx) | attentionlab | 0 | 0 | onnx; gemma; khmer; cambodian; language-model; causal-langu… |
+| 2026-10-17 10:27:29 | [dpv007/Eko1.5](https://huggingface.co/dpv007/Eko1.5) | dpv007 | 0 | 0 | text-to-speech; tts; speech; multi-speaker; audio; pytorch;… |
+| 2026-10-17 10:27:33 | [leonsarmiento/Qwen3.6-35B-A3B-6bit-XL-MTP-mlx](https://huggingface.co/leonsarmiento/Qwen3.6-35B-A3B-6bit-XL-MTP-mlx) | leonsarmiento | 0 | 0 | mlx; safetensors; qwen3_5_moe; mlx-vlm; moe; multimodal; vi… |
+| 2026-10-17 10:27:57 | [mhseo2/opd_qwen3base8b_qwen3moe30b_ot3math_rklrest8-step20](https://huggingface.co/mhseo2/opd_qwen3base8b_qwen3moe30b_ot3math_rklrest8-step20) | mhseo2 | 0 | 0 | safetensors; qwen3; region:us |
+| 2026-10-17 10:28:38 | [Youssef16Ahmed/nova-pathcrf-finetuned](https://huggingface.co/Youssef16Ahmed/nova-pathcrf-finetuned) | Youssef16Ahmed | 0 | 0 | football; soccer; possession; pathcrf; license:mpl-2.0; reg… |
+| 2026-10-17 10:29:23 | [proxydark174/Flux2-Dev-mixed-INT8-W6A8-W8A8-6.88bpw](https://huggingface.co/proxydark174/Flux2-Dev-mixed-INT8-W6A8-W8A8-6.88bpw) | proxydark174 | 0 | 0 | license:other; region:us |
+| 2026-10-17 10:29:46 | [gok11/sam-3d-body-onnx](https://huggingface.co/gok11/sam-3d-body-onnx) | gok11 | 0 | 0 | onnxruntime; onnx; pose-estimation; human-mesh-recovery; sa… |
+| 2026-10-17 10:29:49 | [tskim81/connectailab-rl-kimtaesun-v1](https://huggingface.co/tskim81/connectailab-rl-kimtaesun-v1) | tskim81 | 0 | 0 | peft; safetensors; reinforcement-learning; deep-reinforceme… |
+| 2026-10-17 10:29:55 | [mradermacher/MAI-Gym-9B-i1-GGUF](https://huggingface.co/mradermacher/MAI-Gym-9B-i1-GGUF) | mradermacher | 0 | 1 | transformers; gguf; en; base_model:Tongyi-MAI/MAI-Gym-9B; b… |
+| 2026-10-17 10:30:00 | [HYU-NLP-EVAL/qwen3-4b-medicine-static-pilot-261016-step-077](https://huggingface.co/HYU-NLP-EVAL/qwen3-4b-medicine-static-pilot-261016-step-077) | HYU-NLP-EVAL | 0 | 0 | transformers; safetensors; qwen3; text-generation; conversa… |
+| 2026-10-17 10:30:32 | [ASD1232132/MyAwesomeModel-TestRepo](https://huggingface.co/ASD1232132/MyAwesomeModel-TestRepo) | ASD1232132 | 0 | 0 | transformers; pytorch; bert; feature-extraction; license:mi… |
+| 2026-10-17 10:30:35 | [toners-amatory-9h/model1v2-gap](https://huggingface.co/toners-amatory-9h/model1v2-gap) | toners-amatory-9h | 0 | 0 | region:us |
+| 2026-10-17 10:31:20 | [11mindflayer/tourism-wellness-model](https://huggingface.co/11mindflayer/tourism-wellness-model) | 11mindflayer | 0 | 0 | joblib; region:us |
+| 2026-10-17 10:31:32 | [Donghyun1228/pi05-libero-oneshot-medium-yaw20-n1000-training-state-20261017](https://huggingface.co/Donghyun1228/pi05-libero-oneshot-medium-yaw20-n1000-training-state-20261017) | Donghyun1228 | 0 | 0 | robotics; libero; training-state; region:us |
+| 2026-10-17 10:31:40 | [muaibinrah/dcgan-synthetic-lung-images](https://huggingface.co/muaibinrah/dcgan-synthetic-lung-images) | muaibinrah | 0 | 0 | gan; dcgan; image-generation; pytorch; region:us |
+| 2026-10-17 10:32:03 | [AIImageStudio/RadianceChromeVoluptuous_Flux3Klein_v1.0](https://huggingface.co/AIImageStudio/RadianceChromeVoluptuous_Flux3Klein_v1.0) | AIImageStudio | 0 | 0 | diffusers; text-to-image; lora; template:diffusion-lora; ba… |
+| 2026-10-17 10:32:07 | [zgx0920/dp_1011_4_model](https://huggingface.co/zgx0920/dp_1011_4_model) | zgx0920 | 0 | 0 | safetensors; region:us |
+| 2026-10-17 10:32:29 | [BlackwellBoy/Boltbreaker-Nemotron-3.5-74B-A9B-NF4](https://huggingface.co/BlackwellBoy/Boltbreaker-Nemotron-3.5-74B-A9B-NF4) | BlackwellBoy | 0 | 0 | region:us |
+| 2026-10-17 10:32:31 | [bertuginal/KiviElektronik-1.5B](https://huggingface.co/bertuginal/KiviElektronik-1.5B) | bertuginal | 0 | 0 | transformers; safetensors; qwen2; text-generation; conversa… |
+| 2026-10-17 10:33:06 | [ebisuke/textlm17](https://huggingface.co/ebisuke/textlm17) | ebisuke | 0 | 0 | safetensors; text_lm; region:us |
+| 2026-10-17 10:33:33 | [Simih/checkpoints_yor_QF](https://huggingface.co/Simih/checkpoints_yor_QF) | Simih | 0 | 0 | safetensors; region:us |
+| 2026-10-17 10:34:06 | [mondk/Verity-0.5B-Qwen-Safetensors](https://huggingface.co/mondk/Verity-0.5B-Qwen-Safetensors) | mondk | 0 | 0 | transformers; safetensors; qwen3; text-generation; verity;… |
+| 2026-10-17 10:34:34 | [edward56/sn92-ra-9b](https://huggingface.co/edward56/sn92-ra-9b) | edward56 | 0 | 0 | safetensors; qwen3_5_text; region:us |
+| 2026-10-17 10:35:35 | [Simih/checkpoints_yor_MLP](https://huggingface.co/Simih/checkpoints_yor_MLP) | Simih | 0 | 0 | safetensors; region:us |
+| 2026-10-17 10:36:06 | [tyzhu/nanotron_sg_archive](https://huggingface.co/tyzhu/nanotron_sg_archive) | tyzhu | 0 | 0 | safetensors; region:us |
+| 2026-10-17 10:36:20 | [pdparchitect/pi0.5-NiU2BgsjlkOt](https://huggingface.co/pdparchitect/pi0.5-NiU2BgsjlkOt) | pdparchitect | 0 | 0 | region:us |
+| 2026-10-17 10:36:25 | [cyttic/exp39-ctc-diffpenaug20k-hhdgeom-llmgen](https://huggingface.co/cyttic/exp39-ctc-diffpenaug20k-hhdgeom-llmgen) | cyttic | 0 | 0 | safetensors; region:us |
+| 2026-10-17 10:37:31 | [vadimyakob/chrono-2025-d-5000](https://huggingface.co/vadimyakob/chrono-2025-d-5000) | vadimyakob | 0 | 0 | safetensors; qwen3; region:us |
+| 2026-10-17 10:38:00 | [donggcao18/temp](https://huggingface.co/donggcao18/temp) | donggcao18 | 0 | 0 | region:us |
+| 2026-10-17 10:38:36 | [mhseo2/opd_sftb8dm15e_s1500_qwen3moe30b_ot3math_rklrest64-step10](https://huggingface.co/mhseo2/opd_sftb8dm15e_s1500_qwen3moe30b_ot3math_rklrest64-step10) | mhseo2 | 0 | 0 | safetensors; qwen3; region:us |
+| 2026-10-17 10:38:49 | [wckwan/Alfworld-Olmo3-7B-SEED-s2000-fsdp-transfer](https://huggingface.co/wckwan/Alfworld-Olmo3-7B-SEED-s2000-fsdp-transfer) | wckwan | 0 | 0 | region:us |
+| 2026-10-17 10:39:59 | [kris072008/q-FrozenLake-v1-4x4-noSlippery](https://huggingface.co/kris072008/q-FrozenLake-v1-4x4-noSlippery) | kris072008 | 0 | 0 | FrozenLake-v1-4x4-no_slippery; q-learning; reinforcement-le… |
+| 2026-10-17 10:40:02 | [kris072008/q-Taxi-v3](https://huggingface.co/kris072008/q-Taxi-v3) | kris072008 | 0 | 0 | Taxi-v3; q-learning; reinforcement-learning; custom-impleme… |
+| 2026-10-17 10:40:05 | [Ilham69/itr-r2i4f-0921-b3d4e834-ship](https://huggingface.co/Ilham69/itr-r2i4f-0921-b3d4e834-ship) | Ilham69 | 0 | 0 | region:us |
+| 2026-10-17 10:40:36 | [piotrekwitek/gliner-x-large-v0.5-onnx](https://huggingface.co/piotrekwitek/gliner-x-large-v0.5-onnx) | piotrekwitek | 0 | 0 | onnx; region:us |
+| 2026-10-17 10:41:30 | [RavichandraNayakar/Freight-Rate-prediction](https://huggingface.co/RavichandraNayakar/Freight-Rate-prediction) | RavichandraNayakar | 0 | 0 | joblib; license:mit; region:us |
+| 2026-10-17 10:41:36 | [amine40/Timestral-209M-ONNX](https://huggingface.co/amine40/Timestral-209M-ONNX) | amine40 | 0 | 0 | region:us |
+| 2026-10-17 10:41:40 | [Hastagaras/J-EXP-30-Drift](https://huggingface.co/Hastagaras/J-EXP-30-Drift) | Hastagaras | 0 | 0 | safetensors; gemma4; region:us |
+| 2026-10-17 10:42:30 | [Haijun-AI/llama-2-7b.Q4_K_M.gguf](https://huggingface.co/Haijun-AI/llama-2-7b.Q4_K_M.gguf) | Haijun-AI | 0 | 0 | gguf; endpoints_compatible; region:us |
+| 2026-10-17 10:42:53 | [HYU-NLP-EVAL/qwen3-4b-medicine-static-pilot-261016-step-078](https://huggingface.co/HYU-NLP-EVAL/qwen3-4b-medicine-static-pilot-261016-step-078) | HYU-NLP-EVAL | 0 | 0 | transformers; safetensors; qwen3; text-generation; conversa… |
+| 2026-10-17 10:43:36 | [vadimyakob/chrono-2025-d-19000](https://huggingface.co/vadimyakob/chrono-2025-d-19000) | vadimyakob | 0 | 0 | safetensors; qwen3; region:us |
+| 2026-10-17 10:43:49 | [cont1037/Qwen-3.6-27B-Merlin](https://huggingface.co/cont1037/Qwen-3.6-27B-Merlin) | cont1037 | 0 | 0 | transformers; safetensors; qwen3_5; image-text-to-text; vll… |
+| 2026-10-17 10:44:00 | [toners-amatory-9h/release-gate-check](https://huggingface.co/toners-amatory-9h/release-gate-check) | toners-amatory-9h | 0 | 0 | region:us |
+| 2026-10-17 10:44:13 | [toners-amatory-9h/release-gate-checkpoint](https://huggingface.co/toners-amatory-9h/release-gate-checkpoint) | toners-amatory-9h | 0 | 0 | region:us |
+| 2026-10-17 10:45:15 | [vadimyakob/chrono-2025-d-18000](https://huggingface.co/vadimyakob/chrono-2025-d-18000) | vadimyakob | 0 | 0 | safetensors; qwen3; region:us |
+| 2026-10-17 10:46:12 | [huangdffs/dreamlitee128model](https://huggingface.co/huangdffs/dreamlitee128model) | huangdffs | 0 | 0 | diffusers; safetensors; license:apache-2.0; region:us |
+| 2026-10-17 10:46:32 | [DownFlow/webasmr-f5tts](https://huggingface.co/DownFlow/webasmr-f5tts) | DownFlow | 0 | 0 | onnxruntime; onnx; tts; webgpu; asmr; f5-tts; license:other… |
+| 2026-10-17 10:46:36 | [DownFlow/webasmr-qwen3.5-0.8b-lora](https://huggingface.co/DownFlow/webasmr-qwen3.5-0.8b-lora) | DownFlow | 0 | 0 | peft; safetensors; lora; qwen; asmr; base_model:Qwen/Qwen3.… |
+| 2026-10-17 10:48:01 | [wentaojiao/hf-upload-test](https://huggingface.co/wentaojiao/hf-upload-test) | wentaojiao | 0 | 0 | region:us |
+| 2026-10-17 10:48:54 | [tiagozip/spamton](https://huggingface.co/tiagozip/spamton) | tiagozip | 0 | 1 | safetensors; modernbert; spam-detection; moderation; email;… |
+| 2026-10-17 10:49:11 | [KHFUIQWDWQ/MyAwesomeModel-TestRepo](https://huggingface.co/KHFUIQWDWQ/MyAwesomeModel-TestRepo) | KHFUIQWDWQ | 0 | 0 | transformers; pytorch; bert; feature-extraction; license:mi… |
+| 2026-10-17 10:49:22 | [Ilham69/itr-r4k2a-1012-d03e492b-ship](https://huggingface.co/Ilham69/itr-r4k2a-1012-d03e492b-ship) | Ilham69 | 0 | 0 | region:us |
+| 2026-10-17 10:49:47 | [Ilham69/itr-r4k2a-1005-6271bb91-ship](https://huggingface.co/Ilham69/itr-r4k2a-1005-6271bb91-ship) | Ilham69 | 0 | 0 | region:us |
+| 2026-10-17 10:50:00 | [bondarenkoania/conformer-ctc-asr](https://huggingface.co/bondarenkoania/conformer-ctc-asr) | bondarenkoania | 0 | 0 | region:us |
+| 2026-10-17 10:50:51 | [vadimyakob/chrono-2025-d-17000](https://huggingface.co/vadimyakob/chrono-2025-d-17000) | vadimyakob | 0 | 0 | safetensors; qwen3; region:us |
+| 2026-10-17 10:51:23 | [SAD1CXZC12DXZ/MyAwesomeModel-TestRepo](https://huggingface.co/SAD1CXZC12DXZ/MyAwesomeModel-TestRepo) | SAD1CXZC12DXZ | 0 | 0 | transformers; pytorch; bert; feature-extraction; license:mi… |
+| 2026-10-17 10:52:01 | [treamyracle/indobert-bab4-models](https://huggingface.co/treamyracle/indobert-bab4-models) | treamyracle | 0 | 0 | safetensors; region:us |
+| 2026-10-17 10:52:36 | [sfaafaf45454/MyAwesomeModel-TestRepo](https://huggingface.co/sfaafaf45454/MyAwesomeModel-TestRepo) | sfaafaf45454 | 0 | 0 | transformers; pytorch; bert; feature-extraction; license:mi… |
+| 2026-10-17 10:52:44 | [SDAXZ12E/MyAwesomeModel-TestRepo](https://huggingface.co/SDAXZ12E/MyAwesomeModel-TestRepo) | SDAXZ12E | 0 | 0 | transformers; pytorch; bert; feature-extraction; license:mi… |
+| 2026-10-17 10:53:37 | [gongting/aimedia-client-assets](https://huggingface.co/gongting/aimedia-client-assets) | gongting | 0 | 0 | region:us |
+| 2026-10-17 10:53:51 | [Jakevin/pplx-decider-flash-v1.2-mixed-GGUF](https://huggingface.co/Jakevin/pplx-decider-flash-v1.2-mixed-GGUF) | Jakevin | 0 | 0 | gguf; llama.cpp; quantized; mixed-precision; classification… |
+| 2026-10-17 10:53:51 | [ToolathlonBot/MyAwesomeModel-TestRepo](https://huggingface.co/ToolathlonBot/MyAwesomeModel-TestRepo) | ToolathlonBot | 0 | 0 | transformers; pytorch; bert; feature-extraction; license:mi… |
+| 2026-10-17 10:53:53 | [sadsad2dw/MyAwesomeModel-TestRepo](https://huggingface.co/sadsad2dw/MyAwesomeModel-TestRepo) | sadsad2dw | 0 | 0 | transformers; pytorch; bert; feature-extraction; license:mi… |
+| 2026-10-17 10:54:02 | [mhseo2/opd_qwen3base8b_qwen3moe30b_ot3math_rklrest64-step20](https://huggingface.co/mhseo2/opd_qwen3base8b_qwen3moe30b_ot3math_rklrest64-step20) | mhseo2 | 0 | 0 | safetensors; qwen3; region:us |
+| 2026-10-17 10:54:47 | [vadimyakob/chrono-2025-d-10000](https://huggingface.co/vadimyakob/chrono-2025-d-10000) | vadimyakob | 0 | 0 | safetensors; qwen3; region:us |
+| 2026-10-17 10:55:13 | [IhArmayau/malama-aira-gemma-9b](https://huggingface.co/IhArmayau/malama-aira-gemma-9b) | IhArmayau | 0 | 0 | peft; safetensors; gemma2; text-generation; base_model:adap… |
+| 2026-10-17 10:55:31 | [SADD1DSA21DSA/MyAwesomeModel-TestRepo](https://huggingface.co/SADD1DSA21DSA/MyAwesomeModel-TestRepo) | SADD1DSA21DSA | 0 | 0 | transformers; pytorch; bert; feature-extraction; license:mi… |
+| 2026-10-17 10:55:43 | [HYU-NLP-EVAL/qwen3-4b-medicine-static-pilot-261016-step-079](https://huggingface.co/HYU-NLP-EVAL/qwen3-4b-medicine-static-pilot-261016-step-079) | HYU-NLP-EVAL | 0 | 0 | transformers; safetensors; qwen3; text-generation; conversa… |
+| 2026-10-17 10:55:47 | [wentaojiao/lehome-sim-bc-v1](https://huggingface.co/wentaojiao/lehome-sim-bc-v1) | wentaojiao | 0 | 0 | region:us |
+| 2026-10-17 10:55:50 | [andyz321/GFEI-Qwen14B-Tao](https://huggingface.co/andyz321/GFEI-Qwen14B-Tao) | andyz321 | 0 | 0 | license:apache-2.0; region:us |
+| 2026-10-17 10:55:57 | [Trivnpk/Mina-MoE-4x1B-RL-Zero](https://huggingface.co/Trivnpk/Mina-MoE-4x1B-RL-Zero) | Trivnpk | 0 | 0 | region:us |
+| 2026-10-17 10:56:33 | [Lifec-321/trellis2-quantized-v3](https://huggingface.co/Lifec-321/trellis2-quantized-v3) | Lifec-321 | 0 | 0 | trellis2; image-to-3d; quantized; gptq; license:mit; region… |
+| 2026-10-17 10:57:17 | [ASCXZ12D/MyAwesomeModel-TestRepo](https://huggingface.co/ASCXZ12D/MyAwesomeModel-TestRepo) | ASCXZ12D | 0 | 0 | transformers; pytorch; bert; feature-extraction; license:mi… |
+| 2026-10-17 10:58:50 | [Allinsama/funasr__campplus](https://huggingface.co/Allinsama/funasr__campplus) | Allinsama | 0 | 0 | funasr; speaker-verification; speaker-diarization; FunASR;… |
+| 2026-10-17 10:59:06 | [tsunehimatoi/anime-part-split](https://huggingface.co/tsunehimatoi/anime-part-split) | tsunehimatoi | 0 | 0 | diffusers; lora; flux2; flux2-klein; image-editing; anime;… |
+| 2026-10-17 10:59:22 | [QWDSA12SA/MyAwesomeModel-TestRepo](https://huggingface.co/QWDSA12SA/MyAwesomeModel-TestRepo) | QWDSA12SA | 0 | 0 | transformers; pytorch; bert; feature-extraction; license:mi… |
+| 2026-10-17 10:59:22 | [arnbrz/llm-course-hw1](https://huggingface.co/arnbrz/llm-course-hw1) | arnbrz | 0 | 0 | safetensors; model_hub_mixin; pytorch_model_hub_mixin; regi… |
+| 2026-10-17 11:01:20 | [Cisco1963/llmplasticity-zh_nl_instant_8-rand-d0.006-c0.999-r0.2-s42](https://huggingface.co/Cisco1963/llmplasticity-zh_nl_instant_8-rand-d0.006-c0.999-r0.2-s42) | Cisco1963 | 0 | 0 | safetensors; gpt2; region:us |
+| 2026-10-17 11:01:47 | [asfafafs456/MyAwesomeModel-TestRepo](https://huggingface.co/asfafafs456/MyAwesomeModel-TestRepo) | asfafafs456 | 0 | 0 | transformers; pytorch; bert; feature-extraction; license:mi… |
+| 2026-10-17 11:02:33 | [ASDSAD2E12EDASD/MyAwesomeModel-TestRepo](https://huggingface.co/ASDSAD2E12EDASD/MyAwesomeModel-TestRepo) | ASDSAD2E12EDASD | 0 | 0 | transformers; pytorch; bert; feature-extraction; license:mi… |
+| 2026-10-17 11:02:43 | [Abrala/WAN_General_NSFW_model](https://huggingface.co/Abrala/WAN_General_NSFW_model) | Abrala | 0 | 0 | diffusers; text-to-image; lora; template:diffusion-lora; ba… |
+| 2026-10-17 11:02:48 | [hotdogs/qwen3.8-27B-openthai2.0_svd_lora](https://huggingface.co/hotdogs/qwen3.8-27B-openthai2.0_svd_lora) | hotdogs | 0 | 0 | peft; safetensors; gguf; lora; llama.cpp; weight-diff; svd;… |
+| 2026-10-17 11:03:44 | [Sup2Doggie/PsychAI](https://huggingface.co/Sup2Doggie/PsychAI) | Sup2Doggie | 0 | 0 | transformers; safetensors; text-generation-inference; unslo… |
+| 2026-10-17 11:05:15 | [varun-balani/Qwen2.5-32B-Instruct-abliterated](https://huggingface.co/varun-balani/Qwen2.5-32B-Instruct-abliterated) | varun-balani | 0 | 0 | safetensors; qwen2; abliterated; uncensored; ara; heretic;… |
+| 2026-10-17 11:06:05 | [Samisahirbaig/di04-chimney-census](https://huggingface.co/Samisahirbaig/di04-chimney-census) | Samisahirbaig | 0 | 0 | region:us |
+| 2026-10-17 11:06:07 | [ASD21213123EDSA/MyAwesomeModel-TestRepo](https://huggingface.co/ASD21213123EDSA/MyAwesomeModel-TestRepo) | ASD21213123EDSA | 0 | 0 | transformers; pytorch; bert; feature-extraction; license:mi… |
+| 2026-10-17 11:06:56 | [alejandrorg00/flynet-robustness](https://huggingface.co/alejandrorg00/flynet-robustness) | alejandrorg00 | 0 | 0 | license:mit; region:us |
+| 2026-10-17 11:07:08 | [Note-Taker/q-FrozenLake-v1-4x4-noSlippery](https://huggingface.co/Note-Taker/q-FrozenLake-v1-4x4-noSlippery) | Note-Taker | 0 | 0 | FrozenLake-v1-4x4-no_slippery; q-learning; reinforcement-le… |
+| 2026-10-17 11:07:58 | [firzahdzm/tourn-e2f46d1f-instructtext-hyper-v2](https://huggingface.co/firzahdzm/tourn-e2f46d1f-instructtext-hyper-v2) | firzahdzm | 0 | 0 | safetensors; llama; region:us |
+| 2026-10-17 11:08:07 | [kaopanboonyuen/KaoLEAF](https://huggingface.co/kaopanboonyuen/KaoLEAF) | kaopanboonyuen | 0 | 0 | pytorch; joblib; tabular; credit-scoring; credit-risk; loan… |
+| 2026-10-17 11:08:34 | [HYU-NLP-EVAL/qwen3-4b-medicine-static-pilot-261016-step-080](https://huggingface.co/HYU-NLP-EVAL/qwen3-4b-medicine-static-pilot-261016-step-080) | HYU-NLP-EVAL | 0 | 0 | region:us |
+| 2026-10-17 11:09:33 | [lerobotStudent/picking-items-one-position-v1_policy](https://huggingface.co/lerobotStudent/picking-items-one-position-v1_policy) | lerobotStudent | 0 | 0 | lerobot; safetensors; robotics; act; dataset:lerobotStudent… |
+| 2026-10-17 11:09:34 | [Ilham69/itr-r2i4f-0921-c7460d80-ship](https://huggingface.co/Ilham69/itr-r2i4f-0921-c7460d80-ship) | Ilham69 | 0 | 0 | region:us |
+| 2026-10-17 11:09:45 | [zehen8716/TRAINED7-LoRA](https://huggingface.co/zehen8716/TRAINED7-LoRA) | zehen8716 | 0 | 0 | region:us |
+| 2026-10-17 11:10:13 | [Bigchilli1978/reggie-five-eyes-8b-lora](https://huggingface.co/Bigchilli1978/reggie-five-eyes-8b-lora) | Bigchilli1978 | 0 | 0 | transformers; safetensors; text-generation-inference; unslo… |
+| 2026-10-17 11:10:29 | [talhakhanak002/math-solver-gemma-270M-fine-tune](https://huggingface.co/talhakhanak002/math-solver-gemma-270M-fine-tune) | talhakhanak002 | 0 | 1 | transformers; safetensors; gemma3_text; text-generation; ge… |
+| 2026-10-17 11:10:34 | [vanch007/MOSS-Image-SFT-mlx-bf16](https://huggingface.co/vanch007/MOSS-Image-SFT-mlx-bf16) | vanch007 | 0 | 0 | region:us |
+| 2026-10-17 11:11:15 | [Ilham69/itr-r4k2a-0928-8a3698d7-ship](https://huggingface.co/Ilham69/itr-r4k2a-0928-8a3698d7-ship) | Ilham69 | 0 | 0 | region:us |
+| 2026-10-17 11:12:09 | [theokiGuyOKI/flux-3-image-klein-GGUF](https://huggingface.co/theokiGuyOKI/flux-3-image-klein-GGUF) | theokiGuyOKI | 0 | 0 | gguf; flux; flux-3; comfyui; text-to-image; image-editing;… |
+| 2026-10-17 11:12:14 | [IhArmayau/malama-aira-9b](https://huggingface.co/IhArmayau/malama-aira-9b) | IhArmayau | 0 | 0 | peft; base_model:adapter:unsloth/gemma-2-9b-it-bnb-4bit; lo… |
+| 2026-10-17 11:12:20 | [proxydark174/Flux2-Dev-mixed-INT4-INT8-5.09bpw](https://huggingface.co/proxydark174/Flux2-Dev-mixed-INT4-INT8-5.09bpw) | proxydark174 | 0 | 0 | license:other; region:us |
+| 2026-10-17 11:13:28 | [xxris/Qwen2.5-Coder-32B-GGUF](https://huggingface.co/xxris/Qwen2.5-Coder-32B-GGUF) | xxris | 0 | 0 | gguf; code; qwen; qwen-coder; codeqwen; text-generation; en… |
+| 2026-10-17 11:13:57 | [Ilham69/itr-r4k2c-1012-d03e492b-ship](https://huggingface.co/Ilham69/itr-r4k2c-1012-d03e492b-ship) | Ilham69 | 0 | 0 | region:us |
+| 2026-10-17 11:14:27 | [yawar-abass/medgemma-cxr-openi-adapter](https://huggingface.co/yawar-abass/medgemma-cxr-openi-adapter) | yawar-abass | 0 | 1 | peft; safetensors; base_model:adapter:google/medgemma-1.5-4… |
+| 2026-10-17 11:14:48 | [Aftian2429/god-replica-b-krea2b-1149652a-s1](https://huggingface.co/Aftian2429/god-replica-b-krea2b-1149652a-s1) | Aftian2429 | 0 | 0 | region:us |
+| 2026-10-17 11:14:58 | [mlx-community/LightOnOCR-3-1B-mlx-4bit](https://huggingface.co/mlx-community/LightOnOCR-3-1B-mlx-4bit) | mlx-community | 0 | 0 | mlx; safetensors; mistral3; ocr; document-understanding; vi… |
+| 2026-10-17 11:17:36 | [rubimk7/quentin](https://huggingface.co/rubimk7/quentin) | rubimk7 | 0 | 0 | region:us |
+| 2026-10-17 11:17:53 | [hon-lu/craft-mlt-25k-onnx-fp16](https://huggingface.co/hon-lu/craft-mlt-25k-onnx-fp16) | hon-lu | 0 | 0 | onnx; craft; text-detection; manga; object-detection; licen… |
+| 2026-10-17 11:18:07 | [hadi124/keywords](https://huggingface.co/hadi124/keywords) | hadi124 | 0 | 0 | license:apache-2.0; region:us |
+| 2026-10-17 11:18:25 | [pavannanjunda333/act_so101_cube_in_box](https://huggingface.co/pavannanjunda333/act_so101_cube_in_box) | pavannanjunda333 | 0 | 0 | lerobot; safetensors; act; robotics; dataset:pavannanjunda3… |
+| 2026-10-17 11:18:27 | [Note-Taker/q-Taxi-v4](https://huggingface.co/Note-Taker/q-Taxi-v4) | Note-Taker | 0 | 0 | Taxi-v3; q-learning; reinforcement-learning; custom-impleme… |
+| 2026-10-17 11:19:15 | [vlapky/vosk-tts-ru-0.10-webgpu-fp16](https://huggingface.co/vlapky/vosk-tts-ru-0.10-webgpu-fp16) | vlapky | 0 | 0 | license:apache-2.0; region:us |
+| 2026-10-17 11:19:21 | [harshada14/guardianai-model](https://huggingface.co/harshada14/guardianai-model) | harshada14 | 0 | 0 | region:us |
 
 ## Data source
 
