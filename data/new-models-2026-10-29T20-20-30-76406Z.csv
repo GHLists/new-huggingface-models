@@ -1,0 +1,242 @@
+created_at,model,author,downloads,likes,tags
+2026-10-29T19:20:57Z,ahdrage/norsk-parakeet,ahdrage,0,0,transformers; safetensors; parakeet_tdt; feature-extraction; parakeet; tdt; norwegian; speech-recognition; automatic-speech-recognition; no; nb; base_model:moondream/parakeet-ultra; base_model:finetu…
+2026-10-29T19:21:07Z,alfred8995/r18-a2-w13-k-chrono5-w20-s130,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T19:21:20Z,TheFireThief/sn92-gen-f2,TheFireThief,0,0,safetensors; qwen3_5; region:us
+2026-10-29T19:21:31Z,NiuNew/Franka_FR3_5cube,NiuNew,0,0,safetensors; license:apache-2.0; region:us
+2026-10-29T19:21:34Z,alfred8995/r18-a2-w13-k-native-w15-s130,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T19:21:36Z,HlibPlakhtii/microduck-tug-quicksilver-v8,HlibPlakhtii,0,0,microduck; onnx; microduck-policy; robotics; base_model:jrubiosainz/microduck-game-tug-remix9; base_model:finetune:jrubiosainz/microduck-game-tug-remix9; region:us
+2026-10-29T19:21:51Z,ajeetkumarupman/af6220,ajeetkumarupman,0,0,region:us
+2026-10-29T19:22:17Z,codecainecowboy/TMIG,codecainecowboy,0,0,region:us
+2026-10-29T19:22:35Z,debudash/slm-training,debudash,0,0,timezone; evaluation; fine-tuning; code; region:us
+2026-10-29T19:22:40Z,HlibPlakhtii/microduck-hill-quicksilver-v3,HlibPlakhtii,0,0,microduck; onnx; microduck-policy; robotics; base_model:rumezhak/microduck-hill-remix-leader3; base_model:finetune:rumezhak/microduck-hill-remix-leader3; license:apache-2.0; region:us
+2026-10-29T19:22:44Z,alfred8995/r18-a2-a-s20k5-x30,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T19:22:54Z,pedrojb04/triunfo,pedrojb04,0,0,peft; safetensors; lora; tool-calling; supervised-fine-tuning; qwen2; text-generation; conversational; en; dataset:Team-ACE/ToolACE; base_model:Qwen/Qwen2.5-1.5B-Instruct; base_model:adapter:Qwen/Qwe…
+2026-10-29T19:23:12Z,alfred8995/r18-a2-a-s20k5-x25,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T19:23:24Z,Aftian2429/g56lab-1019-dflt2-ccc9-s2,Aftian2429,0,0,region:us
+2026-10-29T19:23:38Z,alfred8995/r18-a2-a-s20k5-x40,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T19:23:48Z,delavalom/embeddinggemma-2-coreml,delavalom,0,0,coreml; embeddings; multimodal-embedding; image-text; sentence-similarity; ios; macos; neural-engine; feature-extraction; base_model:google/embeddinggemma-2; base_model:quantized:google/embeddinggemm…
+2026-10-29T19:23:53Z,defcdrh/GLM-5.3-UNCENSORED-FP8,defcdrh,0,0,safetensors; glm_moe_dsa; abliterated; uncensored; crack; refusal-removed; glm; moe; fp8; text-generation; conversational; en; zh; ru; sr; hi; fr; es; ar; ko; ja; base_model:zai-org/GLM-5.3; base_mod…
+2026-10-29T19:24:04Z,alfred8995/r18-a2-w13-k-chrono4-w30-s130,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T19:24:05Z,asparius/qwen3.5-Base-lorasdf__432-neutral,asparius,0,0,transformers; safetensors; generated_from_trainer; sft; trl; base_model:Qwen/Qwen3.5-9B-Base; base_model:finetune:Qwen/Qwen3.5-9B-Base; endpoints_compatible; region:us
+2026-10-29T19:24:26Z,IshaanGawde/nlp-workbench-yelp-distilbert-sentiment,IshaanGawde,0,0,safetensors; distilbert; sentiment-analysis; yelp-polarity; educational-project; text-classification; base_model:distilbert/distilbert-base-uncased; base_model:finetune:distilbert/distilbert-base-unc…
+2026-10-29T19:24:30Z,alfred8995/r18-a2-w13-k-chrono5-w20-s100,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T19:24:39Z,Cisco1963/llmplasticity-en_nl_linear_8-d0.1-c0.9-r0.8-s42,Cisco1963,0,0,safetensors; gpt2; region:us
+2026-10-29T19:24:56Z,alfred8995/r18-a2-w13-k-chrono5-w30-s100,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T19:25:18Z,bx6d/r2s2r-pi05-four-datasets,bx6d,0,0,safetensors; robotics; pi0.5; openpi; imitation-learning; xarm6; mujoco; synthetic; dataset:bx6d/r2s2r-pushing-diverse400-v2; dataset:bx6d/r2s2r-six-tasks-diverse720-fast-v2; dataset:bx6d/r2s2r-flipp…
+2026-10-29T19:25:22Z,alfred8995/r18-a2-w13-k-native-w20-s130,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T19:25:32Z,mradermacher/EchoSwift-700M-i1-GGUF,mradermacher,0,0,transformers; gguf; echoflow; echoswift; on-device; android; edge-ai; tool-calling; search; artifacts; litertlm; liquid-foundation-model; lfm2; en; base_model:adityavardhansharma/EchoSwift-700M; base…
+2026-10-29T19:25:38Z,VedaVachan/kcat-km-v6,VedaVachan,0,0,region:us
+2026-10-29T19:25:40Z,harsha001812/llm,harsha001812,0,0,region:us
+2026-10-29T19:25:47Z,VedaVachan/kcat-km-v7,VedaVachan,0,0,region:us
+2026-10-29T19:25:50Z,alfred8995/r18-a2-w13-k-native-w30-s130,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T19:26:20Z,alfred8995/r18-a2-w13-k-native-w20-s100,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T19:26:50Z,alfred8995/r18-a2-w13-k-native-w15-s100,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T19:27:09Z,cupnb/smolvla_isaacsim_step-0_0.0.6_more_corrections_30k,cupnb,0,0,safetensors; region:us
+2026-10-29T19:27:19Z,alfred8995/r18-a2-w13-k-native-w30-s100,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T19:27:20Z,Nivee2B/Qwen-Image-2.1-Uncensored-Quantized,Nivee2B,0,1,gguf; qwen; image-generation; comfyui; comfyui-gguf; mlx; fp8; nvfp4; text-to-image; base_model:Qwen/Qwen-Image-2.1; base_model:quantized:Qwen/Qwen-Image-2.1; license:other; region:us
+2026-10-29T19:27:48Z,dharun2049/GraphFRA-X-GRPO,dharun2049,0,0,safetensors; region:us
+2026-10-29T19:27:51Z,alfred8995/r18-a2-w13-k-chrono4-w20-s100,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T19:28:26Z,alfred8995/r18-a2-w13-k-chrono4-w30-s100,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T19:28:32Z,RoccoIver/MyAwesomeModel-TestRepo,RoccoIver,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-10-29T19:28:34Z,Masnuy/itr-krea2-te2ctl-1030-14bcd309-ship,Masnuy,0,0,region:us
+2026-10-29T19:28:40Z,cupnb/smolvla_isaacsim_step-0_0.0.6_offset_30k,cupnb,0,0,safetensors; region:us
+2026-10-29T19:28:52Z,alfred8995/r18-a2-w13-k-chrono5-w20-s160,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T19:28:57Z,Lifan-Z/protGPT2_AMR_proteins-homolog-512-each_2026-4-Full-Finetuning,Lifan-Z,0,0,safetensors; gpt2; region:us
+2026-10-29T19:29:17Z,alfred8995/r18-a2-w13-k-chrono5-w30-s160,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T19:29:44Z,alfred8995/r18-a2-w13-k-native-w20-s160,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T19:30:08Z,chi1818/Llama-3.1-8B-SFT_after_DPO2_130000-GGUF,chi1818,0,0,gguf; endpoints_compatible; region:us
+2026-10-29T19:30:25Z,alfred8995/r18-a2-w13-k-native-w15-s160,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T19:30:41Z,AbhijeetKumar2125/da3410-ec-cnn,AbhijeetKumar2125,0,0,region:us
+2026-10-29T19:30:56Z,alfred8995/r18-a2-w13-k-native-w30-s160,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T19:31:25Z,alfred8995/r18-a2-w13-k-chrono4-w20-s160,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T19:31:39Z,MathMindsAGI/dapo_en_30b_int8_replay_layers_routing_seed0_step200,MathMindsAGI,0,0,region:us
+2026-10-29T19:32:29Z,Mo-Abdalkader/qwen2.5-3b-en-to-eg-ar-merged,Mo-Abdalkader,0,0,safetensors; qwen2; region:us
+2026-10-29T19:32:35Z,jrgil/edge-clean-copilot-1.5b-gguf,jrgil,0,1,gguf; clean-architecture; hexagonal-architecture; code-refactoring; llama-cpp; edge-ai; typescript; lora; text-generation; en; es; base_model:Qwen/Qwen2.5-Coder-1.5B-Instruct; base_model:adapter:Qwen…
+2026-10-29T19:32:48Z,alfred8995/r18-a2-w13-k-chrono4-w30-s160,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T19:33:48Z,cosmicstack/cosmic-lightning,cosmicstack,0,1,transformers; safetensors; lfm3; text-generation; llm; language-model; open-source; instruction-following; conversational; custom_code; en; license:apache-2.0; region:us
+2026-10-29T19:34:36Z,NiuNew/Franka_FR3_press_button,NiuNew,0,0,safetensors; license:apache-2.0; region:us
+2026-10-29T19:35:38Z,alfred8995/r18-a2-k-c5-w30-s130-x30,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T19:35:40Z,cwaud/tournament-exp-s1-bd68b438-f829-4ffb-9a03-66fc4489d0c3-5Exp0942ad35d85bfc89,cwaud,0,0,safetensors; bloom; region:us
+2026-10-29T19:35:46Z,Jordansky/itr-tn-fl-2a803966-ship,Jordansky,0,0,region:us
+2026-10-29T19:36:00Z,alfred8995/r18-a2-k-c5-w30-s130-x20,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T19:36:09Z,saatwiksy/olmoe-partitions,saatwiksy,0,0,region:us
+2026-10-29T19:36:28Z,RyanYr/asyncrl-async_s5_mb8_grpg_kloldref_truncneg1_stepold_ev128-gs400,RyanYr,0,0,region:us
+2026-10-29T19:36:37Z,johngreendr2/sn38-corpus-a-scored-wikipedia_tima,johngreendr2,0,0,region:us
+2026-10-29T19:36:43Z,chi1818/Llama-3.1-8B-DPO_round3merge3-GGUF,chi1818,0,0,gguf; endpoints_compatible; region:us
+2026-10-29T19:38:08Z,EvaanCarloss/Natural_Language_Processing_with_Disaster_Tweets,EvaanCarloss,0,0,region:us
+2026-10-29T19:38:13Z,Cisco1963/llmplasticity-en_nl_linear_8-d0.1-c0.999-r0.8-s42,Cisco1963,0,0,safetensors; gpt2; region:us
+2026-10-29T19:38:14Z,taleef/jobtrail-lfm2.5-350m-GGUF,taleef,0,0,gguf; llama.cpp; structured-output; information-extraction; on-device; text-generation; en; dataset:taleef/jobtrail-field-notes; base_model:LiquidAI/LFM2.5-350M; base_model:finetune:LiquidAI/LFM2.5-3…
+2026-10-29T19:38:27Z,NiuNew/Franka_FR3_real_robot,NiuNew,0,0,safetensors; license:apache-2.0; region:us
+2026-10-29T19:38:50Z,alfred8995/r18-a2-w13-kx-chrono5-w20-s130,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T19:39:26Z,alfred8995/r18-a2-a-s20k5-x60,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T19:39:28Z,Aftian2429/g56lab-1019-dflt2-281-s4,Aftian2429,0,0,region:us
+2026-10-29T19:39:57Z,alfred8995/r18-a2-a-s20k5-x100,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T19:40:12Z,RootML/Nanbeige4.1-3B,RootML,0,0,transformers; safetensors; llama; text-generation; llm; nanbeige; conversational; en; zh; arxiv:2602.13367; base_model:Nanbeige/Nanbeige4-3B-Base; base_model:finetune:Nanbeige/Nanbeige4-3B-Base; lice…
+2026-10-29T19:40:14Z,cwaud/tournament-exp-s1-85c8d739-4680-4e67-ac53-fdfeb34d3b8b-5Exp0942ad35d85bfc89,cwaud,0,0,safetensors; llama; region:us
+2026-10-29T19:41:01Z,alfred8995/r18-a2-w13-k-chrono5-w40-s130,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T19:41:26Z,alfred8995/r18-a2-w13-k-chrono5-w40-s100,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T19:41:31Z,huggingface-mic/albert-base-v2-mic,huggingface-mic,0,0,safetensors; albert; mic; test-artifact; base_model:albert/albert-base-v2; base_model:finetune:albert/albert-base-v2; region:us
+2026-10-29T19:41:41Z,huggingface-mic/bloomz-560m-mic,huggingface-mic,0,0,region:us
+2026-10-29T19:41:56Z,alfred8995/r18-a2-w13-kx-chrono5-w30-s130,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T19:42:03Z,huggingface-mic/Qwen3.5-0.8B-text-only-mic,huggingface-mic,0,0,safetensors; qwen3_5_text; mic; test-artifact; base_model:principled-intelligence/Qwen3.5-0.8B-text-only; base_model:finetune:principled-intelligence/Qwen3.5-0.8B-text-only; region:us
+2026-10-29T19:42:07Z,NiuNew/Franka_FR3_rebar,NiuNew,0,0,safetensors; license:apache-2.0; region:us
+2026-10-29T19:42:08Z,huggingface-mic/granite-3.1-2b-instruct-mic,huggingface-mic,0,0,safetensors; granite; mic; test-artifact; base_model:ibm-granite/granite-3.1-2b-instruct; base_model:finetune:ibm-granite/granite-3.1-2b-instruct; region:us
+2026-10-29T19:42:22Z,alfred8995/r18-a2-w13-kx-native-w20-s130,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T19:42:33Z,jacopof/lumina-complete,jacopof,0,0,onnx; region:us
+2026-10-29T19:42:52Z,xhsioi/MyAwesomeModel-TestRepo,xhsioi,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-10-29T19:43:03Z,alfred8995/r18-a2-w13-k-chrono5-w60-s130,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T19:43:28Z,alfred8995/r18-a2-w13-kx-native-w15-s130,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T19:43:57Z,alfred8995/r18-a2-w13-kx-native-w30-s130,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T19:43:58Z,mingshi1214/banana-train,mingshi1214,0,0,lerobot; safetensors; robotics; fact; dataset:mingshi1214/ur_banana_dataset1; license:apache-2.0; region:us
+2026-10-29T19:44:27Z,alfred8995/r18-a2-w13-kx-chrono4-w20-s130,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T19:45:04Z,alfred8995/r18-a2-w13-kx-chrono4-w30-s130,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T19:45:13Z,MathMindsAGI/dapo_en_30b_int8_replay_layers_routing_ste_seed0_step200,MathMindsAGI,0,0,region:us
+2026-10-29T19:45:25Z,npario/HemmingwayAI_Hemmingway-1.5-GGUF,npario,0,0,gguf; qwen3.8; chat; creative-writing; humanizer; hemmingway; text-generation; en; base_model:HemmingwayAI/Hemmingway-1.5; base_model:quantized:HemmingwayAI/Hemmingway-1.5; license:cc-by-nc-4.0; endp…
+2026-10-29T19:45:30Z,alfred8995/r18-a2-w13-kx-chrono5-w20-s100,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T19:45:34Z,uncoalesced/parentheses-v0.9-130M-v3,uncoalesced,0,0,safetensors; parentheses; uncoalesced; linear-attention; state-space-duality; recurrent-memory; dravidian; mamba2-family; kn; ta; te; ml; en; license:apache-2.0; region:us
+2026-10-29T19:45:55Z,uncoalesced/parentheses-0.9-120M,uncoalesced,0,0,region:us
+2026-10-29T19:45:56Z,huggingface-mic/dinov3-vitl16-pretrain-lvd1689m-mic,huggingface-mic,0,0,safetensors; dinov3_vit; mic; test-artifact; base_model:camenduru/dinov3-vitl16-pretrain-lvd1689m; base_model:finetune:camenduru/dinov3-vitl16-pretrain-lvd1689m; region:us
+2026-10-29T19:45:56Z,alfred8995/r18-a2-w13-kx-chrono5-w30-s100,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T19:46:04Z,TizzyT566/LFM3-VL-2B-NVFP4-GGUF,TizzyT566,0,0,llama.cpp; gguf; liquid; lfm3; vision-language; nvfp4; image-text-to-text; base_model:LiquidAI/LFM3-VL-2B-NVFP4; base_model:quantized:LiquidAI/LFM3-VL-2B-NVFP4; license:other; endpoints_compatible; r…
+2026-10-29T19:46:21Z,huggingface-mic/wavlm-base-plus-mic,huggingface-mic,0,0,safetensors; wavlm; mic; test-artifact; base_model:microsoft/wavlm-base-plus; base_model:finetune:microsoft/wavlm-base-plus; region:us
+2026-10-29T19:46:23Z,alfred8995/r18-a2-w13-kx-native-w20-s100,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T19:46:44Z,RyanYr/asyncrl-async_s5_mb8_klold_pg_b0p01_stepold_ev128-gs280,RyanYr,0,0,region:us
+2026-10-29T19:46:47Z,aPOogo/GLM-5.3-UNCENSORED-EXL3-3.0bpw,aPOogo,0,0,exllamav3; safetensors; glm_moe_dsa; exl3; glm; moe; uncensored; text-generation; conversational; base_model:dealignai/GLM-5.3-UNCENSORED-FP8; base_model:quantized:dealignai/GLM-5.3-UNCENSORED-FP8; l…
+2026-10-29T19:46:51Z,alfred8995/r18-a2-w13-kx-native-w15-s100,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T19:47:20Z,alfred8995/r18-a2-w13-kx-native-w30-s100,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T19:47:20Z,sam4876/scottyrl-a3-p5_textcraft_grpo,sam4876,0,0,peft; safetensors; tinker; lora; scottyrl; 11-768; base_model:Qwen/Qwen3.5-4B; base_model:adapter:Qwen/Qwen3.5-4B; region:us
+2026-10-29T19:47:38Z,huggingface-mic/GLM-OCR-mic,huggingface-mic,0,0,region:us
+2026-10-29T19:47:48Z,alfred8995/r18-a2-w13-kx-chrono4-w20-s100,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T19:47:53Z,Same0620/si-study-organisms,Same0620,0,0,peft; safetensors; story-imprinting; lora; interpretability; base_model:Qwen/Qwen3.6-27B; base_model:adapter:Qwen/Qwen3.6-27B; region:us
+2026-10-29T19:48:14Z,alfred8995/r18-a2-w13-kx-chrono4-w30-s100,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T19:48:38Z,huggingface-mic/GLM-4.7-Flash-mic,huggingface-mic,0,0,safetensors; glm4_moe_lite; mic; test-artifact; base_model:zai-org/GLM-4.7-Flash; base_model:finetune:zai-org/GLM-4.7-Flash; region:us
+2026-10-29T19:48:38Z,taharmasmaliyev07/Gemma4-E4B-ASR-E2-BF16,taharmasmaliyev07,0,0,transformers; safetensors; gemma4; image-text-to-text; text-generation-inference; unsloth; conversational; en; base_model:taharmasmaliyev07/Gemma4-E4B-ASR-E2-BF16; base_model:finetune:taharmasmaliyev…
+2026-10-29T19:48:39Z,alfred8995/r18-a2-w13-kx-chrono5-w20-s160,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T19:48:44Z,Jeesup/svd-safety-shifted-l2_mixed_remove0.4_rho0.001,Jeesup,0,0,safetensors; llama; model-compression; safety-evaluation; base_model:meta-llama/Llama-2-7b-chat-hf; base_model:finetune:meta-llama/Llama-2-7b-chat-hf; license:llama2; region:us
+2026-10-29T19:49:04Z,alfred8995/r18-a2-w13-kx-chrono5-w30-s160,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T19:49:07Z,yyuanuw/hop2-off_web_r2v_tokanc_mbis_v2-gs100-model,yyuanuw,0,0,region:us
+2026-10-29T19:49:07Z,yyuanuw/hop2-off_web_v2r_tokanc_mbis_v2-gs40-model,yyuanuw,0,0,region:us
+2026-10-29T19:49:07Z,bench-induction-ai/MyAwesomeModel-TestRepo,bench-induction-ai,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-10-29T19:49:18Z,huggingface-mic/GLM-4.5-Air-mic,huggingface-mic,0,0,safetensors; glm4_moe; mic; test-artifact; base_model:zai-org/GLM-4.5-Air; base_model:finetune:zai-org/GLM-4.5-Air; region:us
+2026-10-29T19:49:28Z,alfred8995/r18-a2-w13-kx-native-w20-s160,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T19:49:58Z,alfred8995/r18-a2-w13-k-chrono5-w60-s100,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T19:50:11Z,manuelgscom/askmdb-0.8b-GGUF,manuelgscom,0,0,gguf; mongodb; text-to-query; nl2query; llama.cpp; cli; text-generation; es; en; base_model:Qwen/Qwen3.5-0.8B; base_model:finetune:Qwen/Qwen3.5-0.8B; license:apache-2.0; model-index; endpoints_compat…
+2026-10-29T19:50:20Z,tooldev/MyAwesomeModel-TestRepo,tooldev,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-10-29T19:50:25Z,alfred8995/r18-a2-w13-k-chrono5-w80-s100,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T19:50:39Z,NiuNew/Franka_FR3_valve,NiuNew,0,0,safetensors; license:apache-2.0; region:us
+2026-10-29T19:50:45Z,yyuanuw/hop2-off_web_v2r_tokanc_mbis_v2-gs40,yyuanuw,0,0,region:us
+2026-10-29T19:50:46Z,manuelgscom/askmdb-2b-GGUF,manuelgscom,0,0,gguf; mongodb; text-to-query; nl2query; llama.cpp; cli; text-generation; es; en; base_model:Qwen/Qwen3.5-2B; base_model:finetune:Qwen/Qwen3.5-2B; license:apache-2.0; model-index; endpoints_compatible…
+2026-10-29T19:50:54Z,alfred8995/r18-a2-w13-kx-native-w15-s160,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T19:51:24Z,alfred8995/r18-a2-w13-kx-native-w30-s160,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T19:51:31Z,KomorAI/minimini-slodziak-v1-0.41M,KomorAI,0,0,region:us
+2026-10-29T19:51:33Z,huggingface-mic/Unlimited-OCR-mic,huggingface-mic,0,0,safetensors; unlimited_ocr; mic; test-artifact; custom_code; base_model:baidu/Unlimited-OCR; base_model:finetune:baidu/Unlimited-OCR; region:us
+2026-10-29T19:51:39Z,manuelgscom/askmdb-4b-GGUF,manuelgscom,0,0,gguf; mongodb; text-to-query; nl2query; llama.cpp; cli; vulkan; text-generation; es; en; base_model:Qwen/Qwen3.5-4B; base_model:finetune:Qwen/Qwen3.5-4B; license:apache-2.0; model-index; endpoints_co…
+2026-10-29T19:51:54Z,alfred8995/r18-a2-w13-kx-chrono4-w20-s160,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T19:52:05Z,DeltonLabs/TT-A-Micro,DeltonLabs,0,0,safetensors; tta_model; custom_code; license:apache-2.0; region:us
+2026-10-29T19:52:21Z,alfred8995/r18-a2-w13-kx-chrono4-w30-s160,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T19:53:02Z,alfred8995/r18-a2-w13-k-chrono5-w40-s160,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T19:53:19Z,Shooter57/ae1v2test,Shooter57,0,0,diffusers; text-to-image; lora; template:diffusion-lora; base_model:krea/Krea-2-Raw; base_model:adapter:krea/Krea-2-Raw; region:us
+2026-10-29T19:53:23Z,manuelgscom/askmdb-9b-GGUF,manuelgscom,0,1,gguf; mongodb; text-to-query; nl2query; llama.cpp; cli; vulkan; text-generation; es; en; base_model:Qwen/Qwen3.5-9B; base_model:finetune:Qwen/Qwen3.5-9B; license:apache-2.0; model-index; endpoints_co…
+2026-10-29T19:53:24Z,huggingface-mic/MiniMax-M2.5-mic,huggingface-mic,0,0,safetensors; minimax_m2; mic; test-artifact; custom_code; base_model:MiniMaxAI/MiniMax-M2.5; base_model:finetune:MiniMaxAI/MiniMax-M2.5; region:us
+2026-10-29T19:53:50Z,alfred8995/r18-a2-w13-k-chrono5-w60-s160,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T19:54:16Z,alfred8995/r18-a2-w13-k-chrono5-w80-s130,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T19:54:17Z,macrocosm-os/iota-decide-4b-v0.4,macrocosm-os,0,0,transformers; safetensors; qwen3_5; image-text-to-text; typed-decisions; conversational; en; base_model:Qwen/Qwen3.5-4B; base_model:finetune:Qwen/Qwen3.5-4B; license:apache-2.0; endpoints_compatible;…
+2026-10-29T19:54:55Z,nazeshinjite/Qwen3.8-Flash-Next-DFlash2-GGUF,nazeshinjite,0,0,license:apache-2.0; region:us
+2026-10-29T19:54:56Z,alfred8995/r18-a2-w13-k-chrono5-w80-s160,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T19:55:07Z,mradermacher/Klyrune-2B-Coder-i1-GGUF,mradermacher,0,0,gguf; region:us
+2026-10-29T19:55:30Z,syssec-utd/pylingual-shared-segmentation-v1,syssec-utd,0,0,license:other; region:us
+2026-10-29T19:57:06Z,attacker8324/linkmodel5048,attacker8324,0,0,dataset:attacker8324/upriv271moved; license:mit; region:us
+2026-10-29T19:57:43Z,litert-community/LFM3-Audio-2B-LiteRT,litert-community,0,0,litert-lm; tflite; litert; on-device; edge; audio; speech; asr; tts; liquid; lfm3; any-to-any; en; base_model:LiquidAI/LFM3-Audio-2B; base_model:quantized:LiquidAI/LFM3-Audio-2B; license:other; regio…
+2026-10-29T19:58:08Z,abulafia2001/confirm-gate-qwen3-4b,abulafia2001,0,0,safetensors; qwen3; region:us
+2026-10-29T19:59:08Z,rhasspy/voice-labs-models,rhasspy,0,0,onnx; automatic-speech-recognition; voice-assistant; home-assistant; en; license:other; region:us
+2026-10-29T19:59:44Z,ShahriarFerdoush/llama3-8b-med-math-regmean-a10-k100,ShahriarFerdoush,0,0,transformers; safetensors; llama; text-generation; arxiv:1910.09700; text-generation-inference; endpoints_compatible; region:us
+2026-10-29T20:00:03Z,J0nath4n/c0l3ction,J0nath4n,0,0,region:us
+2026-10-29T20:00:26Z,lyutovad/my_awesome_wnut_model,lyutovad,0,0,transformers; tensorboard; safetensors; distilbert; token-classification; generated_from_trainer; dataset:wnut_17; base_model:distilbert/distilbert-base-uncased; base_model:finetune:distilbert/distil…
+2026-10-29T20:00:52Z,nikghodki/microduck-sprint-lookup-v1,nikghodki,0,0,microduck; onnx; robotics; license:apache-2.0; region:us
+2026-10-29T20:00:54Z,Kami0867/Qwen-2.5-3B-Resume-Evaluator,Kami0867,0,0,peft; safetensors; base_model:adapter:Qwen/Qwen2.5-3B-Instruct; lora; transformers; resume-screener; hr-tech; recruitment; json-generation; qwen2.5; text-generation; conversational; en; base_model:Qw…
+2026-10-29T20:01:19Z,jrubiosainz/microduck-game-tug-remix10,jrubiosainz,0,0,microduck; onnx; robotics; reinforcement-learning; base_model:HlibPlakhtii/microduck-tug-quicksilver-v1; base_model:merge:HlibPlakhtii/microduck-tug-quicksilver-v1; base_model:HlibPlakhtii/microduck-…
+2026-10-29T20:01:53Z,alfred8995/r18-a2-w13-k-chrono4-w40-s100,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T20:02:02Z,faradailab/guard-pplx-decider,faradailab,0,0,gguf; ollama; security; farad-ai-guard; policy-enforcement; base_model:Jakevin/pplx-decider-flash-v1.2-GGUF; base_model:quantized:Jakevin/pplx-decider-flash-v1.2-GGUF; license:apache-2.0; endpoints_c…
+2026-10-29T20:02:03Z,faradailab/guard-mica-v0.5,faradailab,0,0,gguf; ollama; security; farad-ai-guard; policy-enforcement; base_model:mradermacher/Mica-v0.5-4B-GGUF; base_model:quantized:mradermacher/Mica-v0.5-4B-GGUF; license:apache-2.0; endpoints_compatible; r…
+2026-10-29T20:02:05Z,faradailab/guard-liquid-d1,faradailab,0,0,gguf; ollama; security; farad-ai-guard; policy-enforcement; base_model:LiquidAI/d1-3B-GGUF; base_model:quantized:LiquidAI/d1-3B-GGUF; license:apache-2.0; endpoints_compatible; region:us; decision-mod…
+2026-10-29T20:02:20Z,alfred8995/r18-a2-w13-k-chrono4-w40-s130,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T20:02:23Z,huggingface-mic/longformer-base-4096-mic,huggingface-mic,0,0,safetensors; longformer; mic; test-artifact; base_model:allenai/longformer-base-4096; base_model:finetune:allenai/longformer-base-4096; region:us
+2026-10-29T20:02:46Z,alfred8995/r18-a2-w13-k-chrono4-w40-s160,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T20:03:15Z,alfred8995/r18-a2-w13-k-chrono4-w60-s100,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T20:03:40Z,alfred8995/r18-a2-w13-k-chrono4-w60-s130,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T20:03:50Z,sel3a92i/storm-lora-final,sel3a92i,0,0,region:us
+2026-10-29T20:04:05Z,toolathlon-mai/MyAwesomeModel-TestRepo,toolathlon-mai,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-10-29T20:04:06Z,alfred8995/r18-a2-w13-k-chrono5-w100-s100,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T20:04:30Z,huggingface-mic/mask2former-swin-tiny-coco-instance-mic,huggingface-mic,0,0,safetensors; mask2former; mic; test-artifact; base_model:facebook/mask2former-swin-tiny-coco-instance; base_model:finetune:facebook/mask2former-swin-tiny-coco-instance; region:us
+2026-10-29T20:04:31Z,alfred8995/r18-a2-w13-k-chrono5-w150-s100,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T20:04:57Z,alfred8995/r18-a2-w13-kx-chrono5-w60-s100,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T20:05:09Z,coreytoolathon/MyAwesomeModel-TestRepo,coreytoolathon,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-10-29T20:05:11Z,Aftian2429/g56lab-1019-dflt2-281-s3,Aftian2429,0,0,region:us
+2026-10-29T20:05:11Z,marciano1111/masi,marciano1111,0,0,region:us
+2026-10-29T20:05:24Z,alfred8995/r18-a2-w13-k-chrono4-w60-s160,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T20:05:37Z,rmascheti/qwen2.5-0.5b-reviews-ptbr,rmascheti,0,0,region:us
+2026-10-29T20:05:49Z,alfred8995/r18-a2-w13-k-chrono5-w100-s130,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T20:05:59Z,AbhijeetKumar2125/da3410-ec-retrieval-v4,AbhijeetKumar2125,0,0,region:us
+2026-10-29T20:06:14Z,alfred8995/r18-a2-w13-k-chrono5-w100-s160,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T20:06:43Z,alfred8995/r18-a2-w13-k-chrono5-w150-s130,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T20:06:51Z,Flohrex/ppo-LunarLander-v2,Flohrex,0,0,stable-baselines3; LunarLander-v2; deep-reinforcement-learning; reinforcement-learning; model-index; region:us
+2026-10-29T20:07:10Z,alfred8995/r18-a2-w13-k-chrono5-w150-s160,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T20:07:34Z,mohamed-essai/bert-fine-tuned-model,mohamed-essai,0,0,transformers; safetensors; camembert; fill-mask; arxiv:1910.09700; endpoints_compatible; region:us
+2026-10-29T20:07:36Z,alfred8995/r18-a2-w13-k-native-w60-s100,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T20:07:47Z,Jeesup/svd-safety-shifted-l3_utility_remove0.5_rho0,Jeesup,0,0,region:us
+2026-10-29T20:07:50Z,Jeesup/svd-safety-shifted-l3_utility_remove0.4_rho0,Jeesup,0,0,region:us
+2026-10-29T20:08:05Z,alfred8995/r18-a2-w13-k-native-w60-s130,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T20:08:05Z,Cisco1963/llmplasticity-en_nl_linear_8-d0.006-c0.99-r0.8-s42,Cisco1963,0,0,region:us
+2026-10-29T20:08:11Z,RyanYr/asyncrl-async_s5_mb8_grpg_kloldref_truncneg1_stepold_ev128-gs420,RyanYr,0,0,region:us
+2026-10-29T20:08:24Z,yyuanuw/hop2-off_web_r2v_tokanc_mbis_v2-gs120-model,yyuanuw,0,0,region:us
+2026-10-29T20:08:24Z,yyuanuw/hop2-off_web_r2v_tokanc_mbis_v2-gs120,yyuanuw,0,0,region:us
+2026-10-29T20:08:24Z,yyuanuw/hop2-off_web_r2v_geoanc_mbis-gs220,yyuanuw,0,0,region:us
+2026-10-29T20:08:36Z,alfred8995/r18-a2-w13-k-native-w60-s160,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T20:09:06Z,alfred8995/r18-a2-w13-kx-chrono4-w60-s100,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T20:09:25Z,emillykkegrann/ekko-pnc-ONNX,emillykkegrann,0,0,onnx; electra; punctuation-restoration; truecasing; danish; token-classification; da; base_model:RyeAI/ekko-pnc; base_model:quantized:RyeAI/ekko-pnc; license:cc-by-4.0; region:us
+2026-10-29T20:09:34Z,alfred8995/r18-a2-w13-kx-chrono4-w60-s130,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T20:09:53Z,thejagstudio/sd-turbo-webgpu-q4,thejagstudio,0,0,onnxruntime; onnx; webgpu; onnxruntime-web; quantized; sd-turbo; stable-diffusion; text-to-image; base_model:stabilityai/sd-turbo; base_model:quantized:stabilityai/sd-turbo; license:other; region:us
+2026-10-29T20:09:56Z,huggingface-mic/Hy-MT2-30B-A3B-mic,huggingface-mic,0,0,safetensors; hy_v3; mic; test-artifact; base_model:tencent/Hy-MT2-30B-A3B; base_model:finetune:tencent/Hy-MT2-30B-A3B; region:us
+2026-10-29T20:10:05Z,alfred8995/r18-a2-w13-kx-chrono4-w60-s160,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T20:10:18Z,Nekodeus/qwen2-5-3b-instruct-openvino,Nekodeus,0,0,openvino; qwen2; int8; text-generation; llm; qwen2.5; conversational; license:apache-2.0; region:us
+2026-10-29T20:10:19Z,yyuanuw/hop2-off_web_v2r_geoanc_mbis-gs200-model,yyuanuw,0,0,region:us
+2026-10-29T20:10:19Z,huggingface-mic/Mixtral-8x7B-Instruct-v0.1-mic,huggingface-mic,0,0,safetensors; mixtral; mic; test-artifact; base_model:mistralai/Mixtral-8x7B-Instruct-v0.1; base_model:finetune:mistralai/Mixtral-8x7B-Instruct-v0.1; region:us
+2026-10-29T20:10:32Z,mohamed-essai/bert-fine_tuned-model,mohamed-essai,0,0,transformers; camembert; fill-mask; arxiv:1910.09700; endpoints_compatible; region:us
+2026-10-29T20:10:52Z,alfred8995/r18-a2-w13-kx-chrono5-w40-s100,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T20:11:14Z,Parthdaiict/dil-v1-trained,Parthdaiict,0,0,safetensors; qwen2; region:us
+2026-10-29T20:11:20Z,mufasa1228/v-l3-a,mufasa1228,0,0,safetensors; region:us
+2026-10-29T20:11:21Z,alfred8995/r18-a2-w13-kx-chrono5-w40-s130,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T20:11:39Z,saiashish29/GNN-CV,saiashish29,0,0,region:us
+2026-10-29T20:11:53Z,huggingface-mic/LFM2.5-230M-Base-mic,huggingface-mic,0,0,safetensors; lfm2; mic; test-artifact; base_model:LiquidAI/LFM2.5-230M-Base; base_model:finetune:LiquidAI/LFM2.5-230M-Base; region:us
+2026-10-29T20:12:14Z,cwaud/tournament-exp-s1-33ed1dd1-15ee-4488-aa99-b7158329febc-5Expd4a81eecc0efed0f,cwaud,0,0,safetensors; qwen2; region:us
+2026-10-29T20:12:18Z,Jeesup/svd-safety-shifted-l3_mixed_remove0.4_rho0,Jeesup,0,0,region:us
+2026-10-29T20:12:20Z,yyuanuw/hop2-off_web_v2r_geoanc_mbis-gs200,yyuanuw,0,0,region:us
+2026-10-29T20:13:07Z,ash-astro/HaloGuard2.0-Stream-0.8B,ash-astro,0,0,transformers; safetensors; halo_stream_guard; token-classification; guard; safety; moderation; constitutional-classifier; output-safety; response-moderation; streaming; custom_code; en; base_model:Qw…
+2026-10-29T20:13:10Z,MathMindsAGI/dapo_en_30b_int8_replay_layers_routing_seed0_step220,MathMindsAGI,0,0,region:us
+2026-10-29T20:13:21Z,Masnuy/itr-krea2-te2on-1030-5c5744ca-ship,Masnuy,0,0,region:us
+2026-10-29T20:13:24Z,alfred8995/r18-a2-w13-kx-chrono5-w40-s160,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T20:13:38Z,ShellFace/axis_XePaZ1YU73YW,ShellFace,0,0,region:us
+2026-10-29T20:13:56Z,alfred8995/r18-a2-w13-kx-chrono5-w60-s130,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T20:14:15Z,huggingface-mic/yolos-small-mic,huggingface-mic,0,0,safetensors; yolos; mic; test-artifact; base_model:hustvl/yolos-small; base_model:finetune:hustvl/yolos-small; region:us
+2026-10-29T20:14:20Z,ketiholo/demo3_env_bias2_ch100,ketiholo,0,0,lerobot; safetensors; act; robotics; dataset:ketiholo/demo3; arxiv:2304.13705; license:apache-2.0; region:us
+2026-10-29T20:14:22Z,alfred8995/r18-a2-w13-kx-chrono5-w60-s160,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T20:14:47Z,huggingface-mic/owlv2-base-patch16-ensemble-mic,huggingface-mic,0,0,region:us
+2026-10-29T20:16:22Z,Franklalalala/tmp-natlan-fontaine-20261029-i04-b0017,Franklalalala,0,0,region:us
+2026-10-29T20:16:22Z,yyuanuw/hop2-sci_verl-P_react_s1-gs20,yyuanuw,0,0,region:us
+2026-10-29T20:16:44Z,ademis777/actors,ademis777,0,0,region:us
+2026-10-29T20:17:33Z,HirCoir/yue2-multigpu-kaggle,HirCoir,0,0,region:us
+2026-10-29T20:17:50Z,alfred8995/r18-a2-w14-k-chrono5-w60ft5-s150,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T20:18:15Z,alfred8995/r18-a2-w14-k-chrono5-w60ft2-s150,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T20:18:35Z,huggingface-mic/EuroBERT-210m-mic,huggingface-mic,0,0,region:us
+2026-10-29T20:18:45Z,alfred8995/r18-a2-w14-k-chrono4-w60ft5-s150,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T20:18:46Z,huggingface-mic/mt5-small-mic,huggingface-mic,0,0,region:us
+2026-10-29T20:19:10Z,alfred8995/r18-a2-w14-k-native-w30ft2-s150,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T20:19:13Z,ManyOtherFunctions/Yue2-WannabeTokenizer,ManyOtherFunctions,0,0,license:apache-2.0; region:us
+2026-10-29T20:19:14Z,Aftian2429/g56lab-1019-dflt2-c548-s3,Aftian2429,0,0,region:us
+2026-10-29T20:19:32Z,Prolokkmn/Qwen3.8-27B-Unleashed-GGUF,Prolokkmn,0,0,gguf; uncensored; abliterated; qwen3.8; imatrix; dynamic-quant; text-generation; en; zh; base_model:JonathanColetti/Qwen3.8-27B-Uncensored; base_model:quantized:JonathanColetti/Qwen3.8-27B-Uncensored…
+2026-10-29T20:19:35Z,Jordansky/fd19d59546273,Jordansky,0,0,safetensors; llama; region:us
+2026-10-29T20:19:38Z,gusornu/codeparrot-ds,gusornu,0,0,region:us
+2026-10-29T20:19:44Z,alfred8995/r18-a2-w14-kx-chrono5-w60ft2-s150,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-29T20:20:11Z,alfred8995/r18-a2-w14-k-chrono5-w60ft2l-s300,alfred8995,0,0,region:us
+2026-10-29T20:20:21Z,huggingface-mic/SmolVLM-256M-Instruct-mic,huggingface-mic,0,0,region:us
+2026-10-29T20:20:23Z,thousandml/Qwen3-8B-CQ-4bit,thousandml,0,0,region:us
