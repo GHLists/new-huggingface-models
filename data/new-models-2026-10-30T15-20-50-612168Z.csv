@@ -1,0 +1,367 @@
+created_at,model,author,downloads,likes,tags
+2026-10-30T14:24:33Z,RyanYr/hop2-abl_sci_react-P_verl_tok-gs80-model,RyanYr,0,0,region:us
+2026-10-30T14:24:42Z,RyanYr/hop2-abl_sci_react-P_verl_tok-full,RyanYr,0,0,region:us
+2026-10-30T14:25:06Z,nomadoor/qwen-image-2.1-360-panorama-outpaint-lora,nomadoor,0,0,diffusers; lora; qwen-image; image-editing; panorama; 360; equirectangular; base_model:Qwen/Qwen-Image-2.1; base_model:adapter:Qwen/Qwen-Image-2.1; license:other; region:us
+2026-10-30T14:25:29Z,yyuan244/hop2-abl_alf_verl-W_plan_check_geo-gs200-model,yyuan244,0,0,region:us
+2026-10-30T14:25:29Z,yyuan244/hop2-abl_sci_verl-A_react_geo-gs80-model,yyuan244,0,0,region:us
+2026-10-30T14:25:47Z,dleemiller/finecat-nli-v2-xs,dleemiller,0,0,sentence-transformers; safetensors; modernbert; cross-encoder; reranker; generated_from_trainer; ettin; mnli; snli; anli; nli; natural-language-inference; zero-shot-classification; text-classificatio…
+2026-10-30T14:26:00Z,kszlachcikowski/GLM-5.3-Flash-oQ8e-mtp,kszlachcikowski,0,0,region:us
+2026-10-30T14:26:01Z,yyuan244/hop2-abl_alf_react-A_verl_tok-full,yyuan244,0,0,region:us
+2026-10-30T14:26:01Z,yyuan244/hop2-abl_alf_react-P_verl_tok-gs100-model,yyuan244,0,0,region:us
+2026-10-30T14:26:01Z,yyuan244/hop2-abl_alf_react-A_verl_tok-gs100-model,yyuan244,0,0,region:us
+2026-10-30T14:26:03Z,yyuan244/hop2-abl_alf_react-W_plan_check_geo-gs160-model,yyuan244,0,0,region:us
+2026-10-30T14:26:03Z,yyuan244/hop2-abl_alf_react-P_verl_geo-full,yyuan244,0,0,region:us
+2026-10-30T14:26:03Z,yyuan244/hop2-abl_alf_react-P_verl_geo-gs160-model,yyuan244,0,0,region:us
+2026-10-30T14:26:05Z,RyanYr/hop2-abl_sci_react-W_plan_check_geo-gs40-model,RyanYr,0,0,region:us
+2026-10-30T14:26:09Z,RyanYr/hop2-abl_sci_react-W_plan_check_geo-full,RyanYr,0,0,region:us
+2026-10-30T14:26:25Z,yyuan244/hop2-abl_sci_verl-C_react_tok-gs40-model,yyuan244,0,0,region:us
+2026-10-30T14:26:25Z,yyuan244/hop2-abl_sci_verl-A_react_tok-gs120-model,yyuan244,0,0,region:us
+2026-10-30T14:26:25Z,yyuan244/hop2-abl_sci_verl-A_react_tok-full,yyuan244,0,0,region:us
+2026-10-30T14:26:28Z,rei-ma/madlad400-10b-mt-ct2-int8,rei-ma,0,0,ctranslate2; translation; madlad400; t5; int8; multilingual; arxiv:2309.04662; base_model:google/madlad400-10b-mt; base_model:quantized:google/madlad400-10b-mt; license:apache-2.0; region:us
+2026-10-30T14:26:32Z,dleemiller/finecat-nli-v2-xxs,dleemiller,0,0,license:apache-2.0; region:us
+2026-10-30T14:26:37Z,yyuan244/hop2-abl_alf_react-A_verl_geo-gs160-model,yyuan244,0,0,region:us
+2026-10-30T14:26:37Z,yyuan244/hop2-abl_alf_react-C_verl_tok-gs240-model,yyuan244,0,0,region:us
+2026-10-30T14:26:37Z,yyuan244/hop2-abl_alf_react-A_verl_geo-full,yyuan244,0,0,region:us
+2026-10-30T14:26:43Z,ASCXZ12EWDX/MyAwesomeModel-TestRepo,ASCXZ12EWDX,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-10-30T14:26:58Z,cyttic/hmt-trocrctc-geom1-s42,cyttic,0,0,safetensors; htr; ctc; he; license:mit; region:us
+2026-10-30T14:27:13Z,yyuan244/hop2-abl_alf_verl-C_react_tok-full,yyuan244,0,0,region:us
+2026-10-30T14:27:13Z,yyuan244/hop2-abl_alf_verl-P_react_tok-gs240-model,yyuan244,0,0,region:us
+2026-10-30T14:27:13Z,yyuan244/hop2-abl_alf_verl-C_react_tok-gs80-model,yyuan244,0,0,region:us
+2026-10-30T14:27:19Z,zalozbadev/korla-whisper-large-v3-turbo-hsb-v1-ggml,zalozbadev,0,0,text-to-speech; hsb; base_model:openai/whisper-large-v3-turbo; base_model:finetune:openai/whisper-large-v3-turbo; license:cc-by-sa-4.0; region:us
+2026-10-30T14:27:21Z,clear-blue-sky/cto08,clear-blue-sky,0,0,region:us
+2026-10-30T14:27:21Z,JokerJokerJoker/cat06b,JokerJokerJoker,0,0,region:us
+2026-10-30T14:27:21Z,brother-winter/bro07,brother-winter,0,0,region:us
+2026-10-30T14:27:26Z,nest102/god10,nest102,0,0,region:us
+2026-10-30T14:27:26Z,brother-winter/bro01b,brother-winter,0,0,region:us
+2026-10-30T14:27:26Z,nest102/god02,nest102,0,0,region:us
+2026-10-30T14:27:28Z,JokerJokerJoker/cat03b,JokerJokerJoker,0,0,region:us
+2026-10-30T14:27:28Z,mama-chen/mum02,mama-chen,0,0,region:us
+2026-10-30T14:27:33Z,RefinedNeuro/Qwen3.8-27b-noslop-v2-gguf,RefinedNeuro,0,0,region:us
+2026-10-30T14:27:34Z,RyanYr/hop2-abl_sci_verl-A_react_geo-full,RyanYr,0,0,region:us
+2026-10-30T14:27:35Z,PES24/spd04,PES24,0,0,region:us
+2026-10-30T14:27:40Z,RyanYr/hop2-abl_sci_verl-C_react_geo-full,RyanYr,0,0,region:us
+2026-10-30T14:27:47Z,nest102/god08,nest102,0,0,region:us
+2026-10-30T14:27:47Z,mama-to/mot06b,mama-to,0,0,region:us
+2026-10-30T14:27:51Z,PES24/spd07b,PES24,0,0,region:us
+2026-10-30T14:27:51Z,mama-to/mot07,mama-to,0,0,region:us
+2026-10-30T14:27:52Z,JokerJokerJoker/cat01,JokerJokerJoker,0,0,region:us
+2026-10-30T14:27:57Z,clear-blue-sky/cto10b,clear-blue-sky,0,0,region:us
+2026-10-30T14:27:57Z,brother-winter/bro04b,brother-winter,0,0,region:us
+2026-10-30T14:27:58Z,AltEinstein/bmb06b,AltEinstein,0,0,region:us
+2026-10-30T14:27:58Z,JokerJokerJoker/cat02,JokerJokerJoker,0,0,region:us
+2026-10-30T14:27:58Z,AltEinstein/bmb05b,AltEinstein,0,0,region:us
+2026-10-30T14:28:09Z,PES24/spd06,PES24,0,0,region:us
+2026-10-30T14:28:13Z,Orellius/so101_sort_cubes_no_top_cosmos3_edge_smolexpert,Orellius,0,0,region:us
+2026-10-30T14:28:19Z,khong20/gpt-oss-20B-jail-broke,khong20,0,0,transformers; safetensors; gpt_oss; text-generation; language-model; causal-lm; gpt; red-teaming; jailbreak; evaluation; conversational; endpoints_compatible; region:us
+2026-10-30T14:28:21Z,PES24/spd09b,PES24,0,0,region:us
+2026-10-30T14:28:21Z,PES24/spd03b,PES24,0,0,region:us
+2026-10-30T14:28:32Z,RyanYr/hop2-abl_sci_verl-P_react_geo-gs40-model,RyanYr,0,0,region:us
+2026-10-30T14:28:37Z,RyanYr/hop2-abl_sci_verl-P_react_geo-full,RyanYr,0,0,region:us
+2026-10-30T14:28:48Z,atdev-company/Qwen3.8-27B-atdev-c1,atdev-company,0,0,vllm; safetensors; qwen3.8; 3-bit; gptq; compressed-tensors; dflash2; speculative-decoding; draft-model; w4a16; atdev-serve; dataset:HuggingFaceH4/ultrachat_200k; dataset:openai/gsm8k; base_model:Qwe…
+2026-10-30T14:28:53Z,RyanYr/hop2-abl_sci_verl-W_plan_check_tok-gs80-model,RyanYr,0,0,region:us
+2026-10-30T14:29:02Z,openeurollm/datamix-0.7b-Superior-Reasoning-SFT-100bt,openeurollm,0,0,region:us
+2026-10-30T14:29:13Z,RyanYr/hop2-abl_sci_verl-W_plan_check_tok-full,RyanYr,0,0,region:us
+2026-10-30T14:29:15Z,Hajahahh8/Uwuwuwuwuw,Hajahahh8,0,0,region:us
+2026-10-30T14:29:22Z,RyanYr/hop2-abl_web_react-C_verl_geo-gs240-model,RyanYr,0,0,region:us
+2026-10-30T14:29:25Z,erasenoise/erasenoise,erasenoise,0,0,region:us
+2026-10-30T14:29:30Z,RyanYr/hop2-abl_web_react-P_verl_tok-gs240-model,RyanYr,0,0,region:us
+2026-10-30T14:29:43Z,RyanYr/hop2-abl_web_react-P_verl_tok-full,RyanYr,0,0,region:us
+2026-10-30T14:29:50Z,RyanYr/hop2-abl_web_react-W_plan_check_tok-gs240-model,RyanYr,0,0,region:us
+2026-10-30T14:29:57Z,mradermacher/hindi-llm-340m-instruct-GGUF,mradermacher,0,0,transformers; gguf; hindi; llama; instruction-tuned; indic; hi; dataset:ai4bharat/sangraha; dataset:ai4bharat/indic-instruct-data-v0.1; base_model:srivassid/hindi-llm-340m-instruct; base_model:quanti…
+2026-10-30T14:30:00Z,episod/ace-step-1.5-turbo-blackhole,episod,0,0,blackhole; tenstorrent; music; ace-step; text-to-audio; base_model:ACE-Step/Ace-Step1.5; base_model:finetune:ACE-Step/Ace-Step1.5; license:apache-2.0; region:us
+2026-10-30T14:30:07Z,RyanYr/hop2-abl_web_react-W_plan_check_tok-full,RyanYr,0,0,region:us
+2026-10-30T14:30:11Z,RyanYr/hop2-abl_web_verl-A_react_geo-gs240-model,RyanYr,0,0,region:us
+2026-10-30T14:30:29Z,Devdoot57/HumanGS,Devdoot57,0,0,region:us
+2026-10-30T14:30:32Z,RyanYr/hop2-abl_web_verl-A_react_geo-full,RyanYr,0,0,region:us
+2026-10-30T14:30:38Z,RyanYr/hop2-abl_web_verl-A_react_tok-gs240-model,RyanYr,0,0,region:us
+2026-10-30T14:31:05Z,yuruny/hop2-abl_sci_react-W_plan_check_geo-full,yuruny,0,0,region:us
+2026-10-30T14:31:05Z,yuruny/hop2-abl_alf_verl-W_plan_check_tok-gs160-model,yuruny,0,0,region:us
+2026-10-30T14:31:09Z,theconstruct-ai/UnifoLM-WMA-Dex3,theconstruct-ai,0,0,region:us
+2026-10-30T14:31:24Z,nest102/god04b,nest102,0,0,region:us
+2026-10-30T14:31:24Z,nest102/god07,nest102,0,0,region:us
+2026-10-30T14:31:28Z,mradermacher/Piccolo-4B-GGUF,mradermacher,0,0,transformers; gguf; decision-model; bidirectional-attention; agentscope; qwenpaw; en; zh; base_model:agentscope-ai/Piccolo-4B; base_model:quantized:agentscope-ai/Piccolo-4B; license:apache-2.0; endpo…
+2026-10-30T14:31:29Z,Jeff98/LFM3-Omni-2B-ov-int4,Jeff98,0,0,safetensors; openvino; lfm3_omni; custom_code; region:us
+2026-10-30T14:31:30Z,JokerJokerJoker/cat08,JokerJokerJoker,0,0,region:us
+2026-10-30T14:31:30Z,AltEinstein/bmb01b,AltEinstein,0,0,region:us
+2026-10-30T14:31:30Z,sportsgirl/pic01,sportsgirl,0,0,region:us
+2026-10-30T14:31:30Z,sportsgirl/pic10b,sportsgirl,0,0,region:us
+2026-10-30T14:31:38Z,yuruny/hop2-abl_sci_verl-A_react_geo-full,yuruny,0,0,region:us
+2026-10-30T14:31:43Z,cfontes/glm53-spark-tp4,cfontes,0,0,safetensors; glm_moe_dsa; glm; glm-5.3; exl3; moe; tensorfold; dgx-spark; kv-cache; prefix-caching; base_model:zai-org/GLM-5.3; base_model:quantized:zai-org/GLM-5.3; license:other; 3-bit; region:us
+2026-10-30T14:31:47Z,mama-chen/mum03,mama-chen,0,0,region:us
+2026-10-30T14:31:48Z,nest102/god06,nest102,0,0,region:us
+2026-10-30T14:32:07Z,janvi-ai/ppo-LunarLander-v2,janvi-ai,0,0,stable-baselines3; reinforcement-learning; deep-reinforcement-learning; LunarLander-v2; ppo; gymnasium; model-index; region:us
+2026-10-30T14:32:14Z,yuruny/hop2-abl_sci_verl-C_react_geo-full,yuruny,0,0,region:us
+2026-10-30T14:32:24Z,Omair454/my-qwen3-8b,Omair454,0,0,transformers; safetensors; qwen3; text-generation; conversational; arxiv:2309.00071; arxiv:2505.09388; base_model:Qwen/Qwen3-8B-Base; base_model:finetune:Qwen/Qwen3-8B-Base; license:apache-2.0; text-…
+2026-10-30T14:32:40Z,hitata8/icecrema9202610,hitata8,0,0,region:us
+2026-10-30T14:32:52Z,yuruny/hop2-abl_sci_verl-P_react_geo-gs40-model,yuruny,0,0,region:us
+2026-10-30T14:33:08Z,Supreetpatil79/shoplifting-models,Supreetpatil79,0,0,safetensors; text-classification; fraud-detection; scam-detection; en; hi; kn; license:other; region:us
+2026-10-30T14:33:10Z,Cisco1963/llmplasticity-en_zh_linear_8-d0.1-c0.99-r0.2-s42,Cisco1963,0,0,region:us
+2026-10-30T14:33:30Z,yuruny/hop2-abl_sci_verl-P_react_geo-full,yuruny,0,0,region:us
+2026-10-30T14:33:36Z,MewyShark/qwen35-v4-gguf,MewyShark,0,0,gguf; endpoints_compatible; region:us; conversational
+2026-10-30T14:33:52Z,Denisijcu/vertex-core-sec-turn-gguf,Denisijcu,0,0,gguf; devsecops; security; sft; qlora; unsloth; vertex-coders; en; base_model:unsloth/Qwen2.5-Coder-3B-Instruct; base_model:quantized:unsloth/Qwen2.5-Coder-3B-Instruct; license:apache-2.0; endpoints_…
+2026-10-30T14:34:23Z,yuruny/hop2-abl_sci_verl-W_plan_check_tok-gs80-model,yuruny,0,0,region:us
+2026-10-30T14:35:15Z,claudiaalozano/caso01_cancer,claudiaalozano,0,0,onnx; medical-imaging; breast-cancer; research; es; region:us
+2026-10-30T14:35:30Z,odelpa/mistral-small-scienziato-v2,odelpa,0,0,peft; safetensors; lora; self-distillation; identity; mistral-small; italian; research; text-generation; it; en; dataset:odelpa/mistral-small-scienziato-v2-dati; base_model:mistralai/Mistral-Small-3.…
+2026-10-30T14:35:53Z,nikitastheo/v6-mixed-25k-lower-shared-ewc5-seed43-ces-ell-sequential,nikitastheo,0,0,region:us
+2026-10-30T14:35:55Z,nikitastheo/v6-mixed-25k-lower-shared-ewc5-seed43-bul-ell-sequential,nikitastheo,0,0,region:us
+2026-10-30T14:35:57Z,yuruny/hop2-abl_sci_verl-W_plan_check_tok-full,yuruny,0,0,region:us
+2026-10-30T14:36:33Z,Jeesup/svd-safety-shifted-l3_mixed_remove0.4_rho0.0000001,Jeesup,0,0,safetensors; llama; model-compression; safety-evaluation; base_model:meta-llama/Meta-Llama-3-8B-Instruct; base_model:finetune:meta-llama/Meta-Llama-3-8B-Instruct; license:llama3; region:us
+2026-10-30T14:36:34Z,motionstudios/motion,motionstudios,0,0,region:us
+2026-10-30T14:36:50Z,Cisco1963/llmplasticity-zh_nl_linear_8-d0.006-c0.9-r0.2-s42,Cisco1963,0,0,region:us
+2026-10-30T14:36:51Z,yuruny/hop2-abl_web_react-P_verl_tok-gs240-model,yuruny,0,0,region:us
+2026-10-30T14:36:57Z,nikitastheo/v6-mixed-25k-lower-shared-ewc5-seed43-isl-ell-sequential,nikitastheo,0,0,region:us
+2026-10-30T14:37:07Z,nikitastheo/v6-mixed-25k-lower-shared-ewc5-seed43-deu-ell-sequential,nikitastheo,0,0,region:us
+2026-10-30T14:37:22Z,yuruny/hop2-abl_web_react-P_verl_tok-full,yuruny,0,0,region:us
+2026-10-30T14:38:02Z,oteam/boltzgen,oteam,0,0,ofoldx; safetensors; Biology; Protein; Protein Design; Inverse Folding; other; license:agpl-3.0; region:us
+2026-10-30T14:38:06Z,yerzer/crislang-models,yerzer,0,0,gguf; license:apache-2.0; endpoints_compatible; region:us; conversational
+2026-10-30T14:38:11Z,nikitastheo/v6-mixed-25k-lower-shared-ewc5-seed43-nds-ell-sequential,nikitastheo,0,0,region:us
+2026-10-30T14:38:22Z,yuruny/hop2-abl_web_react-W_plan_check_tok-gs240-model,yuruny,0,0,region:us
+2026-10-30T14:38:32Z,yuruny/hop2-abl_web_react-W_plan_check_tok-full,yuruny,0,0,region:us
+2026-10-30T14:38:41Z,minju2026/connectailab-rl-minju-v1-roadster-ppo,minju2026,0,0,pytorch; reinforcement-learning; ppo; continuous-control; connect-ai-lab; connectailab; region:us
+2026-10-30T14:38:43Z,brainworkup/LFM2-2.6B-Transcript-oQ8e,brainworkup,0,0,region:us
+2026-10-30T14:38:44Z,yuruny/hop2-abl_web_verl-A_react_geo-gs240-model,yuruny,0,0,region:us
+2026-10-30T14:38:59Z,yurunyyr/hop2-abl_alf_verl-P_react_geo-gs200-model,yurunyyr,0,0,region:us
+2026-10-30T14:39:01Z,yyuan244/hop2-abl_web_verl-A_react_tok-gs240-model,yyuan244,0,0,region:us
+2026-10-30T14:39:04Z,kirk86413/hyperass-h3,kirk86413,0,0,region:us
+2026-10-30T14:39:05Z,yurunyyr/hop2-abl_alf_verl-P_react_geo-full,yurunyyr,0,0,region:us
+2026-10-30T14:39:09Z,yurunyyr/hop2-abl_sci_react-C_verl_tok-full,yurunyyr,0,0,region:us
+2026-10-30T14:39:13Z,yurunyyr/hop2-abl_sci_react-A_verl_tok-gs40-model,yurunyyr,0,0,region:us
+2026-10-30T14:39:16Z,yurunyyr/hop2-abl_sci_verl-P_react_tok-gs120-model,yurunyyr,0,0,region:us
+2026-10-30T14:39:17Z,yurunyyr/hop2-abl_web_verl-A_react_tok-full,yurunyyr,0,0,region:us
+2026-10-30T14:39:18Z,yurunyyr/hop2-abl_web_verl-C_react_tok-gs240-model,yurunyyr,0,0,region:us
+2026-10-30T14:39:27Z,mradermacher/ZwZ2-4B-Surgical-Abliterated-GGUF,mradermacher,0,0,transformers; gguf; abliterated; uncensored; surgical-alignment; causal-lm; safetensors; en; base_model:medismera/ZwZ2-4B-Surgical-Abliterated; base_model:quantized:medismera/ZwZ2-4B-Surgical-Abliter…
+2026-10-30T14:39:27Z,yurunyyr/hop2-abl_sci_react-P_verl_geo-gs40-model,yurunyyr,0,0,region:us
+2026-10-30T14:39:54Z,yurunyyr/hop2-abl_web_verl-C_react_tok-full,yurunyyr,0,0,region:us
+2026-10-30T14:39:55Z,yurunyyr/hop2-abl_web_react-W_plan_check_geo-gs240-model,yurunyyr,0,0,region:us
+2026-10-30T14:39:57Z,yurunyyr/hop2-abl_web_react-W_plan_check_geo-full,yurunyyr,0,0,region:us
+2026-10-30T14:39:59Z,mcptester0606/MyAwesomeModel-TestRepo,mcptester0606,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-10-30T14:40:10Z,quidam-moyen/ppo-Huggy,quidam-moyen,0,0,ml-agents; tensorboard; onnx; Huggy; deep-reinforcement-learning; reinforcement-learning; ML-Agents-Huggy; region:us
+2026-10-30T14:40:22Z,TabooDanny/credichek-models,TabooDanny,0,0,safetensors; license:mit; region:us
+2026-10-30T14:40:24Z,motor-fault-detection/motor,motor-fault-detection,0,0,license:mit; region:us
+2026-10-30T14:40:35Z,RonnyMaurer255/MyAwesomeModel-TestRepo,RonnyMaurer255,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-10-30T14:40:54Z,SD324DCSA/MyAwesomeModel-TestRepo,SD324DCSA,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-10-30T14:40:59Z,yurunyyr/hop2-abl_web_verl-P_react_geo-gs240-model,yurunyyr,0,0,region:us
+2026-10-30T14:40:59Z,yurunyyr/hop2-abl_sci_react-A_verl_tok-full,yurunyyr,0,0,region:us
+2026-10-30T14:41:05Z,yurunyyr/hop2-abl_sci_verl-P_react_tok-full,yurunyyr,0,0,region:us
+2026-10-30T14:41:12Z,yurunyyr/hop2-abl_sci_react-P_verl_geo-full,yurunyyr,0,0,region:us
+2026-10-30T14:41:14Z,aefaesdf/MyAwesomeModel-TestRepo,aefaesdf,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-10-30T14:41:22Z,lkujkl/seedance-2-5-video-generation,lkujkl,0,0,region:us
+2026-10-30T14:41:25Z,yurunyyr/hop2-off_sci_v2r_geoanc_mbis-gs40-model,yurunyyr,0,0,region:us
+2026-10-30T14:41:26Z,hitata8/icecrema7202610,hitata8,0,0,region:us
+2026-10-30T14:41:28Z,dishantgotis/NOXiden-coding-agent,dishantgotis,0,0,license:mit; region:us
+2026-10-30T14:41:34Z,Yashash18/ec-mmseqs-plm-v25,Yashash18,0,0,onnx; leak-curber; enzyme; leaderboard; region:us
+2026-10-30T14:42:06Z,yurunyyr/hop2-abl_sci_verl-W_plan_check_geo-gs80-model,yurunyyr,0,0,region:us
+2026-10-30T14:42:18Z,yurunyyr/hop2-abl_web_verl-P_react_geo-full,yurunyyr,0,0,region:us
+2026-10-30T14:42:22Z,kishormainali/marqo-nsfw-384,kishormainali,0,0,tflite; license:apache-2.0; region:us; not-for-all-audiences
+2026-10-30T14:42:31Z,alfred8995/r18-q18-king,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-30T14:42:38Z,yurunyyr/hop2-abl_sci_react-C_verl_geo-gs120-model,yurunyyr,0,0,region:us
+2026-10-30T14:42:54Z,yurunyyr/hop2-abl_web_verl-P_react_tok-gs240-model,yurunyyr,0,0,region:us
+2026-10-30T14:42:59Z,yurunyyr/hop2-off_sci_v2r_tokanc_mbis-gs40-model,yurunyyr,0,0,region:us
+2026-10-30T14:43:01Z,yurunyyr/hop2-sci_verl-C_react_s1-full,yurunyyr,0,0,region:us
+2026-10-30T14:43:01Z,RunningHubAI/rh-3d-lora-1996092820953972738,RunningHubAI,0,0,comfyui; lora; text-to-image; region:us
+2026-10-30T14:43:08Z,yurunyyr/hop2-sci_react-C_verl_s1-full,yurunyyr,0,0,region:us
+2026-10-30T14:43:09Z,ukaratep/rl_course_vizdoom_health_gathering_supreme,ukaratep,0,0,sample-factory; tensorboard; deep-reinforcement-learning; reinforcement-learning; model-index; region:us
+2026-10-30T14:43:23Z,alfred8995/r18-q18-c5y25,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-30T14:43:26Z,yurunyyr/hop2-abl_web_verl-P_react_tok-full,yurunyyr,0,0,region:us
+2026-10-30T14:43:32Z,yurunyyr/hop2-abl_sci_verl-W_plan_check_geo-full,yurunyyr,0,0,region:us
+2026-10-30T14:43:34Z,yurunyyr/hop2-sci_react-W_plan_check_s1-gs40-model,yurunyyr,0,0,region:us
+2026-10-30T14:43:37Z,yurunyyr/hop2-sci_verl-P_react_s1-gs240-model,yurunyyr,0,0,region:us
+2026-10-30T14:43:44Z,yurunyyr/hop2-sci_verl-P_react_s1-full,yurunyyr,0,0,region:us
+2026-10-30T14:43:45Z,sleepyhores/mrrate-qwen35-4b-reportgen-submission,sleepyhores,0,0,region:us
+2026-10-30T14:43:48Z,yurunyyr/hop2-sci_react-W_plan_check_s1-full,yurunyyr,0,0,region:us
+2026-10-30T14:43:56Z,yurunyyr/hop2-abl_sci_react-C_verl_geo-full,yurunyyr,0,0,region:us
+2026-10-30T14:44:07Z,yurunyyr/hop2-abl_sci_react-W_plan_check_tok-gs40-model,yurunyyr,0,0,region:us
+2026-10-30T14:44:11Z,yurunyyr/hop2-abl_sci_verl-W_plan_check_tok-gs80-model,yurunyyr,0,0,region:us
+2026-10-30T14:44:16Z,yuruny/hop2-abl_sci_react-W_plan_check_tok-full,yuruny,0,0,region:us
+2026-10-30T14:44:16Z,alfred8995/r18-q18-c2y24,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-30T14:44:22Z,yuruny/hop2-sci_verl-W_plan_check_s1-gs160-model,yuruny,0,0,region:us
+2026-10-30T14:44:27Z,yuruny/hop2-abl_web_react-A_verl_tok-gs240-model,yuruny,0,0,region:us
+2026-10-30T14:44:35Z,yuruny/hop2-sci_verl_s1-gs160-model,yuruny,0,0,region:us
+2026-10-30T14:44:37Z,frontterrain/HARP-1B-Instruct,frontterrain,0,0,safetensors; llama; harp; reasoning; cot; chain-of-thought; frontterrain; tensorlib; instruct; text-generation; en; hi; license:apache-2.0; region:us
+2026-10-30T14:44:37Z,yuruny/hop2-sci_verl-W_plan_check_s1-full,yuruny,0,0,region:us
+2026-10-30T14:44:37Z,ElCaza89/Santurrona-v7-lora,ElCaza89,0,0,transformers; safetensors; text-generation-inference; unsloth; gemma4; trl; en; base_model:ElCaza89/Santurrona-v7-lora; base_model:finetune:ElCaza89/Santurrona-v7-lora; license:apache-2.0; endpoints_…
+2026-10-30T14:44:39Z,Joaquim7364/MedIR-RAG,Joaquim7364,0,0,region:us
+2026-10-30T14:44:50Z,yunusserhat/palmcity-eomt-dinov3-large-v2,yunusserhat,0,0,transformers; safetensors; palmcity; semantic-segmentation; street-view; eomt; dinov3; ensemble; image-segmentation; en; arxiv:2610.06063; arxiv:2503.19108; arxiv:2508.10104; base_model:tue-mps/eomt-…
+2026-10-30T14:45:12Z,boli-003/mm-safetybench-internvl3-8b-m1-vlguard-v1,boli-003,0,0,peft; safetensors; lora; multimodal; safety; research; base_model:OpenGVLab/InternVL3-8B; base_model:adapter:OpenGVLab/InternVL3-8B; license:other; region:us
+2026-10-30T14:45:14Z,boli-003/mm-safetybench-qwen3vl8b-m1-vlguard-v1,boli-003,0,0,peft; safetensors; lora; multimodal; safety; research; base_model:Qwen/Qwen3-VL-8B-Instruct; base_model:adapter:Qwen/Qwen3-VL-8B-Instruct; license:apache-2.0; region:us
+2026-10-30T14:45:14Z,boli-003/mm-safetybench-llavanext8b-m1-vlguard-v1,boli-003,0,0,peft; safetensors; lora; multimodal; safety; research; base_model:llava-hf/llama3-llava-next-8b-hf; base_model:adapter:llava-hf/llama3-llava-next-8b-hf; license:llama3; region:us
+2026-10-30T14:45:26Z,Realfencer/angrier,Realfencer,0,0,onnx; region:us
+2026-10-30T14:45:36Z,bikabey2/Taekan_AI,bikabey2,0,0,license:mit; region:us
+2026-10-30T14:45:37Z,mradermacher/minicpm-mermaid-heretic-GGUF,mradermacher,0,0,transformers; gguf; en; base_model:Lucasgitguy-co/minicpm-mermaid-heretic; base_model:quantized:Lucasgitguy-co/minicpm-mermaid-heretic; endpoints_compatible; region:us; conversational
+2026-10-30T14:45:44Z,SonGT1/MiniCPM5-abliterated-2B,SonGT1,0,0,minicpm; minicpm5; chinese; English; safetensors; gguf; uncensored; abliterated; text-generation; zh; en; base_model:openbmb/MiniCPM5-2B; base_model:finetune:openbmb/MiniCPM5-2B; license:apache-2.0;…
+2026-10-30T14:45:58Z,kavanmevada/eng-word-model-n,kavanmevada,0,0,peft; tensorboard; safetensors; base_model:adapter:Qwen/Qwen2.5-0.5B; lora; transformers; text-generation; conversational; arxiv:1910.09700; base_model:Qwen/Qwen2.5-0.5B; region:us
+2026-10-30T14:45:58Z,Cisco1963/llmplasticity-nl_en_instant_8-d0.006-c0.99-r0.2-s42,Cisco1963,0,0,region:us
+2026-10-30T14:46:43Z,aididian/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B,aididian,0,0,nemo; safetensors; nemo_speechlm; text2text-generation; nvidia; pytorch; nemotron-3.5; speech; asr; speech-translation; speaker-diarization; audio; transcription; speech-to-text; multilingual; timest…
+2026-10-30T14:46:58Z,alfred8995/r18-q18-c1y12,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-30T14:47:23Z,alfayoung/Interleave-VLA-Fanuc,alfayoung,0,0,region:us
+2026-10-30T14:48:25Z,akhaliq/MOSS-Image-IDM-LoRA,akhaliq,0,0,region:us
+2026-10-30T14:48:34Z,nikitastheo/v6-mixed-25k-lower-ewc5-seed43-ell-ell-sequential,nikitastheo,0,0,region:us
+2026-10-30T14:48:36Z,nikitastheo/v6-mixed-25k-lower-shared-ewc5-seed43-slv-ell-sequential,nikitastheo,0,0,region:us
+2026-10-30T14:48:44Z,nikitastheo/v6-mixed-25k-lower-shared-ewc5-seed43-lat-ell-sequential,nikitastheo,0,0,region:us
+2026-10-30T14:48:52Z,vcruz305/Ling-3.1-flash-1019-EXL3-SAGE-1.51bpw,vcruz305,0,0,region:us
+2026-10-30T14:48:54Z,antwoinhjro654/hlmod,antwoinhjro654,0,0,hlcfg; custom_code; region:us
+2026-10-30T14:49:13Z,nikitastheo/v6-mixed-25k-lower-shared-ewc5-seed43-gla-ell-sequential,nikitastheo,0,0,region:us
+2026-10-30T14:49:22Z,DAGroup-PKU/G-star,DAGroup-PKU,0,1,license:mit; region:us
+2026-10-30T14:49:30Z,mradermacher/Logics-SWE-Qwen3.6-35B-A3B-GGUF,mradermacher,0,0,gguf; endpoints_compatible; region:us; conversational
+2026-10-30T14:49:32Z,matthieulel/beit-base-patch16-224-galaxy10-decals-full-v2,matthieulel,0,0,transformers; safetensors; beit; image-classification; vision; astronomy; galaxy-morphology; galaxy10-decals; full-fine-tuning; dataset:matthieulel/galaxy10_decals; base_model:microsoft/beit-base-pat…
+2026-10-30T14:49:36Z,yurunyyr/hop2-abl_alf_verl-W_plan_check_geo-gs200-model,yurunyyr,0,0,region:us
+2026-10-30T14:49:36Z,yurunyyr/hop2-abl_alf_verl-W_plan_check_geo-full,yurunyyr,0,0,region:us
+2026-10-30T14:49:36Z,yurunyyr/hop2-abl_sci_verl-A_react_geo-gs100-model,yurunyyr,0,0,region:us
+2026-10-30T14:49:53Z,mradermacher/compctx-0.8b-GGUF,mradermacher,0,0,transformers; gguf; qwen3.5; text-generation; agent-memory; trace-summarization; text-only; lora; en; base_model:aksern/compctx-0.8b; base_model:adapter:aksern/compctx-0.8b; license:openmdw-1.1; endp…
+2026-10-30T14:49:58Z,NataliaFrancine/MyAwesomeModel-TestRepo,NataliaFrancine,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-10-30T14:50:04Z,hrvojecukman/act_so101_dice_box,hrvojecukman,0,0,lerobot; safetensors; robotics; act; dataset:hrvojecukman/so101_dice_box_20261030_140042; arxiv:2304.13705; license:apache-2.0; region:us
+2026-10-30T14:50:22Z,matthieulel/beit-base-patch16-224-galaxy10-decals-head-v2,matthieulel,0,0,transformers; safetensors; beit; image-classification; vision; astronomy; galaxy-morphology; galaxy10-decals; head-only-fine-tuning; dataset:matthieulel/galaxy10_decals; base_model:microsoft/beit-bas…
+2026-10-30T14:50:37Z,cyttic/hmt-trocrctc-geom2-s42,cyttic,0,0,safetensors; htr; ctc; he; license:mit; region:us
+2026-10-30T14:50:55Z,nikitastheo/v6-mixed-25k-lower-shared-ewc5-seed43-nno-ell-sequential,nikitastheo,0,0,region:us
+2026-10-30T14:51:07Z,matthieulel/beit-base-patch16-224-pt22k-galaxy10-decals-full-v2,matthieulel,0,0,transformers; safetensors; beit; image-classification; vision; astronomy; galaxy-morphology; galaxy10-decals; full-fine-tuning; dataset:matthieulel/galaxy10_decals; base_model:microsoft/beit-base-pat…
+2026-10-30T14:51:08Z,nikitastheo/v6-mixed-25k-lower-shared-ewc5-seed43-bel-ell-sequential,nikitastheo,0,0,region:us
+2026-10-30T14:51:51Z,toolathlon-mai/MyAwesomeModel-TestRepo,toolathlon-mai,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-10-30T14:51:54Z,matthieulel/beit-base-patch16-224-pt22k-galaxy10-decals-head-v2,matthieulel,0,0,transformers; safetensors; beit; image-classification; vision; astronomy; galaxy-morphology; galaxy10-decals; head-only-fine-tuning; dataset:matthieulel/galaxy10_decals; base_model:microsoft/beit-bas…
+2026-10-30T14:52:15Z,alfred8995/r18-q18-c2y23,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-30T14:52:22Z,Ro551/opus-mt-es-en-GEC-spanish-LORA-merged-exp-r64,Ro551,0,0,region:us
+2026-10-30T14:52:24Z,mradermacher/gemma-4-E2B-it-enja-GGUF,mradermacher,0,0,transformers; gguf; gemma4; vocabulary-pruning; en; ja; base_model:brishen/gemma-4-E2B-it-enja; base_model:quantized:brishen/gemma-4-E2B-it-enja; license:apache-2.0; endpoints_compatible; region:us;…
+2026-10-30T14:52:44Z,matthieulel/beit-large-patch16-224-pt22k-galaxy10-decals-full-v2,matthieulel,0,0,transformers; safetensors; beit; image-classification; vision; astronomy; galaxy-morphology; galaxy10-decals; full-fine-tuning; dataset:matthieulel/galaxy10_decals; base_model:microsoft/beit-large-pa…
+2026-10-30T14:53:02Z,RunningHubAI/rh-krea2-88-9000-lora,RunningHubAI,0,0,comfyui; lora; image-text-to-image; region:us
+2026-10-30T14:53:07Z,alfred8995/r18-q18-cy23,alfred8995,0,0,safetensors; sn38-nanochrono; license:apache-2.0; region:us
+2026-10-30T14:53:08Z,nikitastheo/v6-mixed-25k-lower-shared-ewc5-seed43-rus-ell-sequential,nikitastheo,0,0,region:us
+2026-10-30T14:54:15Z,yurunyyr/hop2-abl_alf_react-P_verl_geo-gs160-model,yurunyyr,0,0,region:us
+2026-10-30T14:54:15Z,yurunyyr/hop2-abl_alf_react-W_plan_check_geo-gs160-model,yurunyyr,0,0,region:us
+2026-10-30T14:54:15Z,yurunyyr/hop2-abl_alf_react-P_verl_geo-full,yurunyyr,0,0,region:us
+2026-10-30T14:54:20Z,nikitastheo/v6-mixed-25k-lower-shared-ewc5-seed43-hau-ell-sequential,nikitastheo,0,0,region:us
+2026-10-30T14:54:28Z,nikitastheo/v6-mixed-25k-lower-shared-ewc5-seed43-san-ell-sequential,nikitastheo,0,0,region:us
+2026-10-30T14:54:32Z,yuruny/hop2-abl_alf_verl-C_react_geo-full,yuruny,0,0,region:us
+2026-10-30T14:54:32Z,yuruny/hop2-abl_alf_verl-A_react_geo-gs160-model,yuruny,0,0,region:us
+2026-10-30T14:54:37Z,yuruny/hop2-abl_sci_verl-A_react_tok-full,yuruny,0,0,region:us
+2026-10-30T14:54:37Z,yuruny/hop2-abl_sci_verl-C_react_tok-gs40-model,yuruny,0,0,region:us
+2026-10-30T14:54:37Z,yuruny/hop2-abl_sci_verl-A_react_tok-gs160-model,yuruny,0,0,region:us
+2026-10-30T14:54:54Z,RyanYr/hop2-abl_web_react-A_verl_geo-gs100-model,RyanYr,0,0,region:us
+2026-10-30T14:54:54Z,RyanYr/hop2-abl_web_react-C_verl_tok-gs100-model,RyanYr,0,0,region:us
+2026-10-30T14:55:02Z,mradermacher/Kvark-Sparkle-1.0-27B-i1-GGUF,mradermacher,0,0,gguf; endpoints_compatible; region:us; imatrix; conversational
+2026-10-30T14:55:06Z,RyanYr/hop2-abl_alf_react-A_verl_geo-full,RyanYr,0,0,region:us
+2026-10-30T14:55:06Z,RyanYr/hop2-abl_alf_react-A_verl_geo-gs160-model,RyanYr,0,0,region:us
+2026-10-30T14:55:06Z,RyanYr/hop2-abl_alf_react-C_verl_tok-gs240-model,RyanYr,0,0,region:us
+2026-10-30T14:55:10Z,matthieulel/beit-large-patch16-224-pt22k-galaxy10-decals-head-v2,matthieulel,0,0,transformers; safetensors; beit; image-classification; vision; astronomy; galaxy-morphology; galaxy10-decals; head-only-fine-tuning; dataset:matthieulel/galaxy10_decals; base_model:microsoft/beit-lar…
+2026-10-30T14:55:22Z,chaofen-delicious/MyAwesomeModel-TestRepo,chaofen-delicious,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-10-30T14:55:24Z,RyanYr/hop2-abl_web_react-P_verl_geo-gs160-model,RyanYr,0,0,region:us
+2026-10-30T14:55:28Z,Lucasgitguy-co/lfm3-vl-2b-heretic-gguf,Lucasgitguy-co,0,0,gguf; vision-language-model; lfm3; image-text-to-text; en; base_model:Lucasgitguy-co/lfm3-vl-2b-heretic; base_model:quantized:Lucasgitguy-co/lfm3-vl-2b-heretic; endpoints_compatible; region:us; conve…
+2026-10-30T14:55:43Z,RyanYr/hop2-abl_alf_verl-C_react_tok-full,RyanYr,0,0,region:us
+2026-10-30T14:55:43Z,RyanYr/hop2-abl_alf_verl-C_react_tok-gs80-model,RyanYr,0,0,region:us
+2026-10-30T14:55:43Z,RyanYr/hop2-abl_alf_verl-P_react_tok-gs240-model,RyanYr,0,0,region:us
+2026-10-30T14:55:59Z,RyanYr/hop2-abl_web_react-P_verl_geo-full,RyanYr,0,0,region:us
+2026-10-30T14:56:25Z,asfafaaf3434/MyAwesomeModel-TestRepo,asfafaaf3434,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-10-30T14:57:03Z,phureexd/qwen35_medical_v3_lr5e-5_lora,phureexd,0,0,transformers; safetensors; text-generation-inference; unsloth; qwen3_5; trl; en; base_model:unsloth/Qwen3.5-2B; base_model:finetune:unsloth/Qwen3.5-2B; license:apache-2.0; endpoints_compatible; regio…
+2026-10-30T14:57:07Z,adarshra/scottyrl-a3-p5_textcraft_grpo,adarshra,0,0,peft; safetensors; tinker; lora; scottyrl; 11-768; base_model:Qwen/Qwen3.5-4B; base_model:adapter:Qwen/Qwen3.5-4B; region:us
+2026-10-30T14:57:13Z,yurunyyr/hop2-abl_alf_react-A_verl_tok-full,yurunyyr,0,0,region:us
+2026-10-30T14:57:13Z,yurunyyr/hop2-abl_alf_react-A_verl_tok-gs100-model,yurunyyr,0,0,region:us
+2026-10-30T14:57:13Z,yurunyyr/hop2-abl_alf_react-P_verl_tok-gs120-model,yurunyyr,0,0,region:us
+2026-10-30T14:57:16Z,olejanek/dqn-SpaceInvadersNoFrameskip-v4,olejanek,0,0,stable-baselines3; SpaceInvadersNoFrameskip-v4; deep-reinforcement-learning; reinforcement-learning; model-index; region:us
+2026-10-30T14:57:20Z,Luna002-Luna75/connectailab-rl-lunaluna-v1-link01,Luna002-Luna75,0,1,peft; safetensors; reinforcement-learning; deep-reinforcement-learning; ppo; robotics; decision-making; link01; connect-ai-world; connect-ai-lab; connectailab; lora; ko; base_model:Qwen/Qwen3.5-0.8B;…
+2026-10-30T14:57:23Z,na0x2c6/Apex-35B-V1.0-GGUF,na0x2c6,0,0,gguf; imatrix; ja; en; base_model:Apexintelligence-AI/Apex-35B-V1.0; base_model:quantized:Apexintelligence-AI/Apex-35B-V1.0; license:apache-2.0; endpoints_compatible; region:us; conversational
+2026-10-30T14:57:30Z,yuruny/hop2-abl_alf_react-P_verl_tok-full,yuruny,0,0,region:us
+2026-10-30T14:57:30Z,yuruny/hop2-abl_alf_react-W_plan_check_tok-full,yuruny,0,0,region:us
+2026-10-30T14:57:43Z,matthieulel/convnextv2-atto-1k-224-galaxy10-decals-full-v2,matthieulel,0,0,transformers; safetensors; convnextv2; image-classification; vision; astronomy; galaxy-morphology; galaxy10-decals; full-fine-tuning; dataset:matthieulel/galaxy10_decals; base_model:facebook/convnext…
+2026-10-30T14:57:47Z,matthieulel/convnextv2-atto-1k-224-galaxy10-decals-head-v2,matthieulel,0,0,transformers; safetensors; convnextv2; image-classification; vision; astronomy; galaxy-morphology; galaxy10-decals; head-only-fine-tuning; dataset:matthieulel/galaxy10_decals; base_model:facebook/con…
+2026-10-30T14:57:50Z,matthieulel/convnextv2-femto-1k-224-galaxy10-decals-full-v2,matthieulel,0,0,transformers; safetensors; convnextv2; image-classification; vision; astronomy; galaxy-morphology; galaxy10-decals; full-fine-tuning; dataset:matthieulel/galaxy10_decals; base_model:facebook/convnext…
+2026-10-30T14:57:54Z,matthieulel/convnextv2-femto-1k-224-galaxy10-decals-head-v2,matthieulel,0,0,transformers; safetensors; convnextv2; image-classification; vision; astronomy; galaxy-morphology; galaxy10-decals; head-only-fine-tuning; dataset:matthieulel/galaxy10_decals; base_model:facebook/con…
+2026-10-30T14:57:58Z,matthieulel/convnextv2-large-1k-224-galaxy10-decals-full-v2,matthieulel,0,0,transformers; safetensors; convnextv2; image-classification; vision; astronomy; galaxy-morphology; galaxy10-decals; full-fine-tuning; dataset:matthieulel/galaxy10_decals; base_model:facebook/convnext…
+2026-10-30T14:58:01Z,yuruny/hop2-abl_alf_verl-P_react_geo-gs160-model,yuruny,0,0,region:us
+2026-10-30T14:58:15Z,dadfaz/DeepSeek-V4.1-Flash-1017,dadfaz,0,0,transformers; safetensors; deepseek_v41; text-generation; image-text-to-text; license:mit; endpoints_compatible; 8-bit; fp8; region:us
+2026-10-30T14:58:44Z,matthieulel/convnextv2-large-1k-224-galaxy10-decals-head-v2,matthieulel,0,0,transformers; safetensors; convnextv2; image-classification; vision; astronomy; galaxy-morphology; galaxy10-decals; head-only-fine-tuning; dataset:matthieulel/galaxy10_decals; base_model:facebook/con…
+2026-10-30T14:58:50Z,jshenjs/raccoon_tennis_vision,jshenjs,0,0,onnx; license:apache-2.0; region:us
+2026-10-30T14:59:33Z,matthieulel/convnextv2-nano-1k-224-galaxy10-decals-full-v2,matthieulel,0,0,transformers; safetensors; convnextv2; image-classification; vision; astronomy; galaxy-morphology; galaxy10-decals; full-fine-tuning; dataset:matthieulel/galaxy10_decals; base_model:facebook/convnext…
+2026-10-30T14:59:39Z,matthieulel/convnextv2-nano-1k-224-galaxy10-decals-head-v2,matthieulel,0,0,transformers; safetensors; convnextv2; image-classification; vision; astronomy; galaxy-morphology; galaxy10-decals; head-only-fine-tuning; dataset:matthieulel/galaxy10_decals; base_model:facebook/con…
+2026-10-30T14:59:45Z,matthieulel/convnextv2-nano-22k-224-galaxy10-decals-full-v2,matthieulel,0,0,transformers; safetensors; convnextv2; image-classification; vision; astronomy; galaxy-morphology; galaxy10-decals; full-fine-tuning; dataset:matthieulel/galaxy10_decals; base_model:facebook/convnext…
+2026-10-30T14:59:53Z,matthieulel/convnextv2-nano-22k-224-galaxy10-decals-head-v2,matthieulel,0,0,transformers; safetensors; convnextv2; image-classification; vision; astronomy; galaxy-morphology; galaxy10-decals; head-only-fine-tuning; dataset:matthieulel/galaxy10_decals; base_model:facebook/con…
+2026-10-30T14:59:58Z,matthieulel/convnextv2-nano-22k-384-galaxy10-decals-full-v2,matthieulel,0,0,transformers; safetensors; convnextv2; image-classification; vision; astronomy; galaxy-morphology; galaxy10-decals; full-fine-tuning; dataset:matthieulel/galaxy10_decals; base_model:facebook/convnext…
+2026-10-30T15:00:04Z,matthieulel/convnextv2-nano-22k-384-galaxy10-decals-head-v2,matthieulel,0,0,transformers; safetensors; convnextv2; image-classification; vision; astronomy; galaxy-morphology; galaxy10-decals; head-only-fine-tuning; dataset:matthieulel/galaxy10_decals; base_model:facebook/con…
+2026-10-30T15:00:12Z,matthieulel/convnextv2-pico-1k-224-galaxy10-decals-full-v2,matthieulel,0,0,transformers; safetensors; convnextv2; image-classification; vision; astronomy; galaxy-morphology; galaxy10-decals; full-fine-tuning; dataset:matthieulel/galaxy10_decals; base_model:facebook/convnext…
+2026-10-30T15:00:18Z,matthieulel/convnextv2-pico-1k-224-galaxy10-decals-head-v2,matthieulel,0,0,transformers; safetensors; convnextv2; image-classification; vision; astronomy; galaxy-morphology; galaxy10-decals; head-only-fine-tuning; dataset:matthieulel/galaxy10_decals; base_model:facebook/con…
+2026-10-30T15:00:26Z,matthieulel/convnextv2-tiny-1k-224-galaxy10-decals-full-v2,matthieulel,0,0,transformers; safetensors; convnextv2; image-classification; vision; astronomy; galaxy-morphology; galaxy10-decals; full-fine-tuning; dataset:matthieulel/galaxy10_decals; base_model:facebook/convnext…
+2026-10-30T15:00:35Z,matthieulel/convnextv2-tiny-1k-224-galaxy10-decals-head-v2,matthieulel,0,0,transformers; safetensors; convnextv2; image-classification; vision; astronomy; galaxy-morphology; galaxy10-decals; head-only-fine-tuning; dataset:matthieulel/galaxy10_decals; base_model:facebook/con…
+2026-10-30T15:00:36Z,geocketa/Shino77,geocketa,0,0,region:us
+2026-10-30T15:00:44Z,matthieulel/convnextv2-tiny-22k-224-galaxy10-decals-full-v2,matthieulel,0,0,transformers; safetensors; convnextv2; image-classification; vision; astronomy; galaxy-morphology; galaxy10-decals; full-fine-tuning; dataset:matthieulel/galaxy10_decals; base_model:facebook/convnext…
+2026-10-30T15:00:49Z,chilkersion/martindieter,chilkersion,0,0,region:us
+2026-10-30T15:00:51Z,ryaluous/martindieter,ryaluous,0,0,region:us
+2026-10-30T15:00:53Z,geocketa/blacktone,geocketa,0,0,region:us
+2026-10-30T15:00:53Z,matthieulel/convnextv2-tiny-22k-224-galaxy10-decals-head-v2,matthieulel,0,0,transformers; safetensors; convnextv2; image-classification; vision; astronomy; galaxy-morphology; galaxy10-decals; head-only-fine-tuning; dataset:matthieulel/galaxy10_decals; base_model:facebook/con…
+2026-10-30T15:01:02Z,matthieulel/convnextv2-tiny-22k-384-galaxy10-decals-full-v2,matthieulel,0,0,transformers; safetensors; convnextv2; image-classification; vision; astronomy; galaxy-morphology; galaxy10-decals; full-fine-tuning; dataset:matthieulel/galaxy10_decals; base_model:facebook/convnext…
+2026-10-30T15:01:12Z,matthieulel/convnextv2-tiny-22k-384-galaxy10-decals-head-v2,matthieulel,0,0,transformers; safetensors; convnextv2; image-classification; vision; astronomy; galaxy-morphology; galaxy10-decals; head-only-fine-tuning; dataset:matthieulel/galaxy10_decals; base_model:facebook/con…
+2026-10-30T15:01:21Z,matthieulel/dinov2-base-galaxy10-decals-full-v2,matthieulel,0,0,transformers; safetensors; dinov2; image-classification; vision; astronomy; galaxy-morphology; galaxy10-decals; full-fine-tuning; dataset:matthieulel/galaxy10_decals; base_model:facebook/dinov2-base;…
+2026-10-30T15:01:46Z,matthieulel/dinov2-base-galaxy10-decals-head-v2,matthieulel,0,0,transformers; safetensors; dinov2; image-classification; vision; astronomy; galaxy-morphology; galaxy10-decals; head-only-fine-tuning; dataset:matthieulel/galaxy10_decals; base_model:facebook/dinov2-…
+2026-10-30T15:01:50Z,thaitoan1908/dana_qwen_travel_v2,thaitoan1908,0,0,peft; safetensors; base_model:adapter:Qwen/Qwen2.5-3B-Instruct; lora; transformers; text-generation; conversational; arxiv:1910.09700; base_model:Qwen/Qwen2.5-3B-Instruct; region:us
+2026-10-30T15:01:52Z,phureexd/qwen35_medical_v3_lr5e-5_gguf,phureexd,0,0,gguf; endpoints_compatible; region:us; imatrix; conversational
+2026-10-30T15:01:53Z,geocketa/updatemp,geocketa,0,0,region:us
+2026-10-30T15:02:10Z,matthieulel/dinov2-base-imagenet1k-1-layer-galaxy10-decals-full-v2,matthieulel,0,0,transformers; safetensors; dinov2; image-classification; vision; astronomy; galaxy-morphology; galaxy10-decals; full-fine-tuning; dataset:matthieulel/galaxy10_decals; base_model:facebook/dinov2-base-…
+2026-10-30T15:02:38Z,hsfdiusdhfiues/GLM-5.3-ABLITERATED-FP8,hsfdiusdhfiues,0,1,safetensors; glm_moe_dsa; abliterated; uncensored; crack; refusal-removed; glm; moe; fp8; text-generation; conversational; en; zh; ru; sr; hi; fr; es; ar; ko; ja; base_model:zai-org/GLM-5.3; base_mod…
+2026-10-30T15:02:46Z,safasfaf4546/MyAwesomeModel-TestRepo,safasfaf4546,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-10-30T15:02:59Z,mradermacher/SpaceCode-E2B-i1-GGUF,mradermacher,0,0,gguf; region:us
+2026-10-30T15:03:02Z,matthieulel/dinov2-base-imagenet1k-1-layer-galaxy10-decals-head-v2,matthieulel,0,0,transformers; safetensors; dinov2; image-classification; vision; astronomy; galaxy-morphology; galaxy10-decals; head-only-fine-tuning; dataset:matthieulel/galaxy10_decals; base_model:facebook/dinov2-…
+2026-10-30T15:03:50Z,matthieulel/dinov2-large-galaxy10-decals-full-v2,matthieulel,0,0,transformers; safetensors; dinov2; image-classification; vision; astronomy; galaxy-morphology; galaxy10-decals; full-fine-tuning; dataset:matthieulel/galaxy10_decals; base_model:facebook/dinov2-large…
+2026-10-30T15:04:00Z,sdafaf33/MyAwesomeModel-TestRepo,sdafaf33,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-10-30T15:04:03Z,Jeesup/svd-safety-shifted-l3_utility_remove0.4_rho0.0000001,Jeesup,0,0,region:us
+2026-10-30T15:04:04Z,RunningHubAI/rh-qy-f.1-v1-lora,RunningHubAI,0,0,comfyui; lora; region:us
+2026-10-30T15:05:26Z,manasrpandya/goemotions-student,manasrpandya,0,0,safetensors; roberta; region:us
+2026-10-30T15:05:31Z,Stankyspence1/360,Stankyspence1,0,0,minimax-h3; lora; image-to-video; first-last-frame; flf2v; camera-control; orbit; 360; 3d-consistency; gaussian-splatting; ai-toolkit; image-text-to-video; base_model:MiniMaxAI/MiniMax-H3; base_model…
+2026-10-30T15:05:41Z,RyanYr/hop2-abl_alf_react-W_plan_check_geo-gs160-model,RyanYr,0,0,region:us
+2026-10-30T15:05:41Z,RyanYr/hop2-abl_alf_react-P_verl_geo-full,RyanYr,0,0,region:us
+2026-10-30T15:05:41Z,RyanYr/hop2-abl_alf_react-P_verl_geo-gs160-model,RyanYr,0,0,region:us
+2026-10-30T15:05:44Z,matthieulel/dinov2-large-galaxy10-decals-head-v2,matthieulel,0,0,transformers; safetensors; dinov2; image-classification; vision; astronomy; galaxy-morphology; galaxy10-decals; head-only-fine-tuning; dataset:matthieulel/galaxy10_decals; base_model:facebook/dinov2-…
+2026-10-30T15:06:33Z,asdaasdf/MyAwesomeModel-TestRepo,asdaasdf,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-10-30T15:06:55Z,NexiHealth/stt_eu_conformer_transducer_large_v2,NexiHealth,0,0,nemo; automatic-speech-recognition; speech; audio; Transducer; Conformer; NeMo; pytorch; Transformer; eu; dataset:mozilla-foundation/common_voice_18_0; dataset:gttsehu/basque_parliament_1; dataset:op…
+2026-10-30T15:06:57Z,matthieulel/dinov2-small-galaxy10-decals-full-v2,matthieulel,0,0,transformers; safetensors; dinov2; image-classification; vision; astronomy; galaxy-morphology; galaxy10-decals; full-fine-tuning; dataset:matthieulel/galaxy10_decals; base_model:facebook/dinov2-small…
+2026-10-30T15:07:03Z,onethingtree/connectailab-rl-onetbrain-v1-link01,onethingtree,0,0,peft; safetensors; reinforcement-learning; deep-reinforcement-learning; ppo; robotics; decision-making; link01; connect-ai-world; connect-ai-lab; connectailab; lora; ko; base_model:Qwen/Qwen3.5-0.8B;…
+2026-10-30T15:07:06Z,matthieulel/dinov2-small-galaxy10-decals-head-v2,matthieulel,0,0,transformers; safetensors; dinov2; image-classification; vision; astronomy; galaxy-morphology; galaxy10-decals; head-only-fine-tuning; dataset:matthieulel/galaxy10_decals; base_model:facebook/dinov2-…
+2026-10-30T15:07:15Z,matthieulel/dinov2-small-imagenet1k-1-layer-galaxy10-decals-full-v2,matthieulel,0,0,transformers; safetensors; dinov2; image-classification; vision; astronomy; galaxy-morphology; galaxy10-decals; full-fine-tuning; dataset:matthieulel/galaxy10_decals; base_model:facebook/dinov2-small…
+2026-10-30T15:07:27Z,sdsfsfsf3435/MyAwesomeModel-TestRepo,sdsfsfsf3435,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-10-30T15:07:31Z,matthieulel/dinov2-small-imagenet1k-1-layer-galaxy10-decals-head-v2,matthieulel,0,0,transformers; safetensors; dinov2; image-classification; vision; astronomy; galaxy-morphology; galaxy10-decals; head-only-fine-tuning; dataset:matthieulel/galaxy10_decals; base_model:facebook/dinov2-…
+2026-10-30T15:07:35Z,childtang/TS-DP,childtang,0,0,license:mit; region:us
+2026-10-30T15:07:35Z,nikitastheo/v6-mixed-25k-lower-shared-ewc5-seed43-ukr-ell-sequential,nikitastheo,0,0,region:us
+2026-10-30T15:07:40Z,Drew1377/scottyrl-a3-p5_textcraft_grpo,Drew1377,0,0,peft; safetensors; tinker; lora; scottyrl; 11-768; base_model:Qwen/Qwen3.5-4B; base_model:adapter:Qwen/Qwen3.5-4B; region:us
+2026-10-30T15:07:44Z,matthieulel/efficientnet_b7-galaxy10-decals-full-v2,matthieulel,0,0,pytorch; safetensors; image-classification; vision; astronomy; galaxy-morphology; galaxy10-decals; full-fine-tuning; dataset:matthieulel/galaxy10_decals; license:bsd-3-clause; model-index; region:us
+2026-10-30T15:07:53Z,verify-ppt/ppt-c4_c4_1b_re,verify-ppt,0,0,safetensors; region:us
+2026-10-30T15:08:03Z,matthieulel/efficientnet_b7-galaxy10-decals-head-v2,matthieulel,0,0,pytorch; safetensors; image-classification; vision; astronomy; galaxy-morphology; galaxy10-decals; head-only-fine-tuning; dataset:matthieulel/galaxy10_decals; license:bsd-3-clause; model-index; regio…
+2026-10-30T15:08:20Z,matthieulel/resnet101-galaxy10-decals-full-v2,matthieulel,0,0,pytorch; safetensors; image-classification; vision; astronomy; galaxy-morphology; galaxy10-decals; full-fine-tuning; dataset:matthieulel/galaxy10_decals; license:bsd-3-clause; model-index; region:us
+2026-10-30T15:08:33Z,matthieulel/resnet101-galaxy10-decals-head-v2,matthieulel,0,0,pytorch; safetensors; image-classification; vision; astronomy; galaxy-morphology; galaxy10-decals; head-only-fine-tuning; dataset:matthieulel/galaxy10_decals; license:bsd-3-clause; model-index; regio…
+2026-10-30T15:08:35Z,guitaripod/groot-19b-a3b-uncensored-nvfp4,guitaripod,0,0,safetensors; qwen3_5_moe; abliteration; uncensored; nvfp4; moe; vllm; en; base_model:GrootTeam/Groot-19B-A3B-261023; base_model:quantized:GrootTeam/Groot-19B-A3B-261023; license:apache-2.0; 8-bit; co…
+2026-10-30T15:08:37Z,nikitastheo/v6-mixed-25k-lower-shared-ewc5-seed43-hin-ell-sequential,nikitastheo,0,0,region:us
+2026-10-30T15:08:40Z,DSAD1DSA/MyAwesomeModel-TestRepo,DSAD1DSA,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-10-30T15:08:46Z,matthieulel/swinv2-base-patch4-window12to16-192to256-22kto1k-ft-galaxy10-decals-full-v2,matthieulel,0,0,transformers; safetensors; swinv2; image-classification; vision; astronomy; galaxy-morphology; galaxy10-decals; full-fine-tuning; dataset:matthieulel/galaxy10_decals; base_model:microsoft/swinv2-base…
+2026-10-30T15:08:56Z,stanfordasl/diet-traj-olmo2-medium-dolma-seed11,stanfordasl,0,0,transformers; olmo2; training-trajectory; diet; weight-space; en; dataset:emozilla/dolma-v1_7-3B; license:apache-2.0; endpoints_compatible; region:us
+2026-10-30T15:09:24Z,3hs4n/Ternary-Bonsai-2-27B-Uncensored-Heretic-v2-mlx-2bit-compact-TensorFold,3hs4n,0,0,mlx; safetensors; prism_hadamard_qwen35; mlx-vlm; tensorfold; bonsai; heretic; uncensored; 2-bit; conversational; reasoning; vision; tool-calling; speculative-decoding; apple-silicon; image-text-to-t…
+2026-10-30T15:09:31Z,matthieulel/swinv2-base-patch4-window12to16-192to256-22kto1k-ft-galaxy10-decals-head-v2,matthieulel,0,0,transformers; safetensors; swinv2; image-classification; vision; astronomy; galaxy-morphology; galaxy10-decals; head-only-fine-tuning; dataset:matthieulel/galaxy10_decals; base_model:microsoft/swinv2…
+2026-10-30T15:09:37Z,DASD12D12SAD/MyAwesomeModel-TestRepo,DASD12D12SAD,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-10-30T15:10:12Z,matthieulel/swinv2-base-patch4-window16-256-galaxy10-decals-full-v2,matthieulel,0,0,transformers; safetensors; swinv2; image-classification; vision; astronomy; galaxy-morphology; galaxy10-decals; full-fine-tuning; dataset:matthieulel/galaxy10_decals; base_model:microsoft/swinv2-base…
+2026-10-30T15:10:22Z,NicoDeVargas/radar-avaliacoes-bertimbau,NicoDeVargas,0,0,transformers.js; onnx; safetensors; bert; text-classification; e-commerce; reviews; portuguese; brazilian-portuguese; distillation; pt; dataset:ruanchaves/b2w-reviews01; base_model:neuralmind/bert-ba…
+2026-10-30T15:10:52Z,matthieulel/swinv2-base-patch4-window16-256-galaxy10-decals-head-v2,matthieulel,0,0,transformers; safetensors; swinv2; image-classification; vision; astronomy; galaxy-morphology; galaxy10-decals; head-only-fine-tuning; dataset:matthieulel/galaxy10_decals; base_model:microsoft/swinv2…
+2026-10-30T15:11:01Z,jullian-benette/cluster-index-10,jullian-benette,0,0,region:us
+2026-10-30T15:11:34Z,MustiForYuqi/Asli_Goztasi,MustiForYuqi,0,0,region:us
+2026-10-30T15:11:36Z,matthieulel/swinv2-base-patch4-window8-256-galaxy10-decals-full-v2,matthieulel,0,0,transformers; safetensors; swinv2; image-classification; vision; astronomy; galaxy-morphology; galaxy10-decals; full-fine-tuning; dataset:matthieulel/galaxy10_decals; base_model:microsoft/swinv2-base…
+2026-10-30T15:12:19Z,matthieulel/swinv2-base-patch4-window8-256-galaxy10-decals-head-v2,matthieulel,0,0,transformers; safetensors; swinv2; image-classification; vision; astronomy; galaxy-morphology; galaxy10-decals; head-only-fine-tuning; dataset:matthieulel/galaxy10_decals; base_model:microsoft/swinv2…
+2026-10-30T15:12:39Z,mradermacher/RusMind-Sokol-4.7-i1-GGUF,mradermacher,0,0,gguf; endpoints_compatible; region:us; imatrix; conversational
+2026-10-30T15:12:44Z,nikitastheo/v6-mixed-25k-lower-shared-ewc5-seed43-fra-ell-sequential,nikitastheo,0,0,region:us
+2026-10-30T15:12:47Z,nikitastheo/v6-mixed-25k-lower-shared-ewc5-seed43-slk-ell-sequential,nikitastheo,0,0,region:us
+2026-10-30T15:13:02Z,matthieulel/swinv2-large-patch4-window12-192-22k-galaxy10-decals-full-v2,matthieulel,0,0,transformers; safetensors; swinv2; image-classification; vision; astronomy; galaxy-morphology; galaxy10-decals; full-fine-tuning; dataset:matthieulel/galaxy10_decals; base_model:microsoft/swinv2-larg…
+2026-10-30T15:13:56Z,MrMeOrYou/emma-6-GGUF,MrMeOrYou,0,0,region:us
+2026-10-30T15:14:22Z,cyttic/hmt-trocrctc-geom3-s42,cyttic,0,0,safetensors; htr; ctc; he; license:mit; region:us
+2026-10-30T15:14:37Z,matthieulel/swinv2-large-patch4-window12-192-22k-galaxy10-decals-head-v2,matthieulel,0,0,transformers; safetensors; swinv2; image-classification; vision; astronomy; galaxy-morphology; galaxy10-decals; head-only-fine-tuning; dataset:matthieulel/galaxy10_decals; base_model:microsoft/swinv2…
+2026-10-30T15:15:06Z,Donghyun1228/pi05-snumpr-realworld-dart-paired-keepstate-large-view-yaw30-alpha0p8-put-lemon-plate-20261030,Donghyun1228,0,0,robotics; pi05; openpi; snumpr; dart; license:apache-2.0; region:us
+2026-10-30T15:15:25Z,rabindra-dahal/simple-linear-regression,rabindra-dahal,0,0,license:mit; region:us
+2026-10-30T15:15:41Z,Randi-123/Jack_Frost_V2,Randi-123,0,0,diffusers; text-to-image; lora; template:diffusion-lora; base_model:brandon12333/Otis__RVC_v2_; base_model:adapter:brandon12333/Otis__RVC_v2_; license:openrail; region:us
+2026-10-30T15:15:54Z,DEVELOPERDARSHAN/electroq,DEVELOPERDARSHAN,0,0,transformers; safetensors; llama; text-generation; text-generation-inference; unsloth; conversational; en; base_model:unsloth/Llama-3.2-3B-Instruct-unsloth-bnb-4bit; base_model:finetune:unsloth/Llama…
+2026-10-30T15:16:07Z,matthieulel/swinv2-large-patch4-window12to16-192to256-22kto1k-ft-galaxy10-decals-full-v2,matthieulel,0,0,transformers; safetensors; swinv2; image-classification; vision; astronomy; galaxy-morphology; galaxy10-decals; full-fine-tuning; dataset:matthieulel/galaxy10_decals; base_model:microsoft/swinv2-larg…
+2026-10-30T15:16:21Z,Gabriel382/BioLaya,Gabriel382,0,0,license:mit; region:us
+2026-10-30T15:16:58Z,fridaystreet/Qwen3.8-27B,fridaystreet,0,0,transformers; safetensors; qwen3_5; image-text-to-text; conversational; license:apache-2.0; endpoints_compatible; region:us
+2026-10-30T15:17:03Z,multi-vector-encoder/ModernBERT-base-en-v1,multi-vector-encoder,0,0,sentence-transformers; safetensors; modernbert; multi-vector; colbert; late-interaction; feature-extraction; en; base_model:chungimungi/GLInt; base_model:merge:chungimungi/GLInt; base_model:lightonai…
+2026-10-30T15:17:31Z,kyoungsim/connectailab-rl-ks-v1-roadster-ppo,kyoungsim,0,0,pytorch; reinforcement-learning; ppo; continuous-control; connect-ai-lab; connectailab; region:us
+2026-10-30T15:17:37Z,pegasus9091/siamese-deberta-classifier,pegasus9091,0,0,region:us
+2026-10-30T15:17:39Z,matthieulel/swinv2-large-patch4-window12to16-192to256-22kto1k-ft-galaxy10-decals-head-v2,matthieulel,0,0,transformers; safetensors; swinv2; image-classification; vision; astronomy; galaxy-morphology; galaxy10-decals; head-only-fine-tuning; dataset:matthieulel/galaxy10_decals; base_model:microsoft/swinv2…
+2026-10-30T15:17:41Z,manasrpandya/goemotions-distil-onnx,manasrpandya,0,0,transformers.js; onnx; roberta; text-classification; emotion; multi-label; goemotions; en; dataset:google-research-datasets/go_emotions; license:mit; region:us
+2026-10-30T15:18:03Z,Bobbynull/Razako,Bobbynull,0,0,region:us
+2026-10-30T15:18:19Z,Ryougetsu/C-VIS-Qwen3.5-9B-Proposer-vf1-v4-checkpoint114,Ryougetsu,0,0,peft; safetensors; cvis; lora; proposer; qwen3_5; text-generation; base_model:Qwen/Qwen3.5-9B; base_model:adapter:Qwen/Qwen3.5-9B; region:us
+2026-10-30T15:18:39Z,nikitastheo/v6-mixed-25k-lower-shared-ewc5-seed43-ron-ell-sequential,nikitastheo,0,0,region:us
+2026-10-30T15:19:07Z,matthieulel/swinv2-small-patch4-window16-256-galaxy10-decals-full-v2,matthieulel,0,0,transformers; safetensors; swinv2; image-classification; vision; astronomy; galaxy-morphology; galaxy10-decals; full-fine-tuning; dataset:matthieulel/galaxy10_decals; base_model:microsoft/swinv2-smal…
+2026-10-30T15:19:33Z,matthieulel/swinv2-small-patch4-window16-256-galaxy10-decals-head-v2,matthieulel,0,0,transformers; safetensors; swinv2; image-classification; vision; astronomy; galaxy-morphology; galaxy10-decals; head-only-fine-tuning; dataset:matthieulel/galaxy10_decals; base_model:microsoft/swinv2…
+2026-10-30T15:20:01Z,matthieulel/swinv2-small-patch4-window8-256-galaxy10-decals-full-v2,matthieulel,0,0,transformers; safetensors; swinv2; image-classification; vision; astronomy; galaxy-morphology; galaxy10-decals; full-fine-tuning; dataset:matthieulel/galaxy10_decals; base_model:microsoft/swinv2-smal…
+2026-10-30T15:20:16Z,LilCC/GUI-JEPA,LilCC,0,0,license:mit; region:us
+2026-10-30T15:20:22Z,lair-nyu/pi05_sanity_subtasks-step14999,lair-nyu,0,0,region:us
+2026-10-30T15:20:29Z,matthieulel/swinv2-small-patch4-window8-256-galaxy10-decals-head-v2,matthieulel,0,0,region:us
