@@ -1,0 +1,239 @@
+created_at,model,author,downloads,likes,tags
+2026-11-01T14:20:40Z,Gege24/tournament-tourn_5bf35647da58489e_20261012-5db5591e-bc90-484b-8e3e-304174fb59a3-18ba4a0-p256s1,Gege24,0,0,region:us
+2026-11-01T14:20:45Z,waihongteh/m-0180,waihongteh,0,0,safetensors; qwen2; region:us
+2026-11-01T14:20:56Z,Haruto7261/QwenC-CPT-70,Haruto7261,0,0,safetensors; qwen3_5_text; region:us
+2026-11-01T14:21:15Z,Krioklininkas/ah,Krioklininkas,0,0,region:us
+2026-11-01T14:21:16Z,SorinJamie/MyAwesomeModel-TestRepo,SorinJamie,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-11-01T14:21:37Z,ASDCZX12DS/MyAwesomeModel-TestRepo,ASDCZX12DS,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-11-01T14:21:56Z,Gege24/tournament-tourn_7057f4bd8e7bd216_20261026-281015f2-7a7f-4cdb-8722-893e007fdd43-18ba4a0-p256s1,Gege24,0,0,region:us
+2026-11-01T14:22:27Z,AgenticCloud/Basalt,AgenticCloud,0,0,license:apache-2.0; region:us
+2026-11-01T14:23:14Z,Gege24/tournament-tourn_7057f4bd8e7bd216_20261026-281015f2-7a7f-4cdb-8722-893e007fdd43-18ba4a0-p256s0,Gege24,0,0,region:us
+2026-11-01T14:23:28Z,Thox-ai/ThoxHuman-Chat-8B,Thox-ai,0,0,thox; thoxagent; thoxchat; meshstack; thoxos; qwen3; ollama; local-first; configuration-derived; knowledge-pack; agents; digital-humans; text-generation; en; base_model:Qwen/Qwen3-8B; base_model:fine…
+2026-11-01T14:23:43Z,felsager/pi05_cube2cross_dr_200_epis,felsager,0,0,region:us
+2026-11-01T14:23:51Z,Ryanham1lton/Thundurus,Ryanham1lton,0,0,license:cc-by-4.0; region:us
+2026-11-01T14:24:51Z,RyanYr/hop2-off_sci_r2v_geoanc_mbis-gs240-model,RyanYr,0,0,region:us
+2026-11-01T14:24:51Z,RyanYr/hop2-abl_alf_react-W_plan_check_oracle-gs160-model,RyanYr,0,0,region:us
+2026-11-01T14:24:51Z,RyanYr/hop2-abl_web_react-A_verl_oracle-full,RyanYr,0,0,region:us
+2026-11-01T14:25:14Z,doubtsjohn/c9-b1,doubtsjohn,0,0,region:us
+2026-11-01T14:25:34Z,bhav20/26D0362-Week10-Compression20-Submission02,bhav20,0,0,safetensors; qwen3_5; 8-bit; region:us
+2026-11-01T14:25:35Z,TheodoraAdhara/MyAwesomeModel-TestRepo,TheodoraAdhara,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-11-01T14:26:16Z,raisser/kcat-km-esm35-lgb,raisser,0,0,safetensors; leak-curber; kcat; km; license:mit; region:us
+2026-11-01T14:26:16Z,Infinix-ai/drama-3,Infinix-ai,0,0,safetensors; fish_omni; fish-audio; text-to-speech; multi-speaker; audio-editing; emotional-speech-generation; zh; en; ja; ko; es; pt; ar; ru; fr; de; sv; it; tr; no; nl; cy; eu; ca; da; gl; ta; hu;…
+2026-11-01T14:26:23Z,ampixa/audio8-nepali-dpo-onnx,ampixa,0,0,onnxruntime; onnx; arktts; text-to-speech; nepali; audio8; int8; voice-cloning; custom_code; ne; base_model:Edge0/Audio8-TTS-Preview-0.1b; base_model:quantized:Edge0/Audio8-TTS-Preview-0.1b; license:…
+2026-11-01T14:26:39Z,Infinix-ai/Drama-3-GGUF,Infinix-ai,0,0,gguf; audio.cpp; fish-audio; text-to-speech; voice-cloning; audio-editing; moe; mixed-quantization; base_model:fishaudio/drama-3; base_model:quantized:fishaudio/drama-3; license:other; region:us
+2026-11-01T14:27:08Z,Haruto7261/QwenC-SFT,Haruto7261,0,0,safetensors; qwen3_5_text; region:us
+2026-11-01T14:27:12Z,mikaelaehunter/optuna_canadian_english,mikaelaehunter,0,0,transformers; tensorboard; safetensors; whisper; automatic-speech-recognition; hf-asr-leaderboard; generated_from_trainer; en; dataset:canadian_english; base_model:openai/whisper-tiny; base_model:fin…
+2026-11-01T14:28:28Z,Jim-myoenk/FDS-UNeXT,Jim-myoenk,0,1,region:us
+2026-11-01T14:28:47Z,usr256864/qw3_06_ner_15k_allsh_1,usr256864,0,0,safetensors; qwen3; region:us
+2026-11-01T14:28:52Z,y172108740/Qwen3-4B,y172108740,0,0,transformers; safetensors; qwen3; text-generation; conversational; arxiv:2309.00071; arxiv:2505.09388; base_model:Qwen/Qwen3-4B-Base; base_model:finetune:Qwen/Qwen3-4B-Base; license:apache-2.0; text-…
+2026-11-01T14:30:36Z,sieuneee/pick_and_place_20261101_212843_act,sieuneee,0,0,lerobot; safetensors; robotics; act; dataset:sieuneee/pick_and_place_20261101_212843; arxiv:2304.13705; region:us
+2026-11-01T14:30:41Z,123sg/MyAwesomeModel-TestRepo,123sg,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-11-01T14:31:10Z,oteam/alphafold2,oteam,0,0,ofoldx; safetensors; Biology; Protein; Structure Prediction; other; license:agpl-3.0; region:us
+2026-11-01T14:31:17Z,jrubiosainz/microduck-sock-heist-6m-a1rb4ck-edb65d29-copy,jrubiosainz,0,0,microduck; onnx; microduck-arena; sock-heist-6m; robotics; reinforcement-learning; license:apache-2.0; region:us
+2026-11-01T14:31:55Z,oteam/alphafold2-casp14,oteam,0,0,ofoldx; safetensors; Biology; Protein; Structure Prediction; other; license:agpl-3.0; region:us
+2026-11-01T14:32:01Z,yurunyyr/hop2-abl_web_react-P_verl_oracle-gs240-model,yurunyyr,0,0,region:us
+2026-11-01T14:32:01Z,yurunyyr/hop2-abl_web_verl-A_react_oracle-gs240-model,yurunyyr,0,0,region:us
+2026-11-01T14:32:01Z,yurunyyr/hop2-abl_web_react-C_verl_oracle-gs240-model,yurunyyr,0,0,region:us
+2026-11-01T14:32:03Z,cloudyu/GLM5.3-SLIM-GGUF,cloudyu,0,0,gguf; llama.cpp; glm; moe; text-generation; base_model:autotrust/GLM-5.3-SLIM; base_model:quantized:autotrust/GLM-5.3-SLIM; license:other; endpoints_compatible; region:us; imatrix; conversational
+2026-11-01T14:32:17Z,yyuan244/hop2-off_sci_r2v_tokanc_mbis-gs240-model,yyuan244,0,0,region:us
+2026-11-01T14:32:17Z,yyuan244/hop2-off_sci_r2v_geoanc_mbis-full,yyuan244,0,0,region:us
+2026-11-01T14:32:34Z,oteam/alphafold2-initial-guess,oteam,0,0,ofoldx; safetensors; Biology; Protein; Structure Prediction; other; license:agpl-3.0; region:us
+2026-11-01T14:32:36Z,yuruny/hop2-off_sci_r2v_tokanc_mbis-full,yuruny,0,0,region:us
+2026-11-01T14:32:38Z,secur11ty/Russian-AntiSwear,secur11ty,0,2,ru; text; classification; text-classification; license:apache-2.0; region:us
+2026-11-01T14:32:38Z,yuruny/hop2-off_sci_v2r_tokanc_mbis-gs240-model,yuruny,0,0,region:us
+2026-11-01T14:32:51Z,ksgst1343/panda_pick_cube_act_v2,ksgst1343,0,0,lerobot; safetensors; act; robotics; dataset:ksgst1343/panda_pick_cube; arxiv:2304.13705; license:apache-2.0; region:us
+2026-11-01T14:33:00Z,Infinix-ai/s2-pro,Infinix-ai,0,0,safetensors; fish_qwen3_omni; text-to-speech; instruction-following; multilingual; zh; en; ja; ko; es; pt; ar; ru; fr; de; sv; it; tr; no; nl; cy; eu; ca; da; gl; ta; hu; fi; pl; et; hi; la; ur; th;…
+2026-11-01T14:33:01Z,bhav20/26D0362-Week10-Compression40-Submission02,bhav20,0,0,safetensors; qwen3_5; 8-bit; region:us
+2026-11-01T14:33:02Z,bn22/CLIP-ViT-B-32-OTHER,bn22,0,0,transformers; safetensors; clip; zero-shot-image-classification; arxiv:1910.09700; endpoints_compatible; region:us
+2026-11-01T14:33:13Z,oteam/alphafold2-model-2,oteam,0,0,ofoldx; safetensors; Biology; Protein; Structure Prediction; other; license:agpl-3.0; region:us
+2026-11-01T14:33:20Z,RyanYr/hop2-sci_react-W_plan_check_s1-gs240-model,RyanYr,0,0,region:us
+2026-11-01T14:33:20Z,RyanYr/hop2-sci_react-W_plan_check_s1-full,RyanYr,0,0,region:us
+2026-11-01T14:33:20Z,RyanYr/hop2-sci_react_9b-gs120-model,RyanYr,0,0,region:us
+2026-11-01T14:33:24Z,Haruto7261/QwenC-Satsuma-v2,Haruto7261,0,0,safetensors; qwen3_5_text; region:us
+2026-11-01T14:33:51Z,oteam/alphafold2-model-3,oteam,0,0,ofoldx; safetensors; Biology; Protein; Structure Prediction; other; license:agpl-3.0; region:us
+2026-11-01T14:34:00Z,doubtsjohn/c9-z1,doubtsjohn,0,0,region:us
+2026-11-01T14:34:03Z,Ashwinxs/DeepSeek-V4.1-Flash-1017-obliterated,Ashwinxs,0,0,transformers; safetensors; deepseek_v41_text; text-generation; obliteratus; abliterated; deepseek; moe; conversational; base_model:deepseek-ai/DeepSeek-V4.1-Flash-1017; base_model:finetune:deepseek-a…
+2026-11-01T14:34:16Z,TinoBruno/moecher-nemotron-3.5-lightning-vision,TinoBruno,0,0,mamba2; moe; nvfp4; blackwell; minnie-the-moecher; reasoning; text-generation; license:other; region:us
+2026-11-01T14:34:30Z,oteam/alphafold2-model-4,oteam,0,0,ofoldx; safetensors; Biology; Protein; Structure Prediction; other; license:agpl-3.0; region:us
+2026-11-01T14:34:35Z,sirbrentmichaelskoda/skoda-forensic-orchestrator-omega-aegis,sirbrentmichaelskoda,0,0,region:us
+2026-11-01T14:34:49Z,Infinix-ai/kitten-tts-2,Infinix-ai,0,0,safetensors; gguf; text-to-speech; voice-cloning; multilingual; license:other; endpoints_compatible; region:us; conversational
+2026-11-01T14:35:09Z,oteam/alphafold2-model-5,oteam,0,0,ofoldx; safetensors; Biology; Protein; Structure Prediction; other; license:agpl-3.0; region:us
+2026-11-01T14:35:14Z,pespatron222/lollita1,pespatron222,0,0,region:us
+2026-11-01T14:35:22Z,casareborgia/yega-rate-predictor-market,casareborgia,0,0,lightgbm; joblib; quantile-regression; tabular-regression; public-procurement; korea; bidding; 예정가격; 사정률; 나라장터; ko; license:mit; region:us
+2026-11-01T14:35:41Z,Infinix-ai/VoxCPM2,Infinix-ai,0,0,voxcpm; safetensors; text-to-speech; tts; multilingual; voice-cloning; voice-design; diffusion; audio; zh; en; ar; my; da; nl; fi; fr; de; el; he; hi; id; it; ja; km; ko; lo; ms; no; pl; pt; ru; es;…
+2026-11-01T14:35:45Z,padiredd/dp-blockpick-fullregion-dr2,padiredd,0,0,safetensors; LeRobot; diffusion-policy; isaac-lab; simulation; ffw-sg2; robotics; license:other; region:us
+2026-11-01T14:35:48Z,oteam/alphafold2-multimer,oteam,0,0,ofoldx; safetensors; Biology; Protein; Structure Prediction; other; license:agpl-3.0; region:us
+2026-11-01T14:36:14Z,Infinix-ai/higgs-tts-3-4b,Infinix-ai,0,0,transformers; safetensors; higgs_multimodal_qwen3; text-generation; text-to-speech; speech-generation; voice-agent; expressive-speech; controllable-tts; multilingual-tts; af; ar; as; ast; az; ba; be;…
+2026-11-01T14:36:25Z,bhav20/26D0362-Week10-Compression10-Submission01,bhav20,0,0,safetensors; qwen3_5; 8-bit; region:us
+2026-11-01T14:36:27Z,oteam/alphafold2-multimer-model-2,oteam,0,0,ofoldx; safetensors; Biology; Protein; Structure Prediction; other; license:agpl-3.0; region:us
+2026-11-01T14:36:48Z,rpchinhara/25M2573-Week09-Compression20-Submission02,rpchinhara,0,0,qwen3_5_text; 4-bit; gptq; region:us
+2026-11-01T14:37:05Z,oteam/alphafold2-multimer-model-3,oteam,0,0,ofoldx; safetensors; Biology; Protein; Structure Prediction; other; license:agpl-3.0; region:us
+2026-11-01T14:37:08Z,padiredd/dp-blockpick-fullregion-dr2-statenoise,padiredd,0,1,safetensors; LeRobot; diffusion-policy; isaac-lab; simulation; ffw-sg2; robotics; license:other; region:us
+2026-11-01T14:37:15Z,lphatnguyen/microduck-sock-heist-6m-v2,lphatnguyen,0,0,microduck; onnx; robotics; reinforcement-learning; region:us
+2026-11-01T14:37:44Z,Ayachi7/CallVerse-Qwen3VL-2B-Vision-QLoRA,Ayachi7,0,1,peft; safetensors; qwen3-vl; vision-language-model; qlora; lora; visual-inspection; customer-support; ecommerce; tourism; structured-output; image-text-to-text; conversational; en; fr; base_model:Qwe…
+2026-11-01T14:37:47Z,oteam/alphafold2-multimer-model-4,oteam,0,0,ofoldx; safetensors; Biology; Protein; Structure Prediction; other; license:agpl-3.0; region:us
+2026-11-01T14:38:03Z,luotianze666/RiT,luotianze666,0,0,region:us
+2026-11-01T14:38:20Z,ThakiCloud/Thaki-EnergyLoad-Forecaster-v0.1,ThakiCloud,0,0,lightgbm; time-series; forecasting; electricity; load-forecasting; energy; tabular; time-series-forecasting; en; ko; license:apache-2.0; region:us
+2026-11-01T14:38:22Z,huangdffs/dnbr-tagger-preview1,huangdffs,0,0,timm; pytorch; safetensors; image-classification; transformers; license:apache-2.0; region:us
+2026-11-01T14:38:27Z,oteam/alphafold2-multimer-model-5,oteam,0,0,ofoldx; safetensors; Biology; Protein; Structure Prediction; other; license:agpl-3.0; region:us
+2026-11-01T14:38:59Z,Haruto7261/QwenD-CPT-70,Haruto7261,0,0,safetensors; qwen3_5_text; region:us
+2026-11-01T14:39:02Z,huangdffs/1girl-EDM2-XS-test-1,huangdffs,0,0,image-to-image; license:cc-by-nc-sa-4.0; region:us
+2026-11-01T14:39:05Z,oteam/alphafold2-ptm,oteam,0,0,ofoldx; safetensors; Biology; Protein; Structure Prediction; other; license:agpl-3.0; region:us
+2026-11-01T14:39:31Z,Gege24/tournament-tourn_7057f4bd8e7bd216_20261026-281015f2-7a7f-4cdb-8722-893e007fdd43-18ba4a0-m1s0,Gege24,0,0,region:us
+2026-11-01T14:39:44Z,oteam/alphafold2-ptm-model-2,oteam,0,0,ofoldx; safetensors; Biology; Protein; Structure Prediction; other; license:agpl-3.0; region:us
+2026-11-01T14:40:04Z,degen69/BFS-Best-Face-Swap-Video,degen69,0,0,diffusers; ltx-2; ltx-2.5; ic-lora; head-swap; video-to-video; image-to-video; bfs; lora; base_model:Lightricks/LTX-2.3; base_model:adapter:Lightricks/LTX-2.3; license:other; region:us
+2026-11-01T14:40:11Z,SmolBrain/smai-a4-cifar10-mlp,SmolBrain,0,0,region:us
+2026-11-01T14:40:20Z,SmolBrain/smai-a4-cifar10-ioc-nn,SmolBrain,0,0,region:us
+2026-11-01T14:40:24Z,oteam/alphafold2-ptm-model-3,oteam,0,0,ofoldx; safetensors; Biology; Protein; Structure Prediction; other; license:agpl-3.0; region:us
+2026-11-01T14:40:25Z,mysterium99/groot_stage1_newtask,mysterium99,0,0,lerobot; safetensors; groot; robotics; dataset:manufacturing_task; license:apache-2.0; region:us
+2026-11-01T14:40:49Z,NidAll/Krea-2-BBOX-Turbo-INT8-ConvRot,NidAll,0,0,comfyui; krea2; int8; convrot; quantization; text-to-image; base_model:jimmycarter/krea2-turbo-bbox; base_model:finetune:jimmycarter/krea2-turbo-bbox; license:other; region:us
+2026-11-01T14:40:53Z,User-Android/Lieq,User-Android,0,0,region:us
+2026-11-01T14:41:01Z,oteam/alphafold2-ptm-model-4,oteam,0,0,ofoldx; safetensors; Biology; Protein; Structure Prediction; other; license:agpl-3.0; region:us
+2026-11-01T14:41:40Z,oteam/alphafold2-ptm-model-5,oteam,0,0,ofoldx; safetensors; Biology; Protein; Structure Prediction; other; license:agpl-3.0; region:us
+2026-11-01T14:41:59Z,Ryanham1lton/Landorus,Ryanham1lton,0,0,license:cc-by-4.0; region:us
+2026-11-01T14:42:18Z,oteam/boltz1,oteam,0,0,ofoldx; safetensors; Biology; Protein; RNA; DNA; Structure Prediction; other; license:agpl-3.0; region:us
+2026-11-01T14:42:31Z,Polydim-Einsof/DeepSeek-R1-Distill-Qwen-14B-Einsof-LoRA,Polydim-Einsof,0,0,peft; safetensors; unsloth; lora; einsof; polydim; stiefel-manifold; formal-theorems; pmtp; base_model:deepseek-ai/DeepSeek-R1-Distill-Qwen-14B; base_model:adapter:deepseek-ai/DeepSeek-R1-Distill-Qwe…
+2026-11-01T14:42:41Z,Polydim-Einsof/Qwen2.5-72B-Instruct-Einsof-LoRA,Polydim-Einsof,0,0,region:us
+2026-11-01T14:42:41Z,Polydim-Einsof/Qwen2.5-Coder-32B-Einsof-LoRA,Polydim-Einsof,0,0,peft; safetensors; unsloth; lora; einsof; polydim; stiefel-manifold; formal-theorems; pmtp; base_model:Qwen/Qwen2.5-Coder-32B-Instruct; base_model:adapter:Qwen/Qwen2.5-Coder-32B-Instruct; license:apa…
+2026-11-01T14:42:55Z,oteam/boltz2,oteam,0,0,ofoldx; safetensors; Biology; Protein; RNA; DNA; Structure Prediction; Binding Affinity; other; license:agpl-3.0; region:us
+2026-11-01T14:43:06Z,Gege24/tournament-tourn_7057f4bd8e7bd216_20261026-281015f2-7a7f-4cdb-8722-893e007fdd43-18ba4a0-m1s1,Gege24,0,0,region:us
+2026-11-01T14:43:07Z,Yacin464/false54,Yacin464,0,0,license:apache-2.0; region:us
+2026-11-01T14:43:22Z,doubtsjohn/c9-z2,doubtsjohn,0,0,region:us
+2026-11-01T14:43:26Z,RyanYr/hop2-abl_web_verl-A_react_oracle-gs240-model,RyanYr,0,0,region:us
+2026-11-01T14:43:26Z,RyanYr/hop2-abl_web_react-P_verl_oracle-gs240-model,RyanYr,0,0,region:us
+2026-11-01T14:43:33Z,weepiess2383/NEO-VLA,weepiess2383,0,0,robotics; vision-language-action; robot-learning; region:us
+2026-11-01T14:43:36Z,oteam/boltz2-affinity,oteam,0,0,ofoldx; safetensors; Biology; Protein; RNA; DNA; Structure Prediction; Binding Affinity; other; license:agpl-3.0; region:us
+2026-11-01T14:44:33Z,oteam/boltzgen,oteam,0,0,ofoldx; safetensors; Biology; Protein; Protein Design; Inverse Folding; other; license:agpl-3.0; region:us
+2026-11-01T14:45:10Z,oteam/boltzgen-adherence,oteam,0,0,ofoldx; safetensors; Biology; Protein; Protein Design; Inverse Folding; other; license:agpl-3.0; region:us
+2026-11-01T14:45:22Z,Haruto7261/QwenD-SFT,Haruto7261,0,0,safetensors; qwen3_5_text; region:us
+2026-11-01T14:45:23Z,abhhiyeet/smai-a4-mlp,abhhiyeet,0,0,region:us
+2026-11-01T14:45:36Z,Raghav06123/SecondsubDA3410,Raghav06123,0,0,enzyme-classification; ec-number; graph-neural-network; license:mit; region:us
+2026-11-01T14:45:42Z,JingwenGu/qwen3-1.7b-sft-multisource-math-knk-last50pct-step300,JingwenGu,0,0,safetensors; qwen3; region:us
+2026-11-01T14:45:49Z,oteam/boltzgen-diverse,oteam,0,0,ofoldx; safetensors; Biology; Protein; Protein Design; Inverse Folding; other; license:agpl-3.0; region:us
+2026-11-01T14:46:09Z,coreytoolathon/MyAwesomeModel-TestRepo,coreytoolathon,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-11-01T14:46:26Z,oteam/boltzgen-inversefolding,oteam,0,0,ofoldx; safetensors; Biology; Protein; Protein Design; Inverse Folding; other; license:agpl-3.0; region:us
+2026-11-01T14:46:37Z,abhhiyeet/smai-a4-ioc,abhhiyeet,0,0,region:us
+2026-11-01T14:47:02Z,oteam/boltzgen-structure-small,oteam,0,0,ofoldx; safetensors; Biology; Protein; Protein Design; Inverse Folding; other; license:agpl-3.0; region:us
+2026-11-01T14:47:40Z,oteam/esmfold2,oteam,0,0,ofoldx; safetensors; Biology; Protein; Structure Prediction; other; license:agpl-3.0; region:us
+2026-11-01T14:47:57Z,sundraphan/ana-qwen3-1.7b-vi-gguf,sundraphan,0,0,gguf; llama.cpp; vietnamese; on-device; vi; base_model:Qwen/Qwen3-1.7B; base_model:quantized:Qwen/Qwen3-1.7B; license:apache-2.0; endpoints_compatible; region:us; conversational
+2026-11-01T14:48:28Z,jungwook2358/wam-openarm-prq30-rh-cog-humvid-v1-ema-50k-ckpt50000,jungwook2358,0,0,safetensors; robotics; license:other; region:us
+2026-11-01T14:48:56Z,dfdgdg333/MyAwesomeModel-TestRepo,dfdgdg333,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-11-01T14:49:37Z,oteam/esmfold2-experimental,oteam,0,0,ofoldx; safetensors; Biology; Protein; Structure Prediction; other; license:agpl-3.0; region:us
+2026-11-01T14:50:20Z,oteam/esmfold2-experimental-fast,oteam,0,0,ofoldx; safetensors; Biology; Protein; Structure Prediction; other; license:agpl-3.0; region:us
+2026-11-01T14:50:22Z,KunjanAI/instrumentation-qwen-lora,KunjanAI,0,0,transformers; safetensors; text-generation-inference; unsloth; qwen2; trl; en; base_model:unsloth/Qwen2.5-7B-Instruct-unsloth-bnb-4bit; base_model:finetune:unsloth/Qwen2.5-7B-Instruct-unsloth-bnb-4bi…
+2026-11-01T14:50:26Z,webmp3/Sakura-Llama-3.3-70B-Instruct-GGUF,webmp3,0,0,gguf; quantization; sakura; imatrix; en; zh; base_model:meta-llama/Llama-3.3-70B-Instruct; base_model:quantized:meta-llama/Llama-3.3-70B-Instruct; license:llama3.3; endpoints_compatible; region:us; c…
+2026-11-01T14:50:36Z,KunjanAI/instrumentation-qwen-lora-merged,KunjanAI,0,0,transformers; safetensors; qwen2; text-generation; text-generation-inference; unsloth; conversational; en; base_model:unsloth/Qwen2.5-7B-Instruct-unsloth-bnb-4bit; base_model:finetune:unsloth/Qwen2.5…
+2026-11-01T14:50:38Z,TheNew0ne/ppo-PyramidRND,TheNew0ne,0,0,ml-agents; tensorboard; onnx; Pyramids; deep-reinforcement-learning; reinforcement-learning; ML-Agents-Pyramids; region:us
+2026-11-01T14:50:59Z,oteam/esmfold2-experimental-fast-base300m-step1000k,oteam,0,0,ofoldx; safetensors; Biology; Protein; Structure Prediction; other; license:agpl-3.0; region:us
+2026-11-01T14:51:06Z,mradermacher/Lucet-CoderV4-4B-Omega-GGUF,mradermacher,0,0,transformers; gguf; lucet; spark-x2.6; qr-svd; ast-counterfactual; failure-cluster-mining; uncensored; gsq; rco; 1m-context; imatrix; en; base_model:mohommed/Lucet-CoderV4-4B-Omega; base_model:quanti…
+2026-11-01T14:51:13Z,Haruto7261/QwenD-Satsuma-v2,Haruto7261,0,0,safetensors; qwen3_5_text; region:us
+2026-11-01T14:51:39Z,oteam/esmfold2-experimental-fast-base300m-step1500k,oteam,0,0,ofoldx; safetensors; Biology; Protein; Structure Prediction; other; license:agpl-3.0; region:us
+2026-11-01T14:52:06Z,lphatnguyen/microduck-sock-heist-6m-v3,lphatnguyen,0,0,microduck; onnx; robotics; reinforcement-learning; region:us
+2026-11-01T14:52:12Z,iromu/Qwen3-0.6B-tools-FP8,iromu,0,0,transformers; safetensors; qwen3; text-generation; qwen; tool-calling; function-calling; agents; sft; lora; fp8; modelopt; conversational; en; dataset:r0b0tlab/qwen3.8-max-glm5.2-kimi-k3-distillation…
+2026-11-01T14:52:19Z,oteam/esmfold2-experimental-fast-base300m-step250k,oteam,0,0,ofoldx; safetensors; Biology; Protein; Structure Prediction; other; license:agpl-3.0; region:us
+2026-11-01T14:52:28Z,olejanek/ppo-LunarLander-v2-cleanrl,olejanek,0,0,tensorboard; LunarLander-v2; ppo; deep-reinforcement-learning; reinforcement-learning; custom-implementation; deep-rl-course; model-index; region:us
+2026-11-01T14:52:59Z,oteam/esmfold2-experimental-fast-base300m-step500k,oteam,0,0,ofoldx; safetensors; Biology; Protein; Structure Prediction; other; license:agpl-3.0; region:us
+2026-11-01T14:53:37Z,oteam/esmfold2-experimental-fast-base300m-step750k,oteam,0,0,ofoldx; safetensors; Biology; Protein; Structure Prediction; other; license:agpl-3.0; region:us
+2026-11-01T14:54:05Z,iromu/LFM2.5-230M-tools-FP8,iromu,0,0,transformers; safetensors; lfm2; text-generation; liquid-ai; tool-calling; function-calling; agents; sft; lora; fp8; modelopt; conversational; en; dataset:r0b0tlab/qwen3.8-max-glm5.2-kimi-k3-distilla…
+2026-11-01T14:54:11Z,ringtone-ro/1793544851,ringtone-ro,0,0,safetensors; region:us
+2026-11-01T14:54:15Z,oteam/esmfold2-experimental-fast-base600m-step1000k,oteam,0,0,ofoldx; safetensors; Biology; Protein; Structure Prediction; other; license:agpl-3.0; region:us
+2026-11-01T14:54:18Z,iromu/Qwen3-0.6B-openjev-FP8,iromu,0,0,transformers; safetensors; qwen3; text-generation; qwen; decision; typed-decision; classification; sft; lora; fp8; modelopt; conversational; en; dataset:ZefanCai/Open-Jev; base_model:iromu/Qwen3-0.6B…
+2026-11-01T14:54:25Z,Cisco1963/llmplasticity-nl_zh_instant_8-d0.5-c0.999-r0.5-s42,Cisco1963,0,0,safetensors; gpt2; region:us
+2026-11-01T14:54:43Z,inhow/Narae4-Qwen3.5-2B-Office-LoRA-v1,inhow,0,0,peft; safetensors; gguf; lora; narae4; qwen3_5; tool-calling; experimental; image-text-to-text; ko; en; base_model:Qwen/Qwen3.5-2B; base_model:adapter:Qwen/Qwen3.5-2B; license:other; endpoints_compat…
+2026-11-01T14:54:44Z,iromu/Qwen2.5-1.5B-openjev-FP8,iromu,0,0,transformers; safetensors; qwen2; text-generation; qwen2.5; qwen; decision; typed-decision; classification; sft; lora; fp8; modelopt; conversational; en; dataset:ZefanCai/Open-Jev; base_model:iromu/Q…
+2026-11-01T14:54:54Z,oteam/esmfold2-experimental-fast-base600m-step1500k,oteam,0,0,ofoldx; safetensors; Biology; Protein; Structure Prediction; other; license:agpl-3.0; region:us
+2026-11-01T14:55:29Z,taurusduan/rh-minimax-h3-ref2v-turbo-4step-v0.1-comfyui-bf16.safetensors-lora,taurusduan,0,0,comfyui; lora; region:us
+2026-11-01T14:55:33Z,oteam/esmfold2-experimental-fast-base600m-step250k,oteam,0,0,ofoldx; safetensors; Biology; Protein; Structure Prediction; other; license:agpl-3.0; region:us
+2026-11-01T14:55:34Z,Divya7106/smai-a4-mlp,Divya7106,0,0,region:us
+2026-11-01T14:55:59Z,iromu/LFM2.5-230M-openjev-FP8,iromu,0,0,transformers; safetensors; lfm2; text-generation; liquid-ai; decision; typed-decision; classification; sft; lora; fp8; modelopt; conversational; en; dataset:ZefanCai/Open-Jev; base_model:iromu/LFM2.5…
+2026-11-01T14:56:13Z,oteam/esmfold2-experimental-fast-base600m-step500k,oteam,0,0,ofoldx; safetensors; Biology; Protein; Structure Prediction; other; license:agpl-3.0; region:us
+2026-11-01T14:56:21Z,WiHong321/Florence-2-large,WiHong321,0,0,pytorch; safetensors; florence2; vision; image-text-to-text; custom_code; arxiv:2311.06242; license:mit; region:us
+2026-11-01T14:56:25Z,Divya7106/smai-a4-iocnn,Divya7106,0,0,region:us
+2026-11-01T14:56:52Z,oteam/esmfold2-experimental-fast-base600m-step750k,oteam,0,0,ofoldx; safetensors; Biology; Protein; Structure Prediction; other; license:agpl-3.0; region:us
+2026-11-01T14:57:02Z,celebibasar/DroidSenior-7B,celebibasar,0,0,transformers; safetensors; qwen2; text-generation; android; kotlin; jetpack-compose; code; coding-assistant; lora; sft; dpo; conversational; en; tr; dataset:JetBrains/KExercises; dataset:giggiovpg/an…
+2026-11-01T14:57:32Z,oteam/esmfold2-fast,oteam,0,0,ofoldx; safetensors; Biology; Protein; Structure Prediction; other; license:agpl-3.0; region:us
+2026-11-01T14:57:44Z,neoof8ie/primenumbers,neoof8ie,0,0,text-generation; pytorch; ja; license:mit; region:us
+2026-11-01T14:58:09Z,oteam/grnade,oteam,0,0,ofoldx; safetensors; Biology; RNA Design; Inverse Folding; Geometric Deep Learning; other; arxiv:2305.14749; license:agpl-3.0; region:us
+2026-11-01T14:58:40Z,MLGOATKOJI/Web-GPT,MLGOATKOJI,0,0,license:apache-2.0; region:us
+2026-11-01T14:58:48Z,oteam/grnade-odesign,oteam,0,1,ofoldx; safetensors; Biology; RNA Design; Inverse Folding; Geometric Deep Learning; other; arxiv:2305.14749; license:agpl-3.0; region:us
+2026-11-01T14:59:19Z,ToddBB/MyAwesomeModel-TestRepo,ToddBB,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-11-01T14:59:21Z,zhujiaying-mcpbench/MyAwesomeModel-TestRepo,zhujiaying-mcpbench,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-11-01T14:59:25Z,oteam/grnade-v0.3.2-1state-all,oteam,0,0,ofoldx; safetensors; Biology; RNA Design; Inverse Folding; Geometric Deep Learning; other; arxiv:2305.14749; license:agpl-3.0; region:us
+2026-11-01T15:00:04Z,oteam/grnade-v0.3.2-1state-das,oteam,0,0,ofoldx; safetensors; Biology; RNA Design; Inverse Folding; Geometric Deep Learning; other; arxiv:2305.14749; license:agpl-3.0; region:us
+2026-11-01T15:00:43Z,oteam/grnade-v0.3.2-1state-multi,oteam,0,0,ofoldx; safetensors; Biology; RNA Design; Inverse Folding; Geometric Deep Learning; other; arxiv:2305.14749; license:agpl-3.0; region:us
+2026-11-01T15:00:44Z,celebibasar/DroidSenior-7B-GGUF,celebibasar,0,0,gguf; ollama; llama.cpp; android; kotlin; jetpack-compose; code; coding-assistant; qwen2; lora; sft; dpo; text-generation; en; tr; base_model:celebibasar/DroidSenior-7B; base_model:quantized:celebiba…
+2026-11-01T15:00:47Z,BAJUKA/LLaVA-smollm3-3b-VLfull-s42-s2b,BAJUKA,0,0,safetensors; llava_smollm3; llava; llava-next; smollm3; controlled-experiment; roi; multimodal; vision-language; image-text-to-text; conversational; base_model:HuggingFaceTB/SmolLM3-3B; base_model:fi…
+2026-11-01T15:00:53Z,oxyllina/AkioAI,oxyllina,0,0,region:us
+2026-11-01T15:01:15Z,Cisco1963/llmplasticity-en_zh_linear_8-d0.1-c0.99-r0.5-s42,Cisco1963,0,0,safetensors; gpt2; region:us
+2026-11-01T15:01:16Z,siddharthgrover/coms4705-a3-mt-transformer,siddharthgrover,0,0,region:us
+2026-11-01T15:01:18Z,oxyllina/EB__,oxyllina,0,0,region:us
+2026-11-01T15:01:22Z,oteam/grnade-v0.3.2-2state-all,oteam,0,0,ofoldx; safetensors; Biology; RNA Design; Inverse Folding; Geometric Deep Learning; other; arxiv:2305.14749; license:agpl-3.0; region:us
+2026-11-01T15:01:29Z,waihongteh/m-0181,waihongteh,0,0,safetensors; qwen2; region:us
+2026-11-01T15:01:32Z,fadhilahkhairogi/mini-transformer-66M,fadhilahkhairogi,0,0,region:us
+2026-11-01T15:01:34Z,ryaluous/Bob1131,ryaluous,0,0,region:us
+2026-11-01T15:01:37Z,Gege24/tournament-tourn_7057f4bd8e7bd216_20261026-281015f2-7a7f-4cdb-8722-893e007fdd43-e94b3f9-fms1,Gege24,0,0,region:us
+2026-11-01T15:01:46Z,ryaluous/WTFMoment,ryaluous,0,0,region:us
+2026-11-01T15:01:52Z,XcaliburMoon/deepseek-coder-v2-lite-agent-v1,XcaliburMoon,0,0,region:us
+2026-11-01T15:01:59Z,oteam/grnade-v0.3.2-3state-all,oteam,0,0,ofoldx; safetensors; Biology; RNA Design; Inverse Folding; Geometric Deep Learning; other; arxiv:2305.14749; license:agpl-3.0; region:us
+2026-11-01T15:02:12Z,davidafrica/mr-runs-lc-base-s1,davidafrica,0,0,tensorboard; region:us
+2026-11-01T15:02:16Z,davidafrica/mr-runs-lc-base-s2,davidafrica,0,0,tensorboard; region:us
+2026-11-01T15:02:33Z,zoarag/zaraza365d,zoarag,0,0,region:us
+2026-11-01T15:02:37Z,oteam/grnade-v0.3.2-3state-das,oteam,0,0,ofoldx; safetensors; Biology; RNA Design; Inverse Folding; Geometric Deep Learning; other; arxiv:2305.14749; license:agpl-3.0; region:us
+2026-11-01T15:02:37Z,helcig/tmp-oct26-4,helcig,0,0,region:us
+2026-11-01T15:02:45Z,oxyllina/adamgif394,oxyllina,0,0,region:us
+2026-11-01T15:03:03Z,Gege24/tournament-tourn_7057f4bd8e7bd216_20261026-281015f2-7a7f-4cdb-8722-893e007fdd43-e94b3f9-fmbgs0,Gege24,0,0,region:us
+2026-11-01T15:03:07Z,zoarag/yamakei,zoarag,0,0,region:us
+2026-11-01T15:03:15Z,oteam/grnade-v0.3.2-3state-multi,oteam,0,0,ofoldx; safetensors; Biology; RNA Design; Inverse Folding; Geometric Deep Learning; other; arxiv:2305.14749; license:agpl-3.0; region:us
+2026-11-01T15:03:23Z,ryaluous/jpie,ryaluous,0,0,region:us
+2026-11-01T15:03:29Z,Gege24/tournament-tourn_7057f4bd8e7bd216_20261026-281015f2-7a7f-4cdb-8722-893e007fdd43-e94b3f9-fmbgs1,Gege24,0,0,region:us
+2026-11-01T15:03:52Z,oteam/grnade-v0.3.2-5state-all,oteam,0,0,ofoldx; safetensors; Biology; RNA Design; Inverse Folding; Geometric Deep Learning; other; arxiv:2305.14749; license:agpl-3.0; region:us
+2026-11-01T15:04:30Z,oteam/grnade-v0.3.2-5state-das,oteam,0,0,ofoldx; safetensors; Biology; RNA Design; Inverse Folding; Geometric Deep Learning; other; arxiv:2305.14749; license:agpl-3.0; region:us
+2026-11-01T15:04:37Z,Cisco1963/llmplasticity-nl_zh_instant_8-d0.006-c0.9-r0.5-s42,Cisco1963,0,0,safetensors; gpt2; region:us
+2026-11-01T15:04:54Z,Gege24/tournament-tourn_7057f4bd8e7bd216_20261026-281015f2-7a7f-4cdb-8722-893e007fdd43-e94b3f9-be05s0,Gege24,0,0,region:us
+2026-11-01T15:05:08Z,oteam/grnade-v0.3.2-5state-multi,oteam,0,0,ofoldx; safetensors; Biology; RNA Design; Inverse Folding; Geometric Deep Learning; other; arxiv:2305.14749; license:agpl-3.0; region:us
+2026-11-01T15:05:17Z,toolathlon-mai/MyAwesomeModel-TestRepo,toolathlon-mai,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-11-01T15:05:19Z,Capibara-LLM/Qwen3.5-0.8B-Jopara-Epoch-LoRA,Capibara-LLM,0,0,transformers; safetensors; text-generation-inference; unsloth; qwen3_5; trl; en; base_model:unsloth/Qwen3.5-0.8B; base_model:finetune:unsloth/Qwen3.5-0.8B; license:apache-2.0; endpoints_compatible; r…
+2026-11-01T15:05:19Z,Gege24/tournament-tourn_7057f4bd8e7bd216_20261026-281015f2-7a7f-4cdb-8722-893e007fdd43-e94b3f9-be05s1,Gege24,0,0,region:us
+2026-11-01T15:05:44Z,Gege24/tournament-tourn_5bf35647da58489e_20261012-5db5591e-bc90-484b-8e3e-304174fb59a3-e94b3f9-be05s1,Gege24,0,0,region:us
+2026-11-01T15:05:46Z,oteam/ligandmpnn,oteam,0,0,ofoldx; safetensors; Biology; Protein Design; Inverse Folding; Protein-Ligand; other; license:agpl-3.0; region:us
+2026-11-01T15:05:47Z,shubhamdighe/yolo-object-detection,shubhamdighe,0,0,license:mit; region:us
+2026-11-01T15:05:48Z,Jordansky/jf1352c16dc5c,Jordansky,0,0,safetensors; bloom; region:us
+2026-11-01T15:06:07Z,Gege24/tournament-tourn_7057f4bd8e7bd216_20261026-281015f2-7a7f-4cdb-8722-893e007fdd43-e94b3f9-fms0,Gege24,0,0,region:us
+2026-11-01T15:06:23Z,oteam/ligandmpnn-noise005,oteam,0,0,ofoldx; safetensors; Biology; Protein Design; Inverse Folding; Protein-Ligand; other; license:agpl-3.0; region:us
+2026-11-01T15:06:39Z,deepcode-ai-5m/DeepCode-Rust-2M,deepcode-ai-5m,0,0,rust; custom-architecture; text-generation; en; ru; license:mit; region:us
+2026-11-01T15:07:01Z,oteam/ligandmpnn-noise010,oteam,0,0,ofoldx; safetensors; Biology; Protein Design; Inverse Folding; Protein-Ligand; other; license:agpl-3.0; region:us
+2026-11-01T15:07:11Z,cyttic/hmt-trocrsmall-none-s42,cyttic,0,0,safetensors; htr; ctc; he; license:mit; region:us
+2026-11-01T15:07:31Z,Capibara-LLM/Qwen3.5-0.8B-Jopara-Epoch-GGUF,Capibara-LLM,0,0,gguf; qwen3_5; llama.cpp; llama-cpp; unsloth; vision-language-model; endpoints_compatible; region:us; imatrix; conversational
+2026-11-01T15:07:32Z,Gege24/tournament-tourn_5bf35647da58489e_20261012-5db5591e-bc90-484b-8e3e-304174fb59a3-e94b3f9-be05s0,Gege24,0,0,region:us
+2026-11-01T15:07:38Z,oteam/ligandmpnn-noise020,oteam,0,0,ofoldx; safetensors; Biology; Protein Design; Inverse Folding; Protein-Ligand; other; license:agpl-3.0; region:us
+2026-11-01T15:07:42Z,brotabrr/gemini-nano,brotabrr,0,0,license:unknown; region:us
+2026-11-01T15:07:54Z,MR0b0t/tinynnue-edge,MR0b0t,0,0,safetensors; chess; nnue; quantization; int8; edge; dataset:MR0b0t/tinynnue-stockfish-labels; license:mit; region:us
+2026-11-01T15:08:17Z,oteam/ligandmpnn-noise030,oteam,0,0,ofoldx; safetensors; Biology; Protein Design; Inverse Folding; Protein-Ligand; other; license:agpl-3.0; region:us
+2026-11-01T15:08:56Z,oteam/ligandmpnn-packer-noise002,oteam,0,0,ofoldx; safetensors; Biology; Protein Design; Side-Chain Packing; Protein-Ligand; other; license:agpl-3.0; region:us
+2026-11-01T15:09:08Z,MirrorNeuronLab/embeddinggemma-2-GGUF,MirrorNeuronLab,0,0,llama.cpp; gguf; embeddings; multimodal; vision; audio; image-feature-extraction; audio-feature-extraction; feature-extraction; base_model:google/embeddinggemma-2; base_model:quantized:google/embeddi…
+2026-11-01T15:09:33Z,oteam/membranempnn-global,oteam,0,0,ofoldx; safetensors; Biology; Protein Design; Inverse Folding; Membrane Protein; other; license:agpl-3.0; region:us
+2026-11-01T15:09:35Z,OwenJago/MyAwesomeModel-TestRepo,OwenJago,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-11-01T15:10:10Z,oteam/membranempnn-per-residue,oteam,0,0,ofoldx; safetensors; Biology; Protein Design; Inverse Folding; Membrane Protein; other; license:agpl-3.0; region:us
+2026-11-01T15:10:19Z,thapate/gUrliurE,thapate,0,0,region:us
+2026-11-01T15:10:42Z,alikwiq/films,alikwiq,0,0,region:us
+2026-11-01T15:10:45Z,oteam/mpnn-packer,oteam,0,0,ofoldx; safetensors; Biology; Protein Design; Side-Chain Packing; Protein-Ligand; other; license:agpl-3.0; region:us
+2026-11-01T15:11:24Z,oteam/nampnn,oteam,0,0,ofoldx; safetensors; Biology; Inverse Folding; Protein Design; DNA Design; RNA Design; other; license:agpl-3.0; region:us
+2026-11-01T15:12:02Z,oteam/nampnn-specificity,oteam,0,0,ofoldx; safetensors; Biology; Inverse Folding; Protein Design; DNA Design; RNA Design; other; license:agpl-3.0; region:us
+2026-11-01T15:12:46Z,SkylaCourtney/MyAwesomeModel-TestRepo,SkylaCourtney,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-11-01T15:12:48Z,oteam/odesign-dna-rigid,oteam,0,0,ofoldx; safetensors; Biology; Protein Design; Nucleic Acid Design; Ligand Design; Biomolecular Structure; Diffusion; other; arxiv:2510.22304; license:agpl-3.0; region:us
+2026-11-01T15:13:27Z,johngreendr2/0bd6faa9c05b088c,johngreendr2,0,0,safetensors; region:us
+2026-11-01T15:13:34Z,oteam/odesign-ligand-rigid,oteam,0,0,ofoldx; safetensors; Biology; Protein Design; Nucleic Acid Design; Ligand Design; Biomolecular Structure; Diffusion; other; arxiv:2510.22304; license:agpl-3.0; region:us
+2026-11-01T15:13:47Z,johngreendr2/12237d8550f3af91,johngreendr2,0,0,region:us
+2026-11-01T15:14:15Z,AI-KSK/minimax-h3-action-director-9-presets-318,AI-KSK,0,0,region:us
+2026-11-01T15:14:24Z,oteam/odesign-protein-flex,oteam,0,0,ofoldx; safetensors; Biology; Protein Design; Nucleic Acid Design; Ligand Design; Biomolecular Structure; Diffusion; other; arxiv:2510.22304; license:agpl-3.0; region:us
+2026-11-01T15:14:31Z,Harizz076/smai-a4-mlp-final-20261101-150154,Harizz076,0,0,cifar10; image-classification; educational; dataset:uoft-cs/cifar10; region:us
+2026-11-01T15:14:37Z,Harizz076/smai-a4-iocnn-final-20261101-150154,Harizz076,0,0,cifar10; image-classification; educational; dataset:uoft-cs/cifar10; region:us
+2026-11-01T15:15:13Z,oteam/odesign-protein-rigid,oteam,0,0,ofoldx; safetensors; Biology; Protein Design; Nucleic Acid Design; Ligand Design; Biomolecular Structure; Diffusion; other; arxiv:2510.22304; license:agpl-3.0; region:us
+2026-11-01T15:15:21Z,ToolathlonBot/MyAwesomeModel-TestRepo,ToolathlonBot,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-11-01T15:15:23Z,JSI123/q-Taxi-v4,JSI123,0,0,reinforcement-learning; q-learning; taxi-v4; gymnasium; region:us
+2026-11-01T15:15:55Z,oteam/odesign-rna-rigid,oteam,0,0,ofoldx; safetensors; Biology; Protein Design; Nucleic Acid Design; Ligand Design; Biomolecular Structure; Diffusion; other; arxiv:2510.22304; license:agpl-3.0; region:us
+2026-11-01T15:17:02Z,sakasegawa/NVIDIA-NemotronLabs-RE-USE-GGUF,sakasegawa,0,0,gguf; ggml; speech.cpp; semamba; speech-enhancement; audio-to-audio; base_model:nvidia/NVIDIA-NemotronLabs-RE-USE; base_model:quantized:nvidia/NVIDIA-NemotronLabs-RE-USE; license:openmdw-1.1; region:…
+2026-11-01T15:17:12Z,sakasegawa/NVIDIA-NemotronLabs-RE-USE-laughter-GGUF,sakasegawa,0,0,gguf; ggml; speech.cpp; semamba; speech-enhancement; audio-to-audio; base_model:nvidia/NVIDIA-NemotronLabs-RE-USE-laughter; base_model:quantized:nvidia/NVIDIA-NemotronLabs-RE-USE-laughter; license:op…
+2026-11-01T15:17:50Z,debudash/qwen3-4b-tz-convert-v4-n12000,debudash,0,0,peft; safetensors; base_model:adapter:Qwen/Qwen3-4B-Instruct-2507; lora; transformers; text-generation; conversational; arxiv:1910.09700; base_model:Qwen/Qwen3-4B-Instruct-2507; region:us
+2026-11-01T15:18:03Z,cyttic/hmt-trocrsmall-geom1-s42,cyttic,0,0,safetensors; htr; ctc; he; license:mit; region:us
+2026-11-01T15:18:10Z,ullahhafeez321/BalochiBridge,ullahhafeez321,0,0,license:mit; region:us
