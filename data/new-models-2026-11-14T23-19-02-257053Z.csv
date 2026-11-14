@@ -1,0 +1,392 @@
+created_at,model,author,downloads,likes,tags
+2026-11-14T22:19:46Z,DuoNeural/RMSN-200M-CementedTerminalChain-D1024d23s1-Base,DuoNeural,0,0,rmsn; port-hamiltonian; base-model; duoneural; topological-solitons; arnold-tongues; topological-cement; silent-pathway; depth-sweep; en; license:apache-2.0; region:us
+2026-11-14T22:20:11Z,Xylolabs/Qwen3.6-27B-GGUF,Xylolabs,0,0,gguf; llama-cpp; quantized; qwen; text-generation; en; ko; base_model:Qwen/Qwen3.6-27B; base_model:quantized:Qwen/Qwen3.6-27B; license:apache-2.0; endpoints_compatible; region:us; conversational
+2026-11-14T22:23:37Z,thibaud-perrin/littorel-image-1,thibaud-perrin,0,0,license:cc-by-nc-4.0; region:us
+2026-11-14T22:23:48Z,jstarks/Qwen3.5-2B-Weight-Space-Programming,jstarks,0,0,transformers; gguf; qwen3_5; image-text-to-text; weight-space-programming; mechanistic-interpretability; lora; safetensors; dynamic-lora; llama-cpp; tool-calling; agent; gsm8k; humaneval; bfcl; nl2ba…
+2026-11-14T22:23:49Z,usman2994a/echo-tts-base,usman2994a,0,0,safetensors; text-to-speech; diffusion; audio; speech-synthesis; license:cc-by-nc-sa-4.0; region:us
+2026-11-14T22:24:13Z,jstarks/Nemotron-3-Nano-4B-Weight-Space-Programming,jstarks,0,0,transformers; safetensors; gguf; nemotron_h; text-generation; weight-space-programming; mechanistic-interpretability; lora; dynamic-lora; llama-cpp; tool-calling; agent; gsm8k; humaneval; bfcl; nl2ba…
+2026-11-14T22:24:33Z,jstarks/Qwen3.5-9B-Weight-Space-Programming,jstarks,0,0,transformers; gguf; qwen3_5; image-text-to-text; weight-space-programming; mechanistic-interpretability; lora; safetensors; dynamic-lora; llama-cpp; tool-calling; agent; gsm8k; humaneval; bfcl; nl2ba…
+2026-11-14T22:24:50Z,usman2994a/fish-s1-dac-min,usman2994a,0,0,safetensors; audio; codec; autoencoder; pytorch; license:cc-by-nc-sa-4.0; region:us
+2026-11-14T22:24:53Z,jstarks/Gemma-4-12B-Weight-Space-Programming,jstarks,0,0,transformers; gguf; gemma4_unified; image-text-to-text; weight-space-programming; mechanistic-interpretability; lora; safetensors; dynamic-lora; llama-cpp; tool-calling; agent; gsm8k; humaneval; bfcl…
+2026-11-14T22:25:08Z,huuhuyng/56-image-i43-qedit-ae,huuhuyng,0,0,region:us
+2026-11-14T22:25:17Z,yungisimon/Qwen2.5-1.5B-giri-msq-hdb_and_entity-ep1,yungisimon,0,0,transformers; safetensors; qwen2; text-generation; full-finetune; memory-model; hdb_and_entity; conversational; base_model:Qwen/Qwen2.5-1.5B-Instruct; base_model:finetune:Qwen/Qwen2.5-1.5B-Instruct;…
+2026-11-14T22:25:38Z,yungisimon/Qwen2.5-1.5B-giri-msq-hdb_and_entity-ep2,yungisimon,0,0,transformers; safetensors; qwen2; text-generation; full-finetune; memory-model; hdb_and_entity; conversational; base_model:Qwen/Qwen2.5-1.5B-Instruct; base_model:finetune:Qwen/Qwen2.5-1.5B-Instruct;…
+2026-11-14T22:25:55Z,yungisimon/Qwen2.5-1.5B-giri-msq-hdb_and_entity-ep3,yungisimon,0,0,transformers; safetensors; qwen2; text-generation; full-finetune; memory-model; hdb_and_entity; conversational; base_model:Qwen/Qwen2.5-1.5B-Instruct; base_model:finetune:Qwen/Qwen2.5-1.5B-Instruct;…
+2026-11-14T22:26:10Z,davidxifeng/LiquidAI-d1-Omni-2B-8bit-uzu,davidxifeng,0,0,safetensors; 8-bit; region:us
+2026-11-14T22:27:14Z,JCR2004/kit,JCR2004,0,0,region:us
+2026-11-14T22:28:39Z,Aalto-Speech-Synthesis/Liquid-Codec-ONNX,Aalto-Speech-Synthesis,0,0,onnx; liquid; lfm3; audio; audio-codec; speech; streaming; edge; multilingual; feature-extraction; en; zh; de; fr; ja; ko; base_model:LiquidAI/Liquid-Codec; base_model:quantized:LiquidAI/Liquid-Codec…
+2026-11-14T22:28:45Z,Phoonnx/kitten-tts-mini-0.1,Phoonnx,0,0,phoonnx; onnx; kitten-tts; text-to-speech; license:apache-2.0; region:us
+2026-11-14T22:28:46Z,SEE7/Astheral-GGUF,SEE7,0,0,gguf; imatrix; base_model:SEE7/Astheral; base_model:quantized:SEE7/Astheral; license:llama3.1; endpoints_compatible; region:us; conversational
+2026-11-14T22:28:50Z,SEE7/AstheralPlus-GGUF,SEE7,0,0,gguf; imatrix; base_model:SEE7/AstheralPlus; base_model:quantized:SEE7/AstheralPlus; license:apache-2.0; region:us
+2026-11-14T22:28:53Z,SEE7/AstheralTranslate-GGUF,SEE7,0,0,gguf; imatrix; base_model:SEE7/AstheralTranslate; base_model:quantized:SEE7/AstheralTranslate; license:apache-2.0; endpoints_compatible; region:us
+2026-11-14T22:29:08Z,Denisijcu/vertex-editorial-kd-dataset,Denisijcu,0,0,region:us
+2026-11-14T22:29:12Z,Phoonnx/kitten-tts-nano-0.1,Phoonnx,0,0,phoonnx; onnx; kitten-tts; text-to-speech; license:apache-2.0; region:us
+2026-11-14T22:29:33Z,Phoonnx/kitten-tts-nano-0.2,Phoonnx,0,0,phoonnx; onnx; kitten-tts; text-to-speech; license:apache-2.0; region:us
+2026-11-14T22:31:03Z,Phoonnx/mixertts-ljspeech-128,Phoonnx,0,0,phoonnx; onnx; mixertts; text-to-speech; license:other; region:us
+2026-11-14T22:31:09Z,Phoonnx/mixertts-ljspeech-384,Phoonnx,0,0,phoonnx; onnx; mixertts; text-to-speech; license:other; region:us
+2026-11-14T22:31:16Z,Phoonnx/mixertts-ljspeech-80,Phoonnx,0,0,phoonnx; onnx; mixertts; text-to-speech; license:other; region:us
+2026-11-14T22:31:30Z,Phoonnx/mixertts-nipponjo-arabic-mixer128,Phoonnx,0,0,phoonnx; onnx; mixertts; text-to-speech; license:other; region:us
+2026-11-14T22:31:36Z,Phoonnx/mixertts-nipponjo-arabic-mixer80,Phoonnx,0,0,phoonnx; onnx; mixertts; text-to-speech; license:other; region:us
+2026-11-14T22:31:47Z,Phoonnx/optispeech-bookbot_OptiSpeech-ConvNext-TTS-es-CO-Marcia-v1,Phoonnx,0,0,phoonnx; onnx; optispeech; text-to-speech; license:mit; region:us
+2026-11-14T22:32:00Z,Phoonnx/optispeech-mush42_optispeech-convnext-en-us-emily,Phoonnx,0,0,phoonnx; onnx; optispeech; text-to-speech; license:mit; region:us
+2026-11-14T22:32:05Z,aikexue170/rewrite3-27b-bf16,aikexue170,0,0,transformers; safetensors; qwen3_5_text; text-generation; rewrite3; novel-rewrite; chinese; web-novel; jev; mtp; bf16; compressed-tensors; conversational; zh; base_model:Qwen/Qwen3.8-27B; base_model:…
+2026-11-14T22:32:09Z,Phoonnx/optispeech-mush42_optispeech-lightspeech-en-us-emily,Phoonnx,0,0,phoonnx; onnx; optispeech; text-to-speech; license:mit; region:us
+2026-11-14T22:32:20Z,Phoonnx/optispeech-mush42_optispeech-lightspeech-en-us-mike,Phoonnx,0,0,phoonnx; onnx; optispeech; text-to-speech; license:mit; region:us
+2026-11-14T22:32:32Z,Phoonnx/vocoders-alvocat-vocos-22khz,Phoonnx,0,0,phoonnx; onnx; vocoders; text-to-speech; license:cc-by-nc-4.0; region:us
+2026-11-14T22:32:45Z,fireviewer/yolo11m-flame-smoke-augmented-a100,fireviewer,0,0,ultralytics; fireviewer; yolo11; object-detection; dataset:fireviewer/fireviewer_fire_smoke_flame_v3_native; license:agpl-3.0; region:us
+2026-11-14T22:32:50Z,Phoonnx/vocoders-be-common-voice-hifigan,Phoonnx,0,0,phoonnx; onnx; vocoders; text-to-speech; license:other; region:us
+2026-11-14T22:32:57Z,Phoonnx/vocoders-coqui-ljspeech-hifigan-v2,Phoonnx,0,0,phoonnx; onnx; vocoders; text-to-speech; license:other; region:us
+2026-11-14T22:33:12Z,Jordine/rlport-loopchar-build2r-gated,Jordine,0,0,peft; safetensors; lora; research; base_model:Qwen/Qwen3.5-9B; base_model:adapter:Qwen/Qwen3.5-9B; region:us
+2026-11-14T22:33:13Z,Jordine/rlport-loopchar-build2r-twin,Jordine,0,0,safetensors; region:us
+2026-11-14T22:33:18Z,Phoonnx/vocoders-en-ljspeech-multiband-melgan,Phoonnx,0,0,phoonnx; onnx; vocoders; text-to-speech; license:other; region:us
+2026-11-14T22:33:23Z,Phoonnx/vocoders-larynx-hifigan-vctk-small,Phoonnx,0,0,phoonnx; onnx; vocoders; text-to-speech; license:mit; region:us
+2026-11-14T22:33:38Z,Phoonnx/vocoders-tr-common-voice-hifigan,Phoonnx,0,0,phoonnx; onnx; vocoders; text-to-speech; license:other; region:us
+2026-11-14T22:33:45Z,Phoonnx/vocoders-tts-arabic-hifigan,Phoonnx,0,0,phoonnx; onnx; vocoders; text-to-speech; license:other; region:us
+2026-11-14T22:33:51Z,Phoonnx/vocoders-tts-arabic-vocos,Phoonnx,0,0,phoonnx; onnx; vocoders; text-to-speech; license:other; region:us
+2026-11-14T22:34:00Z,Phoonnx/vocoders-uk-mai-multiband-melgan,Phoonnx,0,0,phoonnx; onnx; vocoders; text-to-speech; license:other; region:us
+2026-11-14T22:34:03Z,325524dmyymmyn/maun-lane,325524dmyymmyn,0,0,onnx; region:us
+2026-11-14T22:34:05Z,Phoonnx/vocoders-vocos-mel-22khz-univ,Phoonnx,0,0,phoonnx; onnx; vocoders; text-to-speech; license:other; region:us
+2026-11-14T22:34:17Z,Phoonnx/vocoders-wavenext-22khz,Phoonnx,0,0,phoonnx; onnx; vocoders; text-to-speech; license:apache-2.0; region:us
+2026-11-14T22:35:07Z,KarlKinda/sabi-noema-DFlash2,KarlKinda,0,0,region:us
+2026-11-14T22:35:11Z,Phoonnx/fastpitch-coqui-ljspeech-fastpitch,Phoonnx,0,0,phoonnx; onnx; fastpitch; text-to-speech; license:other; region:us
+2026-11-14T22:35:27Z,Phoonnx/fastpitch-coqui-ljspeech-speedyspeech,Phoonnx,0,0,phoonnx; onnx; fastpitch; text-to-speech; license:other; region:us
+2026-11-14T22:35:33Z,Phoonnx/fastpitch-coqui-vctk-fastpitch,Phoonnx,0,0,phoonnx; onnx; fastpitch; text-to-speech; license:other; region:us
+2026-11-14T22:35:54Z,habibi26/gemma4-e2b-distill-sft,habibi26,0,0,transformers; safetensors; generated_from_trainer; sft; hf_jobs; trackio:https://habibi26-gemma4-e2b-distill-sft-trackio.hf.space?project=gemma4-e2b-distill-sft&runs=habibi26-1794697962&sidebar=colla…
+2026-11-14T22:36:01Z,KiranPal18/tiny-aya-global-med-safemix,KiranPal18,0,1,peft; safetensors; lora; qlora; sft; medical; multilingual; ai-safety; aligntune; lexsi-hackathon; text-generation; conversational; en; hi; es; fr; ar; dataset:KiranPal18/aya-med-multilingual-sft; ba…
+2026-11-14T22:36:01Z,Phoonnx/fastpitch-nipponjo-arabic-fastpitch,Phoonnx,0,0,phoonnx; onnx; fastpitch; text-to-speech; license:other; region:us
+2026-11-14T22:36:11Z,ramblingpolymath/rewind-qwen3-onnx-int8,ramblingpolymath,0,0,onnxruntime; onnx; gguf; int8; qwen3; forced-alignment; automatic-speech-recognition; base_model:Qwen/Qwen3-ASR-0.6B; base_model:quantized:Qwen/Qwen3-ASR-0.6B; license:apache-2.0; region:us
+2026-11-14T22:36:14Z,Phoonnx/moss-audio-tokenizer-nano-onnx,Phoonnx,0,0,phoonnx; onnx; moss; text-to-speech; license:apache-2.0; region:us
+2026-11-14T22:36:35Z,Phoonnx/moss-tts-nano-100m-onnx,Phoonnx,0,0,phoonnx; onnx; moss; text-to-speech; license:apache-2.0; region:us
+2026-11-14T22:37:17Z,mlx-community/RelayVSR-bf16,mlx-community,0,0,mlx; apple-silicon; video-super-resolution; super-resolution; video-to-video; relayvsr; arxiv:2609.37850; base_model:kopper/RelayVSR; base_model:finetune:kopper/RelayVSR; license:apache-2.0; region:us
+2026-11-14T22:37:29Z,Phoonnx/matcha-cat-central-graphemes-v2,Phoonnx,0,0,phoonnx; onnx; matcha; text-to-speech; license:apache-2.0; region:us
+2026-11-14T22:37:30Z,prabanta-dev/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-JNS,prabanta-dev,0,0,janas; jns; local-inference; cpu-inference; mixture-of-experts; mamba; text-generation; base_model:nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB-GGUF; base_model:quantized:nvidia/NVIDIA-Nemotron-3.5-B…
+2026-11-14T22:37:43Z,Phoonnx/matcha-cat-multiaccent-wavenext,Phoonnx,0,0,phoonnx; onnx; matcha; text-to-speech; license:gpl-3.0; region:us
+2026-11-14T22:38:15Z,Phoonnx/matcha-cat-multispeaker-hifigan,Phoonnx,0,0,phoonnx; onnx; matcha; text-to-speech; license:gpl-3.0; region:us
+2026-11-14T22:38:15Z,Phoonnx/matcha-cat-multispeaker-acoustic,Phoonnx,0,0,phoonnx; onnx; matcha; text-to-speech; license:gpl-3.0; region:us
+2026-11-14T22:38:15Z,Phoonnx/matcha-cat-multispeaker-wavenext,Phoonnx,0,0,phoonnx; onnx; matcha; text-to-speech; license:gpl-3.0; region:us
+2026-11-14T22:38:23Z,KiranPal18/tiny-aya-global-med-sft,KiranPal18,0,0,peft; safetensors; lora; qlora; sft; medical; multilingual; ai-safety; aligntune; lexsi-hackathon; text-generation; conversational; en; hi; es; fr; ar; dataset:KiranPal18/aya-med-multilingual-sft; ba…
+2026-11-14T22:38:26Z,weathon/ours,weathon,0,0,region:us
+2026-11-14T22:38:27Z,Phoonnx/matcha-ghananlpcommunity_nano-twi,Phoonnx,0,0,phoonnx; onnx; matcha; text-to-speech; license:gpl-3.0; region:us
+2026-11-14T22:38:40Z,Phoonnx/matcha-proxectonos_icia-extended-matcha-phonemes,Phoonnx,0,0,phoonnx; onnx; matcha; text-to-speech; license:gpl-3.0; region:us
+2026-11-14T22:38:41Z,Phoonnx/matcha-proxectonos_brais-matcha-graphemes,Phoonnx,0,0,phoonnx; onnx; matcha; text-to-speech; license:gpl-3.0; region:us
+2026-11-14T22:38:43Z,Phoonnx/matcha-proxectonos_celtia-matcha-graphemes,Phoonnx,0,0,phoonnx; onnx; matcha; text-to-speech; license:gpl-3.0; region:us
+2026-11-14T22:38:52Z,Phoonnx/matcha-proxectonos_icia-matcha-phonemes-ljspeech,Phoonnx,0,0,phoonnx; onnx; matcha; text-to-speech; license:gpl-3.0; region:us
+2026-11-14T22:38:57Z,Phoonnx/coqui-vits-bg-cv-vits,Phoonnx,0,0,phoonnx; onnx; coqui-vits; text-to-speech; license:bsd-3-clause; region:us
+2026-11-14T22:38:57Z,KiranPal18/tiny-aya-global-med-resta,KiranPal18,0,0,safetensors; cohere2; resta; safetune; model-merging; medical; multilingual; ai-safety; lexsi-hackathon; text-generation; conversational; en; hi; es; fr; ar; base_model:CohereLabs/tiny-aya-global; ba…
+2026-11-14T22:39:00Z,Phoonnx/matcha-proxectonos_icia-extended-matcha-phonemes-ljspeech,Phoonnx,0,0,phoonnx; onnx; matcha; text-to-speech; license:gpl-3.0; region:us
+2026-11-14T22:39:04Z,Phoonnx/coqui-vits-da-cv-vits,Phoonnx,0,0,phoonnx; onnx; coqui-vits; text-to-speech; license:bsd-3-clause; region:us
+2026-11-14T22:39:07Z,Phoonnx/matcha-proxectonos_icia-matcha-phonemes,Phoonnx,0,0,phoonnx; onnx; matcha; text-to-speech; license:gpl-3.0; region:us
+2026-11-14T22:39:09Z,Phoonnx/coqui-vits-cs-cv-vits,Phoonnx,0,0,phoonnx; onnx; coqui-vits; text-to-speech; license:bsd-3-clause; region:us
+2026-11-14T22:39:10Z,Phoonnx/coqui-vits-en-vctk-vits,Phoonnx,0,0,phoonnx; onnx; coqui-vits; text-to-speech; license:apache-2.0; region:us
+2026-11-14T22:39:10Z,Phoonnx/coqui-vits-bn-custom-vits-male,Phoonnx,0,0,phoonnx; onnx; coqui-vits; text-to-speech; license:apache-2.0; region:us
+2026-11-14T22:39:16Z,Phoonnx/coqui-vits-en-ljspeech-vits,Phoonnx,0,0,phoonnx; onnx; coqui-vits; text-to-speech; license:apache-2.0; region:us
+2026-11-14T22:39:17Z,Phoonnx/coqui-vits-ca-custom-vits,Phoonnx,0,0,phoonnx; onnx; coqui-vits; text-to-speech; license:cc-by-4.0; region:us
+2026-11-14T22:39:29Z,Phoonnx/coqui-vits-fa-custom-vits-female,Phoonnx,0,0,phoonnx; onnx; coqui-vits; text-to-speech; license:cc-by-4.0; region:us
+2026-11-14T22:39:31Z,Phoonnx/coqui-vits-el-cv-vits,Phoonnx,0,0,phoonnx; onnx; coqui-vits; text-to-speech; license:bsd-3-clause; region:us
+2026-11-14T22:39:31Z,Phoonnx/coqui-vits-de-thorsten-vits,Phoonnx,0,0,phoonnx; onnx; coqui-vits; text-to-speech; license:apache-2.0; region:us
+2026-11-14T22:39:41Z,Phoonnx/coqui-vits-hau-openbible-vits,Phoonnx,0,0,phoonnx; onnx; coqui-vits; text-to-speech; license:cc-by-sa-4.0; region:us
+2026-11-14T22:39:42Z,Phoonnx/coqui-vits-es-css10-vits,Phoonnx,0,0,phoonnx; onnx; coqui-vits; text-to-speech; license:bsd-3-clause; region:us
+2026-11-14T22:39:42Z,Phoonnx/coqui-vits-ewe-openbible-vits,Phoonnx,0,0,phoonnx; onnx; coqui-vits; text-to-speech; license:cc-by-sa-4.0; region:us
+2026-11-14T22:39:43Z,Phoonnx/coqui-vits-et-cv-vits,Phoonnx,0,0,phoonnx; onnx; coqui-vits; text-to-speech; license:bsd-3-clause; region:us
+2026-11-14T22:39:54Z,Phoonnx/coqui-vits-fi-css10-vits,Phoonnx,0,0,phoonnx; onnx; coqui-vits; text-to-speech; license:bsd-3-clause; region:us
+2026-11-14T22:39:54Z,Phoonnx/coqui-vits-it-mai_male-vits,Phoonnx,0,0,phoonnx; onnx; coqui-vits; text-to-speech; license:apache-2.0; region:us
+2026-11-14T22:39:57Z,Phoonnx/coqui-vits-ga-cv-vits,Phoonnx,0,0,phoonnx; onnx; coqui-vits; text-to-speech; license:bsd-3-clause; region:us
+2026-11-14T22:40:03Z,Phoonnx/coqui-vits-fr-css10-vits,Phoonnx,0,0,phoonnx; onnx; coqui-vits; text-to-speech; license:bsd-3-clause; region:us
+2026-11-14T22:40:04Z,Phoonnx/coqui-vits-it-mai_female-vits,Phoonnx,0,0,phoonnx; onnx; coqui-vits; text-to-speech; license:apache-2.0; region:us
+2026-11-14T22:40:05Z,Phoonnx/coqui-vits-mt-cv-vits,Phoonnx,0,0,phoonnx; onnx; coqui-vits; text-to-speech; license:bsd-3-clause; region:us
+2026-11-14T22:40:13Z,Phoonnx/coqui-vits-ro-cv-vits,Phoonnx,0,0,phoonnx; onnx; coqui-vits; text-to-speech; license:bsd-3-clause; region:us
+2026-11-14T22:40:14Z,Phoonnx/coqui-vits-hu-css10-vits,Phoonnx,0,0,phoonnx; onnx; coqui-vits; text-to-speech; license:bsd-3-clause; region:us
+2026-11-14T22:40:23Z,Phoonnx/coqui-vits-lv-cv-vits,Phoonnx,0,0,phoonnx; onnx; coqui-vits; text-to-speech; license:bsd-3-clause; region:us
+2026-11-14T22:40:26Z,Phoonnx/coqui-vits-lt-cv-vits,Phoonnx,0,0,phoonnx; onnx; coqui-vits; text-to-speech; license:bsd-3-clause; region:us
+2026-11-14T22:40:26Z,Phoonnx/coqui-vits-hr-cv-vits,Phoonnx,0,0,phoonnx; onnx; coqui-vits; text-to-speech; license:bsd-3-clause; region:us
+2026-11-14T22:40:27Z,Phoonnx/coqui-vits-tw_akuapem-openbible-vits,Phoonnx,0,0,phoonnx; onnx; coqui-vits; text-to-speech; license:cc-by-sa-4.0; region:us
+2026-11-14T22:40:32Z,Phoonnx/coqui-vits-pt-cv-vits,Phoonnx,0,0,phoonnx; onnx; coqui-vits; text-to-speech; license:bsd-3-clause; region:us
+2026-11-14T22:40:34Z,Phoonnx/coqui-vits-pl-mai_female-vits,Phoonnx,0,0,phoonnx; onnx; coqui-vits; text-to-speech; license:bsd-3-clause; region:us
+2026-11-14T22:40:35Z,Phoonnx/coqui-vits-lin-openbible-vits,Phoonnx,0,0,phoonnx; onnx; coqui-vits; text-to-speech; license:cc-by-sa-4.0; region:us
+2026-11-14T22:40:38Z,Phoonnx/styletts2-bsc-ca-styletts2,Phoonnx,0,0,phoonnx; onnx; styletts2; text-to-speech; license:other; region:us
+2026-11-14T22:40:47Z,Phoonnx/coqui-vits-sv-cv-vits,Phoonnx,0,0,phoonnx; onnx; coqui-vits; text-to-speech; license:bsd-3-clause; region:us
+2026-11-14T22:40:49Z,Phoonnx/coqui-vits-sl-cv-vits,Phoonnx,0,0,phoonnx; onnx; coqui-vits; text-to-speech; license:bsd-3-clause; region:us
+2026-11-14T22:40:51Z,Phoonnx/coqui-vits-nl-css10-vits,Phoonnx,0,0,phoonnx; onnx; coqui-vits; text-to-speech; license:bsd-3-clause; region:us
+2026-11-14T22:41:05Z,cminst/anytok-regret-rl-20k,cminst,0,0,transformers; safetensors; hypernetwork; tokenization; reinforcement-learning; endpoints_compatible; region:us
+2026-11-14T22:41:07Z,Phoonnx/coqui-vits-uk-mai-vits,Phoonnx,0,0,phoonnx; onnx; coqui-vits; text-to-speech; license:bsd-3-clause; region:us
+2026-11-14T22:41:07Z,Phoonnx/coqui-vits-sk-cv-vits,Phoonnx,0,0,phoonnx; onnx; coqui-vits; text-to-speech; license:bsd-3-clause; region:us
+2026-11-14T22:41:08Z,Phoonnx/coqui-vits-yor-openbible-vits,Phoonnx,0,0,phoonnx; onnx; coqui-vits; text-to-speech; license:cc-by-sa-4.0; region:us
+2026-11-14T22:41:19Z,Phoonnx/coqui-vits-tw_asante-openbible-vits,Phoonnx,0,0,phoonnx; onnx; coqui-vits; text-to-speech; license:cc-by-sa-4.0; region:us
+2026-11-14T22:41:25Z,Phoonnx/styletts2-ddatt-en-styletts2,Phoonnx,0,0,phoonnx; onnx; styletts2; text-to-speech; license:other; region:us
+2026-11-14T22:41:31Z,Phoonnx/styletts2-bsc-es-styletts2,Phoonnx,0,0,phoonnx; onnx; styletts2; text-to-speech; license:other; region:us
+2026-11-14T22:41:33Z,Phoonnx/styletts2-ghananlpcommunity_poto-tts-kokoro-gh,Phoonnx,0,0,phoonnx; onnx; styletts2; text-to-speech; license:other; region:us
+2026-11-14T22:41:37Z,kisersantine/lara,kisersantine,0,0,diffusers; text-to-image; lora; krea2; template:sd-lora; base_model:krea/Krea-2-Raw; base_model:adapter:krea/Krea-2-Raw; license:apache-2.0; region:us
+2026-11-14T22:41:59Z,Phoonnx/styletts2-kokoro-82m,Phoonnx,0,0,phoonnx; onnx; styletts2; text-to-speech; license:other; region:us
+2026-11-14T22:42:10Z,Momix-44/Qwen3.8-27B_Diplomaten_SFT,Momix-44,0,0,gguf; qwen3_5; llama.cpp; llama-cpp; unsloth; vision-language-model; endpoints_compatible; region:us; conversational
+2026-11-14T22:42:15Z,Phoonnx/styletts2-hitz-eu-emo-styletts2,Phoonnx,0,0,phoonnx; onnx; styletts2; text-to-speech; license:apache-2.0; region:us
+2026-11-14T22:42:15Z,ychafiqui/v3_moroccan_law_classif_arabert_19_classes,ychafiqui,0,0,transformers; safetensors; bert; text-classification; arxiv:1910.09700; text-embeddings-inference; endpoints_compatible; region:us
+2026-11-14T22:42:19Z,Phoonnx/styletts2-proxectonos-gl-celtia,Phoonnx,0,0,phoonnx; onnx; styletts2; text-to-speech; license:other; region:us
+2026-11-14T22:42:24Z,Phoonnx/styletts2-hitz-eu-styletts2,Phoonnx,0,0,phoonnx; onnx; styletts2; text-to-speech; license:apache-2.0; region:us
+2026-11-14T22:42:52Z,Phoonnx/pocket-tts-german,Phoonnx,0,0,phoonnx; onnx; pocket-tts; text-to-speech; license:cc-by-4.0; region:us
+2026-11-14T22:43:04Z,Phoonnx/styletts2-proxectonos-gl-brais,Phoonnx,0,0,phoonnx; onnx; styletts2; text-to-speech; license:other; region:us
+2026-11-14T22:43:18Z,Phoonnx/styletts2-kokoro-v1.1-zh,Phoonnx,0,0,phoonnx; onnx; styletts2; text-to-speech; license:other; region:us
+2026-11-14T22:43:41Z,Phoonnx/pocket-tts-english_2026-04,Phoonnx,0,0,phoonnx; onnx; pocket-tts; text-to-speech; license:cc-by-4.0; region:us
+2026-11-14T22:43:47Z,Phoonnx/pocket-tts-french_24l,Phoonnx,0,0,phoonnx; onnx; pocket-tts; text-to-speech; license:cc-by-4.0; region:us
+2026-11-14T22:43:55Z,cannizzaro12/nov13_tshirt_baseline,cannizzaro12,0,0,region:us
+2026-11-14T22:43:56Z,SuryanshHere/ayawarden-tiny-aya-lisa-lora,SuryanshHere,0,0,peft; safetensors; lora; prompt-injection; ai-safety; safety-preserving-fine-tuning; lisa; multilingual; agents; safetune; lexsi-hackathon; en; hi; es; fr; ar; sw; bn; dataset:SuryanshHere/ayawarden-…
+2026-11-14T22:44:26Z,agentic-underground/qwen3.5-4b-to-9b-bridge,agentic-underground,0,0,safetensors; kv-cache; latentport; model-bridge; arxiv:2609.25053; base_model:Qwen/Qwen3.5-4B-Base; base_model:finetune:Qwen/Qwen3.5-4B-Base; license:apache-2.0; region:us
+2026-11-14T22:44:48Z,fireviewer/yolo11l-flame-smoke-human-cadryl,fireviewer,0,0,ultralytics; yolo11; object-detection; fireviewer; license:agpl-3.0; region:us
+2026-11-14T22:44:50Z,Oursdesvosges/coilstellaration-phys-resnet-loopfree-fixed,Oursdesvosges,0,0,onnx; stellarator; coilstellaration; physics-informed-neural-network; resnet; fusion; dataset:proxima-fusion/coilstellaration; arxiv:2611.12689; license:apache-2.0; region:us
+2026-11-14T22:45:05Z,Oursdesvosges/coilstellaration-phys-resnet-loopfree-universal,Oursdesvosges,0,0,onnx; stellarator; coilstellaration; physics-informed-neural-network; resnet; fusion; dataset:proxima-fusion/coilstellaration; arxiv:2611.12689; license:apache-2.0; region:us
+2026-11-14T22:45:20Z,Oursdesvosges/coilstellaration-phys-resnet-lm-fixed,Oursdesvosges,0,0,onnx; stellarator; coilstellaration; physics-informed-neural-network; resnet; fusion; dataset:proxima-fusion/coilstellaration; arxiv:2611.12689; license:apache-2.0; region:us
+2026-11-14T22:45:34Z,Oursdesvosges/coilstellaration-phys-resnet-lm-universal,Oursdesvosges,0,0,onnx; stellarator; coilstellaration; physics-informed-neural-network; resnet; fusion; dataset:proxima-fusion/coilstellaration; arxiv:2611.12689; license:apache-2.0; region:us
+2026-11-14T22:46:57Z,C3Nt0/nora-v2.2,C3Nt0,0,0,safetensors; region:us
+2026-11-14T22:47:05Z,Phoonnx/glowtts-coqui-be-common-voice-glow-tts,Phoonnx,0,0,phoonnx; onnx; glowtts; text-to-speech; license:other; region:us
+2026-11-14T22:47:07Z,Phoonnx/styletts2-kokoro-v0.19,Phoonnx,0,0,phoonnx; onnx; styletts2; text-to-speech; license:other; region:us
+2026-11-14T22:47:07Z,mama-to/mot03b,mama-to,0,0,region:us
+2026-11-14T22:47:14Z,Phoonnx/styletts2-tuga-kokoro-pt,Phoonnx,0,0,phoonnx; onnx; styletts2; text-to-speech; license:other; region:us
+2026-11-14T22:47:15Z,Phoonnx/pocket-tts-portuguese,Phoonnx,0,0,phoonnx; onnx; pocket-tts; text-to-speech; license:cc-by-4.0; region:us
+2026-11-14T22:47:29Z,mama-chen/mum09b,mama-chen,0,0,region:us
+2026-11-14T22:47:39Z,Phoonnx/pocket-tts-italian,Phoonnx,0,0,phoonnx; onnx; pocket-tts; text-to-speech; license:cc-by-4.0; region:us
+2026-11-14T22:47:39Z,Phoonnx/glowtts-coqui-it-mai_male-glow-tts,Phoonnx,0,0,phoonnx; onnx; glowtts; text-to-speech; license:other; region:us
+2026-11-14T22:47:40Z,mrthor102/gun10b,mrthor102,0,0,region:us
+2026-11-14T22:47:51Z,Phoonnx/glowtts-de-de-hokuspokus,Phoonnx,0,0,phoonnx; onnx; glowtts; text-to-speech; license:other; region:us
+2026-11-14T22:47:57Z,Phoonnx/pocket-tts-spanish,Phoonnx,0,0,phoonnx; onnx; pocket-tts; text-to-speech; license:cc-by-4.0; region:us
+2026-11-14T22:47:59Z,Phoonnx/glowtts-de-de-rebecca_braunert_plunkett,Phoonnx,0,0,phoonnx; onnx; glowtts; text-to-speech; license:other; region:us
+2026-11-14T22:48:08Z,Phoonnx/glowtts-en-us-cmu_aew,Phoonnx,0,0,phoonnx; onnx; glowtts; text-to-speech; license:other; region:us
+2026-11-14T22:48:11Z,mama-to/mot02,mama-to,0,0,region:us
+2026-11-14T22:48:14Z,sunit12/tiny-aya-global-codemix-refusal-lora-v2-circuit,sunit12,0,0,peft; safetensors; base_model:adapter:CohereLabs/tiny-aya-global; lora; sft; transformers; trl; text-generation; conversational; arxiv:1910.09700; base_model:CohereLabs/tiny-aya-global; region:us
+2026-11-14T22:48:40Z,LGTEAMai/Nano-1.3-Plus-GGUF,LGTEAMai,0,0,gguf; llama.cpp; ollama; lm-studio; quantized; nano; lgteamai; small-language-model; chat; text-generation; en; ru; base_model:LGTEAMai/Nano-1.3-Plus; base_model:quantized:LGTEAMai/Nano-1.3-Plus; lic…
+2026-11-14T22:49:14Z,12123dsfsd/my-cool-model,12123dsfsd,0,0,onnx; region:us
+2026-11-14T22:49:32Z,GuideAxon/smart-photos-clip-b32-q8mm,GuideAxon,0,0,onnx; clip; quantized; int8; base_model:openai/clip-vit-base-patch32; base_model:quantized:openai/clip-vit-base-patch32; license:mit; region:us
+2026-11-14T22:49:46Z,Phoonnx/glowtts-en-us-cmu_clb,Phoonnx,0,0,phoonnx; onnx; glowtts; text-to-speech; license:other; region:us
+2026-11-14T22:50:00Z,Phoonnx/glowtts-en-us-cmu_ksp,Phoonnx,0,0,phoonnx; onnx; glowtts; text-to-speech; license:other; region:us
+2026-11-14T22:50:20Z,RylandBilly/MyAwesomeModel-TestRepo,RylandBilly,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-11-14T22:50:20Z,Phoonnx/glowtts-en-us-cmu_rxr,Phoonnx,0,0,phoonnx; onnx; glowtts; text-to-speech; license:other; region:us
+2026-11-14T22:50:27Z,Phoonnx/glowtts-en-us-glados,Phoonnx,0,0,phoonnx; onnx; glowtts; text-to-speech; license:other; region:us
+2026-11-14T22:50:41Z,Phoonnx/glowtts-en-us-ljspeech,Phoonnx,0,0,phoonnx; onnx; glowtts; text-to-speech; license:other; region:us
+2026-11-14T22:50:48Z,Phoonnx/glowtts-en-us-southern_english_female,Phoonnx,0,0,phoonnx; onnx; glowtts; text-to-speech; license:other; region:us
+2026-11-14T22:50:57Z,Phoonnx/glowtts-fr-fr-gilles_le_blanc,Phoonnx,0,0,phoonnx; onnx; glowtts; text-to-speech; license:other; region:us
+2026-11-14T22:51:05Z,Phoonnx/glowtts-it-it-riccardo_fasol,Phoonnx,0,0,phoonnx; onnx; glowtts; text-to-speech; license:other; region:us
+2026-11-14T22:51:11Z,DuoNeural/RMSN-193M-TerminalCementedConduit-D1024d20s2-Base,DuoNeural,0,0,rmsn; port-hamiltonian; base-model; duoneural; topological-solitons; arnold-tongues; topological-cement; riddled-basin; depth-sweep; en; license:apache-2.0; region:us
+2026-11-14T22:51:25Z,Phoonnx/glowtts-nl-rdh,Phoonnx,0,0,phoonnx; onnx; glowtts; text-to-speech; license:other; region:us
+2026-11-14T22:51:32Z,LGTEAMai/Nano-1.3-Plus,LGTEAMai,0,0,transformers; safetensors; llama; text-generation; nano; lgteamai; small-language-model; chat; bilingual; conversational; en; ru; license:apache-2.0; model-index; text-generation-inference; endpoints…
+2026-11-14T22:51:46Z,Phoonnx/glowtts-sv-se-talesyntese,Phoonnx,0,0,phoonnx; onnx; glowtts; text-to-speech; license:other; region:us
+2026-11-14T22:51:54Z,Phoonnx/outetts-dac,Phoonnx,0,0,phoonnx; onnx; outetts; text-to-speech; license:other; region:us
+2026-11-14T22:52:23Z,Phoonnx/f5tts-habibi-tts-irq,Phoonnx,0,0,phoonnx; onnx; f5tts; text-to-speech; license:apache-2.0; region:us
+2026-11-14T22:52:47Z,edwardcapriolo/granite-4.1-3b-llmon-preview-JQ4,edwardcapriolo,0,0,transformers; safetensors; granite; text-generation; language; granite-4.1; conversational; en; de; es; fr; ja; pt; ar; cs; it; ko; nl; zh; arxiv:2603.22519; arxiv:2610.38120; base_model:ibm-granite/…
+2026-11-14T22:53:16Z,Phoonnx/f5tts-habibi-tts-uae,Phoonnx,0,0,phoonnx; onnx; f5tts; text-to-speech; license:cc-by-nc-sa-4.0; region:us
+2026-11-14T22:53:23Z,Phoonnx/glowtts-coqui-en-ljspeech-glow-tts,Phoonnx,0,0,phoonnx; onnx; glowtts; text-to-speech; license:other; region:us
+2026-11-14T22:53:31Z,Phoonnx/glowtts-coqui-tr-common-voice-glow-tts,Phoonnx,0,0,phoonnx; onnx; glowtts; text-to-speech; license:other; region:us
+2026-11-14T22:53:39Z,Phoonnx/glowtts-de-de-karlsson,Phoonnx,0,0,phoonnx; onnx; glowtts; text-to-speech; license:other; region:us
+2026-11-14T22:53:41Z,Phoonnx/glowtts-coqui-fa-custom-glow-tts,Phoonnx,0,0,phoonnx; onnx; glowtts; text-to-speech; license:other; region:us
+2026-11-14T22:53:46Z,Phoonnx/glowtts-coqui-it-mai_female-glow-tts,Phoonnx,0,0,phoonnx; onnx; glowtts; text-to-speech; license:other; region:us
+2026-11-14T22:53:59Z,Phoonnx/glowtts-de-de-thorsten,Phoonnx,0,0,phoonnx; onnx; glowtts; text-to-speech; license:other; region:us
+2026-11-14T22:54:02Z,Phoonnx/glowtts-de-de-eva_k,Phoonnx,0,0,phoonnx; onnx; glowtts; text-to-speech; license:other; region:us
+2026-11-14T22:54:15Z,Phoonnx/glowtts-coqui-uk-mai-glow-tts,Phoonnx,0,0,phoonnx; onnx; glowtts; text-to-speech; license:other; region:us
+2026-11-14T22:54:24Z,Phoonnx/glowtts-de-de-pavoque,Phoonnx,0,0,phoonnx; onnx; glowtts; text-to-speech; license:other; region:us
+2026-11-14T22:54:25Z,Phoonnx/f5tts-tw-asante-openbible,Phoonnx,0,0,phoonnx; onnx; f5tts; text-to-speech; license:cc-by-nc-4.0; region:us
+2026-11-14T22:54:26Z,Phoonnx/glowtts-de-de-kerstin,Phoonnx,0,0,phoonnx; onnx; glowtts; text-to-speech; license:other; region:us
+2026-11-14T22:54:28Z,Phoonnx/glowtts-en-us-cmu_ahw,Phoonnx,0,0,phoonnx; onnx; glowtts; text-to-speech; license:other; region:us
+2026-11-14T22:54:32Z,razdiamond/MLAgents-Pyramids,razdiamond,0,0,ml-agents; tensorboard; onnx; Pyramids; deep-reinforcement-learning; reinforcement-learning; ML-Agents-Pyramids; region:us
+2026-11-14T22:54:37Z,Phoonnx/glowtts-en-us-blizzard_lessac,Phoonnx,0,0,phoonnx; onnx; glowtts; text-to-speech; license:other; region:us
+2026-11-14T22:54:44Z,Phoonnx/glowtts-en-us-cmu_eey,Phoonnx,0,0,phoonnx; onnx; glowtts; text-to-speech; license:other; region:us
+2026-11-14T22:54:54Z,Tarush-AI/fittingcorpus,Tarush-AI,0,0,pytorch; interpretability; mechanistic-interpretability; jacobian-lens; pythia; reproducibility; license:cc-by-4.0; region:us
+2026-11-14T22:55:05Z,Phoonnx/glowtts-en-us-blizzard_fls,Phoonnx,0,0,phoonnx; onnx; glowtts; text-to-speech; license:other; region:us
+2026-11-14T22:55:11Z,Phoonnx/glowtts-en-us-cmu_bdl,Phoonnx,0,0,phoonnx; onnx; glowtts; text-to-speech; license:other; region:us
+2026-11-14T22:55:12Z,Phoonnx/glowtts-en-us-cmu_ljm,Phoonnx,0,0,phoonnx; onnx; glowtts; text-to-speech; license:other; region:us
+2026-11-14T22:55:15Z,Phoonnx/glowtts-en-us-cmu_aup,Phoonnx,0,0,phoonnx; onnx; glowtts; text-to-speech; license:other; region:us
+2026-11-14T22:55:23Z,Phoonnx/vits-fr_FR-siwis-medium,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T22:55:26Z,Phoonnx/glowtts-en-us-cmu_jmk,Phoonnx,0,0,phoonnx; onnx; glowtts; text-to-speech; license:other; region:us
+2026-11-14T22:55:31Z,Phoonnx/glowtts-en-us-cmu_fem,Phoonnx,0,0,phoonnx; onnx; glowtts; text-to-speech; license:other; region:us
+2026-11-14T22:55:32Z,Phoonnx/glowtts-en-us-cmu_slp,Phoonnx,0,0,phoonnx; onnx; glowtts; text-to-speech; license:other; region:us
+2026-11-14T22:55:42Z,Phoonnx/vits-hf_community_BricksDisplay_vits-cmn,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T22:55:42Z,Phoonnx/glowtts-en-us-cmu_rms,Phoonnx,0,0,phoonnx; onnx; glowtts; text-to-speech; license:other; region:us
+2026-11-14T22:55:44Z,Phoonnx/glowtts-en-us-cmu_lnh,Phoonnx,0,0,phoonnx; onnx; glowtts; text-to-speech; license:other; region:us
+2026-11-14T22:55:49Z,Phoonnx/glowtts-en-us-harvard,Phoonnx,0,0,phoonnx; onnx; glowtts; text-to-speech; license:other; region:us
+2026-11-14T22:56:01Z,yuruny/asyncrl-m8b_async_s5_mb8_is_klold_rtggm_sc_clip0p2_5_b0p05_truncneg1_ev128-gs140,yuruny,0,0,region:us
+2026-11-14T22:56:01Z,Phoonnx/glowtts-en-us-ek,Phoonnx,0,0,phoonnx; onnx; glowtts; text-to-speech; license:other; region:us
+2026-11-14T22:56:04Z,Phoonnx/vits-hf_community_HirCoir_piper-sorah-neuronal,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T22:56:04Z,Phoonnx/glowtts-en-us-cmu_slt,Phoonnx,0,0,phoonnx; onnx; glowtts; text-to-speech; license:other; region:us
+2026-11-14T22:56:07Z,rAVEUK/RaveLightning,rAVEUK,0,0,diffusers; text-to-image; stable-diffusion; arxiv:2402.13929; license:openrail++; region:us
+2026-11-14T22:56:09Z,Phoonnx/glowtts-en-us-mary_ann,Phoonnx,0,0,phoonnx; onnx; glowtts; text-to-speech; license:other; region:us
+2026-11-14T22:56:12Z,Phoonnx/glowtts-en-us-judy_bieber,Phoonnx,0,0,phoonnx; onnx; glowtts; text-to-speech; license:other; region:us
+2026-11-14T22:56:19Z,Phoonnx/vits-hf_community_RaivisDejus_Piper-lv_LV-Aivars-medium,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T22:56:20Z,Phoonnx/glowtts-en-us-southern_english_male,Phoonnx,0,0,phoonnx; onnx; glowtts; text-to-speech; license:other; region:us
+2026-11-14T22:56:21Z,Phoonnx/glowtts-en-us-northern_english_male,Phoonnx,0,0,phoonnx; onnx; glowtts; text-to-speech; license:other; region:us
+2026-11-14T22:56:27Z,Phoonnx/vits-hf_community_SadeghK_persian-text-to-speech_epoch_6363-step_2694608-ganji-adabi,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T22:56:27Z,Phoonnx/glowtts-en-us-kathleen,Phoonnx,0,0,phoonnx; onnx; glowtts; text-to-speech; license:other; region:us
+2026-11-14T22:56:36Z,Phoonnx/vits-hf_community_WitoldG_polish_piper_models_pl_PL-jarvis_wg_glos-medium,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T22:56:40Z,Phoonnx/glowtts-en-us-scottish_english_male,Phoonnx,0,0,phoonnx; onnx; glowtts; text-to-speech; license:other; region:us
+2026-11-14T22:56:40Z,Phoonnx/glowtts-es-es-carlfm,Phoonnx,0,0,phoonnx; onnx; glowtts; text-to-speech; license:other; region:us
+2026-11-14T22:56:42Z,Phoonnx/glowtts-fr-fr-siwis,Phoonnx,0,0,phoonnx; onnx; glowtts; text-to-speech; license:other; region:us
+2026-11-14T22:56:49Z,Phoonnx/glowtts-fr-fr-tom,Phoonnx,0,0,phoonnx; onnx; glowtts; text-to-speech; license:other; region:us
+2026-11-14T22:56:52Z,Phoonnx/vits-hf_community_agentvibes_piper-custom-voices_16Speakers,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T22:56:53Z,Phoonnx/glowtts-es-es-karen_savage,Phoonnx,0,0,phoonnx; onnx; glowtts; text-to-speech; license:other; region:us
+2026-11-14T22:57:01Z,Phoonnx/vits-hf_community_anzorq_kbd-vits-tts-male,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T22:57:04Z,Phoonnx/glowtts-nl-flemishguy,Phoonnx,0,0,phoonnx; onnx; glowtts; text-to-speech; license:other; region:us
+2026-11-14T22:57:08Z,Phoonnx/glowtts-nl-bart_de_leeuw,Phoonnx,0,0,phoonnx; onnx; glowtts; text-to-speech; license:other; region:us
+2026-11-14T22:57:14Z,Phoonnx/glowtts-it-it-lisa,Phoonnx,0,0,phoonnx; onnx; glowtts; text-to-speech; license:other; region:us
+2026-11-14T22:57:16Z,Phoonnx/vits-hf_community_davet2001_wheatley1,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T22:57:18Z,Phoonnx/glowtts-ru-ru-minaev,Phoonnx,0,0,phoonnx; onnx; glowtts; text-to-speech; license:other; region:us
+2026-11-14T22:57:25Z,Phoonnx/glowtts-nl-nathalie,Phoonnx,0,0,phoonnx; onnx; glowtts; text-to-speech; license:other; region:us
+2026-11-14T22:57:30Z,Phoonnx/glowtts-ru-ru-hajdurova,Phoonnx,0,0,phoonnx; onnx; glowtts; text-to-speech; license:other; region:us
+2026-11-14T22:57:32Z,Phoonnx/vits-hf_community_drewThomasson_piper_tts_finetune_death_from_puss_and_boots,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T22:57:34Z,Phoonnx/glowtts-ru-ru-nikolaev,Phoonnx,0,0,phoonnx; onnx; glowtts; text-to-speech; license:other; region:us
+2026-11-14T22:57:44Z,Phoonnx/glowtts-sw-biblia_takatifu,Phoonnx,0,0,phoonnx; onnx; glowtts; text-to-speech; license:other; region:us
+2026-11-14T22:57:45Z,Phoonnx/outetts-0.6B,Phoonnx,0,0,phoonnx; onnx; outetts; text-to-speech; license:apache-2.0; region:us
+2026-11-14T22:57:47Z,Nihilux/Numpy,Nihilux,0,0,gguf; llama.cpp; moe; endpoints_compatible; region:us; conversational
+2026-11-14T22:57:51Z,Phoonnx/vits-hf_community_jstlntch_Scaramouche_or_Wanderer_voice_model_for_piper,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T22:57:52Z,Phoonnx/outetts-1B,Phoonnx,0,0,phoonnx; onnx; outetts; text-to-speech; license:cc-by-nc-sa-4.0; region:us
+2026-11-14T22:57:58Z,Phoonnx/vits-hf_community_kirys79_piper_italiano_it_IT-aurora-medium,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T22:58:00Z,Phoonnx/f5tts-f5tts-v1-base,Phoonnx,0,0,phoonnx; onnx; f5tts; text-to-speech; license:cc-by-nc-4.0; region:us
+2026-11-14T22:58:04Z,sunit12/tiny-aya-global-codemix-refusal-lora-v2,sunit12,0,0,peft; safetensors; base_model:adapter:CohereLabs/tiny-aya-global; lora; sft; transformers; trl; text-generation; conversational; arxiv:1910.09700; base_model:CohereLabs/tiny-aya-global; region:us
+2026-11-14T22:58:30Z,Phoonnx/vits-hf_community_mahwizzzz_vits-ur,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T22:58:49Z,Mrunal1201/tiny-aya-sql-heal-lora,Mrunal1201,0,0,peft; safetensors; lexsi-hackathon; agenttune; auditkit; curatorkit; text-to-sql; cohere-aya; self-healing; lora; text-generation; conversational; en; hi; de; kn; dataset:Mrunal1201/aya-self-healing-…
+2026-11-14T22:58:54Z,kornitsovivan/petrol-7tvn3f,kornitsovivan,0,0,onnx; object-detection; license:agpl-3.0; region:us
+2026-11-14T22:59:04Z,Mrunal1201/tiny-aya-sql-control-lora,Mrunal1201,0,0,peft; safetensors; lexsi-hackathon; agenttune; auditkit; curatorkit; text-to-sql; cohere-aya; single-turn-control; lora; text-generation; conversational; en; hi; de; kn; dataset:Mrunal1201/aya-self-h…
+2026-11-14T22:59:18Z,Mrunal1201/aya-8b-sql-heal-lora,Mrunal1201,0,0,peft; safetensors; lexsi-hackathon; agenttune; auditkit; curatorkit; text-to-sql; cohere-aya; scale-ablation; lora; text-generation; conversational; en; hi; de; kn; dataset:Mrunal1201/aya-self-healin…
+2026-11-14T22:59:29Z,Phoonnx/vits-hf_community_nardocolin_nardocolin-pipertts,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T22:59:36Z,Phoonnx/f5tts-habibi-tts-mar,Phoonnx,0,0,phoonnx; onnx; f5tts; text-to-speech; license:apache-2.0; region:us
+2026-11-14T22:59:37Z,Phoonnx/vits-hf_community_paolapersico1_Piper-TTS-Italian,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T22:59:45Z,Phoonnx/vits-hf_community_projecte-aina_tts-ca-coqui-vits-multispeaker,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T22:59:52Z,Phoonnx/f5tts-habibi-tts-alg,Phoonnx,0,0,phoonnx; onnx; f5tts; text-to-speech; license:apache-2.0; region:us
+2026-11-14T23:00:01Z,Phoonnx/vits-hf_community_russdill_kronk,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:00:17Z,Phoonnx/vits-hf_community_swqg-messiah_kusaal_chitti_piper,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:00:29Z,Phoonnx/vits-hf_community_systemofapwne_piper-de-glados_de_DE-glados-turret-high,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:00:32Z,Phoonnx/f5tts-habibi-tts-egy,Phoonnx,0,0,phoonnx; onnx; f5tts; text-to-speech; license:apache-2.0; region:us
+2026-11-14T23:00:49Z,go234/act_chunk10_b1_amp,go234,0,0,lerobot; safetensors; robotics; act; dataset:go234/cube-box_20261013_041703; arxiv:2304.13705; license:apache-2.0; region:us
+2026-11-14T23:00:53Z,Phoonnx/vits-hf_community_vadimbelsky_arabic-emirati-female-piper,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:01:03Z,Phoonnx/f5tts-habibi-tts-msa,Phoonnx,0,0,phoonnx; onnx; f5tts; text-to-speech; license:apache-2.0; region:us
+2026-11-14T23:01:06Z,Phoonnx/f5tts-habibi-tts-unified,Phoonnx,0,0,phoonnx; onnx; f5tts; text-to-speech; license:cc-by-nc-sa-4.0; region:us
+2026-11-14T23:01:06Z,My-Weird-Prompts/Herman-OmniVoice-LoRA-Chatterbox,My-Weird-Prompts,0,0,peft; safetensors; omnivoice; lora; chatterbox-distilled; tts; synthetic-voice; my-weird-prompts; text-to-speech; en; base_model:k2-fsa/OmniVoice; base_model:adapter:k2-fsa/OmniVoice; license:cc-by-n…
+2026-11-14T23:01:09Z,Phoonnx/vits-hf_community_wasmdashai_vits-ar-ye-sa,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:01:37Z,Phoonnx/vits-hf_community_ylacombe_vits_ljs_welsh_female_monospeaker,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:01:41Z,My-Weird-Prompts/Corn-OmniVoice-LoRA-Chatterbox,My-Weird-Prompts,0,0,peft; safetensors; omnivoice; lora; chatterbox-distilled; tts; synthetic-voice; my-weird-prompts; text-to-speech; en; base_model:k2-fsa/OmniVoice; base_model:adapter:k2-fsa/OmniVoice; license:cc-by-n…
+2026-11-14T23:02:09Z,Phoonnx/vits-hitz-es_laura,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:02:13Z,KarlRobinson/cabinet-v2-lay-down,KarlRobinson,0,0,region:us
+2026-11-14T23:02:24Z,Phoonnx/f5tts-namaa-saudi-tts-v2,Phoonnx,0,0,phoonnx; onnx; f5tts; text-to-speech; license:cc-by-nc-sa-4.0; region:us
+2026-11-14T23:02:27Z,Litian2002/ledger-seeds_r2_long-libero_10-dense_er-s1-t02,Litian2002,0,0,region:us
+2026-11-14T23:02:28Z,Phoonnx/f5tts-habibi-tts-sau,Phoonnx,0,0,phoonnx; onnx; f5tts; text-to-speech; license:cc-by-nc-sa-4.0; region:us
+2026-11-14T23:02:40Z,Phoonnx/vits-de_DE-thorsten-medium,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:02:43Z,Phoonnx/vits-hitz-gl_celtia,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:02:52Z,Phoonnx/vits-ghananlpcommunity_stable-twi-tts,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:02:58Z,ling0322/libwaifu-cosyvoice-3-visemes,ling0322,0,0,libwaifu; cosyvoice3; viseme; lip-sync; text-to-speech; zh; ja; en; base_model:FunAudioLLM/Fun-CosyVoice3-0.5B-2512; base_model:finetune:FunAudioLLM/Fun-CosyVoice3-0.5B-2512; license:apache-2.0; regi…
+2026-11-14T23:03:01Z,Phoonnx/vits-hitz-gl_sabela,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:03:15Z,Phoonnx/vits-mimic3_de_DE_thorsten-emotion_low,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:03:27Z,Phoonnx/vits-hf_community_Da-Bob_piper-mikev3,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:03:28Z,LucyTu111/qwen3.5-4b-math-tutor-lora,LucyTu111,0,0,peft; safetensors; lora; sft; unsloth; distillation; math-tutoring; education; text-generation; conversational; en; zh; base_model:Qwen/Qwen3.5-4B; base_model:adapter:Qwen/Qwen3.5-4B; license:apache-…
+2026-11-14T23:03:32Z,Litian2002/ledger-seeds_r2_long-libero_10-derpp-s1-t02,Litian2002,0,0,region:us
+2026-11-14T23:03:38Z,Phoonnx/vits-mimic3_en_US_cmu-arctic_low,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:03:39Z,Phoonnx/f5tts-silma-tts-v1,Phoonnx,0,0,phoonnx; onnx; f5tts; text-to-speech; license:cc-by-nc-4.0; region:us
+2026-11-14T23:03:41Z,Phoonnx/vits-hf_community_MahtaFetrat_Mana-Persian-Piper,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:03:51Z,Phoonnx/vits-hf_community_Rikels_piper-dutch,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:03:53Z,Phoonnx/vits-en_GB-alba-medium,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:03:59Z,Phoonnx/vits-mimic3_en_US_vctk_low,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:04:05Z,Phoonnx/vits-hf_community_Aquaaa123_piper-tts-pda-subnautica,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:04:14Z,Phoonnx/vits-hf_community_Einrich99_PiperTTS-UGO-Italian,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:04:18Z,Phoonnx/vits-mimic3_fi_FI_harri-tapani-ylilammi_low,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:04:19Z,Phoonnx/vits-en_US-lessac-medium,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:04:21Z,Phoonnx/vits-hf_community_PravalX_piper-voices_hi_IN-pratham-medium,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:04:28Z,Phoonnx/vits-hf_community_SadeghK_persian-text-to-speech_epoch_5261-step_2455712,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:04:28Z,Phoonnx/vits-hf_community_AsmoKoskinen_Piper_Finnish_Model,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:04:30Z,Phoonnx/vits-hf_community_Sigurdur_vits_icelandic_rosa_female_monospeaker,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:04:33Z,Phoonnx/vits-mimic3_gu_IN_cmu-indic_low,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:04:38Z,Phoonnx/vits-hf_community_Thomcles_Piper-TTS-Czech_model,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:04:40Z,Litian2002/ledger-seeds_r2_long-libero_10-moe_er-s2-t02,Litian2002,0,0,region:us
+2026-11-14T23:04:45Z,Phoonnx/vits-hf_community_WitoldG_polish_piper_models_pl_PL-meski_wg_glos-medium,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:04:47Z,Phoonnx/vits-mimic3_it_IT_riccardo-fasol_low,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:04:47Z,Phoonnx/vits-hf_community_HirCoir_Piper-TTS-Laura,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:04:53Z,Phoonnx/vits-hf_community_agentvibes_piper-custom-voices_kristin,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:04:55Z,Phoonnx/vits-hf_community_PravalX_piper-voices_hi_IN-priyamvada-medium,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:04:58Z,Phoonnx/vits-hf_community_WitoldG_polish_piper_models_pl_PL-justyna_wg_glos-medium,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:05:08Z,Phoonnx/vits-hf_community_colafly_piper_zh_tw,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:05:12Z,Phoonnx/vits-hf_community_agentvibes_piper-custom-voices_jenny,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:05:18Z,Phoonnx/vits-hf_community_campwill_HAL-9000-Piper-TTS,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:05:22Z,Phoonnx/vits-hf_community_SadeghK_persian-text-to-speech_epoch_5719-step_2609600-ganji,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:05:25Z,Phoonnx/vits-mimic3_nl_bart-de-leeuw_low,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:05:25Z,Phoonnx/vits-hf_community_davit312_piper-TTS-Armenian_hy_AM-gor-medium,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:05:29Z,Phoonnx/vits-hf_community_Wiseyak_piper_tts,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:05:32Z,Phoonnx/vits-hf_community_denZLS_luxembourgish-female-vits-tts,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:05:40Z,Phoonnx/vits-hf_community_giganticlab_piper-id_ID-news_tts-medium,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:05:42Z,Phoonnx/vits-hf_community_gyroing_Persian-Piper-Model-gyro,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:05:44Z,Phoonnx/vits-hf_community_WitoldG_polish_piper_models_pl_PL-zenski_wg_glos-medium,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:05:45Z,Phoonnx/vits-mimic3_nl_rdh_low,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:05:47Z,Phoonnx/vits-hf_community_kakao-enterprise_vits-ljs,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:05:49Z,Phoonnx/vits-hf_community_kakao-enterprise_vits-ljs-eng,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:05:52Z,Phoonnx/vits-hf_community_anzorq_kbd-vits-tts-female,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:06:02Z,Phoonnx/vits-hf_community_davet2001_cave_johnson1,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:06:07Z,Phoonnx/vits-hf_community_kirys79_piper_italiano_leonardo-epoch_2024-step_996300,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:06:08Z,Phoonnx/vits-hf_community_larcanio_piper-voices,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:06:09Z,Phoonnx/vits-hf_community_denZLS_luxembourgish-male-vits-tts,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:06:14Z,Phoonnx/vits-mimic3_te_IN_cmu-indic_low,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:06:22Z,Phoonnx/vits-hf_community_mbarnig_lb_rhasspy_piper_tts_lb_LU-androgynous-medium,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:06:23Z,Litian2002/ledger-seeds_r2_long-libero_10-dense_er-s2-t02,Litian2002,0,0,region:us
+2026-11-14T23:06:24Z,Phoonnx/vits-mimic3_yo_openbible_low,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:06:27Z,Phoonnx/vits-hf_community_joefox_tts_vits_ru_hf,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:06:33Z,caikybaldo999/ZYMOTION-0.1,caikybaldo999,0,0,region:us
+2026-11-14T23:06:33Z,Phoonnx/vits-hf_community_mbarnig_lb_rhasspy_piper_tts_lb_LU-femaleLOD-medium,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:06:39Z,Phoonnx/vits-hf_community_kirys79_piper_italiano_giorgio-epoch_5028-step_1098436,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:06:42Z,Phoonnx/vits-piper_ar_JO-kareem-low,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:06:42Z,Phoonnx/vits-hf_community_nullnullvier_kantodel,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:06:48Z,Phoonnx/vits-hf_community_owensong_inflect-micro-v2-onnx,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:06:50Z,Phoonnx/vits-hf_community_phcatan9921_piper_tts,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:06:56Z,Phoonnx/vits-piper_ca_ES-upc_ona-x_low,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:06:57Z,Phoonnx/vits-hf_community_mah92_Reza-And-Ibrahim-FA_EN-Piper-TTS-Model,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:06:59Z,Phoonnx/vits-hf_community_raphaelmerx_piper-voices,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:07:05Z,Phoonnx/vits-hf_community_mbarnig_lb_rhasspy_piper_tts_lb_LU-marylux-medium,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:07:06Z,Phoonnx/vits-piper_cy_GB-bu_tts-medium,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:07:08Z,Phoonnx/vits-hf_community_poisson-fish_piper-vasco,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:07:19Z,Phoonnx/vits-hf_community_samarthshrivas_piper-finetune-Andrew-Huberman,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:07:19Z,Phoonnx/vits-piper_de_DE-karlsson-low,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:07:24Z,Phoonnx/vits-hf_community_redromnon_piper-tts-elise,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:07:24Z,Phoonnx/vits-hf_community_owensong_inflect-nano-v2-onnx,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:07:27Z,aldigobbler/canyon-racer-lfm2-230m-v1.1-gguf,aldigobbler,0,0,llama.cpp; gguf; canyon-racer; lfm2; reinforcement-learning; base_model:LiquidAI/LFM2.5-230M; base_model:quantized:LiquidAI/LFM2.5-230M; endpoints_compatible; region:us; conversational
+2026-11-14T23:07:30Z,Phoonnx/vits-hf_community_srxz_sage-voice-pt-br,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:07:31Z,Phoonnx/vits-piper_de_DE-ramona-low,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:07:35Z,Phoonnx/vits-hf_community_systemofapwne_piper-de-glados_de_DE-glados-high,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:07:37Z,Phoonnx/vits-hf_community_systemofapwne_piper-de-glados_de_DE-glados-low,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:07:37Z,Phoonnx/vits-piper_de_DE-thorsten_emotional-medium,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:07:38Z,Phoonnx/vits-hf_community_ppisljar_piper_si_artur_model,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:07:48Z,Phoonnx/vits-hf_community_systemofapwne_piper-de-glados_de_DE-glados-turret-low,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:07:49Z,Phoonnx/vits-hf_community_systemofapwne_piper-de-glados_de_DE-glados-turret-medium,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:07:49Z,Litian2002/ledger-seeds_r2_long-libero_10-derpp-s2-t02,Litian2002,0,0,region:us
+2026-11-14T23:07:52Z,Phoonnx/vits-piper_en_GB-alan-medium,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:07:53Z,Phoonnx/vits-hf_community_rokeya71_VITS-Piper-GlaDOS-en-onnx_glados,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:08:00Z,Phoonnx/vits-piper_en_GB-cori-medium,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:08:04Z,mgm136044/act_pick_place_cube_chunk50,mgm136044,0,0,lerobot; safetensors; robotics; act; dataset:mgm136044/pick-place-cube_20261008_100203; arxiv:2304.13705; license:apache-2.0; region:us
+2026-11-14T23:08:05Z,Phoonnx/vits-hf_community_wasmdashai_vits-ar,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:08:16Z,weathon/base,weathon,0,0,region:us
+2026-11-14T23:08:18Z,Phoonnx/vits-hf_community_wasmdashai_vits-en-v1,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:08:18Z,Phoonnx/vits-hf_community_superkeka_piper-tts-luka,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:08:19Z,Phoonnx/vits-piper_en_GB-southern_english_female-low,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:08:20Z,Phoonnx/vits-hf_community_wasmdashai_vits-ar-sa-A,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:08:28Z,Phoonnx/vits-piper_en_US-arctic-medium,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:08:30Z,Phoonnx/vits-hf_community_systemofapwne_piper-de-glados_de_DE-glados-medium,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:08:35Z,Phoonnx/vits-hitz-ca_ona,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:08:37Z,Phoonnx/vits-hf_community_utrobinmv_tts_ru_free_hf_vits_low_multispeaker,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:08:47Z,Phoonnx/vits-hf_community_wasmdashai_vits-ar-sa-huba-v2,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:08:49Z,Phoonnx/vits-piper_en_US-hfc_male-medium,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:08:50Z,Phoonnx/vits-hitz-eu_antton,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:08:54Z,Phoonnx/vits-hf_community_wasmdashai_vits-eng-us-ljs,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:08:56Z,Phoonnx/vits-hf_community_wezzmeister_piper-voices,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:09:05Z,Phoonnx/vits-hitz-gl_iago,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:09:06Z,Phoonnx/vits-hitz-es_alejandro,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:09:07Z,Phoonnx/vits-hitz-ca_pau,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:09:09Z,Phoonnx/vits-piper_en_US-kristin-medium,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:09:14Z,Phoonnx/vits-mimic3_af_ZA_google-nwu_low,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:09:14Z,Phoonnx/vits-hitz-gl_brais,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:09:17Z,Phoonnx/vits-piper_en_US-lessac-low,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:09:21Z,Phoonnx/vits-hitz-gl_paulo,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:09:25Z,Phoonnx/vits-piper_en_US-ljspeech-high,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:09:27Z,Phoonnx/vits-mimic3_de_DE_m-ailabs_low,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:09:29Z,Phoonnx/vits-mimic3_de_DE_thorsten_low,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:09:34Z,Phoonnx/vits-piper_en_US-ryan-high,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:09:36Z,Phoonnx/vits-mimic3_en_UK_apope_low,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:09:38Z,Phoonnx/vits-hitz-eu_maider,Phoonnx,0,0,phoonnx; onnx; vits; text-to-speech; license:mit; region:us
+2026-11-14T23:09:47Z,TianaBear/MyAwesomeModel-TestRepo,TianaBear,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-11-14T23:13:24Z,yemara/Qwen3-Omni-30B-A3B-Instruct-NVFP4,yemara,0,0,safetensors; qwen3_omni_moe; qwen3-omni; nvfp4; modelopt; hibana; gb10; any-to-any; base_model:Qwen/Qwen3-Omni-30B-A3B-Instruct; base_model:quantized:Qwen/Qwen3-Omni-30B-A3B-Instruct; license:apache-…
+2026-11-14T23:13:36Z,Pileggi/curumim5,Pileggi,0,0,curumim; safetensors; portuguese; text-generation; causal-lm; pt; license:apache-2.0; region:us
+2026-11-14T23:14:08Z,Litian2002/ledger-seeds_r2_long-libero_10-ledger-s1-t02,Litian2002,0,0,region:us
+2026-11-14T23:15:27Z,Litian2002/ledger-seeds_r2_long-libero_10-ledger-s2-t02,Litian2002,0,0,region:us
+2026-11-14T23:17:11Z,qleap/DeepSeek-V4.1-Flash-1017-Uncensored-qQ4e-mtp,qleap,0,0,license:mit; region:us
+2026-11-14T23:17:15Z,erdem-erdem/dyn-spec-dflash-mix100k-static-lora-attn-r512-3ep-kl,erdem-erdem,0,0,speculators; dflash; speculative-decoding; lora-generator; region:us
+2026-11-14T23:17:35Z,DIRKDIGGLER69420/TESTERS,DIRKDIGGLER69420,0,0,region:us
+2026-11-14T23:17:54Z,qleap/GLM-5.3-Flash-Uncensored-oQ4e-mtp,qleap,0,0,license:mit; region:us
+2026-11-14T23:17:55Z,afadfaq/MyAwesomeModel-TestRepo,afadfaq,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-11-14T23:18:03Z,LibreYOLO/LibreOpenVisionBanana4b,LibreYOLO,0,0,libreyolo; diffusers; safetensors; open-vision-banana; flux; semantic-segmentation; referring-segmentation; depth-estimation; surface-normal-estimation; image-editing; text-to-image; image-to-image;…
