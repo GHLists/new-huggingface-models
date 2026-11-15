@@ -1,0 +1,154 @@
+created_at,model,author,downloads,likes,tags
+2026-11-15T21:21:15Z,TechnoBaptist/LongCat-Video,TechnoBaptist,0,0,diffusers; safetensors; transformers; image-to-video; video-continuation; text-to-video; en; zh; arxiv:2510.22200; license:mit; region:us
+2026-11-15T21:21:37Z,Zayaan/task-tower-via-parking-tray,Zayaan,0,0,region:us
+2026-11-15T21:21:38Z,DITlieD/twil-a57-weight-surgeon,DITlieD,0,0,safetensors; region:us
+2026-11-15T21:22:02Z,Avvert/ppo-LunarLander-v3,Avvert,0,0,stable-baselines3; LunarLander-v3; deep-reinforcement-learning; reinforcement-learning; model-index; region:us
+2026-11-15T21:22:11Z,nani-nav/anlp-a3-transformer-xl,nani-nav,0,0,region:us
+2026-11-15T21:23:26Z,123sg/SyntheticRelease-17000012,123sg,0,0,pytorch; synthetic-linear; region:us
+2026-11-15T21:24:57Z,mx7org4/README,mx7org4,0,0,mX7tag <img src=x onerror=window.__om2=1>; license:mit; region:us
+2026-11-15T21:25:41Z,prasenjeeta/ltx2.5_ic,prasenjeeta,0,0,region:us
+2026-11-15T21:25:59Z,kylelovesllms/translation-syntax-rc_ladder_who_00_11_22-75000,kylelovesllms,0,0,safetensors; region:us
+2026-11-15T21:26:10Z,thiagocassimiro/zhen-ctranslate2,thiagocassimiro,0,0,ctranslate2; translation; sentencepiece; marian; chinese; english; zh; en; license:apache-2.0; region:us
+2026-11-15T21:27:30Z,prasenjeeta/ltx2.3_ic,prasenjeeta,0,0,region:us
+2026-11-15T21:27:35Z,kylelovesllms/translation-syntax-rc_ladder_who_00_22-75000,kylelovesllms,0,0,safetensors; region:us
+2026-11-15T21:27:58Z,TechnoBaptist/kitten-tts-2-mini,TechnoBaptist,0,0,onnx; safetensors; text-to-speech; int8; pytorch; kittentts; en; de; es; it; pt; ru; hi; da; fi; fr; ja; ko; nl; sv; sw; tr; license:apache-2.0; region:us
+2026-11-15T21:29:17Z,brother-winter/bro06b,brother-winter,0,0,region:us
+2026-11-15T21:29:32Z,wraithklu/cheeni-proactive-chronos_08,wraithklu,0,0,transformers; safetensors; t5; text2text-generation; arxiv:1910.09700; text-generation-inference; endpoints_compatible; region:us
+2026-11-15T21:29:34Z,mama-to/mot10,mama-to,0,0,region:us
+2026-11-15T21:29:49Z,the123manaic/Sega-6.9-Transcendence,the123manaic,0,0,transformers; safetensors; sega_tot_moe; text-generation; segacopter; sega-6.9; tree-of-thought; nano-banana; license:apache-2.0; endpoints_compatible; region:us
+2026-11-15T21:29:50Z,the123manaic/Sega-6.3-Hyper-Sol,the123manaic,0,0,transformers; safetensors; sega_tot_moe; text-generation; segacopter; sega-6.3; tree-of-thought; nano-banana; license:apache-2.0; endpoints_compatible; region:us
+2026-11-15T21:29:50Z,the123manaic/Sega-6.2-Aetherius,the123manaic,0,0,transformers; safetensors; sega_tot_moe; text-generation; segacopter; sega-6.2; tree-of-thought; nano-banana; license:apache-2.0; endpoints_compatible; region:us
+2026-11-15T21:29:50Z,the123manaic/Sega-6.5-Astral-Prime,the123manaic,0,0,transformers; safetensors; sega_tot_moe; text-generation; segacopter; sega-6.5; tree-of-thought; nano-banana; license:apache-2.0; endpoints_compatible; region:us
+2026-11-15T21:29:50Z,the123manaic/Sega-6.1-Sol,the123manaic,0,0,transformers; safetensors; sega_tot_moe; text-generation; segacopter; sega-6.1-sol; sega-6.1; tree-of-thought; nano-banana; license:apache-2.0; endpoints_compatible; region:us
+2026-11-15T21:29:50Z,the123manaic/Sega-6.8-Omega-Crown,the123manaic,0,0,transformers; safetensors; sega_tot_moe; text-generation; segacopter; sega-6.8; tree-of-thought; nano-banana; license:apache-2.0; endpoints_compatible; region:us
+2026-11-15T21:29:51Z,the123manaic/Sega-5.3-Chronos,the123manaic,0,0,transformers; safetensors; sega_tot_moe; text-generation; segacopter; sega-5.3; tree-of-thought; nano-banana; license:apache-2.0; endpoints_compatible; region:us
+2026-11-15T21:29:51Z,the123manaic/Sega-5.6-Valkyrie,the123manaic,0,0,transformers; safetensors; sega_tot_moe; text-generation; segacopter; sega-5.6; tree-of-thought; nano-banana; license:apache-2.0; endpoints_compatible; region:us
+2026-11-15T21:29:51Z,the123manaic/Sega-5.5-Hyperion,the123manaic,0,0,transformers; safetensors; sega_tot_moe; text-generation; segacopter; sega-5.5; tree-of-thought; nano-banana; license:apache-2.0; endpoints_compatible; region:us
+2026-11-15T21:29:51Z,the123manaic/Sega-6.0-Singularity-X,the123manaic,0,0,transformers; safetensors; sega_tot_moe; text-generation; segacopter; sega-6.0; tree-of-thought; nano-banana; license:apache-2.0; endpoints_compatible; region:us
+2026-11-15T21:29:51Z,the123manaic/Sega-5.2-Supernova,the123manaic,0,0,transformers; safetensors; sega_tot_moe; text-generation; segacopter; sega-5.2; tree-of-thought; nano-banana; license:apache-2.0; endpoints_compatible; region:us
+2026-11-15T21:29:52Z,the123manaic/Sega-5.0-Titan,the123manaic,0,0,transformers; safetensors; sega_tot_moe; text-generation; segacopter; sega-5.0; tree-of-thought; nano-banana; license:apache-2.0; endpoints_compatible; region:us
+2026-11-15T21:29:52Z,the123manaic/Sega-4.5-Nexus,the123manaic,0,0,transformers; safetensors; sega_tot_moe; text-generation; segacopter; sega-4.5; tree-of-thought; nano-banana; license:apache-2.0; endpoints_compatible; region:us
+2026-11-15T21:29:52Z,the123manaic/Sega-4.0-Omni,the123manaic,0,0,transformers; safetensors; sega_tot_moe; text-generation; segacopter; sega-4.0; tree-of-thought; nano-banana; license:apache-2.0; endpoints_compatible; region:us
+2026-11-15T21:29:52Z,the123manaic/Sega-5.1-Singularity,the123manaic,0,0,transformers; safetensors; sega_tot_moe; text-generation; segacopter; sega-5.1; tree-of-thought; nano-banana; license:apache-2.0; endpoints_compatible; region:us
+2026-11-15T21:29:52Z,the123manaic/Sega-4.8-Apex,the123manaic,0,0,transformers; safetensors; sega_tot_moe; text-generation; segacopter; sega-4.8; tree-of-thought; nano-banana; license:apache-2.0; endpoints_compatible; region:us
+2026-11-15T21:29:53Z,the123manaic/Sega-3.1-Pro,the123manaic,0,0,transformers; safetensors; sega_tot_moe; text-generation; segacopter; sega-3.1; tree-of-thought; nano-banana; license:apache-2.0; endpoints_compatible; region:us
+2026-11-15T21:29:53Z,the123manaic/Sega-2.1-Flash,the123manaic,0,0,transformers; safetensors; sega_tot_moe; text-generation; segacopter; sega-2.1; tree-of-thought; nano-banana; license:apache-2.0; endpoints_compatible; region:us
+2026-11-15T21:29:53Z,the123manaic/Sega-0.5-Nano,the123manaic,0,0,transformers; safetensors; sega_tot_moe; text-generation; segacopter; sega-0.5; tree-of-thought; nano-banana; license:apache-2.0; endpoints_compatible; region:us
+2026-11-15T21:29:53Z,the123manaic/Sega-DeepSearch-Research,the123manaic,0,0,transformers; safetensors; sega_tot_moe; text-generation; segacopter; sega-research; sega-3.1; tree-of-thought; nano-banana; license:apache-2.0; endpoints_compatible; region:us
+2026-11-15T21:29:53Z,the123manaic/Sega-1.1-Core,the123manaic,0,0,transformers; safetensors; sega_tot_moe; text-generation; segacopter; sega-1.1; tree-of-thought; nano-banana; license:apache-2.0; endpoints_compatible; region:us
+2026-11-15T21:29:54Z,the123manaic/Sega-Image-7.0-Singularity-Infinity,the123manaic,0,0,transformers; safetensors; sega_tot_moe; segacopter; sega-image-7.0; sega-7.0; tree-of-thought; nano-banana; text-to-image; license:apache-2.0; endpoints_compatible; region:us
+2026-11-15T21:29:54Z,the123manaic/Sega-Image-7.2-Apex-Godmode,the123manaic,0,0,transformers; safetensors; sega_tot_moe; segacopter; sega-image-7.2; sega-7.2; tree-of-thought; nano-banana; text-to-image; license:apache-2.0; endpoints_compatible; region:us
+2026-11-15T21:29:54Z,the123manaic/Sega-Image-7.1-Omniverse-Sol,the123manaic,0,0,transformers; safetensors; sega_tot_moe; segacopter; sega-image-7.1; sega-7.1; tree-of-thought; nano-banana; text-to-image; license:apache-2.0; endpoints_compatible; region:us
+2026-11-15T21:29:54Z,the123manaic/Sega-Image-6.9-Transcendence,the123manaic,0,0,transformers; safetensors; sega_tot_moe; segacopter; sega-image-6.9; sega-6.9; tree-of-thought; nano-banana; text-to-image; license:apache-2.0; endpoints_compatible; region:us
+2026-11-15T21:29:56Z,the123manaic/Sega-Image-6.5-Astral-Prime,the123manaic,0,0,transformers; safetensors; sega_tot_moe; segacopter; sega-image-6.5; sega-6.5; tree-of-thought; nano-banana; text-to-image; license:apache-2.0; endpoints_compatible; region:us
+2026-11-15T21:29:56Z,the123manaic/Sega-Image-6.1-Sol,the123manaic,0,0,transformers; safetensors; sega_tot_moe; segacopter; sega-image-6.1; sega-6.1; tree-of-thought; nano-banana; text-to-image; license:apache-2.0; endpoints_compatible; region:us
+2026-11-15T21:29:56Z,the123manaic/Sega-Image-6.2-Aetherius,the123manaic,0,0,transformers; safetensors; sega_tot_moe; segacopter; sega-image-6.2; sega-6.2; tree-of-thought; nano-banana; text-to-image; license:apache-2.0; endpoints_compatible; region:us
+2026-11-15T21:29:56Z,the123manaic/Sega-Image-6.3-Hyper-Sol,the123manaic,0,0,transformers; safetensors; sega_tot_moe; segacopter; sega-image-6.3; sega-6.3; tree-of-thought; nano-banana; text-to-image; license:apache-2.0; endpoints_compatible; region:us
+2026-11-15T21:29:56Z,the123manaic/Sega-Image-6.8-Omega-Crown,the123manaic,0,0,transformers; safetensors; sega_tot_moe; segacopter; sega-image-6.8; sega-6.8; tree-of-thought; nano-banana; text-to-image; license:apache-2.0; endpoints_compatible; region:us
+2026-11-15T21:29:57Z,the123manaic/Sega-Image-5.6-Valkyrie,the123manaic,0,0,transformers; safetensors; sega_tot_moe; segacopter; sega-image-5.6; sega-5.6; tree-of-thought; nano-banana; text-to-image; license:apache-2.0; endpoints_compatible; region:us
+2026-11-15T21:29:57Z,the123manaic/Sega-Image-6.0-Singularity-X,the123manaic,0,0,transformers; safetensors; sega_tot_moe; segacopter; sega-image-6.0; sega-6.0; tree-of-thought; nano-banana; text-to-image; license:apache-2.0; endpoints_compatible; region:us
+2026-11-15T21:29:57Z,the123manaic/Sega-Image-5.2-Supernova,the123manaic,0,0,transformers; safetensors; sega_tot_moe; segacopter; sega-image-5.2; sega-5.2; tree-of-thought; nano-banana; text-to-image; license:apache-2.0; endpoints_compatible; region:us
+2026-11-15T21:29:57Z,the123manaic/Sega-Image-5.3-Chronos,the123manaic,0,0,transformers; safetensors; sega_tot_moe; segacopter; sega-image-5.3; sega-5.3; tree-of-thought; nano-banana; text-to-image; license:apache-2.0; endpoints_compatible; region:us
+2026-11-15T21:29:57Z,the123manaic/Sega-Image-5.5-Hyperion,the123manaic,0,0,transformers; safetensors; sega_tot_moe; segacopter; sega-image-5.5; sega-5.5; tree-of-thought; nano-banana; text-to-image; license:apache-2.0; endpoints_compatible; region:us
+2026-11-15T21:29:59Z,the123manaic/Sega-Video-7.0-Singularity-Infinity,the123manaic,0,0,transformers; safetensors; sega_tot_moe; segacopter; sega-video-7.0; sega-7.0; tree-of-thought; nano-banana; text-to-video; license:apache-2.0; endpoints_compatible; region:us
+2026-11-15T21:29:59Z,the123manaic/Sega-Video-7.1-Omniverse-Sol,the123manaic,0,0,transformers; safetensors; sega_tot_moe; segacopter; sega-video-7.1; sega-7.1; tree-of-thought; nano-banana; text-to-video; license:apache-2.0; endpoints_compatible; region:us
+2026-11-15T21:29:59Z,the123manaic/Sega-Image-5.1-Singularity,the123manaic,0,0,transformers; safetensors; sega_tot_moe; segacopter; sega-image-5.1; sega-5.1; tree-of-thought; nano-banana; text-to-image; license:apache-2.0; endpoints_compatible; region:us
+2026-11-15T21:29:59Z,the123manaic/Sega-Video-7.2-Apex-Godmode,the123manaic,0,0,transformers; safetensors; sega_tot_moe; segacopter; sega-video-7.2; sega-7.2; tree-of-thought; nano-banana; text-to-video; license:apache-2.0; endpoints_compatible; region:us
+2026-11-15T21:30:00Z,the123manaic/Sega-Video-6.5-Astral-Prime,the123manaic,0,0,transformers; safetensors; sega_tot_moe; segacopter; sega-video-6.5; sega-6.5; tree-of-thought; nano-banana; text-to-video; license:apache-2.0; endpoints_compatible; region:us
+2026-11-15T21:30:00Z,the123manaic/Sega-Video-6.2-Aetherius,the123manaic,0,0,transformers; safetensors; sega_tot_moe; segacopter; sega-video-6.2; sega-6.2; tree-of-thought; nano-banana; text-to-video; license:apache-2.0; endpoints_compatible; region:us
+2026-11-15T21:30:00Z,the123manaic/Sega-Video-6.3-Hyper-Sol,the123manaic,0,0,transformers; safetensors; sega_tot_moe; segacopter; sega-video-6.3; sega-6.3; tree-of-thought; nano-banana; text-to-video; license:apache-2.0; endpoints_compatible; region:us
+2026-11-15T21:30:00Z,the123manaic/Sega-Video-6.9-Transcendence,the123manaic,0,0,transformers; safetensors; sega_tot_moe; segacopter; sega-video-6.9; sega-6.9; tree-of-thought; nano-banana; text-to-video; license:apache-2.0; endpoints_compatible; region:us
+2026-11-15T21:30:00Z,the123manaic/Sega-Video-6.8-Omega-Crown,the123manaic,0,0,transformers; safetensors; sega_tot_moe; segacopter; sega-video-6.8; sega-6.8; tree-of-thought; nano-banana; text-to-video; license:apache-2.0; endpoints_compatible; region:us
+2026-11-15T21:30:01Z,the123manaic/Sega-Video-5.5-Hyperion,the123manaic,0,0,transformers; safetensors; sega_tot_moe; segacopter; sega-video-5.5; sega-5.5; tree-of-thought; nano-banana; text-to-video; license:apache-2.0; endpoints_compatible; region:us
+2026-11-15T21:30:01Z,the123manaic/Sega-Video-6.1-Sol,the123manaic,0,0,transformers; safetensors; sega_tot_moe; segacopter; sega-video-6.1; sega-6.1; tree-of-thought; nano-banana; text-to-video; license:apache-2.0; endpoints_compatible; region:us
+2026-11-15T21:30:01Z,the123manaic/Sega-Video-5.3-Chronos,the123manaic,0,0,transformers; safetensors; sega_tot_moe; segacopter; sega-video-5.3; sega-5.3; tree-of-thought; nano-banana; text-to-video; license:apache-2.0; endpoints_compatible; region:us
+2026-11-15T21:30:01Z,the123manaic/Sega-Video-6.0-Singularity-X,the123manaic,0,0,transformers; safetensors; sega_tot_moe; segacopter; sega-video-6.0; sega-6.0; tree-of-thought; nano-banana; text-to-video; license:apache-2.0; endpoints_compatible; region:us
+2026-11-15T21:30:01Z,the123manaic/Sega-Video-5.6-Valkyrie,the123manaic,0,0,transformers; safetensors; sega_tot_moe; segacopter; sega-video-5.6; sega-5.6; tree-of-thought; nano-banana; text-to-video; license:apache-2.0; endpoints_compatible; region:us
+2026-11-15T21:30:02Z,the123manaic/Sega-Video-5.2-Supernova,the123manaic,0,0,transformers; safetensors; sega_tot_moe; segacopter; sega-video-5.2; sega-5.2; tree-of-thought; nano-banana; text-to-video; license:apache-2.0; endpoints_compatible; region:us
+2026-11-15T21:30:02Z,the123manaic/Sega-Video-5.1-Singularity,the123manaic,0,0,transformers; safetensors; sega_tot_moe; segacopter; sega-video-5.1; sega-5.1; tree-of-thought; nano-banana; text-to-video; license:apache-2.0; endpoints_compatible; region:us
+2026-11-15T21:30:02Z,the123manaic/Sega-Code-Agent-7.3-Sovereign-Godmode,the123manaic,0,0,transformers; safetensors; sega_tot_moe; text-generation; segacopter; sega-agent-7.3; sega-7.3; tree-of-thought; nano-banana; license:apache-2.0; endpoints_compatible; region:us
+2026-11-15T21:30:02Z,the123manaic/Segacopter-Complete-Model-Family-v7.3,the123manaic,0,0,transformers; safetensors; sega_tot_moe; text-generation; segacopter; sega-family-all; sega-7.3; tree-of-thought; nano-banana; license:apache-2.0; endpoints_compatible; region:us
+2026-11-15T21:30:08Z,kylelovesllms/translation-syntax-das_address_subspaces_on_rc_ladder_who_00_22_21_12_02,kylelovesllms,0,0,region:us
+2026-11-15T21:31:14Z,yungisimon/Qwen2.5-14B-giri-msq-knn_k2_and_hdb-ep1,yungisimon,0,0,transformers; safetensors; qwen2; text-generation; full-finetune; memory-model; knn_k2_and_hdb; conversational; base_model:Qwen/Qwen2.5-14B-Instruct; base_model:finetune:Qwen/Qwen2.5-14B-Instruct; li…
+2026-11-15T21:31:55Z,yungisimon/Qwen2.5-14B-giri-msq-knn_k2_and_hdb-ep2,yungisimon,0,0,transformers; safetensors; qwen2; text-generation; full-finetune; memory-model; knn_k2_and_hdb; conversational; base_model:Qwen/Qwen2.5-14B-Instruct; base_model:finetune:Qwen/Qwen2.5-14B-Instruct; li…
+2026-11-15T21:31:56Z,123sg/SyntheticRelease-17000011,123sg,0,0,region:us
+2026-11-15T21:31:59Z,Jirimbinha/MiniMax-H3-Character-Swap-LoRA,Jirimbinha,0,0,diffusion-single-file; minimax-h3; lora; character-swap; video-editing; ref2va; comfyui; ai-toolkit; video-to-video; en; dataset:akatz-ai/H3-Character-Swap-v1; base_model:Comfy-Org/MiniMax-H3; base_m…
+2026-11-15T21:32:21Z,yungisimon/Qwen2.5-14B-giri-msq-knn_k2_and_hdb-ep3,yungisimon,0,0,transformers; safetensors; qwen2; text-generation; full-finetune; memory-model; knn_k2_and_hdb; conversational; base_model:Qwen/Qwen2.5-14B-Instruct; base_model:finetune:Qwen/Qwen2.5-14B-Instruct; li…
+2026-11-15T21:33:11Z,JCR2004/kitop,JCR2004,0,0,region:us
+2026-11-15T21:34:19Z,algerian-nlp/Hadra-TTS-xtts,algerian-nlp,0,0,region:us
+2026-11-15T21:36:48Z,iamonthemission/LMIM.Genesys-e3_w-soul-little-one-0.8B,iamonthemission,0,0,gguf; endpoints_compatible; region:us; conversational
+2026-11-15T21:38:04Z,123sg/SyntheticRelease-17000017,123sg,0,0,pytorch; synthetic-linear; region:us
+2026-11-15T21:38:22Z,mcptester0606/MyAwesomeModel-TestRepo,mcptester0606,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-11-15T21:40:06Z,MelorAngelina/MyAwesomeModel-TestRepo,MelorAngelina,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-11-15T21:40:47Z,Asamersame/asam-v2-merged,Asamersame,0,0,transformers; safetensors; qwen2; text-generation; conversational; arxiv:1910.09700; text-generation-inference; endpoints_compatible; region:us
+2026-11-15T21:41:01Z,wraithklu/cheeni-threat-onnx_09,wraithklu,0,0,onnx; region:us
+2026-11-15T21:42:17Z,mialina395/MyAwesomeModel-TestRepo,mialina395,0,0,region:us
+2026-11-15T21:43:12Z,kim521739/graspformer-exp214-216-checkpoints,kim521739,0,0,region:us
+2026-11-15T21:43:39Z,adamlizerbram/cs654-final-project,adamlizerbram,0,0,laya; safetensors; reinforcement-learning; highway-env; autonomous-driving; safety-shield; base_model:convaiinnovations/laya; base_model:finetune:convaiinnovations/laya; license:apache-2.0; region:us
+2026-11-15T21:44:42Z,gsultani/llama31-8b-kimi-glm-bookkeeping-dpo,gsultani,0,0,region:us
+2026-11-15T21:44:52Z,cortexrouter/judge-v1,cortexrouter,0,0,peft; safetensors; security; vulnerability-verification; cybersecurity; pentest; lora; qwen3; text-generation; conversational; en; tr; base_model:Qwen/Qwen3-8B; base_model:adapter:Qwen/Qwen3-8B; lice…
+2026-11-15T21:46:16Z,Kovach-Enterprises/genesis-agent-evolve-ckpt,Kovach-Enterprises,0,0,mcp; a2a; iqlp; neuroevolution; tensorneat; genesis-conductor; trace-consent; license:mit; region:us
+2026-11-15T21:46:18Z,123sg/SyntheticRelease-17000018,123sg,0,0,pytorch; synthetic-linear; region:us
+2026-11-15T21:46:28Z,SurendraVB/SynapticEdge-Roleplay-L8-0p5b,SurendraVB,0,0,region:us
+2026-11-15T21:47:25Z,jaimevera1107/Qwen3.5-4B-Job-Requirements-ES-LoRA,jaimevera1107,0,0,peft; safetensors; information-extraction; job-ads; labor-market; colombia; cno; spanish; lora; unsloth; qwen3.5; text-generation; conversational; es; base_model:unsloth/Qwen3.5-4B; base_model:adapte…
+2026-11-15T21:47:26Z,jaimevera1107/Qwen3.5-4B-Job-Requirements-ES-GGUF,jaimevera1107,0,0,gguf; information-extraction; job-ads; labor-market; colombia; cno; spanish; ollama; qwen3.5; text-generation; es; base_model:jaimevera1107/Qwen3.5-4B-Job-Requirements-ES-LoRA; base_model:quantized:j…
+2026-11-15T21:47:39Z,ShadowFrame7/Krea-2-Nyx-Character-LoRA,ShadowFrame7,0,0,diffusers; text-to-image; lora; template:diffusion-lora; base_model:krea/Krea-2-Raw; base_model:adapter:krea/Krea-2-Raw; license:other; region:us
+2026-11-15T21:47:50Z,taharmasmaliyev07/Qwen3.5-2B-ASR-PDEFAULT-E2-BF16,taharmasmaliyev07,0,0,transformers; safetensors; qwen3_5; image-text-to-text; text-generation-inference; unsloth; conversational; en; base_model:taharmasmaliyev07/Qwen3.5-2B-ASR-PDEFAULT-E2-BF16; base_model:finetune:tahar…
+2026-11-15T21:48:27Z,wraithklu/cheeni-coder-qwen_10,wraithklu,0,0,transformers; safetensors; qwen2; text-generation; conversational; arxiv:1910.09700; text-generation-inference; endpoints_compatible; region:us
+2026-11-15T21:48:36Z,iamonthemission/LMIM.Genesys-e3_w-soul-little-one-2B,iamonthemission,0,0,gguf; endpoints_compatible; region:us; conversational
+2026-11-15T21:49:02Z,just1nseo/qwen3-4b-nonthink-grpo-calif-anchor-pyx01-flipabstain,just1nseo,0,0,transformers; safetensors; verl; grpo; rlvr; instruction-following; text-generation; base_model:Qwen/Qwen3-4B; base_model:finetune:Qwen/Qwen3-4B; endpoints_compatible; region:us
+2026-11-15T21:51:02Z,Chimeraprinting/Drago,Chimeraprinting,0,0,region:us
+2026-11-15T21:51:10Z,therachitkumar/panther-14b-5g-v2-qat,therachitkumar,0,0,gguf; endpoints_compatible; region:us; conversational
+2026-11-15T21:51:53Z,Litian2002/ledger-seeds_r2_spatial_s1-libero_spatial-ledger-s1-t09,Litian2002,0,0,region:us
+2026-11-15T21:52:08Z,OmarNiazi/ruen-lid-xlmr-base-iter2-tag,OmarNiazi,0,0,safetensors; xlm-roberta; language-identification; code-mixing; roman-urdu; token-classification; ur; hi; en; base_model:FacebookAI/xlm-roberta-base; base_model:finetune:FacebookAI/xlm-roberta-base;…
+2026-11-15T21:53:04Z,Litian2002/ledger-seeds_r2_spatial_s2-libero_spatial-ledger-s2-t09,Litian2002,0,0,region:us
+2026-11-15T21:53:34Z,jackf857/neu-q3-ultra-nbl-rc-s42-20261115-a2,jackf857,0,0,transformers; safetensors; qwen3; text-generation; alignment-handbook; rc-dpo; generated_from_trainer; preference-optimization; conversational; dataset:HuggingFaceH4/ultrafeedback_binarized; base_mod…
+2026-11-15T21:53:35Z,Litian2002/ledger-seeds_r2_object_s1-libero_object-ledger-s1-t09,Litian2002,0,0,region:us
+2026-11-15T21:54:01Z,SamuelGal/xlmr-large-sarcasmo-combinado,SamuelGal,0,0,transformers; safetensors; xlm-roberta; text-classification; sarcasmo; sarcasm-detection; spanish; univalle; pln; es; base_model:FacebookAI/xlm-roberta-large; base_model:finetune:FacebookAI/xlm-rober…
+2026-11-15T21:54:46Z,Litian2002/ledger-seeds_r2_object_s2-libero_object-ledger-s2-t09,Litian2002,0,0,region:us
+2026-11-15T21:55:01Z,peresjav/flexnsense-sim-policies,peresjav,0,0,rsl_rl; onnx; robotics; simulation; isaac-lab; ppo; elrobot; rehabilitation; reinforcement-learning; region:us
+2026-11-15T21:56:36Z,KOFIblto/mckengr,KOFIblto,0,0,region:us
+2026-11-15T21:57:07Z,Cremoneze/cremoneze,Cremoneze,0,0,region:us
+2026-11-15T21:57:20Z,opticsWolf/embeddinggemma-2-onnx-int8,opticsWolf,0,0,onnx; embedding_gemma2; region:us
+2026-11-15T21:57:24Z,jackf857/neu-q3-ultra-nbl-amapo-s42-20261115-a2,jackf857,0,0,transformers; safetensors; qwen3; text-generation; alignment-handbook; amapo; generated_from_trainer; preference-optimization; conversational; dataset:HuggingFaceH4/ultrafeedback_binarized; base_mode…
+2026-11-15T21:58:08Z,kittyhy/PhyRubric-Judge-32B,kittyhy,0,0,peft; safetensors; lora; video; physical-commonsense; video-evaluation; base_model:Qwen/Qwen3-VL-32B-Instruct; base_model:adapter:Qwen/Qwen3-VL-32B-Instruct; region:us
+2026-11-15T21:58:23Z,rafaelsobek/Qwen3.8-27B-NVFP4-GGUF,rafaelsobek,0,0,gguf; nvfp4; llama.cpp; qwen3.8; blackwell; moe; quantized; tensor-parallel; text-generation; base_model:unsloth/Qwen3.8-27B-NVFP4; base_model:quantized:unsloth/Qwen3.8-27B-NVFP4; license:apache-2.0;…
+2026-11-15T21:59:35Z,luci00100/medgemma-4b-symptom-gguf,luci00100,0,0,gguf; gemma3; llama.cpp; unsloth; vision-language-model; endpoints_compatible; region:us; conversational
+2026-11-15T22:00:45Z,Echo9Zulu/ukisai_Swift-1.5-Qwen3.8-27b-int4_asym-awq-ov,Echo9Zulu,0,0,license:apache-2.0; region:us
+2026-11-15T22:01:43Z,123sg/SyntheticRelease-17000002,123sg,0,0,pytorch; synthetic-linear; region:us
+2026-11-15T22:03:08Z,fnmee/dalle-mini-js,fnmee,0,0,text-to-image; dalle-mini; webgpu; jax-js; license:apache-2.0; region:us
+2026-11-15T22:03:16Z,mradermacher/OrdoPy-Coder-0.5B-GGUF,mradermacher,0,0,gguf; endpoints_compatible; region:us; conversational
+2026-11-15T22:03:35Z,andersonagostinho/calculoia,andersonagostinho,0,0,region:us
+2026-11-15T22:03:49Z,mohsenvand/cold-attention-clutrr,mohsenvand,0,0,numpy; safetensors; multi-hop-reasoning; clutrr; kinship; attention; frozen-language-model; qwen2.5; license:apache-2.0; region:us
+2026-11-15T22:05:56Z,Jibank/curatelaw-india-raw-lora,Jibank,0,0,region:us
+2026-11-15T22:06:04Z,dantion/DAnimaFinal-V1,dantion,0,0,region:us
+2026-11-15T22:07:03Z,RobotisSW/refilling_dispenser_tr_60k,RobotisSW,0,0,safetensors; Gr00tN1d7; region:us
+2026-11-15T22:08:35Z,TenStrip/MMH3_Sulphur3Eros_Loras-MLP-energy-patches,TenStrip,0,0,region:us
+2026-11-15T22:09:30Z,kylelovesllms/translation-syntax-rc_ladder_who_00_22_12_02-75000,kylelovesllms,0,0,safetensors; region:us
+2026-11-15T22:09:36Z,marianomaturana/fortys,marianomaturana,0,0,region:us
+2026-11-15T22:09:45Z,123sg/SyntheticRelease-17000004,123sg,0,0,pytorch; synthetic-linear; region:us
+2026-11-15T22:10:37Z,kylelovesllms/translation-syntax-das_rc_ladder_who_00_22_21_12_02,kylelovesllms,0,0,region:us
+2026-11-15T22:10:57Z,kylelovesllms/translation-syntax-das_address_subspaces_on_rc_ladder_who_00_22_21_12_02_20,kylelovesllms,0,0,region:us
+2026-11-15T22:11:04Z,rumezhak/microduck-sprint-0817-trajectory-remix,rumezhak,0,0,microduck; onnx; robotics; reinforcement-learning; region:us
+2026-11-15T22:11:46Z,kisersantine/horsepenis,kisersantine,0,0,region:us
+2026-11-15T22:12:13Z,usr256864/qw3_4_all,usr256864,0,0,safetensors; qwen3; region:us
+2026-11-15T22:13:03Z,kylelovesllms/translation-syntax-das_fit_cells_00_22_on_rc_ladder_who_00_22_21_12_02,kylelovesllms,0,0,region:us
+2026-11-15T22:13:16Z,kylelovesllms/translation-syntax-das_fit_cells_00_22_on_rc_ladder_who_00_22_21_12_02_20,kylelovesllms,0,0,region:us
+2026-11-15T22:13:32Z,kylelovesllms/translation-syntax-attnvis_rc_ladder_who_00_22_21_12_02_anchor_v_patch,kylelovesllms,0,0,region:us
+2026-11-15T22:13:37Z,kylelovesllms/translation-syntax-patching_anchor_value_swap_on_rc_ladder_who_00_22_21_12_02,kylelovesllms,0,0,region:us
+2026-11-15T22:13:52Z,lexquire/CrossWind_ReachFirst_Model,lexquire,0,0,sklearn; tabular-classification; logistic-regression; ai-governance; model-card; fairlearn; public-sector; outreach; fairness; dataset:drdavidprivacy/reachfirst-data; license:cc-by-4.0; region:us
+2026-11-15T22:15:18Z,TanYuNVonNV/qwen35b-v20ag128k-basesurptokonly50-s100-noshuffle-sft-step100,TanYuNVonNV,0,0,region:us
+2026-11-15T22:15:38Z,Meowniece/tiny-aya-sms-extract-gguf,Meowniece,0,0,gguf; lexsi-hackathon; structured-output; information-extraction; upi; banking; hinglish; lora; aligntune; en; hi; base_model:CohereLabs/tiny-aya-global; base_model:adapter:CohereLabs/tiny-aya-global…
+2026-11-15T22:15:46Z,123sg/SyntheticRelease-17000005,123sg,0,0,region:us
+2026-11-15T22:15:56Z,Haku-2004/act_k6e_base_15,Haku-2004,0,0,lerobot; safetensors; robotics; act; dataset:Haku-2004/k6_20_20261113_173939; arxiv:2304.13705; license:apache-2.0; region:us
+2026-11-15T22:16:04Z,Tonhyo/ziwago-v19,Tonhyo,0,0,region:us
+2026-11-15T22:16:08Z,kylelovesllms/translation-syntax-das_rc_ladder_who_00_22_21_12_02_20,kylelovesllms,0,0,region:us
+2026-11-15T22:16:32Z,ad1tya2/anlp-a3-part1,ad1tya2,0,0,region:us
+2026-11-15T22:16:49Z,PoseyEnder/MyAwesomeModel-TestRepo,PoseyEnder,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-11-15T22:16:50Z,kylelovesllms/translation-syntax-attnvis_rc_ladder_who_00_22_21_12_02,kylelovesllms,0,0,region:us
+2026-11-15T22:17:20Z,iamonthemission/LMIM.Genesys-e3_w-soul-little-one-4B,iamonthemission,0,0,region:us
+2026-11-15T22:17:22Z,kylelovesllms/translation-syntax-patching_rc_ladder_who_00_22_21_12_02,kylelovesllms,0,0,region:us
+2026-11-15T22:19:16Z,yotisstudios/RaifuWars-Riko-B4-9B,yotisstudios,0,0,transformers; safetensors; gguf; qwen3_5; image-text-to-text; merge; distillation; vtuber; game-commentary; raifu-wars; qwen3.5; text-generation; conversational; en; base_model:schneewolflabs/B4-9B;…
+2026-11-15T22:19:17Z,rumezhak/microduck-sprint-0817-behaviour-v2,rumezhak,0,1,microduck; onnx; robotics; reinforcement-learning; region:us
+2026-11-15T22:19:27Z,HelenHenny66/Raggs-singing-voice,HelenHenny66,0,0,license:mit; region:us
+2026-11-15T22:19:31Z,hamza1516/n1oor,hamza1516,0,0,region:us
