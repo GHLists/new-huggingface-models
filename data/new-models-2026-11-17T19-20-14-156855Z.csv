@@ -1,0 +1,385 @@
+created_at,model,author,downloads,likes,tags
+2026-11-17T18:21:36Z,netprojects/SenseNova-Loop-9B-MLX-4bit,netprojects,0,0,mlx; safetensors; sensenova_loop; sensenova; sensenova-loop; looped-transformer; mhc; qwen3_5; apple-silicon; text-generation; conversational; base_model:sensenova/SenseNova-Loop-9B; base_model:quant…
+2026-11-17T18:22:17Z,Elenaele/techirghiol-medical-lora,Elenaele,0,0,transformers; safetensors; arxiv:1910.09700; endpoints_compatible; region:us
+2026-11-17T18:22:19Z,Phoonnx/vits-bem-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; bem; license:cc-by-nc-4.0; region:us
+2026-11-17T18:22:19Z,Phoonnx/vits-bdv-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; bdv; license:cc-by-nc-4.0; region:us
+2026-11-17T18:22:19Z,Phoonnx/vits-ayo-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; ayo; license:cc-by-nc-4.0; region:us
+2026-11-17T18:22:30Z,Phoonnx/vits-ceg-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; ceg; license:cc-by-nc-4.0; region:us
+2026-11-17T18:22:34Z,netprojects/SenseNova-Loop-9B-MLX-bf16,netprojects,0,0,mlx; safetensors; sensenova_loop; sensenova; sensenova-loop; looped-transformer; mhc; qwen3_5; apple-silicon; text-generation; conversational; base_model:sensenova/SenseNova-Loop-9B; base_model:finet…
+2026-11-17T18:22:40Z,Phoonnx/vits-ce_ru-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; ce; license:cc-by-nc-4.0; region:us
+2026-11-17T18:22:57Z,Phoonnx/vits-bep-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; bep; license:cc-by-nc-4.0; region:us
+2026-11-17T18:22:59Z,Phoonnx/vits-bfa-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; bfa; license:cc-by-nc-4.0; region:us
+2026-11-17T18:22:59Z,Phoonnx/vits-cjo-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; cjo; license:cc-by-nc-4.0; region:us
+2026-11-17T18:23:01Z,Phoonnx/vits-azg-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; azg; license:cc-by-nc-4.0; region:us
+2026-11-17T18:23:03Z,Hongxuan111/MyAwesomeModel-TestRepo,Hongxuan111,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-11-17T18:23:07Z,Phoonnx/vits-bfy-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; bfy; license:cc-by-nc-4.0; region:us
+2026-11-17T18:23:17Z,Phoonnx/vits-ckt-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; ckt; license:cc-by-nc-4.0; region:us
+2026-11-17T18:23:17Z,Phoonnx/vits-bgc-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; bgc; license:cc-by-nc-4.0; region:us
+2026-11-17T18:23:19Z,Phoonnx/vits-ba_ru-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; ba; license:cc-by-nc-4.0; region:us
+2026-11-17T18:23:29Z,Eclayeser/plant-disease-cnn-to-deploy,Eclayeser,0,0,onnx; region:us
+2026-11-17T18:23:31Z,Phoonnx/vits-bgr-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; bgr; license:cc-by-nc-4.0; region:us
+2026-11-17T18:23:33Z,Phoonnx/vits-bav-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; bav; license:cc-by-nc-4.0; region:us
+2026-11-17T18:23:34Z,Phoonnx/vits-bgw-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; bgw; license:cc-by-nc-4.0; region:us
+2026-11-17T18:23:40Z,Phoonnx/vits-cme-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; cme; license:cc-by-nc-4.0; region:us
+2026-11-17T18:23:42Z,Phoonnx/vits-bib-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; bib; license:cc-by-nc-4.0; region:us
+2026-11-17T18:23:54Z,Phoonnx/vits-cnh-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; cnh; license:cc-by-nc-4.0; region:us
+2026-11-17T18:24:00Z,Soho77/mbert-xnli-results,Soho77,0,0,transformers; safetensors; bert; text-classification; generated_from_trainer; base_model:google-bert/bert-base-multilingual-cased; base_model:finetune:google-bert/bert-base-multilingual-cased; licens…
+2026-11-17T18:24:01Z,Phoonnx/vits-bht-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; bht; license:cc-by-nc-4.0; region:us
+2026-11-17T18:24:08Z,Phoonnx/vits-bjr-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; bjr; license:cc-by-nc-4.0; region:us
+2026-11-17T18:24:15Z,Phoonnx/vits-bbo-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; bbo; license:cc-by-nc-4.0; region:us
+2026-11-17T18:24:15Z,Phoonnx/vits-bi_vu-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; bi; license:cc-by-nc-4.0; region:us
+2026-11-17T18:24:20Z,Phoonnx/vits-coe-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; coe; license:cc-by-nc-4.0; region:us
+2026-11-17T18:24:22Z,ljhunt/nla-qwen36-27b-p4-cfhtest,ljhunt,0,0,region:us
+2026-11-17T18:24:23Z,Phoonnx/vits-bjw-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; bjw; license:cc-by-nc-4.0; region:us
+2026-11-17T18:24:30Z,Phoonnx/vits-bkd-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; bkd; license:cc-by-nc-4.0; region:us
+2026-11-17T18:24:34Z,Phoonnx/vits-bcw-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; bcw; license:cc-by-nc-4.0; region:us
+2026-11-17T18:24:36Z,Phoonnx/vits-cot-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; cot; license:cc-by-nc-4.0; region:us
+2026-11-17T18:24:49Z,Phoonnx/vits-blx-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; blx; license:cc-by-nc-4.0; region:us
+2026-11-17T18:24:50Z,Phoonnx/vits-bdu-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; bdu; license:cc-by-nc-4.0; region:us
+2026-11-17T18:24:51Z,Phoonnx/vits-blh-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; blh; license:cc-by-nc-4.0; region:us
+2026-11-17T18:24:53Z,Phoonnx/vits-cpu-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; cpu; license:cc-by-nc-4.0; region:us
+2026-11-17T18:25:12Z,Phoonnx/vits-bn-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; bn; license:cc-by-nc-4.0; region:us
+2026-11-17T18:25:12Z,Phoonnx/vits-bmu-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; bmu; license:cc-by-nc-4.0; region:us
+2026-11-17T18:25:15Z,Phoonnx/vits-crn-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; crn; license:cc-by-nc-4.0; region:us
+2026-11-17T18:25:18Z,Phoonnx/vits-bmq-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; bmq; license:cc-by-nc-4.0; region:us
+2026-11-17T18:25:18Z,Shanahancn/MyAwesomeModel-TestRepo,Shanahancn,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-11-17T18:25:33Z,Phoonnx/vits-bfo-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; bfo; license:cc-by-nc-4.0; region:us
+2026-11-17T18:25:33Z,Phoonnx/vits-csk-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; csk; license:cc-by-nc-4.0; region:us
+2026-11-17T18:25:40Z,Phoonnx/vits-bng-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; bng; license:cc-by-nc-4.0; region:us
+2026-11-17T18:25:42Z,Phoonnx/vits-bnp-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; bnp; license:cc-by-nc-4.0; region:us
+2026-11-17T18:25:51Z,Phoonnx/vits-bo_cn-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; bo; license:cc-by-nc-4.0; region:us
+2026-11-17T18:25:52Z,Phoonnx/vits-cto-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; cto; license:cc-by-nc-4.0; region:us
+2026-11-17T18:25:56Z,Phoonnx/vits-bgq-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; bgq; license:cc-by-nc-4.0; region:us
+2026-11-17T18:26:07Z,Phoonnx/vits-bom-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; bom; license:cc-by-nc-4.0; region:us
+2026-11-17T18:26:08Z,Phoonnx/vits-cuk-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; cuk; license:cc-by-nc-4.0; region:us
+2026-11-17T18:26:11Z,Phoonnx/vits-bov-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; bov; license:cc-by-nc-4.0; region:us
+2026-11-17T18:26:19Z,Phoonnx/vits-bha-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; bha; license:cc-by-nc-4.0; region:us
+2026-11-17T18:26:22Z,Phoonnx/vits-bpr-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; bpr; license:cc-by-nc-4.0; region:us
+2026-11-17T18:26:31Z,Phoonnx/vits-bqc-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; bqc; license:cc-by-nc-4.0; region:us
+2026-11-17T18:26:32Z,Phoonnx/vits-bqj-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; bqj; license:cc-by-nc-4.0; region:us
+2026-11-17T18:26:45Z,Phoonnx/vits-bim-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; bim; license:cc-by-nc-4.0; region:us
+2026-11-17T18:26:46Z,Phoonnx/vits-bru-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; bru; license:cc-by-nc-4.0; region:us
+2026-11-17T18:26:46Z,Phoonnx/vits-cwt-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; cwt; license:cc-by-nc-4.0; region:us
+2026-11-17T18:26:51Z,Phoonnx/vits-bsq-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; bsq; license:cc-by-nc-4.0; region:us
+2026-11-17T18:26:54Z,Phoonnx/vits-bjv-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; bjv; license:cc-by-nc-4.0; region:us
+2026-11-17T18:27:09Z,Phoonnx/vits-bkv-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; bkv; license:cc-by-nc-4.0; region:us
+2026-11-17T18:27:11Z,Phoonnx/vits-btd-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; btd; license:cc-by-nc-4.0; region:us
+2026-11-17T18:27:22Z,Phoonnx/vits-blz-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; blz; license:cc-by-nc-4.0; region:us
+2026-11-17T18:27:25Z,Phoonnx/vits-bud-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; bud; license:cc-by-nc-4.0; region:us
+2026-11-17T18:27:25Z,Phoonnx/vits-dah-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; dah; license:cc-by-nc-4.0; region:us
+2026-11-17T18:27:41Z,Phoonnx/vits-bmv-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; bmv; license:cc-by-nc-4.0; region:us
+2026-11-17T18:27:50Z,Phoonnx/vits-bvz-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; bvz; license:cc-by-nc-4.0; region:us
+2026-11-17T18:27:50Z,Phoonnx/vits-boa-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; boa; license:cc-by-nc-4.0; region:us
+2026-11-17T18:27:56Z,loverretread/MyAwesomeModel-TestRepo,loverretread,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-11-17T18:28:06Z,Phoonnx/vits-bor-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; bor; license:cc-by-nc-4.0; region:us
+2026-11-17T18:28:13Z,Phoonnx/vits-bzh-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; bzh; license:cc-by-nc-4.0; region:us
+2026-11-17T18:28:14Z,Phoonnx/vits-bps-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; bps; license:cc-by-nc-4.0; region:us
+2026-11-17T18:28:15Z,joonyeongs/cosmos3-edge-policy-droid-privileged-phases-whole-cosmos3-1to4-full-ft-1k,joonyeongs,0,0,cosmos; diffusers; safetensors; cosmos3_omni; cosmos3; policy model; robolab; droid; full-finetune; base_model:nvidia/Cosmos3-Edge-Policy-DROID; base_model:finetune:nvidia/Cosmos3-Edge-Policy-DROID;…
+2026-11-17T18:28:16Z,Phoonnx/vits-ddn-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; ddn; license:cc-by-nc-4.0; region:us
+2026-11-17T18:28:28Z,ishikaa/acquisition_generator_AS_grape_combine_OH_MP_N_new_gemma9b,ishikaa,0,0,transformers; safetensors; gemma2; text-generation; conversational; arxiv:1910.09700; text-generation-inference; endpoints_compatible; region:us
+2026-11-17T18:28:29Z,Phoonnx/vits-bqp-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; bqp; license:cc-by-nc-4.0; region:us
+2026-11-17T18:28:37Z,Phoonnx/vits-dga-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; dga; license:cc-by-nc-4.0; region:us
+2026-11-17T18:28:39Z,Phoonnx/vits-bss-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; bss; license:cc-by-nc-4.0; region:us
+2026-11-17T18:28:40Z,AILHERME/legal-contract-audit-slm,AILHERME,0,0,gguf; endpoints_compatible; region:us; conversational
+2026-11-17T18:28:45Z,Phoonnx/vits-cab-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; cab; license:cc-by-nc-4.0; region:us
+2026-11-17T18:28:55Z,Phoonnx/vits-dgr-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; dgr; license:cc-by-nc-4.0; region:us
+2026-11-17T18:28:57Z,Phoonnx/vits-btx-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; btx; license:cc-by-nc-4.0; region:us
+2026-11-17T18:29:00Z,RunningHubAI/rh-lora03-lora,RunningHubAI,0,0,region:us
+2026-11-17T18:29:06Z,Phoonnx/vits-cak_x_santamar_iadejesu_s-mms-santamariadejesus-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; cak; license:cc-by-nc-4.0; region:us
+2026-11-17T18:29:12Z,Phoonnx/vits-dik-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; dik; license:cc-by-nc-4.0; region:us
+2026-11-17T18:29:16Z,Phoonnx/vits-bvc-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; bvc; license:cc-by-nc-4.0; region:us
+2026-11-17T18:29:25Z,Phoonnx/vits-byr-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; byr; license:cc-by-nc-4.0; region:us
+2026-11-17T18:29:28Z,Phoonnx/vits-cak_x_yepocapa-mms-yepocapa-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; cak; license:cc-by-nc-4.0; region:us
+2026-11-17T18:29:38Z,Phoonnx/vits-dnj_x_blowowes_t-mms-blowowest-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; dnj; license:cc-by-nc-4.0; region:us
+2026-11-17T18:29:44Z,Phoonnx/vits-caa-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; caa; license:cc-by-nc-4.0; region:us
+2026-11-17T18:29:56Z,Phoonnx/vits-ca-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; ca; license:cc-by-nc-4.0; region:us
+2026-11-17T18:30:04Z,Phoonnx/vits-dop-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; dop; license:cc-by-nc-4.0; region:us
+2026-11-17T18:30:04Z,Phoonnx/vits-btt-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; btt; license:cc-by-nc-4.0; region:us
+2026-11-17T18:30:05Z,Phoonnx/vits-cbr-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; cbr; license:cc-by-nc-4.0; region:us
+2026-11-17T18:30:05Z,afdzxx/q-learning-taxi-v3-uah,afdzxx,0,0,Taxi-v4; q-learning; reinforcement-learning; custom-implementation; model-index; region:us
+2026-11-17T18:30:12Z,Phoonnx/vits-cak_x_central-mms-central-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; cak; license:cc-by-nc-4.0; region:us
+2026-11-17T18:30:13Z,Phoonnx/vits-bus-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; bus; license:cc-by-nc-4.0; region:us
+2026-11-17T18:30:23Z,Phoonnx/vits-bwu-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; bwu; license:cc-by-nc-4.0; region:us
+2026-11-17T18:30:34Z,Phoonnx/vits-bzj-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; bzj; license:cc-by-nc-4.0; region:us
+2026-11-17T18:30:36Z,Phoonnx/vits-dtp-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; dtp; license:cc-by-nc-4.0; region:us
+2026-11-17T18:30:38Z,Phoonnx/vits-cbv-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; cbv; license:cc-by-nc-4.0; region:us
+2026-11-17T18:30:44Z,Phoonnx/vits-cac_x_sansebas_tiancoat_an-mms-sansebastiancoatan-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; cac; license:cc-by-nc-4.0; region:us
+2026-11-17T18:30:46Z,Phoonnx/vits-cak_x_western-mms-western-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; cak; license:cc-by-nc-4.0; region:us
+2026-11-17T18:30:56Z,Phoonnx/vits-cas-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; cas; license:cc-by-nc-4.0; region:us
+2026-11-17T18:30:59Z,Phoonnx/vits-dyi-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; dyi; license:cc-by-nc-4.0; region:us
+2026-11-17T18:31:05Z,Phoonnx/vits-cbi-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; cbi; license:cc-by-nc-4.0; region:us
+2026-11-17T18:31:05Z,Phoonnx/vits-cak_x_southcen_tral-mms-southcentral-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; cak; license:cc-by-nc-4.0; region:us
+2026-11-17T18:31:09Z,Phoonnx/vits-ceb-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; ceb; license:cc-by-nc-4.0; region:us
+2026-11-17T18:31:18Z,junaid17/qwen2.5-3b-instruct-finance-assistant-gguf,junaid17,0,0,gguf; endpoints_compatible; region:us; conversational
+2026-11-17T18:31:20Z,Phoonnx/vits-cgc-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; cgc; license:cc-by-nc-4.0; region:us
+2026-11-17T18:31:22Z,Phoonnx/vits-eip-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; eip; license:cc-by-nc-4.0; region:us
+2026-11-17T18:31:23Z,Phoonnx/vits-car-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; car; license:cc-by-nc-4.0; region:us
+2026-11-17T18:31:24Z,Phoonnx/vits-cbu-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; cbu; license:cc-by-nc-4.0; region:us
+2026-11-17T18:31:35Z,Phoonnx/vits-chz-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; chz; license:cc-by-nc-4.0; region:us
+2026-11-17T18:31:43Z,Phoonnx/vits-cdj-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; cdj; license:cc-by-nc-4.0; region:us
+2026-11-17T18:31:50Z,BobbbWang/eagle-nmi-checkpoints,BobbbWang,0,0,safetensors; region:us
+2026-11-17T18:31:56Z,Phoonnx/vits-enb-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; enb; license:cc-by-nc-4.0; region:us
+2026-11-17T18:31:57Z,Phoonnx/vits-cbc-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; cbc; license:cc-by-nc-4.0; region:us
+2026-11-17T18:32:00Z,Phoonnx/vits-cko-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; cko; license:cc-by-nc-4.0; region:us
+2026-11-17T18:32:05Z,Phoonnx/vits-cfm-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; cfm; license:cc-by-nc-4.0; region:us
+2026-11-17T18:32:16Z,Phoonnx/vits-cly-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; cly; license:cc-by-nc-4.0; region:us
+2026-11-17T18:32:20Z,Phoonnx/vits-cbt-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; cbt; license:cc-by-nc-4.0; region:us
+2026-11-17T18:32:24Z,AdeelK93/gpttrace-v8s-1b-mlx-fp16,AdeelK93,0,0,mlx; safetensors; modernbert; ettin; ai-text-detection; text-classification; en; base_model:nakas/gpttrace-v8s-1b; base_model:finetune:nakas/gpttrace-v8s-1b; license:cc-by-sa-4.0; region:us
+2026-11-17T18:32:25Z,Phoonnx/vits-cmr-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; cmr; license:cc-by-nc-4.0; region:us
+2026-11-17T18:32:27Z,Phoonnx/vits-cv_ru-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; cv; license:cc-by-nc-4.0; region:us
+2026-11-17T18:32:38Z,Phoonnx/vits-ess-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; ess; license:cc-by-nc-4.0; region:us
+2026-11-17T18:32:47Z,Phoonnx/vits-cnt-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; cnt; license:cc-by-nc-4.0; region:us
+2026-11-17T18:32:51Z,Phoonnx/vits-eza-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; eza; license:cc-by-nc-4.0; region:us
+2026-11-17T18:32:56Z,Phoonnx/vits-cco-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; cco; license:cc-by-nc-4.0; region:us
+2026-11-17T18:33:00Z,Phoonnx/vits-fa-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; fa; license:cc-by-nc-4.0; region:us
+2026-11-17T18:33:08Z,Phoonnx/vits-con-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; con; license:cc-by-nc-4.0; region:us
+2026-11-17T18:33:10Z,Phoonnx/vits-cjs-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; cjs; license:cc-by-nc-4.0; region:us
+2026-11-17T18:33:13Z,Phoonnx/vits-cek-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; cek; license:cc-by-nc-4.0; region:us
+2026-11-17T18:33:16Z,Phoonnx/vits-fmu-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; fmu; license:cc-by-nc-4.0; region:us
+2026-11-17T18:33:24Z,Phoonnx/vits-cle-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; cle; license:cc-by-nc-4.0; region:us
+2026-11-17T18:33:30Z,Phoonnx/vits-cpb-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; cpb; license:cc-by-nc-4.0; region:us
+2026-11-17T18:33:34Z,Phoonnx/vits-chf-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; chf; license:cc-by-nc-4.0; region:us
+2026-11-17T18:33:43Z,Phoonnx/vits-cjp-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; cjp; license:cc-by-nc-4.0; region:us
+2026-11-17T18:33:44Z,Phoonnx/vits-ff-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; ff; license:cc-by-nc-4.0; region:us
+2026-11-17T18:33:47Z,Phoonnx/vits-cmo_latn-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; cmo; license:cc-by-nc-4.0; region:us
+2026-11-17T18:33:52Z,Phoonnx/vits-cla-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; cla; license:cc-by-nc-4.0; region:us
+2026-11-17T18:33:58Z,Phoonnx/vits-gam-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; gam; license:cc-by-nc-4.0; region:us
+2026-11-17T18:34:00Z,Phoonnx/vits-crk_cans-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; crk; license:cc-by-nc-4.0; region:us
+2026-11-17T18:34:12Z,Phoonnx/vits-crt-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; crt; license:cc-by-nc-4.0; region:us
+2026-11-17T18:34:15Z,Phoonnx/vits-cmo_khmr-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; cmo; license:cc-by-nc-4.0; region:us
+2026-11-17T18:34:22Z,Phoonnx/vits-cnl-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; cnl; license:cc-by-nc-4.0; region:us
+2026-11-17T18:34:30Z,Phoonnx/vits-cok-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; cok; license:cc-by-nc-4.0; region:us
+2026-11-17T18:34:32Z,Phoonnx/vits-gbm-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; gbm; license:cc-by-nc-4.0; region:us
+2026-11-17T18:34:32Z,Phoonnx/vits-ctg-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; ctg; license:cc-by-nc-4.0; region:us
+2026-11-17T18:34:50Z,Phoonnx/vits-gej-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; gej; license:cc-by-nc-4.0; region:us
+2026-11-17T18:34:50Z,Phoonnx/vits-cpa-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; cpa; license:cc-by-nc-4.0; region:us
+2026-11-17T18:34:51Z,Phoonnx/vits-cui-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; cui; license:cc-by-nc-4.0; region:us
+2026-11-17T18:35:08Z,Phoonnx/vits-cni-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; cni; license:cc-by-nc-4.0; region:us
+2026-11-17T18:35:09Z,Phoonnx/vits-gld-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; gld; license:cc-by-nc-4.0; region:us
+2026-11-17T18:35:09Z,Phoonnx/vits-cwe-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; cwe; license:cc-by-nc-4.0; region:us
+2026-11-17T18:35:09Z,Phoonnx/vits-crk_latn-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; crk; license:cc-by-nc-4.0; region:us
+2026-11-17T18:35:12Z,AdeelK93/gpttrace-v8s-1b-mlx-int8,AdeelK93,0,0,mlx; safetensors; modernbert; text-classification; en; base_model:nakas/gpttrace-v8s-1b; base_model:finetune:nakas/gpttrace-v8s-1b; license:cc-by-sa-4.0; region:us
+2026-11-17T18:35:17Z,Phoonnx/vits-cof-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; cof; license:cc-by-nc-4.0; region:us
+2026-11-17T18:35:28Z,Phoonnx/vits-daa-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; daa; license:cc-by-nc-4.0; region:us
+2026-11-17T18:35:32Z,Phoonnx/vits-gnd-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; gnd; license:cc-by-nc-4.0; region:us
+2026-11-17T18:35:39Z,Phoonnx/vits-dbq-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; dbq; license:cc-by-nc-4.0; region:us
+2026-11-17T18:35:41Z,Phoonnx/vits-cou-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; cou; license:cc-by-nc-4.0; region:us
+2026-11-17T18:35:47Z,Phoonnx/vits-crs-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; crs; license:cc-by-nc-4.0; region:us
+2026-11-17T18:35:48Z,OliviaRossi/Qwopus3.8-Coder390-27B-BF16-Merge,OliviaRossi,0,0,region:us
+2026-11-17T18:35:49Z,Phoonnx/vits-de-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; de; license:cc-by-nc-4.0; region:us
+2026-11-17T18:36:02Z,zayar-myo-oo/myanmar-voice-studio,zayar-myo-oo,0,0,license:mit; region:us
+2026-11-17T18:36:02Z,Phoonnx/vits-gor-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; gor; license:cc-by-nc-4.0; region:us
+2026-11-17T18:36:06Z,Phoonnx/vits-ctd-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; ctd; license:cc-by-nc-4.0; region:us
+2026-11-17T18:36:12Z,JJinJJin2/omx_act_policy_v6,JJinJJin2,0,0,lerobot; safetensors; act; robotics; dataset:JJinJJin2/pick_and_place_v3; arxiv:2304.13705; license:apache-2.0; region:us
+2026-11-17T18:36:15Z,Phoonnx/vits-crh-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; crh; license:cc-by-nc-4.0; region:us
+2026-11-17T18:36:16Z,Phoonnx/vits-cuc-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; cuc; license:cc-by-nc-4.0; region:us
+2026-11-17T18:36:30Z,Phoonnx/vits-crq-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; crq; license:cc-by-nc-4.0; region:us
+2026-11-17T18:36:31Z,Phoonnx/vits-cwa-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; cwa; license:cc-by-nc-4.0; region:us
+2026-11-17T18:36:33Z,Phoonnx/vits-dgo-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; dgo; license:cc-by-nc-4.0; region:us
+2026-11-17T18:36:33Z,Phoonnx/vits-gn-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; gn; license:cc-by-nc-4.0; region:us
+2026-11-17T18:36:39Z,Phoonnx/vits-cso-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; cso; license:cc-by-nc-4.0; region:us
+2026-11-17T18:36:55Z,Phoonnx/vits-ctu-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; ctu; license:cc-by-nc-4.0; region:us
+2026-11-17T18:37:04Z,svyatoslavna/my_awesome_model,svyatoslavna,0,0,safetensors; distilbert; region:us
+2026-11-17T18:37:05Z,Phoonnx/vits-cul-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; cul; license:cc-by-nc-4.0; region:us
+2026-11-17T18:37:07Z,Phoonnx/vits-dig-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; dig; license:cc-by-nc-4.0; region:us
+2026-11-17T18:37:07Z,Phoonnx/vits-guc-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; guc; license:cc-by-nc-4.0; region:us
+2026-11-17T18:37:14Z,Phoonnx/vits-cy_gb-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; cy; license:cc-by-nc-4.0; region:us
+2026-11-17T18:37:15Z,yurunyyr/asyncrl-async_s10_mb8_sc_klold_rtggm_b0p05_truncneg1_ev128-gs400,yurunyyr,0,0,region:us
+2026-11-17T18:37:25Z,Phoonnx/vits-guk-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; guk; license:cc-by-nc-4.0; region:us
+2026-11-17T18:37:27Z,Phoonnx/vits-cya-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; cya; license:cc-by-nc-4.0; region:us
+2026-11-17T18:37:30Z,Phoonnx/vits-djk-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; djk; license:cc-by-nc-4.0; region:us
+2026-11-17T18:37:37Z,Phoonnx/vits-dbj-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; dbj; license:cc-by-nc-4.0; region:us
+2026-11-17T18:37:46Z,Phoonnx/vits-dar-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; dar; license:cc-by-nc-4.0; region:us
+2026-11-17T18:37:46Z,Phoonnx/vits-dnw-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; dnw; license:cc-by-nc-4.0; region:us
+2026-11-17T18:37:55Z,Phoonnx/vits-dso-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; dso; license:cc-by-nc-4.0; region:us
+2026-11-17T18:37:56Z,Phoonnx/vits-guu-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; guu; license:cc-by-nc-4.0; region:us
+2026-11-17T18:38:04Z,Phoonnx/vits-dwr-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; dwr; license:cc-by-nc-4.0; region:us
+2026-11-17T18:38:05Z,maxgfr/s6-sleep3-nano,maxgfr,0,0,gguf; decision-model; system-one; ternary; memory; fast-weights; rust; skycmd; failed-gate; negative-result; text-classification; en; fr; license:apache-2.0; region:us
+2026-11-17T18:38:09Z,Phoonnx/vits-des-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; des; license:cc-by-nc-4.0; region:us
+2026-11-17T18:38:13Z,Phoonnx/vits-dz_bt-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; dz; license:cc-by-nc-4.0; region:us
+2026-11-17T18:38:14Z,Phoonnx/vits-ded-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; ded; license:cc-by-nc-4.0; region:us
+2026-11-17T18:38:22Z,willwade/byt5-fuzzy-phoneme-decode-tiny,willwade,0,0,onnx; safetensors; t5; phonology; phoneme-decoding; speech-disorder; aac; byt5; multilingual; en; de; fr; it; nl; es; license:apache-2.0; region:us
+2026-11-17T18:38:22Z,Phoonnx/vits-dgk-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; dgk; license:cc-by-nc-4.0; region:us
+2026-11-17T18:38:23Z,Phoonnx/vits-emp-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; emp; license:cc-by-nc-4.0; region:us
+2026-11-17T18:38:32Z,Phoonnx/vits-dgi-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; dgi; license:cc-by-nc-4.0; region:us
+2026-11-17T18:38:41Z,Phoonnx/vits-dhi-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; dhi; license:cc-by-nc-4.0; region:us
+2026-11-17T18:38:42Z,Phoonnx/vits-did-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; did; license:cc-by-nc-4.0; region:us
+2026-11-17T18:38:43Z,Phoonnx/vits-gwi-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; gwi; license:cc-by-nc-4.0; region:us
+2026-11-17T18:38:44Z,Phoonnx/vits-ese-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; ese; license:cc-by-nc-4.0; region:us
+2026-11-17T18:38:51Z,Phoonnx/vits-dip-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; dip; license:cc-by-nc-4.0; region:us
+2026-11-17T18:38:52Z,ringtone-ro/1794940732,ringtone-ro,0,0,region:us
+2026-11-17T18:39:01Z,Phoonnx/vits-dv_mv-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; dv; license:cc-by-nc-4.0; region:us
+2026-11-17T18:39:04Z,Phoonnx/vits-had-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; had; license:cc-by-nc-4.0; region:us
+2026-11-17T18:39:04Z,Phoonnx/vits-ee-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; ee; license:cc-by-nc-4.0; region:us
+2026-11-17T18:39:11Z,Phoonnx/vits-dnj_x_gweetaaw_ueast-mms-gweetaawueast-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; dnj; license:cc-by-nc-4.0; region:us
+2026-11-17T18:39:15Z,Phoonnx/vits-far-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; far; license:cc-by-nc-4.0; region:us
+2026-11-17T18:39:25Z,Phoonnx/vits-dnt-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; dnt; license:cc-by-nc-4.0; region:us
+2026-11-17T18:39:25Z,Phoonnx/vits-ht_ht-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; ht; license:cc-by-nc-4.0; region:us
+2026-11-17T18:39:28Z,Phoonnx/vits-dos-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; dos; license:cc-by-nc-4.0; region:us
+2026-11-17T18:39:30Z,Phoonnx/vits-flr-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; flr; license:cc-by-nc-4.0; region:us
+2026-11-17T18:39:39Z,3cqscbr/fis-jev-7b,3cqscbr,0,0,lora; multimodal; audio; video; psychotherapy; facilitative-interpersonal-skills; en; base_model:Qwen/Qwen2.5-Omni-7B; base_model:adapter:Qwen/Qwen2.5-Omni-7B; region:us
+2026-11-17T18:39:40Z,Phoonnx/vits-dsh-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; dsh; license:cc-by-nc-4.0; region:us
+2026-11-17T18:39:40Z,PRB1/Qwen2.5-Coder-7B-ManimCE-V3-DPO-16bit,PRB1,0,0,peft; safetensors; base_model:adapter:Qwen/Qwen2.5-Coder-7B-Instruct; lora; transformers; text-generation; conversational; arxiv:1910.09700; base_model:Qwen/Qwen2.5-Coder-7B-Instruct; region:us
+2026-11-17T18:39:41Z,Phoonnx/vits-dts-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; dts; license:cc-by-nc-4.0; region:us
+2026-11-17T18:39:47Z,Phoonnx/vits-frd-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; frd; license:cc-by-nc-4.0; region:us
+2026-11-17T18:39:49Z,Phoonnx/vits-heh-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; heh; license:cc-by-nc-4.0; region:us
+2026-11-17T18:39:51Z,balllvin/d1-omni-600M-GGUF-Q8_0,balllvin,0,0,gguf; llama.cpp; Q8_0; d1-omni; decision; liquid; image-text-to-text; en; base_model:LiquidAI/d1-omni-600M; base_model:quantized:LiquidAI/d1-omni-600M; license:other; endpoints_compatible; region:us;…
+2026-11-17T18:39:56Z,Phoonnx/vits-gai-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; gai; license:cc-by-nc-4.0; region:us
+2026-11-17T18:40:02Z,balllvin/d1-omni-600M-GGUF-Q6_K,balllvin,0,0,gguf; llama.cpp; Q6_K; d1-omni; decision; liquid; image-text-to-text; en; base_model:LiquidAI/d1-omni-600M; base_model:quantized:LiquidAI/d1-omni-600M; license:other; endpoints_compatible; region:us;…
+2026-11-17T18:40:05Z,Phoonnx/vits-dyo-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; dyo; license:cc-by-nc-4.0; region:us
+2026-11-17T18:40:07Z,Phoonnx/vits-hi-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; hi; license:cc-by-nc-4.0; region:us
+2026-11-17T18:40:08Z,Phoonnx/vits-dug-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; dug; license:cc-by-nc-4.0; region:us
+2026-11-17T18:40:18Z,Phoonnx/vits-gbk-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; gbk; license:cc-by-nc-4.0; region:us
+2026-11-17T18:40:22Z,Phoonnx/vits-dyu-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; dyu; license:cc-by-nc-4.0; region:us
+2026-11-17T18:40:24Z,Phoonnx/vits-eka-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; eka; license:cc-by-nc-4.0; region:us
+2026-11-17T18:40:26Z,Phoonnx/vits-geb-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; geb; license:cc-by-nc-4.0; region:us
+2026-11-17T18:40:27Z,Phoonnx/vits-hnn-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; hnn; license:cc-by-nc-4.0; region:us
+2026-11-17T18:40:32Z,Phoonnx/vits-en-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; en; license:cc-by-nc-4.0; region:us
+2026-11-17T18:40:43Z,Phoonnx/vits-el_gr-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; el; license:cc-by-nc-4.0; region:us
+2026-11-17T18:40:44Z,Phoonnx/vits-hto-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; hto; license:cc-by-nc-4.0; region:us
+2026-11-17T18:40:50Z,Phoonnx/vits-eu-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; eu; license:cc-by-nc-4.0; region:us
+2026-11-17T18:40:50Z,Phoonnx/vits-gkn-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; gkn; license:cc-by-nc-4.0; region:us
+2026-11-17T18:40:52Z,Phoonnx/vits-enx-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; enx; license:cc-by-nc-4.0; region:us
+2026-11-17T18:41:09Z,Phoonnx/vits-evn-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; evn; license:cc-by-nc-4.0; region:us
+2026-11-17T18:41:10Z,Phoonnx/vits-gna-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; gna; license:cc-by-nc-4.0; region:us
+2026-11-17T18:41:19Z,Phoonnx/vits-fo_fo-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; fo; license:cc-by-nc-4.0; region:us
+2026-11-17T18:41:25Z,Phoonnx/vits-fal-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; fal; license:cc-by-nc-4.0; region:us
+2026-11-17T18:41:27Z,Phoonnx/vits-hus_x_centralv_eracruz-mms-centralveracruz-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; hus; license:cc-by-nc-4.0; region:us
+2026-11-17T18:41:29Z,Phoonnx/vits-fi_fi-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; fi; license:cc-by-nc-4.0; region:us
+2026-11-17T18:41:34Z,Phoonnx/vits-gog-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; gog; license:cc-by-nc-4.0; region:us
+2026-11-17T18:41:34Z,patrik252/Nottingham-MIL-ResNet-Aggregator,patrik252,0,0,license:apache-2.0; region:us
+2026-11-17T18:41:45Z,Phoonnx/vits-hvn-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; hvn; license:cc-by-nc-4.0; region:us
+2026-11-17T18:41:45Z,Phoonnx/vits-fj_fj-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; fj; license:cc-by-nc-4.0; region:us
+2026-11-17T18:41:45Z,Phoonnx/vits-fr-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; fr; license:cc-by-nc-4.0; region:us
+2026-11-17T18:41:53Z,Phoonnx/vits-gri-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; gri; license:cc-by-nc-4.0; region:us
+2026-11-17T18:42:04Z,Phoonnx/vits-icr-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; icr; license:cc-by-nc-4.0; region:us
+2026-11-17T18:42:04Z,Phoonnx/vits-gub-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; gub; license:cc-by-nc-4.0; region:us
+2026-11-17T18:42:05Z,Phoonnx/vits-fon-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; fon; license:cc-by-nc-4.0; region:us
+2026-11-17T18:42:20Z,Phoonnx/vits-gag_latn-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; gag; license:cc-by-nc-4.0; region:us
+2026-11-17T18:42:29Z,Phoonnx/vits-gag_cyrl-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; gag; license:cc-by-nc-4.0; region:us
+2026-11-17T18:42:29Z,Byounghan/clear-ec-p3b,Byounghan,0,0,medical-imaging; corneal-endothelium; specular-microscopy; clear-ec; license:other; region:us
+2026-11-17T18:42:30Z,Phoonnx/vits-gbi-mms-graphemes,Phoonnx,0,0,region:us
+2026-11-17T18:42:32Z,Phoonnx/vits-gu_in-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; gu; license:cc-by-nc-4.0; region:us
+2026-11-17T18:42:40Z,Phoonnx/vits-ife-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; ife; license:cc-by-nc-4.0; region:us
+2026-11-17T18:42:44Z,Phoonnx/vits-gau-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; gau; license:cc-by-nc-4.0; region:us
+2026-11-17T18:42:47Z,alxxtexxr/XLM-R-Base-wikipedia-tr-3.5K-s42-LegameX-LoRA-v261117184217,alxxtexxr,0,0,tensorboard; region:us
+2026-11-17T18:42:51Z,Phoonnx/vits-guq-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; guq; license:cc-by-nc-4.0; region:us
+2026-11-17T18:42:54Z,patrik252/Nottingham-MIL-ResNet,patrik252,0,0,license:apache-2.0; region:us
+2026-11-17T18:42:58Z,Phoonnx/vits-ign-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; ign; license:cc-by-nc-4.0; region:us
+2026-11-17T18:42:58Z,Phoonnx/vits-gbo-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; gbo; license:cc-by-nc-4.0; region:us
+2026-11-17T18:42:59Z,Phoonnx/vits-gde-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; gde; license:cc-by-nc-4.0; region:us
+2026-11-17T18:43:02Z,Phoonnx/vits-gvl-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; gvl; license:cc-by-nc-4.0; region:us
+2026-11-17T18:43:17Z,Phoonnx/vits-imo-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; imo; license:cc-by-nc-4.0; region:us
+2026-11-17T18:43:17Z,Phoonnx/vits-gjn-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; gjn; license:cc-by-nc-4.0; region:us
+2026-11-17T18:43:18Z,Phoonnx/vits-gyr-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; gyr; license:cc-by-nc-4.0; region:us
+2026-11-17T18:43:29Z,Phoonnx/vits-hap-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; hap; license:cc-by-nc-4.0; region:us
+2026-11-17T18:43:30Z,Phoonnx/vits-gil-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; gil; license:cc-by-nc-4.0; region:us
+2026-11-17T18:43:31Z,Phoonnx/vits-gmv-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; gmv; license:cc-by-nc-4.0; region:us
+2026-11-17T18:43:34Z,Phoonnx/vits-ipi-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; ipi; license:cc-by-nc-4.0; region:us
+2026-11-17T18:43:43Z,diwank/reachy-mini-gesture-intent-lora-v8-20261117,diwank,0,0,peft; safetensors; base_model:binhpham/reachy-mini-motion-planner-4b; base_model:adapter:binhpham/reachy-mini-motion-planner-4b; region:us
+2026-11-17T18:43:47Z,Phoonnx/vits-is_is-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; is; license:cc-by-nc-4.0; region:us
+2026-11-17T18:43:50Z,Phoonnx/vits-he_il-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; he; license:cc-by-nc-4.0; region:us
+2026-11-17T18:43:50Z,Phoonnx/vits-glk-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; glk; license:cc-by-nc-4.0; region:us
+2026-11-17T18:43:51Z,Phoonnx/vits-gof_latn-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; gof; license:cc-by-nc-4.0; region:us
+2026-11-17T18:43:59Z,Phoonnx/vits-grc-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; grc; license:cc-by-nc-4.0; region:us
+2026-11-17T18:44:09Z,gkat21/ellie,gkat21,0,0,license:other; region:us
+2026-11-17T18:44:11Z,Phoonnx/vits-ixl_x_sanjuanc_otzal-mms-sanjuancotzal-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; ixl; license:cc-by-nc-4.0; region:us
+2026-11-17T18:44:15Z,Phoonnx/vits-gng-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; gng; license:cc-by-nc-4.0; region:us
+2026-11-17T18:44:17Z,Phoonnx/vits-gso-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; gso; license:cc-by-nc-4.0; region:us
+2026-11-17T18:44:18Z,Aser01/franco-egyptian-arabizi,Aser01,0,0,transliteration; arabizi; franco-arabic; egyptian-arabic; translation; arz; region:us
+2026-11-17T18:44:24Z,Phoonnx/vits-hil-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; hil; license:cc-by-nc-4.0; region:us
+2026-11-17T18:44:27Z,Phoonnx/vits-gqr-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; gqr; license:cc-by-nc-4.0; region:us
+2026-11-17T18:44:30Z,Phoonnx/vits-jac-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; jac; license:cc-by-nc-4.0; region:us
+2026-11-17T18:44:35Z,Phoonnx/vits-guh-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; guh; license:cc-by-nc-4.0; region:us
+2026-11-17T18:44:35Z,Phoonnx/vits-hne-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; hne; license:cc-by-nc-4.0; region:us
+2026-11-17T18:44:43Z,Phoonnx/vits-hoy-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; hoy; license:cc-by-nc-4.0; region:us
+2026-11-17T18:44:49Z,Phoonnx/vits-guo-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; guo; license:cc-by-nc-4.0; region:us
+2026-11-17T18:44:57Z,goodmai/Ornith-1.5-9B-MACaQ-MXFP4-MLX,goodmai,0,0,mlx; safetensors; qwen3_5; basalt; apple-silicon; quantization; macaq; hadamard; text-generation; conversational; arxiv:2611.10649; base_model:ornith-ai/Ornith-1.5-9B-MLX-4bit; base_model:quantized:o…
+2026-11-17T18:44:57Z,Phoonnx/vits-jen-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; jen; license:cc-by-nc-4.0; region:us
+2026-11-17T18:45:05Z,Phoonnx/vits-gvc-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; gvc; license:cc-by-nc-4.0; region:us
+2026-11-17T18:45:06Z,Phoonnx/vits-grt-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; grt; license:cc-by-nc-4.0; region:us
+2026-11-17T18:45:15Z,Phoonnx/vits-jmd-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; jmd; license:cc-by-nc-4.0; region:us
+2026-11-17T18:45:22Z,Phoonnx/vits-gud-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; gud; license:cc-by-nc-4.0; region:us
+2026-11-17T18:45:25Z,Jomanne3/MyAwesomeModel-TestRepo,Jomanne3,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-11-17T18:45:34Z,Phoonnx/vits-gum-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; gum; license:cc-by-nc-4.0; region:us
+2026-11-17T18:45:44Z,Phoonnx/vits-kaa-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; kaa; license:cc-by-nc-4.0; region:us
+2026-11-17T18:45:46Z,Phoonnx/vits-gux-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; gux; license:cc-by-nc-4.0; region:us
+2026-11-17T18:45:53Z,Phoonnx/vits-kn_in-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; kn; license:cc-by-nc-4.0; region:us
+2026-11-17T18:45:58Z,ajhgjs/MyAwesomeModel-TestRepo,ajhgjs,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-11-17T18:46:04Z,Phoonnx/vits-kk_kz-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; kk; license:cc-by-nc-4.0; region:us
+2026-11-17T18:46:05Z,Phoonnx/vits-gwr-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; gwr; license:cc-by-nc-4.0; region:us
+2026-11-17T18:46:14Z,Phoonnx/vits-kbr-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; kbr; license:cc-by-nc-4.0; region:us
+2026-11-17T18:46:22Z,neutronai-code/Quark-1.5B-v0.3-sft-GGUF,neutronai-code,0,0,gguf; qwen2; llama.cpp; unsloth; endpoints_compatible; region:us
+2026-11-17T18:46:27Z,patrik252/Nottingham-MIL-UNI2,patrik252,0,0,license:apache-2.0; region:us
+2026-11-17T18:46:28Z,Phoonnx/vits-kdc-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; kdc; license:cc-by-nc-4.0; region:us
+2026-11-17T18:46:29Z,Phoonnx/vits-hag-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; hag; license:cc-by-nc-4.0; region:us
+2026-11-17T18:46:42Z,Phoonnx/vits-ha-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; ha; license:cc-by-nc-4.0; region:us
+2026-11-17T18:46:49Z,Map-Action/soloba-bm-map-action-v3,Map-Action,0,0,nemo; bambara; asr; environment; wash; mali; map-action; automatic-speech-recognition; bm; base_model:RobotsMali/soloba-ctc-0.6b-v3; base_model:finetune:RobotsMali/soloba-ctc-0.6b-v3; license:cc-by-4…
+2026-11-17T18:46:50Z,Phoonnx/vits-kdj-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; kdj; license:cc-by-nc-4.0; region:us
+2026-11-17T18:46:52Z,Phoonnx/vits-hif-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; hif; license:cc-by-nc-4.0; region:us
+2026-11-17T18:47:08Z,Phoonnx/vits-kek-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; kek; license:cc-by-nc-4.0; region:us
+2026-11-17T18:47:08Z,Phoonnx/vits-hlb-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; hlb; license:cc-by-nc-4.0; region:us
+2026-11-17T18:47:12Z,acidkill/NVIDIA-Nemotron-3.5-Bolt-E4B-Uncensored-NPU2,acidkill,0,0,gemma4_text; npu; q4nx; openflowlm; gemma4; nemotron; abliterated; experimental; image-text-to-text; conversational; base_model:AtomicChat/NVIDIA-Nemotron-3.5-Bolt-E4B-Uncensored-GGUF; base_model:qua…
+2026-11-17T18:47:18Z,Phoonnx/vits-hns-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; hns; license:cc-by-nc-4.0; region:us
+2026-11-17T18:47:21Z,Map-Action/nllb600-bm-fr-map-action-v2,Map-Action,0,0,transformers; safetensors; m2m_100; text2text-generation; bambara; french; translation; environment; wash; mali; map-action; bm; fr; base_model:facebook/nllb-200-distilled-600M; base_model:finetune:f…
+2026-11-17T18:47:26Z,Phoonnx/vits-hub-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; hub; license:cc-by-nc-4.0; region:us
+2026-11-17T18:47:33Z,Phoonnx/vits-key-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; key; license:cc-by-nc-4.0; region:us
+2026-11-17T18:47:44Z,Phoonnx/vits-kfw-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; kfw; license:cc-by-nc-4.0; region:us
+2026-11-17T18:47:45Z,vitorsalomao/yolo11n-onnx,vitorsalomao,0,0,onnx; yolo11; object-detection; base_model:Ultralytics/YOLO11; base_model:quantized:Ultralytics/YOLO11; license:agpl-3.0; region:us
+2026-11-17T18:47:56Z,KaylerT/1.0,KaylerT,0,0,license:apache-2.0; region:us
+2026-11-17T18:48:03Z,Phoonnx/vits-khq-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; khq; license:cc-by-nc-4.0; region:us
+2026-11-17T18:48:18Z,Phoonnx/vits-rw_rw-mms-graphemes,Phoonnx,0,0,phoonnx; onnx; mms; text-to-speech; rw; license:cc-by-nc-4.0; region:us
+2026-11-17T18:48:41Z,Map-Action/plaintes-fr-classifieur-v2,Map-Action,0,0,transformers; safetensors; french; classification; environment; wash; complaints; mali; map-action; text-classification; fr; base_model:intfloat/multilingual-e5-base; base_model:finetune:intfloat/mul…
+2026-11-17T18:50:11Z,SachiK/carenudge-qwen3-4b,SachiK,0,0,transformers; safetensors; qwen3; text-generation; conversational; arxiv:1910.09700; text-generation-inference; endpoints_compatible; region:us
+2026-11-17T18:51:43Z,IqSantiagow/edceleste-command-classifier,IqSantiagow,0,0,onnxruntime; onnx; elite-dangerous; intent-classification; voice-commands; text-classification; en; base_model:sentence-transformers/all-MiniLM-L6-v2; base_model:quantized:sentence-transformers/all-M…
+2026-11-17T18:51:54Z,Sharan2012/data266-team39-naruto-lora-run1,Sharan2012,0,0,stable-diffusion; lora; text-to-image; naruto; data266; dataset:lambdalabs/naruto-blip-captions; base_model:stable-diffusion-v1-5/stable-diffusion-v1-5; base_model:adapter:stable-diffusion-v1-5/stabl…
+2026-11-17T18:51:57Z,Sharan2012/data266-team39-naruto-lora-run2,Sharan2012,0,0,region:us
+2026-11-17T18:53:01Z,nakas/gpttrace-img-v6-ckpt,nakas,0,0,safetensors; region:us
+2026-11-17T18:53:28Z,imvetri/resgru-unet-pm25,imvetri,0,0,pytorch; onnx; air-quality; pm2.5; weather; spatio-temporal; forecasting; convgru; unet; time-series-forecasting; license:mit; region:us
+2026-11-17T18:54:02Z,mindsofchaos/codeoptics-coder-3b-v5,mindsofchaos,0,0,region:us
+2026-11-17T18:54:22Z,nest102/god06b,nest102,0,0,region:us
+2026-11-17T18:55:23Z,akumaburn/Maxwell-V1-Flash-heretic-SmoothQuant-W8A8-INT8,akumaburn,0,0,vllm; safetensors; maxwell_moe; maxwell; moe; heretic; abliterated; uncensored; compressed-tensors; w8a8; int8; smoothquant; gptq; mtp; research-only; text-generation; conversational; custom_code; ba…
+2026-11-17T18:55:23Z,AltEinstein/bmb07,AltEinstein,0,0,region:us
+2026-11-17T18:55:23Z,KarlRobinson/plank-run,KarlRobinson,0,0,region:us
+2026-11-17T18:55:34Z,Donghyun1228/pi05-libero-lape-review-runs-20261118b,Donghyun1228,0,1,region:us
+2026-11-17T18:55:38Z,clear-blue-sky/cto04,clear-blue-sky,0,0,region:us
+2026-11-17T18:55:38Z,JUST-AI-Academic-Assistant/cpt-model,JUST-AI-Academic-Assistant,0,0,transformers; safetensors; gpt2; text-generation; arxiv:1910.09700; text-generation-inference; endpoints_compatible; region:us
+2026-11-17T18:55:39Z,AltEinstein/bmb10b,AltEinstein,0,0,region:us
+2026-11-17T18:55:58Z,JUST-AI-Academic-Assistant/sft-model,JUST-AI-Academic-Assistant,0,0,transformers; safetensors; gpt2; text-generation; arxiv:1910.09700; text-generation-inference; endpoints_compatible; region:us
+2026-11-17T18:56:23Z,SvalTek/Q3-ThinkerMOE-RPMix-Base0,SvalTek,0,0,transformers; safetensors; qwen3_moe; text-generation; text-generation-inference; unsloth; conversational; en; base_model:SvalTek/Q3-ThinkerMOE-TermTest0; base_model:finetune:SvalTek/Q3-ThinkerMOE-Te…
+2026-11-17T18:56:42Z,dobei/smolvla_test,dobei,0,0,lerobot; safetensors; smolvla; robotics; dataset:dobei/so101_red_cube_blue_box_2_20261117_161737; arxiv:2506.01844; base_model:lerobot/smolvla_base; base_model:finetune:lerobot/smolvla_base; license:…
+2026-11-17T18:56:52Z,indranildev/friday-mini-17m-rehearsal,indranildev,0,1,safetensors; gguf; llama; marvel; from-scratch; small-language-model; en; license:cc-by-sa-4.0; endpoints_compatible; region:us
+2026-11-17T18:56:54Z,haihengh/gemma-4-26B-A4B-it-finch-4bit-vision,haihengh,0,0,finchmoe; finch; gemma4; gemma; moe; quantized; vision; image-text-to-text; base_model:google/gemma-4-26B-A4B-it; base_model:finetune:google/gemma-4-26B-A4B-it; license:apache-2.0; region:us
+2026-11-17T18:58:27Z,gandhiyoshita/posting-test,gandhiyoshita,0,0,region:us
+2026-11-17T18:58:35Z,nimra2019/football,nimra2019,0,0,region:us
+2026-11-17T18:58:39Z,Rapscoringa/Rapscoringa,Rapscoringa,0,0,region:us
+2026-11-17T19:00:59Z,Signumve/detailed_robotic_arm,Signumve,0,0,region:us
+2026-11-17T19:01:06Z,tm13911391/simorgh-model,tm13911391,0,0,region:us
+2026-11-17T19:01:25Z,aman241b027/plant_disease_detection,aman241b027,0,0,keras; region:us
+2026-11-17T19:01:35Z,RafalRutecki/Hugging2FlashLite,RafalRutecki,0,0,license:gpl; region:us
+2026-11-17T19:02:11Z,EhlKristof/kali-llama,EhlKristof,0,1,gguf; llama; llama.cpp; llama-cpp; unsloth; endpoints_compatible; region:us; conversational
+2026-11-17T19:03:39Z,mhseo2/klear8b-planfmt-sftv9ptokc-s300,mhseo2,0,0,safetensors; qwen3; region:us
+2026-11-17T19:03:51Z,ritmesh/cold-chain-logistics-ai,ritmesh,0,0,license:mit; region:us
+2026-11-17T19:04:25Z,ishikaa/acquisition_student_AS_grape_combine_OH_MP_N_new_gemma9b_5000,ishikaa,0,0,transformers; safetensors; gemma2; text-generation; conversational; arxiv:1910.09700; text-generation-inference; endpoints_compatible; region:us
+2026-11-17T19:05:00Z,alice16/exemple1-finetuned-dataset,alice16,0,0,region:us
+2026-11-17T19:05:27Z,Stefverboy/hunyuan3d-2.1-storage,Stefverboy,0,0,region:us
+2026-11-17T19:06:15Z,KaanCN64/customer-support-router,KaanCN64,0,0,region:us
+2026-11-17T19:07:35Z,myk1019/sn102-lessons,myk1019,0,0,region:us
+2026-11-17T19:08:45Z,zchn/pi05_green_grip_PG64,zchn,0,0,region:us
+2026-11-17T19:09:09Z,relogger10/Terra-5.6,relogger10,0,0,license:apache-2.0; region:us
+2026-11-17T19:09:41Z,moroz-ellmsha/sdai-mnn-model-archives,moroz-ellmsha,0,0,mnn; stable-diffusion; sdai; android; quantized; text-to-image; base_model:taobao-mnn/stable-diffusion-v1-5-mnn-general; base_model:finetune:taobao-mnn/stable-diffusion-v1-5-mnn-general; license:crea…
+2026-11-17T19:10:24Z,Faizanayub/kashmirai-nllb13b-ks-en-ct2,Faizanayub,0,0,region:us
+2026-11-17T19:12:01Z,RunningHubAI/rh-ju.goes-lora,RunningHubAI,0,0,region:us
+2026-11-17T19:12:37Z,Nekodeus/neko-korean8-sdxl-v1,Nekodeus,0,0,diffusers; stable-diffusion-xl; lora; text-to-image; character; base_model:stabilityai/stable-diffusion-xl-base-1.0; base_model:adapter:stabilityai/stable-diffusion-xl-base-1.0; license:apache-2.0; r…
+2026-11-17T19:12:37Z,Nekodeus/phi-3-mini-4k-instruct-openvino,Nekodeus,0,0,openvino; phi3; int8; text-generation; llm; conversational; custom_code; license:mit; region:us
+2026-11-17T19:12:55Z,Moebits/vocal-quality,Moebits,0,0,safetensors; region:us
+2026-11-17T19:13:08Z,mihirp-0607/arcface-browser-model,mihirp-0607,0,0,onnx; region:us
+2026-11-17T19:13:11Z,zachttang/pi05-fold-cloth-50pct,zachttang,0,0,robotics; openpi; pi05; cloth-folding; jax; orbax; en; region:us
+2026-11-17T19:13:12Z,MelorAngelina/MyAwesomeModel-TestRepo,MelorAngelina,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-11-17T19:13:53Z,KarlRobinson/fork-lift,KarlRobinson,0,0,region:us
+2026-11-17T19:14:04Z,Nekodeus/neko-tamil4-sdxl-v1,Nekodeus,0,1,diffusers; stable-diffusion-xl; lora; text-to-image; character; base_model:stabilityai/stable-diffusion-xl-base-1.0; base_model:adapter:stabilityai/stable-diffusion-xl-base-1.0; license:apache-2.0; r…
+2026-11-17T19:14:34Z,lordfarquaad36/oldloras,lordfarquaad36,0,0,region:us
+2026-11-17T19:15:07Z,Montalvo55/q-FrozenLake-v1-4x4-noSlippery,Montalvo55,0,0,FrozenLake-v1-4x4-no_slippery; q-learning; reinforcement-learning; custom-implementation; model-index; region:us
+2026-11-17T19:17:27Z,aditeyabaral/symbolic-circuits-999-0.45-rev-3L-128d-2H,aditeyabaral,0,0,region:us
+2026-11-17T19:17:29Z,KauanACL/e5-small-boas-praticas,KauanACL,0,0,sentence-transformers; safetensors; bert; retrieval; rag; food-safety; anvisa; sentence-similarity; pt; dataset:KauanACL/boas-praticas-anvisa-qa; base_model:intfloat/multilingual-e5-small; base_model…
+2026-11-17T19:20:04Z,bigJ479/BeetleID,bigJ479,0,0,region:us
