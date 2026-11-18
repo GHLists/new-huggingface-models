@@ -1,0 +1,204 @@
+created_at,model,author,downloads,likes,tags
+2026-11-18T22:19:51Z,mradermacher/helmsman-4b-GGUF,mradermacher,0,0,transformers; gguf; qwen3; distillation; qlora; merged; unhosted; on-device; local-llm; en; base_model:sinhaankur/helmsman-4b; base_model:quantized:sinhaankur/helmsman-4b; license:agpl-3.0; endpoints…
+2026-11-18T22:20:50Z,qualcomm/BasicVSR-PlusPlus,qualcomm,0,0,pytorch; real_time; android; image-to-image; arxiv:2104.13371; license:apache-2.0; region:us
+2026-11-18T22:22:15Z,VadymPikulyk/zils-lite-dh19,VadymPikulyk,0,0,safetensors; qwen3_5; zils; decision-model; soup-body; d3-lite; distillation; custom_code; base_model:Qwen/Qwen3.5-0.8B; base_model:finetune:Qwen/Qwen3.5-0.8B; license:apache-2.0; region:us
+2026-11-18T22:22:54Z,parthshringarpure/thyroid_models_with_xai,parthshringarpure,0,0,license:apache-2.0; region:us
+2026-11-18T22:24:17Z,puckiest/qwen3.5-autocompletFast,puckiest,0,0,gguf; endpoints_compatible; region:us
+2026-11-18T22:25:19Z,Primerafila/dtf-estudio-ia,Primerafila,0,1,onnx; region:us
+2026-11-18T22:26:17Z,Quabiccu/Apfeuse-T5-Pia-1911,Quabiccu,0,0,license:unlicense; region:us
+2026-11-18T22:27:03Z,qualcomm/Qwen3-ASR-1.7B,qualcomm,0,0,pytorch; llm; generative_ai; android; automatic-speech-recognition; arxiv:2601.21337; license:apache-2.0; region:us
+2026-11-18T22:27:09Z,TypeWhisper/Rumble-2-Flash-sherpa-onnx-int8,TypeWhisper,0,0,sherpa-onnx; onnx; int8; speech-to-text; qwen3-asr; automatic-speech-recognition; en; de; fr; es; it; pt; nl; ru; zh; ja; ko; ar; hi; tr; pl; sv; da; fi; cs; el; ro; hu; id; vi; th; ms; fa; mk; base_…
+2026-11-18T22:27:21Z,thkim0305-SNU/Safety_Tuning-Qwen3.5-4B-Base-GRPO-Mixture8-binary-lr1e-6-kl0.001-p15-k8-step400,thkim0305-SNU,0,0,transformers; safetensors; qwen3_5; image-text-to-text; grpo; safety; qwen3.5; slime; megatron; text-generation; conversational; base_model:Qwen/Qwen3.5-4B-Base; base_model:finetune:Qwen/Qwen3.5-4B-B…
+2026-11-18T22:27:48Z,paradoxailab/pwm-dyn-v0.4-pems08,paradoxailab,0,0,pytorch; paradoxailab; paradox-world-model; pwm-dyn; forecasting; spatiotemporal; traffic-forecasting; time-series-forecasting; license:apache-2.0; region:us
+2026-11-18T22:27:51Z,paradoxailab/pwm-dyn-v0.4-pems04,paradoxailab,0,0,pytorch; paradoxailab; paradox-world-model; pwm-dyn; forecasting; spatiotemporal; traffic-forecasting; time-series-forecasting; license:apache-2.0; region:us
+2026-11-18T22:27:53Z,paradoxailab/pwm-dyn-v0.4-imd_central_india,paradoxailab,0,0,pytorch; paradoxailab; paradox-world-model; pwm-dyn; forecasting; spatiotemporal; rainfall; india; time-series-forecasting; license:apache-2.0; region:us
+2026-11-18T22:27:55Z,paradoxailab/pwm-dyn-v0.4-imd_west_coast,paradoxailab,0,0,pytorch; paradoxailab; paradox-world-model; pwm-dyn; forecasting; spatiotemporal; rainfall; india; time-series-forecasting; license:apache-2.0; region:us
+2026-11-18T22:27:57Z,paradoxailab/pwm-dyn-v0.4.1-pems08,paradoxailab,0,0,pytorch; paradoxailab; paradox-world-model; pwm-dyn; forecasting; spatiotemporal; traffic-forecasting; time-series-forecasting; license:apache-2.0; region:us
+2026-11-18T22:27:59Z,paradoxailab/pwm-dyn-v0.4.1-pems04,paradoxailab,0,0,pytorch; paradoxailab; paradox-world-model; pwm-dyn; forecasting; spatiotemporal; traffic-forecasting; time-series-forecasting; license:apache-2.0; region:us
+2026-11-18T22:27:59Z,qualcomm/Qwen3-ASR-0.6B,qualcomm,0,0,pytorch; llm; generative_ai; android; automatic-speech-recognition; arxiv:2601.21337; license:apache-2.0; region:us
+2026-11-18T22:28:01Z,paradoxailab/pwm-dyn-v0.6-pems08,paradoxailab,0,0,pytorch; paradoxailab; paradox-world-model; pwm-dyn; forecasting; spatiotemporal; traffic-forecasting; time-series-forecasting; license:apache-2.0; region:us
+2026-11-18T22:28:03Z,paradoxailab/pwm-dyn-v0.6-pems04,paradoxailab,0,0,pytorch; paradoxailab; paradox-world-model; pwm-dyn; forecasting; spatiotemporal; traffic-forecasting; time-series-forecasting; license:apache-2.0; region:us
+2026-11-18T22:28:05Z,paradoxailab/pwm-dyn-v0.6-pems03,paradoxailab,0,0,pytorch; paradoxailab; paradox-world-model; pwm-dyn; forecasting; spatiotemporal; traffic-forecasting; time-series-forecasting; license:apache-2.0; region:us
+2026-11-18T22:28:07Z,paradoxailab/pwm-dyn-v0.6-pems07,paradoxailab,0,0,pytorch; paradoxailab; paradox-world-model; pwm-dyn; forecasting; spatiotemporal; traffic-forecasting; time-series-forecasting; license:apache-2.0; region:us
+2026-11-18T22:28:09Z,paradoxailab/pwm-dyn-v0.6-metr-la,paradoxailab,0,0,pytorch; paradoxailab; paradox-world-model; pwm-dyn; forecasting; spatiotemporal; traffic-forecasting; time-series-forecasting; license:apache-2.0; region:us
+2026-11-18T22:28:10Z,frenchchips/co248k,frenchchips,0,0,region:us
+2026-11-18T22:28:10Z,frenchchips/co40k,frenchchips,0,0,region:us
+2026-11-18T22:28:10Z,creativedev1234/co237k,creativedev1234,0,0,region:us
+2026-11-18T22:28:11Z,paradoxailab/pwm-dyn-v0.6-pems-bay,paradoxailab,0,0,pytorch; paradoxailab; paradox-world-model; pwm-dyn; forecasting; spatiotemporal; traffic-forecasting; time-series-forecasting; license:apache-2.0; region:us
+2026-11-18T22:28:13Z,rhine-river/co191k,rhine-river,0,0,region:us
+2026-11-18T22:28:13Z,creativedev1234/co233k,creativedev1234,0,0,region:us
+2026-11-18T22:28:13Z,creativedev1234/co230k,creativedev1234,0,0,region:us
+2026-11-18T22:28:13Z,paradoxailab/pwm-dyn-v0.7-pems08,paradoxailab,0,0,pytorch; paradoxailab; paradox-world-model; pwm-dyn; forecasting; spatiotemporal; traffic-forecasting; time-series-forecasting; license:apache-2.0; region:us
+2026-11-18T22:28:15Z,paradoxailab/pwm-dyn-v0.7-pems04,paradoxailab,0,0,pytorch; paradoxailab; paradox-world-model; pwm-dyn; forecasting; spatiotemporal; traffic-forecasting; time-series-forecasting; license:apache-2.0; region:us
+2026-11-18T22:28:17Z,rhine-river/co235k,rhine-river,0,0,region:us
+2026-11-18T22:28:17Z,frenchchips/co202k,frenchchips,0,0,region:us
+2026-11-18T22:28:17Z,frenchchips/co9k,frenchchips,0,0,region:us
+2026-11-18T22:28:20Z,creativedev1234/co229k,creativedev1234,0,0,region:us
+2026-11-18T22:28:20Z,rhine-river/co46k,rhine-river,0,0,region:us
+2026-11-18T22:28:21Z,frenchchips/co53k,frenchchips,0,0,region:us
+2026-11-18T22:28:24Z,creativedev1234/co239k,creativedev1234,0,0,region:us
+2026-11-18T22:28:24Z,rhine-river/co218k,rhine-river,0,0,region:us
+2026-11-18T22:28:24Z,creativedev1234/co35k,creativedev1234,0,0,region:us
+2026-11-18T22:28:28Z,rhine-river/co195k,rhine-river,0,0,region:us
+2026-11-18T22:28:29Z,frenchchips/co201k,frenchchips,0,0,region:us
+2026-11-18T22:28:29Z,creativedev1234/co219k,creativedev1234,0,0,region:us
+2026-11-18T22:28:31Z,rhine-river/co241k,rhine-river,0,0,region:us
+2026-11-18T22:28:31Z,creativedev1234/co18k,creativedev1234,0,0,region:us
+2026-11-18T22:28:31Z,rhine-river/co197k,rhine-river,0,0,region:us
+2026-11-18T22:28:32Z,paradoxailab/pwm-dyn-v0.7-pems03,paradoxailab,0,0,pytorch; paradoxailab; paradox-world-model; pwm-dyn; forecasting; spatiotemporal; traffic-forecasting; time-series-forecasting; license:apache-2.0; region:us
+2026-11-18T22:28:34Z,paradoxailab/pwm-dyn-v0.7-pems07,paradoxailab,0,0,pytorch; paradoxailab; paradox-world-model; pwm-dyn; forecasting; spatiotemporal; traffic-forecasting; time-series-forecasting; license:apache-2.0; region:us
+2026-11-18T22:28:36Z,rhine-river/co32k,rhine-river,0,0,region:us
+2026-11-18T22:28:36Z,frenchchips/co37k,frenchchips,0,0,region:us
+2026-11-18T22:28:36Z,paradoxailab/pwm-dyn-v0.7-metr-la,paradoxailab,0,0,pytorch; paradoxailab; paradox-world-model; pwm-dyn; forecasting; spatiotemporal; traffic-forecasting; time-series-forecasting; license:apache-2.0; region:us
+2026-11-18T22:28:37Z,Kaylis/HybridAgent-8B-Agentic,Kaylis,0,0,safetensors; qwen3; hybrid-reasoning; latent-reasoning; agent; tool-use; text-generation; conversational; en; arxiv:2610.18861; base_model:Qwen/Qwen3-8B-Base; base_model:finetune:Qwen/Qwen3-8B-Base;…
+2026-11-18T22:28:37Z,creativedev1234/co14k,creativedev1234,0,0,region:us
+2026-11-18T22:28:38Z,paradoxailab/pwm-dyn-v0.7-pems-bay,paradoxailab,0,0,pytorch; paradoxailab; paradox-world-model; pwm-dyn; forecasting; spatiotemporal; traffic-forecasting; time-series-forecasting; license:apache-2.0; region:us
+2026-11-18T22:28:38Z,creativedev1234/co245k,creativedev1234,0,0,region:us
+2026-11-18T22:28:39Z,rhine-river/co172k,rhine-river,0,0,region:us
+2026-11-18T22:28:40Z,rhine-river/co236k,rhine-river,0,0,region:us
+2026-11-18T22:28:40Z,paradoxailab/pwm-w-delhi-v0.1,paradoxailab,0,0,pytorch; paradoxailab; paradox-world-model; pwm-w; forecasting; spatiotemporal; air-quality; india; time-series-forecasting; license:apache-2.0; region:us
+2026-11-18T22:28:42Z,paradoxailab/pwm-w-delhi-v0.2,paradoxailab,0,0,pytorch; paradoxailab; paradox-world-model; pwm-w; forecasting; spatiotemporal; air-quality; weather-forecasting; india; time-series-forecasting; license:apache-2.0; region:us
+2026-11-18T22:28:43Z,frenchchips/co251k,frenchchips,0,0,region:us
+2026-11-18T22:28:43Z,frenchchips/co207k,frenchchips,0,0,region:us
+2026-11-18T22:28:44Z,p5ych3d/h3imageplora,p5ych3d,0,0,region:us
+2026-11-18T22:28:44Z,paradoxailab/pwm-w-weather-v0.3-cpcb,paradoxailab,0,0,pytorch; paradoxailab; paradox-world-model; pwm-w; forecasting; spatiotemporal; weather-forecasting; india; time-series-forecasting; license:apache-2.0; region:us
+2026-11-18T22:28:45Z,frenchchips/co15k,frenchchips,0,0,region:us
+2026-11-18T22:28:45Z,johngreendr2/123ebb152ad61d1e,johngreendr2,0,0,region:us
+2026-11-18T22:28:46Z,paradoxailab/pwm-w-weather-v0.3-wmo,paradoxailab,0,0,pytorch; paradoxailab; paradox-world-model; pwm-w; forecasting; spatiotemporal; weather-forecasting; india; time-series-forecasting; license:apache-2.0; region:us
+2026-11-18T22:28:48Z,paradoxailab/pwm-w-weather-v0.4-cpcb,paradoxailab,0,0,pytorch; paradoxailab; paradox-world-model; pwm-w; forecasting; spatiotemporal; weather-forecasting; india; time-series-forecasting; license:apache-2.0; region:us
+2026-11-18T22:28:50Z,paradoxailab/pwm-w-weather-v0.4-wmo,paradoxailab,0,0,pytorch; paradoxailab; paradox-world-model; pwm-w; forecasting; spatiotemporal; weather-forecasting; india; time-series-forecasting; license:apache-2.0; region:us
+2026-11-18T22:28:52Z,paradoxailab/pwm-w-weather-v0.5-metar,paradoxailab,0,0,pytorch; paradoxailab; paradox-world-model; pwm-w; forecasting; spatiotemporal; air-quality; weather-forecasting; india; time-series-forecasting; license:apache-2.0; region:us
+2026-11-18T22:28:59Z,team-sobits/sobit_home_left_sim-pnp_tomato_trash-abs-200ep-pi05_vlmlora_fullexpert-steps37500-decay37500,team-sobits,0,0,safetensors; region:us
+2026-11-18T22:29:13Z,paradoxailab/pwm-w-weather-v0.6-cpcb,paradoxailab,0,0,pytorch; paradoxailab; paradox-world-model; pwm-w; forecasting; spatiotemporal; rainfall; weather-forecasting; india; time-series-forecasting; license:apache-2.0; region:us
+2026-11-18T22:29:16Z,paradoxailab/pwm-w-weather-v0.8-cpcb,paradoxailab,0,0,pytorch; paradoxailab; paradox-world-model; pwm-w; forecasting; spatiotemporal; weather-forecasting; india; time-series-forecasting; license:apache-2.0; region:us
+2026-11-18T22:29:18Z,paradoxailab/pwm-x-cpcb,paradoxailab,0,0,pytorch; paradoxailab; paradox-world-model; pwm-w; forecasting; spatiotemporal; air-quality; weather-forecasting; india; time-series-forecasting; license:apache-2.0; region:us
+2026-11-18T22:29:20Z,paradoxailab/pwm-w-live-v0.9,paradoxailab,0,0,pytorch; paradoxailab; paradox-world-model; pwm-w; forecasting; spatiotemporal; air-quality; india; time-series-forecasting; license:apache-2.0; region:us
+2026-11-18T22:29:22Z,paradoxailab/pwm-w-v1.0-metar,paradoxailab,0,0,pytorch; paradoxailab; paradox-world-model; pwm-w; forecasting; spatiotemporal; air-quality; weather-forecasting; india; time-series-forecasting; license:apache-2.0; region:us
+2026-11-18T22:29:24Z,mhseo2/klear8b-planfmt-rl-v9-stepend-r8dptokc-s5,mhseo2,0,0,safetensors; qwen3; region:us
+2026-11-18T22:29:24Z,paradoxailab/pwm-w-v1.0-wmo,paradoxailab,0,0,pytorch; paradoxailab; paradox-world-model; pwm-w; forecasting; spatiotemporal; weather-forecasting; india; time-series-forecasting; license:apache-2.0; region:us
+2026-11-18T22:29:26Z,paradoxailab/pwm-f-encoder-v2.0,paradoxailab,0,0,pytorch; paradoxailab; paradox-world-model; pwm-w; forecasting; spatiotemporal; rainfall; weather-forecasting; india; time-series-forecasting; license:apache-2.0; region:us
+2026-11-18T22:29:29Z,Jattt6789/Moonlight-16B-A3B-DeFiltered,Jattt6789,0,0,transformers; safetensors; deepseek_v3; text-generation; conversational; custom_code; arxiv:2502.16982; license:mit; text-generation-inference; endpoints_compatible; region:us
+2026-11-18T22:29:30Z,paradoxailab/pwm-f-encoder-v2.1,paradoxailab,0,0,pytorch; paradoxailab; paradox-world-model; pwm-w; forecasting; spatiotemporal; rainfall; weather-forecasting; india; time-series-forecasting; license:apache-2.0; region:us
+2026-11-18T22:29:50Z,paradoxailab/atlas-delhi-v1.0,paradoxailab,0,0,pytorch; paradoxailab; paradox-world-model; atlas; forecasting; spatiotemporal; air-quality; india; time-series-forecasting; license:apache-2.0; region:us
+2026-11-18T22:29:52Z,paradoxailab/atlas-delhi-v1.1,paradoxailab,0,0,pytorch; paradoxailab; paradox-world-model; atlas; forecasting; spatiotemporal; air-quality; india; time-series-forecasting; license:apache-2.0; region:us
+2026-11-18T22:29:55Z,paradoxailab/atlas-delhi-v1.2,paradoxailab,0,0,pytorch; paradoxailab; paradox-world-model; atlas; forecasting; spatiotemporal; air-quality; india; time-series-forecasting; license:apache-2.0; region:us
+2026-11-18T22:29:57Z,paradoxailab/atlas-india-v1.0,paradoxailab,0,0,pytorch; paradoxailab; paradox-world-model; atlas; forecasting; spatiotemporal; air-quality; india; time-series-forecasting; license:apache-2.0; region:us
+2026-11-18T22:29:59Z,paradoxailab/atlas-india-v1.3-pretrain,paradoxailab,0,0,pytorch; paradoxailab; paradox-world-model; atlas; forecasting; spatiotemporal; air-quality; india; time-series-forecasting; license:apache-2.0; region:us
+2026-11-18T22:30:01Z,paradoxailab/atlas-delhi-v1.3,paradoxailab,0,0,pytorch; paradoxailab; paradox-world-model; atlas; forecasting; spatiotemporal; rainfall; air-quality; india; time-series-forecasting; license:apache-2.0; region:us
+2026-11-18T22:30:01Z,Phyl0x/TALOS-Unitree-G1-RL,Phyl0x,0,0,robotics; reinforcement-learning; mujoco; ros2; unitree-g1; unitree-go2; defense-hackathon; fr; en; license:mit; region:us
+2026-11-18T22:30:23Z,paradoxailab/atlas-w-v0,paradoxailab,0,0,pytorch; paradoxailab; paradox-world-model; atlas; forecasting; spatiotemporal; air-quality; india; time-series-forecasting; license:apache-2.0; region:us
+2026-11-18T22:30:25Z,paradoxailab/atlas-w-v1-pretrain,paradoxailab,0,0,pytorch; paradoxailab; paradox-world-model; atlas; forecasting; spatiotemporal; air-quality; india; time-series-forecasting; license:apache-2.0; region:us
+2026-11-18T22:30:34Z,paradoxailab/atlas-w-v1-delhi,paradoxailab,0,0,pytorch; paradoxailab; paradox-world-model; atlas; forecasting; spatiotemporal; air-quality; india; time-series-forecasting; license:apache-2.0; region:us
+2026-11-18T22:30:36Z,paradoxailab/atlas-delhi-i1,paradoxailab,0,0,pytorch; paradoxailab; paradox-world-model; atlas; forecasting; spatiotemporal; air-quality; india; time-series-forecasting; license:apache-2.0; region:us
+2026-11-18T22:30:57Z,paradoxailab/atlas-v1.4n,paradoxailab,0,0,pytorch; paradoxailab; paradox-world-model; atlas; forecasting; spatiotemporal; air-quality; india; time-series-forecasting; license:apache-2.0; region:us
+2026-11-18T22:31:01Z,paradoxailab/atlas-p,paradoxailab,0,0,pytorch; paradoxailab; paradox-world-model; atlas; forecasting; spatiotemporal; air-quality; india; time-series-forecasting; license:apache-2.0; region:us
+2026-11-18T22:31:03Z,paradoxailab/atlas-scale-3m,paradoxailab,0,0,pytorch; paradoxailab; paradox-world-model; atlas; forecasting; spatiotemporal; air-quality; india; time-series-forecasting; license:apache-2.0; region:us
+2026-11-18T22:31:05Z,paradoxailab/atlas-scale-10m,paradoxailab,0,0,pytorch; paradoxailab; paradox-world-model; atlas; forecasting; spatiotemporal; air-quality; india; time-series-forecasting; license:apache-2.0; region:us
+2026-11-18T22:31:42Z,d4ydy/sixthphysics-qwen3.5-9b-lora,d4ydy,0,0,peft; safetensors; physics; education; neuro-symbolic; tool-use; lora; qwen3_5; ib-physics; a-level-physics; ncuk-ify; benchmark; text-generation; conversational; en; dataset:d4ydy/sixthphysics-bench…
+2026-11-18T22:31:49Z,paradoxailab/atlas-w1,paradoxailab,0,0,pytorch; paradoxailab; paradox-world-model; atlas; forecasting; spatiotemporal; air-quality; weather-forecasting; india; time-series-forecasting; license:apache-2.0; region:us
+2026-11-18T22:31:52Z,paradoxailab/atlas-w10,paradoxailab,0,0,pytorch; paradoxailab; paradox-world-model; atlas; forecasting; spatiotemporal; air-quality; weather-forecasting; india; time-series-forecasting; license:apache-2.0; region:us
+2026-11-18T22:31:55Z,paradoxailab/atlas-w10r,paradoxailab,0,0,pytorch; paradoxailab; paradox-world-model; atlas; forecasting; spatiotemporal; air-quality; weather-forecasting; india; time-series-forecasting; license:apache-2.0; region:us
+2026-11-18T22:31:58Z,paradoxailab/atlas-w-delhi-tb,paradoxailab,0,0,pytorch; paradoxailab; paradox-world-model; atlas; forecasting; spatiotemporal; air-quality; india; time-series-forecasting; license:apache-2.0; region:us
+2026-11-18T22:32:01Z,paradoxailab/atlas-5k-v1,paradoxailab,0,0,pytorch; paradoxailab; paradox-world-model; atlas; forecasting; spatiotemporal; weather-forecasting; time-series-forecasting; license:apache-2.0; region:us
+2026-11-18T22:32:03Z,paradoxailab/atlas-5k-v2a,paradoxailab,0,0,pytorch; paradoxailab; paradox-world-model; atlas; forecasting; spatiotemporal; weather-forecasting; time-series-forecasting; license:apache-2.0; region:us
+2026-11-18T22:32:05Z,paradoxailab/atlas-5k-v2c,paradoxailab,0,0,pytorch; paradoxailab; paradox-world-model; atlas; forecasting; spatiotemporal; weather-forecasting; time-series-forecasting; license:apache-2.0; region:us
+2026-11-18T22:32:07Z,paradoxailab/atlas-5k-10m,paradoxailab,0,0,pytorch; paradoxailab; paradox-world-model; atlas; forecasting; spatiotemporal; weather-forecasting; time-series-forecasting; license:apache-2.0; region:us
+2026-11-18T22:32:10Z,paradoxailab/atlas-5k-25m,paradoxailab,0,0,pytorch; paradoxailab; paradox-world-model; atlas; forecasting; spatiotemporal; weather-forecasting; time-series-forecasting; license:apache-2.0; region:us
+2026-11-18T22:32:15Z,paradoxailab/paradox-world-model-series,paradoxailab,0,0,paradoxailab; paradox-world-model; license:apache-2.0; region:us
+2026-11-18T22:32:49Z,AbrahamPJ/minimax-h3-image-q4_0-gguf,AbrahamPJ,0,0,gguf; text-to-image; base_model:MiniMaxAI/MiniMax-H3-Image; base_model:finetune:MiniMaxAI/MiniMax-H3-Image; license:other; region:us
+2026-11-18T22:33:04Z,pedrojb04/beyond-the-move,pedrojb04,0,0,peft; safetensors; chess; lora; education; text-generation; pt; base_model:Qwen/Qwen2.5-0.5B-Instruct; base_model:adapter:Qwen/Qwen2.5-0.5B-Instruct; license:apache-2.0; region:us
+2026-11-18T22:33:22Z,Bekhzod/TASK_01_bimanual_cube_transfer_teleop_pi05,Bekhzod,0,0,lerobot; safetensors; robotics; smolvla; dataset:Bekhzod/TASK_01_bimanual_cube_transfer_teleop_train; arxiv:2506.01844; base_model:lerobot/smolvla_base; base_model:finetune:lerobot/smolvla_base; lice…
+2026-11-18T22:36:37Z,Mspanz88/playground-lm-onnx,Mspanz88,0,0,onnx; text-generation; playground-lm; en; region:us
+2026-11-18T22:36:43Z,drofn/SenseNova-Loop-9B-8GB-v2-GGUF,drofn,0,0,gguf; quantized; llama.cpp; sensenova-loop; looped-transformer; 8gb-vram; imatrix; mtp; speculative-decoding; vision; image-text-to-text; en; zh; tr; base_model:sensenova/SenseNova-Loop-9B; base_mode…
+2026-11-18T22:40:01Z,Darkidd/iluminacionZTurbo,Darkidd,0,0,diffusers; text-to-image; lora; template:diffusion-lora; base_model:Tongyi-MAI/Z-Image-Turbo; base_model:adapter:Tongyi-MAI/Z-Image-Turbo; region:us
+2026-11-18T22:40:52Z,MiguelAiUser/sora-3,MiguelAiUser,0,0,open_clip; text-to-video; en; dataset:AtomicChat/DeepSeek-V4.1-Flash-1017-Uncensored-GGUF-metrics; base_model:SORALab/TriCosmos-2.5-predict; base_model:finetune:SORALab/TriCosmos-2.5-predict; license…
+2026-11-18T22:41:36Z,inference-optimization/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-NVFP4-compressed-tensors,inference-optimization,0,0,transformers; safetensors; nemotron_h_omni; image-text-to-text; nvidia; nemotron-3.5; nvfp4; fp4; compressed-tensors; modelopt; vllm; conversational; custom_code; en; es; fr; de; it; ja; base_model:n…
+2026-11-18T22:42:42Z,mradermacher/jasmine-yomi-2b-GGUF,mradermacher,0,0,transformers; gguf; japanese; g2p; kanji-reading; furigana; yomi; qwen3_5; jasmine; ja; base_model:pakutoma/jasmine-yomi-2b; base_model:quantized:pakutoma/jasmine-yomi-2b; license:apache-2.0; endpoin…
+2026-11-18T22:42:48Z,Parth1612/Qwen2.5-Coder-0.5B-Instruct-Intel-Mac-GGUF,Parth1612,0,0,llama.cpp; gguf; code; macos; prompt-lookup; text-generation; base_model:Qwen/Qwen2.5-Coder-0.5B-Instruct; base_model:quantized:Qwen/Qwen2.5-Coder-0.5B-Instruct; license:apache-2.0; endpoints_compati…
+2026-11-18T22:43:39Z,nahumxd/image,nahumxd,0,0,license:bigscience-openrail-m; region:us
+2026-11-18T22:43:42Z,Umit432/gemma-2-2b-laravel-GGUF,Umit432,0,0,transformers; gguf; gemma2; text-generation; gemma-2; laravel; php; unsloth; text-generation-inference; license:gemma; endpoints_compatible; region:us; conversational
+2026-11-18T22:44:44Z,Umit432/gemma-2-2b-laravel-merged,Umit432,0,0,transformers; safetensors; gemma2; text-generation; gemma-2; laravel; php; unsloth; text-generation-inference; conversational; license:gemma; endpoints_compatible; region:us
+2026-11-18T22:46:06Z,angt/DaisyRose-27B-GGUF,angt,0,0,gguf; llama.cpp; daisyrose; qwen3.8; qwen3.5; multimodal; image-text-to-text; base_model:RadixArk/DaisyRose-27B; base_model:quantized:RadixArk/DaisyRose-27B; license:apache-2.0; endpoints_compatible;…
+2026-11-18T22:46:12Z,Kuchiriel/microturn-duplex,Kuchiriel,0,0,peft; gguf; voice; micro-turn; full-duplex; lora; turn-taking; real-time; text-generation; pt; en; base_model:Qwen/Qwen3.5-4B; base_model:adapter:Qwen/Qwen3.5-4B; license:apache-2.0; region:us
+2026-11-18T22:46:22Z,suraj-phanindra/microduck-sprint-hc5b-aifund,suraj-phanindra,0,0,microduck; onnx; robotics; reinforcement-learning; base_model:juicenv/microduck-sprint-auto10161753; base_model:finetune:juicenv/microduck-sprint-auto10161753; region:us
+2026-11-18T22:46:27Z,suraj-phanindra/microduck-hill-hc5b-aifund,suraj-phanindra,0,0,microduck; onnx; robotics; reinforcement-learning; base_model:juicenv/microduck-hill-es8; base_model:finetune:juicenv/microduck-hill-es8; region:us
+2026-11-18T22:46:31Z,suraj-phanindra/microduck-roller-hc5b-aifund,suraj-phanindra,0,0,microduck; onnx; robotics; reinforcement-learning; base_model:juicenv/microduck-roller-es21; base_model:finetune:juicenv/microduck-roller-es21; region:us
+2026-11-18T22:47:43Z,mradermacher/Smaug-Uncensored-i1-GGUF,mradermacher,0,0,gguf; region:us
+2026-11-18T22:47:45Z,amais23/so101_molmoact2_cube_pouring_trimmed,amais23,0,0,safetensors; region:us
+2026-11-18T22:47:48Z,IsValorum/Qwen3.8-27B-pi-adapted-BF16-GGUF,IsValorum,0,0,gguf; llama.cpp; bf16; qwen3.8; qwen3.5; mtp; pi; agents; apex; text-generation; base_model:harness-hub/Qwen3.8-27B-pi-adapted; base_model:quantized:harness-hub/Qwen3.8-27B-pi-adapted; license:apache…
+2026-11-18T22:48:38Z,mradermacher/cafebert-xnli-vi-GGUF,mradermacher,0,0,transformers; gguf; natural-language-inference; nli; vietnamese; full-fine-tuning; vi; dataset:facebook/xnli; base_model:OneDayMaster2910/cafebert-xnli-vi; base_model:quantized:OneDayMaster2910/cafeb…
+2026-11-18T22:49:39Z,ZhichengLiao/math8b-dora-lr1e-5-seed43-s120,ZhichengLiao,0,0,safetensors; region:us
+2026-11-18T22:50:27Z,mradermacher/jasmine-yomi-4b-GGUF,mradermacher,0,0,transformers; gguf; japanese; g2p; kanji-reading; furigana; yomi; qwen3_5; jasmine; ja; base_model:pakutoma/jasmine-yomi-4b; base_model:quantized:pakutoma/jasmine-yomi-4b; license:apache-2.0; endpoin…
+2026-11-18T22:50:34Z,PES24/spd05,PES24,0,0,region:us
+2026-11-18T22:50:34Z,JokerJokerJoker/cat05b,JokerJokerJoker,0,0,region:us
+2026-11-18T22:51:29Z,clear-blue-sky/cto05,clear-blue-sky,0,0,region:us
+2026-11-18T22:51:30Z,AltEinstein/bmb06,AltEinstein,0,0,region:us
+2026-11-18T22:51:30Z,mama-chen/mum08,mama-chen,0,0,region:us
+2026-11-18T22:52:08Z,racer102/hal05,racer102,0,0,region:us
+2026-11-18T22:52:20Z,PES24/spd04,PES24,0,0,region:us
+2026-11-18T22:52:23Z,AltEinstein/bmb08b,AltEinstein,0,0,region:us
+2026-11-18T22:52:36Z,racer102/hal10b,racer102,0,0,region:us
+2026-11-18T22:52:38Z,mama-chen/mum04,mama-chen,0,0,region:us
+2026-11-18T22:52:42Z,nest102/god06b,nest102,0,0,region:us
+2026-11-18T22:52:46Z,JokerJokerJoker/cat08,JokerJokerJoker,0,0,region:us
+2026-11-18T22:52:46Z,clear-blue-sky/cto01b,clear-blue-sky,0,0,region:us
+2026-11-18T22:53:03Z,JokerJokerJoker/cat02,JokerJokerJoker,0,0,region:us
+2026-11-18T22:53:05Z,AndreasG10/ppo-LunarLander-v2,AndreasG10,0,0,pytorch; LunarLander-v2; ppo; reinforcement-learning; deep-reinforcement-learning; custom-implementation; cleanrl; deep-rl-course; license:mit; model-index; region:us
+2026-11-18T22:53:26Z,PES24/spd01b,PES24,0,0,region:us
+2026-11-18T22:54:03Z,howie92/MyAwesomeModel-TestRepo,howie92,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-11-18T22:54:05Z,KucLab/Censer.3,KucLab,0,0,transformers; safetensors; llama; text-classification; safety; content-moderation; tiny-language-model; from-scratch; en; dataset:nvidia/Aegis-AI-Content-Safety-Dataset-1.0; dataset:thesofakillers/ji…
+2026-11-18T22:54:32Z,mradermacher/Tenet-12B-Nemo-Unslop-v1-GGUF,mradermacher,0,0,transformers; gguf; tenet; lancet; unslop; fp8; vllm; openrouter; grpo; abliterated; uncensored; agentic; tool-use; coding; safetensors; conversational; en; base_model:mr-andrey-isachenko/Tenet-12B-N…
+2026-11-18T22:54:41Z,SargeDev/Edge0-Cyber-Uncensored-nvfp4-v2,SargeDev,0,0,edge0; gguf; moe; edge-inference; latent-moe; 4-bit; agent; coding; cuda; abliterated; base_model:Edge0/Edge0-145B-NVFP4; base_model:quantized:Edge0/Edge0-145B-NVFP4; license:other; endpoints_compati…
+2026-11-18T22:55:19Z,anhdao69/training_log_nav,anhdao69,0,0,region:us
+2026-11-18T22:55:28Z,IsValorum/Qwen3.8-27B-pi-adapted-VAL-APEX-I-MiniPlus-V3-GGUF,IsValorum,0,0,gguf; llama.cpp; quantized; apex; val-apex; miniplus; imatrix; qwen35; qwen3.8; mtp; pi; agents; text-generation; base_model:harness-hub/Qwen3.8-27B-pi-adapted; base_model:quantized:harness-hub/Qwen3…
+2026-11-18T22:56:49Z,nyleeaa0503/MyAwesomeModel-TestRepo,nyleeaa0503,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-11-18T22:57:08Z,yeib/geniejinn-models,yeib,0,0,license:other; region:us
+2026-11-18T22:57:29Z,Shanahancn/MyAwesomeModel-TestRepo,Shanahancn,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-11-18T22:58:33Z,stevensaltacc/paul-mccartney-glasgow-1979-rvc-V2,stevensaltacc,0,0,license:openrail; region:us
+2026-11-18T23:00:47Z,sony3021919/gemma-4-E2B-it-qat-q4_0-gguf,sony3021919,0,0,transformers; gguf; any-to-any; arxiv:2607.02770; base_model:google/gemma-4-E2B-it-qat-q4_0-unquantized; base_model:quantized:google/gemma-4-E2B-it-qat-q4_0-unquantized; license:apache-2.0; endpoints…
+2026-11-18T23:01:19Z,geocketa/BelieveDiffusion,geocketa,0,0,region:us
+2026-11-18T23:01:49Z,ryaluous/Wasabi_tea,ryaluous,0,0,region:us
+2026-11-18T23:02:16Z,dissembill/coreml-sd15,dissembill,0,0,coreml; stable-diffusion; apple-silicon; palettized; text-to-image; base_model:runwayml/stable-diffusion-v1-5; base_model:finetune:runwayml/stable-diffusion-v1-5; license:creativeml-openrail-m; regio…
+2026-11-18T23:02:44Z,mradermacher/MobileWeave-8B-GGUF,mradermacher,0,0,gguf; endpoints_compatible; region:us; conversational
+2026-11-18T23:03:01Z,IsValorum/Qwen3.8-27B-pi-adapted-VAL-APEX-I-NanoPlus-V3-GGUF,IsValorum,0,0,gguf; llama.cpp; quantized; apex; val-apex; nanoplus; imatrix; qwen35; qwen3.8; mtp; pi; agents; text-generation; base_model:harness-hub/Qwen3.8-27B-pi-adapted; base_model:quantized:harness-hub/Qwen3…
+2026-11-18T23:04:05Z,hakbari/meta_llama_3_1_8B_instruct_iit_phi_91,hakbari,0,0,safetensors; llama; region:us
+2026-11-18T23:05:04Z,Kaleto/SenseNova-Loop-9B-NVFP4,Kaleto,0,0,vllm; safetensors; sensenova_loop; nvfp4; fp4; modelopt; blackwell; dgx-spark; gb10; sensenova; sensenova-loop; looped-transformer; mhc; text-generation; conversational; custom_code; base_model:sense…
+2026-11-18T23:05:07Z,Kaleto/SenseNova-Loop-9B-NVFP4-MLP,Kaleto,0,0,vllm; safetensors; sensenova_loop; nvfp4; fp4; modelopt; blackwell; dgx-spark; gb10; sensenova; sensenova-loop; looped-transformer; mhc; text-generation; conversational; custom_code; base_model:sense…
+2026-11-18T23:05:41Z,ElMusk/fun06,ElMusk,0,0,region:us
+2026-11-18T23:05:41Z,JokerJokerJoker/cat01,JokerJokerJoker,0,0,region:us
+2026-11-18T23:05:41Z,AltEinstein/bmb09b,AltEinstein,0,0,region:us
+2026-11-18T23:05:52Z,anusasaha/NLA_analysis,anusasaha,0,0,region:us
+2026-11-18T23:05:52Z,AltEinstein/bmb05,AltEinstein,0,0,region:us
+2026-11-18T23:05:53Z,clear-blue-sky/cto02b,clear-blue-sky,0,0,region:us
+2026-11-18T23:05:53Z,mama-chen/mum02,mama-chen,0,0,region:us
+2026-11-18T23:06:04Z,LibertAIDAI/Hy4-flash-EXL3-3bpw,LibertAIDAI,0,0,exllamav3; safetensors; hy_v4_flash; exl3; moe; engram; quantized; en; zh; base_model:tencent/Hy4-flash; base_model:quantized:tencent/Hy4-flash; license:other; 3-bit; region:us
+2026-11-18T23:06:15Z,ElMusk/fun05,ElMusk,0,0,region:us
+2026-11-18T23:06:28Z,AltEinstein/bmb04,AltEinstein,0,0,region:us
+2026-11-18T23:06:52Z,1lock/zils-lite-de7b,1lock,0,0,safetensors; region:us
+2026-11-18T23:07:01Z,RunningHubAI/rh-mel-ravena-lora,RunningHubAI,0,0,comfyui; lora; image-text-to-image; region:us
+2026-11-18T23:07:15Z,olivergallego/Qwen3-4B-Q4_K_M-GGUF,olivergallego,0,0,transformers; gguf; llama-cpp; gguf-my-repo; text-generation; base_model:Qwen/Qwen3-4B; base_model:quantized:Qwen/Qwen3-4B; license:apache-2.0; endpoints_compatible; region:us; conversational
+2026-11-18T23:08:13Z,alibayram/luciole-8b-distill-continued,alibayram,0,0,region:us
+2026-11-18T23:08:22Z,olivergallego/Qwen3-4B-Q8_0-GGUF,olivergallego,0,0,transformers; gguf; llama-cpp; gguf-my-repo; text-generation; base_model:Qwen/Qwen3-4B; base_model:quantized:Qwen/Qwen3-4B; license:apache-2.0; endpoints_compatible; region:us; conversational
+2026-11-18T23:08:51Z,sairaph-official/functiongemma-mobile-actions_q8_ekv1024.litertlm-5683618,sairaph-official,0,0,agent; mobile-actions; function-calling; gemma; text-generation; base_model:google/functiongemma-270m-it; base_model:finetune:google/functiongemma-270m-it; license:gemma; region:us
+2026-11-18T23:09:32Z,sairaph-official/Qwen3-0.6B-8d42ab5,sairaph-official,0,0,litert-lm; litertlm; qwen; Qwen3; text-generation; en; arxiv:2505.09388; base_model:Qwen/Qwen3-0.6B; base_model:quantized:Qwen/Qwen3-0.6B; license:apache-2.0; region:us
+2026-11-18T23:09:57Z,IsValorum/Qwen3.8-27B-pi-adapted-VAL-APEX-I-MicroPlus-V3-GGUF,IsValorum,0,0,gguf; llama.cpp; quantized; apex; val-apex; microplus; imatrix; qwen35; qwen3.8; mtp; pi; agents; text-generation; base_model:harness-hub/Qwen3.8-27B-pi-adapted; base_model:quantized:harness-hub/Qwen…
+2026-11-18T23:10:15Z,KhangTruong/FOCAL-Finetune,KhangTruong,0,0,region:us
+2026-11-18T23:11:23Z,jimenezjun/arbol,jimenezjun,0,0,region:us
+2026-11-18T23:11:42Z,sairaph-official/Qwen3-1.7B-c421cc3,sairaph-official,0,0,litert-lm; litertlm; qwen; Qwen3; text-generation; en; base_model:Qwen/Qwen3-1.7B; base_model:quantized:Qwen/Qwen3-1.7B; license:apache-2.0; region:us
+2026-11-18T23:12:06Z,Tilas/nemotron-3.5-darija-v1,Tilas,0,0,nemo; speech-recognition; streaming; darija; moroccan-arabic; code-switching; fastconformer; rnnt; automatic-speech-recognition; ary; ar; fr; en; base_model:nvidia/nemotron-3.5-asr-streaming-0.6b; ba…
+2026-11-18T23:12:09Z,jimenezjun/arbolito,jimenezjun,0,0,region:us
+2026-11-18T23:12:59Z,dissembill/seedvr2-3b-mflux-q4,dissembill,0,0,mflux; mlx; apple-silicon; upscaler; quantized; seedvr2; image-to-image; base_model:ByteDance-Seed/SeedVR2-3B; base_model:quantized:ByteDance-Seed/SeedVR2-3B; license:apache-2.0; region:us
+2026-11-18T23:13:41Z,sairaph-official/Ministral-3-3B-Instruct-2512-4a82790,sairaph-official,0,0,litert-lm; litert; litertlm; on-device; edge; ministral; mistral; text-generation; base_model:mistralai/Ministral-3-3B-Instruct-2512; base_model:quantized:mistralai/Ministral-3-3B-Instruct-2512; lice…
+2026-11-18T23:13:43Z,tundraneck907/Hy4-flash,tundraneck907,0,0,transformers; safetensors; hy_v4_flash; text-generation; hunyuan; hy4-flash; moe; multimodal; instruct; image-text-to-text; conversational; license:other; endpoints_compatible; region:us
+2026-11-18T23:13:45Z,DrMorisio/D112,DrMorisio,0,1,region:us
+2026-11-18T23:13:47Z,dissembill/flux-3-image-klein-mflux-q4,dissembill,0,0,mflux; mlx; apple-silicon; quantized; text-to-image; flux3; base_model:black-forest-labs/flux-3-image-klein; base_model:quantized:black-forest-labs/flux-3-image-klein; license:other; region:us
+2026-11-18T23:16:31Z,yyuan244/hop2-off_web_v2r_geoanc_mbis_glo05_s4-gs100-model,yyuan244,0,0,region:us
+2026-11-18T23:16:33Z,tundraneck907/DeepSeek-V4.1-Flash-1017,tundraneck907,0,0,transformers; safetensors; deepseek_v41; text-generation; image-text-to-text; conversational; license:mit; endpoints_compatible; 8-bit; fp8; region:us
+2026-11-18T23:18:49Z,mindsofchaos/codeoptics-coder-3b-v8,mindsofchaos,0,0,transformers; safetensors; arxiv:1910.09700; endpoints_compatible; region:us
+2026-11-18T23:19:19Z,toolathlon-mai/MyAwesomeModel-TestRepo,toolathlon-mai,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-11-18T23:19:40Z,i1-dar/i1-3B-dar,i1-dar,0,0,license:mit; region:us
+2026-11-18T23:19:49Z,sairaph-official/Qwen3-4B-17b6220,sairaph-official,0,0,litert-lm; litertlm; qwen; Qwen3; text-generation; en; arxiv:2505.09388; base_model:Qwen/Qwen3-4B; base_model:quantized:Qwen/Qwen3-4B; license:apache-2.0; region:us
+2026-11-18T23:20:36Z,igerry/SenseNova-Loop-9B-FP8,igerry,0,0,region:us
+2026-11-18T23:20:44Z,Gyseop/omx_real15,Gyseop,0,0,lerobot; safetensors; act; robotics; dataset:Gyseop/record-real15; arxiv:2304.13705; license:apache-2.0; region:us
+2026-11-18T23:20:59Z,v1assets/takemeter-distilbert,v1assets,0,0,region:us
+2026-11-18T23:21:30Z,zakir0101/llm-l1-v6,zakir0101,0,0,region:us
