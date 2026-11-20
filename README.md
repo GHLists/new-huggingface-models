@@ -9,216 +9,216 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 21:22 UTC
+## Latest list — 2026-11-20 22:20 UTC
 
-New models created between 2026-11-20 20:19 UTC and 2026-11-20 21:22 UTC.
+New models created between 2026-11-20 21:22 UTC and 2026-11-20 22:20 UTC.
 
-[Full CSV](data/new-models-2026-11-20T21-22-05-875651Z.csv)
+[Full CSV](data/new-models-2026-11-20T22-20-40-224113Z.csv)
 
 | Created (UTC) | Model | Author | Downloads | Likes | Tags |
 | :------------ | :---- | :----- | --------: | ----: | :--- |
-| 2026-11-20 20:19:27 | [mama-chen/mum07b](https://huggingface.co/mama-chen/mum07b) | mama-chen | 0 | 0 | region:us |
-| 2026-11-20 20:19:27 | [brother-winter/bro09b](https://huggingface.co/brother-winter/bro09b) | brother-winter | 0 | 0 | region:us |
-| 2026-11-20 20:19:29 | [PES24/spd10](https://huggingface.co/PES24/spd10) | PES24 | 0 | 0 | region:us |
-| 2026-11-20 20:19:30 | [TheShellMaster/cypher-DeepSeek-V4-Pro-Qwen3.5-9B-heretic](https://huggingface.co/TheShellMaster/cypher-DeepSeek-V4-Pro-Qwen3.5-9B-heretic) | TheShellMaster | 0 | 0 | gguf; cypher-studio; base_model:mradermacher/DeepSeek-V4-Pr… |
-| 2026-11-20 20:19:30 | [advanced-control/act_piper_pour_rice_1120_v2](https://huggingface.co/advanced-control/act_piper_pour_rice_1120_v2) | advanced-control | 0 | 0 | lerobot; safetensors; robotics; act; dataset:advanced-contr… |
-| 2026-11-20 20:19:46 | [ElMusk/fun02b](https://huggingface.co/ElMusk/fun02b) | ElMusk | 0 | 0 | region:us |
-| 2026-11-20 20:19:46 | [JokerJokerJoker/cat03](https://huggingface.co/JokerJokerJoker/cat03) | JokerJokerJoker | 0 | 0 | region:us |
-| 2026-11-20 20:19:47 | [StreamUnhingedPro/streamunhinged-pro-models](https://huggingface.co/StreamUnhingedPro/streamunhinged-pro-models) | StreamUnhingedPro | 0 | 0 | streamunhinged-pro; base_model:Qwen/Qwen2.5-7B-Instruct; ba… |
-| 2026-11-20 20:19:48 | [mama-chen/mum10b](https://huggingface.co/mama-chen/mum10b) | mama-chen | 0 | 0 | region:us |
-| 2026-11-20 20:19:49 | [mama-chen/mum05b](https://huggingface.co/mama-chen/mum05b) | mama-chen | 0 | 0 | region:us |
-| 2026-11-20 20:20:13 | [mrthor102/gun03](https://huggingface.co/mrthor102/gun03) | mrthor102 | 0 | 0 | region:us |
-| 2026-11-20 20:20:16 | [Archemimi/eugie](https://huggingface.co/Archemimi/eugie) | Archemimi | 0 | 0 | diffusers; text-to-image; lora; krea2; template:sd-lora; ba… |
-| 2026-11-20 20:20:25 | [christianengel/agent-guard-longctx](https://huggingface.co/christianengel/agent-guard-longctx) | christianengel | 0 | 0 | transformers; onnx; safetensors; modernbert; text-classific… |
-| 2026-11-20 20:20:36 | [raeidsaqur/M1-v2](https://huggingface.co/raeidsaqur/M1-v2) | raeidsaqur | 0 | 0 | safetensors; time-series; forecasting; research-preview; ti… |
-| 2026-11-20 20:20:45 | [raeidsaqur/M1-CP-v2](https://huggingface.co/raeidsaqur/M1-CP-v2) | raeidsaqur | 0 | 1 | safetensors; time-series; forecasting; research-preview; ti… |
-| 2026-11-20 20:21:11 | [yushengsu/Qwen3-8B-5layer-MoE-64E8A-FFN1536-1ep](https://huggingface.co/yushengsu/Qwen3-8B-5layer-MoE-64E8A-FFN1536-1ep) | yushengsu | 0 | 0 | region:us |
-| 2026-11-20 20:21:29 | [DmitryZap/llm-course-hw3-qlora](https://huggingface.co/DmitryZap/llm-course-hw3-qlora) | DmitryZap | 0 | 0 | peft; safetensors; sentiment-analysis; qlora; text-generati… |
-| 2026-11-20 20:22:11 | [doanhlt/cabin-asr-cjk-sensevoice-small-lwf-r3](https://huggingface.co/doanhlt/cabin-asr-cjk-sensevoice-small-lwf-r3) | doanhlt | 0 | 0 | onnx; asr; sherpa-onnx; offline; cabin; license:other; regi… |
-| 2026-11-20 20:22:33 | [alibayram/luciole-8b-distill-v6](https://huggingface.co/alibayram/luciole-8b-distill-v6) | alibayram | 0 | 0 | region:us |
-| 2026-11-20 20:23:02 | [z0ne343/whisper-small-hi](https://huggingface.co/z0ne343/whisper-small-hi) | z0ne343 | 0 | 0 | region:us |
-| 2026-11-20 20:23:39 | [smd20/imdb-distilbert-sentiment](https://huggingface.co/smd20/imdb-distilbert-sentiment) | smd20 | 0 | 0 | transformers; safetensors; distilbert; text-classification;… |
-| 2026-11-20 20:24:19 | [ZheZhang130/hw10-full-finetuned](https://huggingface.co/ZheZhang130/hw10-full-finetuned) | ZheZhang130 | 0 | 0 | safetensors; llama; region:us |
-| 2026-11-20 20:24:30 | [kemalarif/berturk-offenseval-tr](https://huggingface.co/kemalarif/berturk-offenseval-tr) | kemalarif | 0 | 0 | onnx; safetensors; text-classification; offensive-language;… |
-| 2026-11-20 20:24:47 | [Asukaa02/cubic-colab](https://huggingface.co/Asukaa02/cubic-colab) | Asukaa02 | 0 | 0 | ubuntu; iso; google-colab; cubic; linux; squashfs; xorriso;… |
-| 2026-11-20 20:25:02 | [AMFORGE/KEEP-TRACE-Benchmarks](https://huggingface.co/AMFORGE/KEEP-TRACE-Benchmarks) | AMFORGE | 0 | 0 | cybersecurity; malware-detection; ransomware; binary-analys… |
-| 2026-11-20 20:25:13 | [brownvc/R3GAN2-WebGPU](https://huggingface.co/brownvc/R3GAN2-WebGPU) | brownvc | 0 | 0 | onnx; gan; image-generation; webgpu; unconditional-image-ge… |
-| 2026-11-20 20:25:17 | [snowbolt0907123/promptforge-smollm2-onnx](https://huggingface.co/snowbolt0907123/promptforge-smollm2-onnx) | snowbolt0907123 | 0 | 0 | onnx; llama; region:us |
-| 2026-11-20 20:25:43 | [ETME-TECH/EliasAI-Micro](https://huggingface.co/ETME-TECH/EliasAI-Micro) | ETME-TECH | 0 | 0 | transformers; safetensors; gguf; qwen3_5_text; text-generat… |
-| 2026-11-20 20:25:44 | [moonbox-dev/stable-audio-3-medium-MLX](https://huggingface.co/moonbox-dev/stable-audio-3-medium-MLX) | moonbox-dev | 0 | 0 | mlx; moonbox; stable-audio-3; audio-generation; music; soun… |
-| 2026-11-20 20:26:16 | [Miiche/OVON-qwen38rl-GRPO15-step0016](https://huggingface.co/Miiche/OVON-qwen38rl-GRPO15-step0016) | Miiche | 0 | 0 | safetensors; qwen3_5; region:us |
-| 2026-11-20 20:26:56 | [lair-nyu/pi05_baseline_j22_lift-step39999](https://huggingface.co/lair-nyu/pi05_baseline_j22_lift-step39999) | lair-nyu | 0 | 0 | openpi; robotics; pi05; region:us |
-| 2026-11-20 20:27:20 | [JoshuaCalhoon/Qwen3.8-27B-Pi](https://huggingface.co/JoshuaCalhoon/Qwen3.8-27B-Pi) | JoshuaCalhoon | 0 | 0 | mlx; safetensors; qwen3_5; gptq; 4-bit; qwen; 3.8; agentic;… |
-| 2026-11-20 20:29:39 | [DrantOff/RARSianin](https://huggingface.co/DrantOff/RARSianin) | DrantOff | 0 | 0 | region:us |
-| 2026-11-20 20:30:11 | [coreytoolathon/MyAwesomeModel-TestRepo](https://huggingface.co/coreytoolathon/MyAwesomeModel-TestRepo) | coreytoolathon | 0 | 0 | transformers; pytorch; bert; feature-extraction; license:mi… |
-| 2026-11-20 20:30:23 | [lair-nyu/pi05_baseline_j22-step38000](https://huggingface.co/lair-nyu/pi05_baseline_j22-step38000) | lair-nyu | 0 | 0 | openpi; robotics; pi05; region:us |
-| 2026-11-20 20:30:57 | [plantwaterer/peshtur](https://huggingface.co/plantwaterer/peshtur) | plantwaterer | 0 | 0 | transformers; safetensors; qwen3_5; image-text-to-text; dec… |
-| 2026-11-20 20:31:51 | [TakuyaMatsumoto/multitask-test](https://huggingface.co/TakuyaMatsumoto/multitask-test) | TakuyaMatsumoto | 0 | 0 | safetensors; deit; pytorch; multitask; license:bsd-3-clause… |
-| 2026-11-20 20:31:59 | [GinDuck/microduck-trick-pack](https://huggingface.co/GinDuck/microduck-trick-pack) | GinDuck | 0 | 0 | microduck; onnx; microduck-policy; robotics; license:apache… |
-| 2026-11-20 20:32:45 | [plantwaterer/eshbartur](https://huggingface.co/plantwaterer/eshbartur) | plantwaterer | 0 | 0 | transformers; safetensors; qwen3_5_text; text-generation; d… |
-| 2026-11-20 20:33:35 | [lair-nyu/pi05_handoff_subtasks-step14999](https://huggingface.co/lair-nyu/pi05_handoff_subtasks-step14999) | lair-nyu | 0 | 0 | openpi; robotics; pi05; region:us |
-| 2026-11-20 20:33:57 | [WUrbane/vartrace-multipass-520m](https://huggingface.co/WUrbane/vartrace-multipass-520m) | WUrbane | 0 | 0 | transformers; safetensors; vartrace; fine-tuned; endpoints_… |
-| 2026-11-20 20:34:45 | [msgowdara/qb-qwen2.5-3b-kanglish-lora](https://huggingface.co/msgowdara/qb-qwen2.5-3b-kanglish-lora) | msgowdara | 0 | 0 | peft; safetensors; base_model:adapter:Qwen/Qwen2.5-3B-Instr… |
-| 2026-11-20 20:35:18 | [usr256864/qw3_4_all_grp_1](https://huggingface.co/usr256864/qw3_4_all_grp_1) | usr256864 | 0 | 0 | safetensors; qwen3; region:us |
-| 2026-11-20 20:36:17 | [nomeda-lab/pixel-art-tiny-colorizer-36m](https://huggingface.co/nomeda-lab/pixel-art-tiny-colorizer-36m) | nomeda-lab | 0 | 0 | region:us |
-| 2026-11-20 20:36:22 | [Richopera/nanpiao-rvc-v2](https://huggingface.co/Richopera/nanpiao-rvc-v2) | Richopera | 0 | 0 | rvc; svc; voice-conversion; applio; audio-to-audio; zh; bas… |
-| 2026-11-20 20:36:30 | [Kur0ba/sn102-l16](https://huggingface.co/Kur0ba/sn102-l16) | Kur0ba | 0 | 0 | region:us |
-| 2026-11-20 20:36:30 | [Kur0ba/sn102-l15](https://huggingface.co/Kur0ba/sn102-l15) | Kur0ba | 0 | 0 | region:us |
-| 2026-11-20 20:36:44 | [lair-nyu/pi05_spatial_subtasks_30k-step29999](https://huggingface.co/lair-nyu/pi05_spatial_subtasks_30k-step29999) | lair-nyu | 0 | 0 | openpi; robotics; pi05; region:us |
-| 2026-11-20 20:37:34 | [Aitor04/modelo_act_robot](https://huggingface.co/Aitor04/modelo_act_robot) | Aitor04 | 0 | 0 | safetensors; region:us |
-| 2026-11-20 20:37:53 | [Kostya818711/HAMEl](https://huggingface.co/Kostya818711/HAMEl) | Kostya818711 | 0 | 0 | license:openrail; region:us |
-| 2026-11-20 20:38:36 | [Teriks/Wan-Animate-2-14B-quants](https://huggingface.co/Teriks/Wan-Animate-2-14B-quants) | Teriks | 0 | 0 | gguf; dgenerate; quantization; base_model:Wan-AI/Wan2.2-Ani… |
-| 2026-11-20 20:39:36 | [KatherineBaxter/MyAwesomeModel-TestRepo](https://huggingface.co/KatherineBaxter/MyAwesomeModel-TestRepo) | KatherineBaxter | 0 | 0 | transformers; pytorch; bert; feature-extraction; license:mi… |
-| 2026-11-20 20:39:40 | [postrational/Mellum2.1-12B-A2.5B-Thinking-sft2-GGUF](https://huggingface.co/postrational/Mellum2.1-12B-A2.5B-Thinking-sft2-GGUF) | postrational | 0 | 0 | gguf; mellum; llama.cpp; llama-cpp; unsloth; endpoints_comp… |
-| 2026-11-20 20:40:14 | [nativ-community/Inkling-2-Mini-nvfp4](https://huggingface.co/nativ-community/Inkling-2-Mini-nvfp4) | nativ-community | 0 | 2 | mlx; safetensors; inkling2_loop; conversational; image-text… |
-| 2026-11-20 20:40:17 | [msgowdara/qb-qwen2.5-3b-kanglish](https://huggingface.co/msgowdara/qb-qwen2.5-3b-kanglish) | msgowdara | 0 | 0 | safetensors; qwen2; region:us |
-| 2026-11-20 20:40:25 | [lair-nyu/pi05_sanity_subtasks_uniform-step14999](https://huggingface.co/lair-nyu/pi05_sanity_subtasks_uniform-step14999) | lair-nyu | 0 | 0 | openpi; robotics; pi05; region:us |
-| 2026-11-20 20:40:48 | [LlewellynAlaina/MyAwesomeModel-TestRepo](https://huggingface.co/LlewellynAlaina/MyAwesomeModel-TestRepo) | LlewellynAlaina | 0 | 0 | transformers; pytorch; bert; feature-extraction; license:mi… |
-| 2026-11-20 20:41:02 | [sharjeel01/TribalBus-AI](https://huggingface.co/sharjeel01/TribalBus-AI) | sharjeel01 | 0 | 0 | transformers; joblib; safetensors; multilingual; conversati… |
-| 2026-11-20 20:41:04 | [ikimyaii/HGRN-1.3B-semi-structured-EHWS-80pct-seed2](https://huggingface.co/ikimyaii/HGRN-1.3B-semi-structured-EHWS-80pct-seed2) | ikimyaii | 0 | 0 | safetensors; hgrn; pruning; sparsity; semi-structured; admm… |
-| 2026-11-20 20:42:09 | [Ejiro123/turbo-racing-3d-assets](https://huggingface.co/Ejiro123/turbo-racing-3d-assets) | Ejiro123 | 0 | 0 | license:apache-2.0; region:us |
-| 2026-11-20 20:42:14 | [HungryDino/qwen_2.5_7b-control_numbers-self_collapse_p10_e5_r8_ct128-gen7](https://huggingface.co/HungryDino/qwen_2.5_7b-control_numbers-self_collapse_p10_e5_r8_ct128-gen7) | HungryDino | 0 | 0 | transformers; safetensors; text-generation-inference; unslo… |
-| 2026-11-20 20:42:21 | [AtomicChat/Inkling-2-Mini-GGUF](https://huggingface.co/AtomicChat/Inkling-2-Mini-GGUF) | AtomicChat | 0 | 1 | gguf; llama.cpp; inkling2; moe; image-text-to-text; base_mo… |
-| 2026-11-20 20:42:23 | [AtomicChat/Inkling-2-Mini-Uncensored-GGUF](https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF) | AtomicChat | 0 | 0 | gguf; llama.cpp; inkling2; uncensored; lora; image-text-to-… |
-| 2026-11-20 20:42:38 | [batteryphil/VAULT-v3-3B-PRIMAL](https://huggingface.co/batteryphil/VAULT-v3-3B-PRIMAL) | batteryphil | 0 | 0 | transformers; safetensors; vault_v3; text-generation; vault… |
-| 2026-11-20 20:43:25 | [therachitkumar/panther-store-Qwen2.5-1.5B-Instruct](https://huggingface.co/therachitkumar/panther-store-Qwen2.5-1.5B-Instruct) | therachitkumar | 0 | 0 | gguf; endpoints_compatible; region:us; imatrix; conversatio… |
-| 2026-11-20 20:44:07 | [zyhovo/MyAwesomeModel-TestRepo](https://huggingface.co/zyhovo/MyAwesomeModel-TestRepo) | zyhovo | 0 | 0 | transformers; pytorch; bert; feature-extraction; license:mi… |
-| 2026-11-20 20:44:08 | [batteryphil/VAULT-v3-3B-PRIMAL-VLT3](https://huggingface.co/batteryphil/VAULT-v3-3B-PRIMAL-VLT3) | batteryphil | 0 | 0 | vault-v3; vlt3; c99; freestanding; arm-neon; avx2; base_mod… |
-| 2026-11-20 20:45:32 | [LeoZotos/math_rmu_Qwen3.5-9B_math_sft_difficulty_20261120_202526_534192_cf92a01e](https://huggingface.co/LeoZotos/math_rmu_Qwen3.5-9B_math_sft_difficulty_20261120_202526_534192_cf92a01e) | LeoZotos | 0 | 0 | safetensors; qwen3_5_text; region:us |
-| 2026-11-20 20:46:47 | [despe209/waha-boutikia](https://huggingface.co/despe209/waha-boutikia) | despe209 | 0 | 1 | region:us |
-| 2026-11-20 20:48:02 | [Elbarbary/so101_smolvla_digitaltwin_v2](https://huggingface.co/Elbarbary/so101_smolvla_digitaltwin_v2) | Elbarbary | 0 | 0 | region:us |
-| 2026-11-20 20:48:08 | [valentin-marquez/snaicc-asistente-2b](https://huggingface.co/valentin-marquez/snaicc-asistente-2b) | valentin-marquez | 0 | 0 | gguf; llama.cpp; tool-calling; function-calling; climate; c… |
-| 2026-11-20 20:48:31 | [MisasAI/LittlePotion-1BPW](https://huggingface.co/MisasAI/LittlePotion-1BPW) | MisasAI | 0 | 0 | model2vec; embeddings; static-embeddings; sentence-similari… |
-| 2026-11-20 20:48:53 | [sanjaya02/my_awesome_opus_books_model](https://huggingface.co/sanjaya02/my_awesome_opus_books_model) | sanjaya02 | 0 | 0 | safetensors; t5; region:us |
-| 2026-11-20 20:49:17 | [Phoonnx/vits-sn_zw-mms-graphemes](https://huggingface.co/Phoonnx/vits-sn_zw-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; sn; license:cc-by-nc-4.… |
-| 2026-11-20 20:49:17 | [Phoonnx/vits-ubl-mms-graphemes](https://huggingface.co/Phoonnx/vits-ubl-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; ubl; license:cc-by-nc-4… |
-| 2026-11-20 20:49:22 | [finvector/qwen_qlora_finmodern_tri_adapter](https://huggingface.co/finvector/qwen_qlora_finmodern_tri_adapter) | finvector | 0 | 0 | safetensors; region:us |
-| 2026-11-20 20:50:05 | [finvector/qwen_qlora_finmodern_tri_merged](https://huggingface.co/finvector/qwen_qlora_finmodern_tri_merged) | finvector | 0 | 0 | sentence-transformers; safetensors; qwen3; feature-extracti… |
-| 2026-11-20 20:50:07 | [Phoonnx/vits-sxn-mms-graphemes](https://huggingface.co/Phoonnx/vits-sxn-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; sxn; license:cc-by-nc-4… |
-| 2026-11-20 20:50:09 | [Phoonnx/vits-syl-mms-graphemes](https://huggingface.co/Phoonnx/vits-syl-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; syl; license:cc-by-nc-4… |
-| 2026-11-20 20:50:09 | [Phoonnx/vits-ug_arab-mms-graphemes](https://huggingface.co/Phoonnx/vits-ug_arab-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; ug; license:cc-by-nc-4.… |
-| 2026-11-20 20:50:12 | [Phoonnx/vits-snw-mms-graphemes](https://huggingface.co/Phoonnx/vits-snw-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; snw; license:cc-by-nc-4… |
-| 2026-11-20 20:50:51 | [Phoonnx/vits-tac-mms-graphemes](https://huggingface.co/Phoonnx/vits-tac-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; tac; license:cc-by-nc-4… |
-| 2026-11-20 20:50:52 | [empiriolabsai/kokoro-dutch](https://huggingface.co/empiriolabsai/kokoro-dutch) | empiriolabsai | 0 | 0 | kokoro; onnx; style_text_to_speech_2; text-to-speech; tts;… |
-| 2026-11-20 20:50:54 | [Phoonnx/vits-ta-mms-graphemes](https://huggingface.co/Phoonnx/vits-ta-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; ta; license:cc-by-nc-4.… |
-| 2026-11-20 20:51:06 | [Phoonnx/vits-spp-mms-graphemes](https://huggingface.co/Phoonnx/vits-spp-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; spp; license:cc-by-nc-4… |
-| 2026-11-20 20:51:26 | [LeoZotos/math_rmu_Qwen3.5-9B_math_sft_subject_20261120_202526_539401_c7a00bce](https://huggingface.co/LeoZotos/math_rmu_Qwen3.5-9B_math_sft_subject_20261120_202526_539401_c7a00bce) | LeoZotos | 0 | 0 | safetensors; qwen3_5_text; region:us |
-| 2026-11-20 20:51:33 | [Phoonnx/vits-tt_ru-mms-graphemes](https://huggingface.co/Phoonnx/vits-tt_ru-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; tt; license:cc-by-nc-4.… |
-| 2026-11-20 20:51:34 | [Phoonnx/vits-upv-mms-graphemes](https://huggingface.co/Phoonnx/vits-upv-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; upv; license:cc-by-nc-4… |
-| 2026-11-20 20:51:35 | [Phoonnx/vits-tap-mms-graphemes](https://huggingface.co/Phoonnx/vits-tap-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; tap; license:cc-by-nc-4… |
-| 2026-11-20 20:51:44 | [Phoonnx/vits-srm-mms-graphemes](https://huggingface.co/Phoonnx/vits-srm-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; srm; license:cc-by-nc-4… |
-| 2026-11-20 20:52:11 | [Phoonnx/vits-tbk-mms-graphemes](https://huggingface.co/Phoonnx/vits-tbk-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; tbk; license:cc-by-nc-4… |
-| 2026-11-20 20:52:24 | [binmu203-toolathlon/MyAwesomeModel-TestRepo](https://huggingface.co/binmu203-toolathlon/MyAwesomeModel-TestRepo) | binmu203-toolathlon | 0 | 0 | transformers; pytorch; bert; feature-extraction; license:mi… |
-| 2026-11-20 20:52:30 | [Phoonnx/vits-tbc-mms-graphemes](https://huggingface.co/Phoonnx/vits-tbc-mms-graphemes) | Phoonnx | 0 | 1 | phoonnx; onnx; mms; text-to-speech; tbc; license:cc-by-nc-4… |
-| 2026-11-20 20:52:35 | [Phoonnx/vits-ur_deva-mms-graphemes](https://huggingface.co/Phoonnx/vits-ur_deva-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; ur; license:cc-by-nc-4.… |
-| 2026-11-20 20:52:38 | [Phoonnx/vits-tca-mms-graphemes](https://huggingface.co/Phoonnx/vits-tca-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; tca; license:cc-by-nc-4… |
-| 2026-11-20 20:53:09 | [Phoonnx/vits-tby-mms-graphemes](https://huggingface.co/Phoonnx/vits-tby-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; tby; license:cc-by-nc-4… |
-| 2026-11-20 20:53:19 | [Phoonnx/vits-stp-mms-graphemes](https://huggingface.co/Phoonnx/vits-stp-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; stp; license:cc-by-nc-4… |
-| 2026-11-20 20:53:30 | [taharmasmaliyev07/Qwen3.5-35B-FACEBOOK-E2-BF16](https://huggingface.co/taharmasmaliyev07/Qwen3.5-35B-FACEBOOK-E2-BF16) | taharmasmaliyev07 | 0 | 0 | transformers; safetensors; qwen3_5_moe; image-text-to-text;… |
-| 2026-11-20 20:53:35 | [Phoonnx/vits-ury-mms-graphemes](https://huggingface.co/Phoonnx/vits-ury-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; ury; license:cc-by-nc-4… |
-| 2026-11-20 20:53:39 | [Phoonnx/vits-tcs-mms-graphemes](https://huggingface.co/Phoonnx/vits-tcs-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; tcs; license:cc-by-nc-4… |
-| 2026-11-20 20:54:12 | [ramoncg/tech-challenge-gemma-llm-fine-tuning-adapter-v5](https://huggingface.co/ramoncg/tech-challenge-gemma-llm-fine-tuning-adapter-v5) | ramoncg | 0 | 0 | safetensors; unsloth; gemma-4; qlora; veterinary-nlp; petev… |
-| 2026-11-20 20:54:33 | [Phoonnx/vits-tdj-mms-graphemes](https://huggingface.co/Phoonnx/vits-tdj-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; tdj; license:cc-by-nc-4… |
-| 2026-11-20 20:54:39 | [Phoonnx/vits-sur-mms-graphemes](https://huggingface.co/Phoonnx/vits-sur-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; sur; license:cc-by-nc-4… |
-| 2026-11-20 20:54:46 | [ramoncg/tech-challenge-gemma-llm-fine-tuning-light-v5](https://huggingface.co/ramoncg/tech-challenge-gemma-llm-fine-tuning-light-v5) | ramoncg | 0 | 0 | safetensors; unsloth; gemma-4; qlora; veterinary-nlp; petev… |
-| 2026-11-20 20:54:47 | [Phoonnx/vits-vid-mms-graphemes](https://huggingface.co/Phoonnx/vits-vid-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; vid; license:cc-by-nc-4… |
-| 2026-11-20 20:55:05 | [Phoonnx/vits-tee-mms-graphemes](https://huggingface.co/Phoonnx/vits-tee-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; tee; license:cc-by-nc-4… |
-| 2026-11-20 20:55:26 | [nikolaenk0/Qwen3-14B-Medical-COT](https://huggingface.co/nikolaenk0/Qwen3-14B-Medical-COT) | nikolaenk0 | 0 | 0 | transformers; safetensors; text-generation-inference; unslo… |
-| 2026-11-20 20:56:35 | [Phoonnx/vits-ter-mms-graphemes](https://huggingface.co/Phoonnx/vits-ter-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; ter; license:cc-by-nc-4… |
-| 2026-11-20 20:56:36 | [Phoonnx/vits-vmy-mms-graphemes](https://huggingface.co/Phoonnx/vits-vmy-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; vmy; license:cc-by-nc-4… |
-| 2026-11-20 20:56:56 | [Phoonnx/vits-sv-mms-graphemes](https://huggingface.co/Phoonnx/vits-sv-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; sv; license:cc-by-nc-4.… |
-| 2026-11-20 20:57:09 | [WUrbane/vartrace-multipass-130m](https://huggingface.co/WUrbane/vartrace-multipass-130m) | WUrbane | 0 | 0 | transformers; safetensors; vartrace; fine-tuned; endpoints_… |
-| 2026-11-20 20:57:38 | [enzomzfu/hw1-matching](https://huggingface.co/enzomzfu/hw1-matching) | enzomzfu | 0 | 0 | safetensors; hybrid; pytorch; matching; license:bsd-3-claus… |
-| 2026-11-20 20:57:42 | [Phoonnx/vits-tem-mms-graphemes](https://huggingface.co/Phoonnx/vits-tem-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; tem; license:cc-by-nc-4… |
-| 2026-11-20 20:57:44 | [develephant/ltx-2.3](https://huggingface.co/develephant/ltx-2.3) | develephant | 0 | 0 | region:us |
-| 2026-11-20 20:57:54 | [Phoonnx/vits-sya-mms-graphemes](https://huggingface.co/Phoonnx/vits-sya-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; sya; license:cc-by-nc-4… |
-| 2026-11-20 20:58:26 | [Thengbeo/tube](https://huggingface.co/Thengbeo/tube) | Thengbeo | 0 | 0 | region:us |
-| 2026-11-20 20:58:51 | [Phoonnx/vits-taj-mms-graphemes](https://huggingface.co/Phoonnx/vits-taj-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; taj; license:cc-by-nc-4… |
-| 2026-11-20 20:58:54 | [rywijaya/study-grounded-language](https://huggingface.co/rywijaya/study-grounded-language) | rywijaya | 0 | 0 | safetensors; transformer; research-notes; grounded-language… |
-| 2026-11-20 20:59:10 | [Phoonnx/vits-tfr-mms-graphemes](https://huggingface.co/Phoonnx/vits-tfr-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; tfr; license:cc-by-nc-4… |
-| 2026-11-20 20:59:18 | [dogknowsAI/65e56216fa52f587](https://huggingface.co/dogknowsAI/65e56216fa52f587) | dogknowsAI | 0 | 0 | region:us |
-| 2026-11-20 20:59:18 | [dogknowsAI/4c8e69890f064cf6](https://huggingface.co/dogknowsAI/4c8e69890f064cf6) | dogknowsAI | 0 | 0 | region:us |
-| 2026-11-20 20:59:20 | [cyjin-yl/ScarletKc-2.0-NVFP4](https://huggingface.co/cyjin-yl/ScarletKc-2.0-NVFP4) | cyjin-yl | 0 | 0 | qwen3_5; modelopt; region:us |
-| 2026-11-20 20:59:24 | [Phoonnx/vits-tew-mms-graphemes](https://huggingface.co/Phoonnx/vits-tew-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; tew; license:cc-by-nc-4… |
-| 2026-11-20 20:59:38 | [ijinyu1113/ft_mr8_410m_seed53_lr3e-5_wd0.05_constlr10steps_nimsimple_max50000_evalevery25_purenum](https://huggingface.co/ijinyu1113/ft_mr8_410m_seed53_lr3e-5_wd0.05_constlr10steps_nimsimple_max50000_evalevery25_purenum) | ijinyu1113 | 0 | 0 | region:us |
-| 2026-11-20 20:59:50 | [Phoonnx/vits-tg_tj-mms-graphemes](https://huggingface.co/Phoonnx/vits-tg_tj-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; tg; license:cc-by-nc-4.… |
-| 2026-11-20 20:59:51 | [Phoonnx/vits-tgo-mms-graphemes](https://huggingface.co/Phoonnx/vits-tgo-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; tgo; license:cc-by-nc-4… |
-| 2026-11-20 20:59:59 | [Phoonnx/vits-wal_latn-mms-graphemes](https://huggingface.co/Phoonnx/vits-wal_latn-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; wal; license:cc-by-nc-4… |
-| 2026-11-20 21:00:01 | [Phoonnx/vits-taq-mms-graphemes](https://huggingface.co/Phoonnx/vits-taq-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; taq; license:cc-by-nc-4… |
-| 2026-11-20 21:00:23 | [ah00haruto/GLM-5.3-Flash](https://huggingface.co/ah00haruto/GLM-5.3-Flash) | ah00haruto | 0 | 0 | transformers; safetensors; glm5_next; image-text-to-text; c… |
-| 2026-11-20 21:00:26 | [amiram123/trt](https://huggingface.co/amiram123/trt) | amiram123 | 0 | 0 | region:us |
-| 2026-11-20 21:00:28 | [SieloRobotics/fineart_vla_machine_tending_II_action_v3](https://huggingface.co/SieloRobotics/fineart_vla_machine_tending_II_action_v3) | SieloRobotics | 0 | 0 | region:us |
-| 2026-11-20 21:00:35 | [Phoonnx/vits-thl-mms-graphemes](https://huggingface.co/Phoonnx/vits-thl-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; thl; license:cc-by-nc-4… |
-| 2026-11-20 21:00:38 | [KumarGouravSingh2005/QLORA_FINE_TUNED](https://huggingface.co/KumarGouravSingh2005/QLORA_FINE_TUNED) | KumarGouravSingh2005 | 0 | 0 | region:us |
-| 2026-11-20 21:00:40 | [Phoonnx/vits-tbg-mms-graphemes](https://huggingface.co/Phoonnx/vits-tbg-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; tbg; license:cc-by-nc-4… |
-| 2026-11-20 21:00:41 | [Phoonnx/vits-way-mms-graphemes](https://huggingface.co/Phoonnx/vits-way-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; way; license:cc-by-nc-4… |
-| 2026-11-20 21:00:42 | [Phoonnx/vits-th_th-mms-graphemes](https://huggingface.co/Phoonnx/vits-th_th-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; th; license:cc-by-nc-4.… |
-| 2026-11-20 21:00:48 | [Agarwal1234/Jarvis](https://huggingface.co/Agarwal1234/Jarvis) | Agarwal1234 | 0 | 0 | license:apache-2.0; region:us |
-| 2026-11-20 21:00:55 | [ah00haruto/Kimi-K3](https://huggingface.co/ah00haruto/Kimi-K3) | ah00haruto | 0 | 0 | transformers; safetensors; kimi_k3; feature-extraction; com… |
-| 2026-11-20 21:01:22 | [MisasAI/LittleLittlePotion-164kb](https://huggingface.co/MisasAI/LittleLittlePotion-164kb) | MisasAI | 0 | 0 | model2vec; embeddings; static-embeddings; sentence-similari… |
-| 2026-11-20 21:01:27 | [Jordine/rlport-animal-penguin-stage1](https://huggingface.co/Jordine/rlport-animal-penguin-stage1) | Jordine | 0 | 0 | region:us |
-| 2026-11-20 21:01:32 | [Jordine/rlport-animal-puffin-stage1](https://huggingface.co/Jordine/rlport-animal-puffin-stage1) | Jordine | 0 | 0 | region:us |
-| 2026-11-20 21:01:42 | [juanderson/document-ai-sandbox](https://huggingface.co/juanderson/document-ai-sandbox) | juanderson | 0 | 0 | safetensors; transformer; research-notes; document-ai; lice… |
-| 2026-11-20 21:01:44 | [Arczisan/wacky](https://huggingface.co/Arczisan/wacky) | Arczisan | 0 | 0 | region:us |
-| 2026-11-20 21:01:51 | [amiram123/trttt](https://huggingface.co/amiram123/trttt) | amiram123 | 0 | 0 | region:us |
-| 2026-11-20 21:01:52 | [Phoonnx/vits-tbz-mms-graphemes](https://huggingface.co/Phoonnx/vits-tbz-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; tbz; license:cc-by-nc-4… |
-| 2026-11-20 21:02:14 | [Miiche/OVON-qwen38rl-GRPO15-step0018](https://huggingface.co/Miiche/OVON-qwen38rl-GRPO15-step0018) | Miiche | 0 | 0 | safetensors; qwen3_5; region:us |
-| 2026-11-20 21:02:21 | [ah00haruto/DeepSeek-V4.1-Flash](https://huggingface.co/ah00haruto/DeepSeek-V4.1-Flash) | ah00haruto | 0 | 0 | transformers; safetensors; deepseek_v41; text-generation; i… |
-| 2026-11-20 21:02:47 | [Phoonnx/vits-tkr-mms-graphemes](https://huggingface.co/Phoonnx/vits-tkr-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; tkr; license:cc-by-nc-4… |
-| 2026-11-20 21:02:58 | [BMU2026/MyAwesomeModel-TestRepo](https://huggingface.co/BMU2026/MyAwesomeModel-TestRepo) | BMU2026 | 0 | 0 | transformers; pytorch; bert; feature-extraction; license:mi… |
-| 2026-11-20 21:03:13 | [ericflo/stet-glide-pairwise-adapter](https://huggingface.co/ericflo/stet-glide-pairwise-adapter) | ericflo | 0 | 0 | peft; safetensors; data-curation; document-quality; decisio… |
-| 2026-11-20 21:03:16 | [Phoonnx/vits-tik-mms-graphemes](https://huggingface.co/Phoonnx/vits-tik-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; tik; license:cc-by-nc-4… |
-| 2026-11-20 21:03:50 | [espnet/voxcelebs12_rawnet3_espnet3](https://huggingface.co/espnet/voxcelebs12_rawnet3_espnet3) | espnet | 0 | 0 | espnet; esp2_spk; voxceleb; region:us |
-| 2026-11-20 21:04:08 | [Phoonnx/vits-tmc-mms-graphemes](https://huggingface.co/Phoonnx/vits-tmc-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; tmc; license:cc-by-nc-4… |
-| 2026-11-20 21:04:09 | [Phoonnx/vits-tlj-mms-graphemes](https://huggingface.co/Phoonnx/vits-tlj-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; tlj; license:cc-by-nc-4… |
-| 2026-11-20 21:04:44 | [Phoonnx/vits-tna-mms-graphemes](https://huggingface.co/Phoonnx/vits-tna-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; tna; license:cc-by-nc-4… |
-| 2026-11-20 21:05:02 | [Sosabberttt/phi-cot-sync-demo](https://huggingface.co/Sosabberttt/phi-cot-sync-demo) | Sosabberttt | 0 | 0 | region:us |
-| 2026-11-20 21:05:12 | [Phoonnx/vits-wmw-mms-graphemes](https://huggingface.co/Phoonnx/vits-wmw-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; wmw; license:cc-by-nc-4… |
-| 2026-11-20 21:05:15 | [Phoonnx/vits-tnp-mms-graphemes](https://huggingface.co/Phoonnx/vits-tnp-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; tnp; license:cc-by-nc-4… |
-| 2026-11-20 21:05:31 | [eltokh7/lory-4b-v2](https://huggingface.co/eltokh7/lory-4b-v2) | eltokh7 | 0 | 0 | transformers; safetensors; qwen3_5_text; feature-extraction… |
-| 2026-11-20 21:05:45 | [Phoonnx/vits-xal-mms-graphemes](https://huggingface.co/Phoonnx/vits-xal-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; xal; license:cc-by-nc-4… |
-| 2026-11-20 21:05:53 | [Phoonnx/vits-toc-mms-graphemes](https://huggingface.co/Phoonnx/vits-toc-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; toc; license:cc-by-nc-4… |
-| 2026-11-20 21:06:11 | [Phoonnx/vits-tnk-mms-graphemes](https://huggingface.co/Phoonnx/vits-tnk-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; tnk; license:cc-by-nc-4… |
-| 2026-11-20 21:06:16 | [Phoonnx/vits-xmm-mms-graphemes](https://huggingface.co/Phoonnx/vits-xmm-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; xmm; license:cc-by-nc-4… |
-| 2026-11-20 21:06:16 | [Phoonnx/vits-tpi-mms-graphemes](https://huggingface.co/Phoonnx/vits-tpi-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; tpi; license:cc-by-nc-4… |
-| 2026-11-20 21:06:28 | [zoarag/kiko9](https://huggingface.co/zoarag/kiko9) | zoarag | 0 | 0 | region:us |
-| 2026-11-20 21:06:46 | [vincentsaputra/research-embodied-ai99](https://huggingface.co/vincentsaputra/research-embodied-ai99) | vincentsaputra | 0 | 0 | safetensors; transformer; research-notes; embodied-ai; lice… |
-| 2026-11-20 21:06:49 | [Phoonnx/vits-tnt-mms-graphemes](https://huggingface.co/Phoonnx/vits-tnt-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; tnt; license:cc-by-nc-4… |
-| 2026-11-20 21:06:52 | [Phoonnx/vits-trc-mms-graphemes](https://huggingface.co/Phoonnx/vits-trc-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; trc; license:cc-by-nc-4… |
-| 2026-11-20 21:06:53 | [Phoonnx/vits-xon-mms-graphemes](https://huggingface.co/Phoonnx/vits-xon-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; xon; license:cc-by-nc-4… |
-| 2026-11-20 21:07:21 | [ryaluous/donkeykongs](https://huggingface.co/ryaluous/donkeykongs) | ryaluous | 0 | 0 | region:us |
-| 2026-11-20 21:07:25 | [Phoonnx/vits-ts_za-mms-graphemes](https://huggingface.co/Phoonnx/vits-ts_za-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; ts; license:cc-by-nc-4.… |
-| 2026-11-20 21:07:26 | [Phoonnx/vits-xsr-mms-graphemes](https://huggingface.co/Phoonnx/vits-xsr-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; xsr; license:cc-by-nc-4… |
-| 2026-11-20 21:07:35 | [bobbyby/Qwen3.8-Flash-Next](https://huggingface.co/bobbyby/Qwen3.8-Flash-Next) | bobbyby | 0 | 0 | transformers; safetensors; qwen4_exp; image-text-to-text; c… |
-| 2026-11-20 21:07:35 | [Phoonnx/vits-tcz-mms-graphemes](https://huggingface.co/Phoonnx/vits-tcz-mms-graphemes) | Phoonnx | 0 | 1 | phoonnx; onnx; mms; text-to-speech; tcz; license:cc-by-nc-4… |
-| 2026-11-20 21:07:36 | [eltokh7/lory-27b-v2](https://huggingface.co/eltokh7/lory-27b-v2) | eltokh7 | 0 | 0 | region:us |
-| 2026-11-20 21:07:37 | [Phoonnx/vits-tom-mms-graphemes](https://huggingface.co/Phoonnx/vits-tom-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; tom; license:cc-by-nc-4… |
-| 2026-11-20 21:07:40 | [empiriolabsai/kokoro-korean](https://huggingface.co/empiriolabsai/kokoro-korean) | empiriolabsai | 0 | 0 | region:us |
-| 2026-11-20 21:08:03 | [Phoonnx/vits-ttq_tfng-mms-graphemes](https://huggingface.co/Phoonnx/vits-ttq_tfng-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; ttq; license:cc-by-nc-4… |
-| 2026-11-20 21:08:04 | [Phoonnx/vits-xte-mms-graphemes](https://huggingface.co/Phoonnx/vits-xte-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; xte; license:cc-by-nc-4… |
-| 2026-11-20 21:08:07 | [Phoonnx/vits-te_in-mms-graphemes](https://huggingface.co/Phoonnx/vits-te_in-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; te; license:cc-by-nc-4.… |
-| 2026-11-20 21:08:39 | [timo6677/qwen3.5-0.8b-fruit-ripeness-lora](https://huggingface.co/timo6677/qwen3.5-0.8b-fruit-ripeness-lora) | timo6677 | 0 | 0 | gguf; lora; llama.cpp; fruit; ripeness; banana; apple; toma… |
-| 2026-11-20 21:08:54 | [Phoonnx/vits-xuo-mms-graphemes](https://huggingface.co/Phoonnx/vits-xuo-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; xuo; license:cc-by-nc-4… |
-| 2026-11-20 21:08:56 | [Phoonnx/vits-tpp-mms-graphemes](https://huggingface.co/Phoonnx/vits-tpp-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; tpp; license:cc-by-nc-4… |
-| 2026-11-20 21:09:15 | [nomeda-lab/pixel-art-tiny-silhouette-v2](https://huggingface.co/nomeda-lab/pixel-art-tiny-silhouette-v2) | nomeda-lab | 0 | 0 | region:us |
-| 2026-11-20 21:09:19 | [Phoonnx/vits-tk_latn-mms-graphemes](https://huggingface.co/Phoonnx/vits-tk_latn-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; tk; license:cc-by-nc-4.… |
-| 2026-11-20 21:09:21 | [empiriolabsai/kokoro-turkish](https://huggingface.co/empiriolabsai/kokoro-turkish) | empiriolabsai | 0 | 0 | region:us |
-| 2026-11-20 21:09:29 | [Phoonnx/vits-yam-mms-graphemes](https://huggingface.co/Phoonnx/vits-yam-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; yam; license:cc-by-nc-4… |
-| 2026-11-20 21:09:43 | [Phoonnx/vits-trn-mms-graphemes](https://huggingface.co/Phoonnx/vits-trn-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; trn; license:cc-by-nc-4… |
-| 2026-11-20 21:10:06 | [Phoonnx/vits-ttc-mms-graphemes](https://huggingface.co/Phoonnx/vits-ttc-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; ttc; license:cc-by-nc-4… |
-| 2026-11-20 21:10:17 | [LyzrAI/IntuitionGuard-8B](https://huggingface.co/LyzrAI/IntuitionGuard-8B) | LyzrAI | 0 | 0 | peft; safetensors; safety; guard; agent-safety; agent-traje… |
-| 2026-11-20 21:10:18 | [LyzrAI/IntuitionGuard-3B](https://huggingface.co/LyzrAI/IntuitionGuard-3B) | LyzrAI | 0 | 1 | peft; safetensors; safety; guard; agent-safety; agent-traje… |
-| 2026-11-20 21:10:27 | [tardellirs/Escriba-OCR-1B-GGUF](https://huggingface.co/tardellirs/Escriba-OCR-1B-GGUF) | tardellirs | 0 | 1 | region:us |
-| 2026-11-20 21:10:34 | [Phoonnx/vits-yaz-mms-graphemes](https://huggingface.co/Phoonnx/vits-yaz-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; yaz; license:cc-by-nc-4… |
-| 2026-11-20 21:10:47 | [Phoonnx/vits-tuf-mms-graphemes](https://huggingface.co/Phoonnx/vits-tuf-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; tuf; license:cc-by-nc-4… |
-| 2026-11-20 21:10:48 | [Phoonnx/vits-tes-mms-graphemes](https://huggingface.co/Phoonnx/vits-tes-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; tes; license:cc-by-nc-4… |
-| 2026-11-20 21:10:50 | [Nyxie/gsm8krl-llama3.2-1B-lora](https://huggingface.co/Nyxie/gsm8krl-llama3.2-1B-lora) | Nyxie | 0 | 0 | transformers; safetensors; arxiv:1910.09700; endpoints_comp… |
-| 2026-11-20 21:11:00 | [Phoonnx/vits-twb-mms-graphemes](https://huggingface.co/Phoonnx/vits-twb-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; twb; license:cc-by-nc-4… |
-| 2026-11-20 21:11:18 | [hyper88/Parallax-1.3B-preview](https://huggingface.co/hyper88/Parallax-1.3B-preview) | hyper88 | 0 | 0 | pytorch; world-model; camera-control; loop-closure; kv-cach… |
-| 2026-11-20 21:11:27 | [Phoonnx/vits-tr_tr-mms-graphemes](https://huggingface.co/Phoonnx/vits-tr_tr-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; tr; license:cc-by-nc-4.… |
-| 2026-11-20 21:11:29 | [Phoonnx/vits-txq-mms-graphemes](https://huggingface.co/Phoonnx/vits-txq-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; txq; license:cc-by-nc-4… |
+| 2026-11-20 21:22:12 | [Ahmed0120/TEST](https://huggingface.co/Ahmed0120/TEST) | Ahmed0120 | 0 | 0 | region:us |
+| 2026-11-20 21:22:17 | [Phoonnx/vits-wob-mms-graphemes](https://huggingface.co/Phoonnx/vits-wob-mms-graphemes) | Phoonnx | 0 | 1 | phoonnx; onnx; mms; text-to-speech; wob; license:cc-by-nc-4… |
+| 2026-11-20 21:22:20 | [Phoonnx/vits-wwa-mms-graphemes](https://huggingface.co/Phoonnx/vits-wwa-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; wwa; license:cc-by-nc-4… |
+| 2026-11-20 21:22:34 | [Phoonnx/vits-txa-mms-graphemes](https://huggingface.co/Phoonnx/vits-txa-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; txa; license:cc-by-nc-4… |
+| 2026-11-20 21:23:13 | [ZheZhang130/smollm2-finetuned-chat-instruct-lora-adapters](https://huggingface.co/ZheZhang130/smollm2-finetuned-chat-instruct-lora-adapters) | ZheZhang130 | 0 | 0 | region:us |
+| 2026-11-20 21:23:16 | [Phoonnx/vits-xdy-mms-graphemes](https://huggingface.co/Phoonnx/vits-xdy-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; xdy; license:cc-by-nc-4… |
+| 2026-11-20 21:23:25 | [Phoonnx/vits-xer-mms-graphemes](https://huggingface.co/Phoonnx/vits-xer-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; xer; license:cc-by-nc-4… |
+| 2026-11-20 21:23:45 | [Phoonnx/vits-tzh_x_bachajon-mms-bachajon-graphemes](https://huggingface.co/Phoonnx/vits-tzh_x_bachajon-mms-bachajon-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; tzh; license:cc-by-nc-4… |
+| 2026-11-20 21:23:46 | [Phoonnx/vits-zpi-mms-graphemes](https://huggingface.co/Phoonnx/vits-zpi-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; zpi; license:cc-by-nc-4… |
+| 2026-11-20 21:24:33 | [Phoonnx/vits-xnj-mms-graphemes](https://huggingface.co/Phoonnx/vits-xnj-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; xnj; license:cc-by-nc-4… |
+| 2026-11-20 21:24:35 | [Phoonnx/vits-tzo_x_chamula-mms-chamula-graphemes](https://huggingface.co/Phoonnx/vits-tzo_x_chamula-mms-chamula-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; tzo; license:cc-by-nc-4… |
+| 2026-11-20 21:24:39 | [Phoonnx/vits-xog-mms-graphemes](https://huggingface.co/Phoonnx/vits-xog-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; xog; license:cc-by-nc-4… |
+| 2026-11-20 21:25:01 | [Phoonnx/vits-zpt-mms-graphemes](https://huggingface.co/Phoonnx/vits-zpt-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; zpt; license:cc-by-nc-4… |
+| 2026-11-20 21:25:05 | [Jundot/Hy4-flash-oQ4h-mtp](https://huggingface.co/Jundot/Hy4-flash-oQ4h-mtp) | Jundot | 0 | 0 | mlx; safetensors; hy_v4_flash; oq; oqh; quantized; mtp; ima… |
+| 2026-11-20 21:25:10 | [HungryDino/qwen_2.5_7b-control_numbers-self_collapse_p10_e5_r8_ct128-gen8](https://huggingface.co/HungryDino/qwen_2.5_7b-control_numbers-self_collapse_p10_e5_r8_ct128-gen8) | HungryDino | 0 | 0 | transformers; safetensors; text-generation-inference; unslo… |
+| 2026-11-20 21:25:50 | [stanjsx/Spectator](https://huggingface.co/stanjsx/Spectator) | stanjsx | 0 | 0 | region:us |
+| 2026-11-20 21:25:57 | [Abdishaqi/Qwen](https://huggingface.co/Abdishaqi/Qwen) | Abdishaqi | 0 | 0 | region:us |
+| 2026-11-20 21:26:14 | [Phoonnx/vits-xsm-mms-graphemes](https://huggingface.co/Phoonnx/vits-xsm-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; xsm; license:cc-by-nc-4… |
+| 2026-11-20 21:26:39 | [ZhichengLiao/math8b-rslora-lr1e-5-seed44-s120](https://huggingface.co/ZhichengLiao/math8b-rslora-lr1e-5-seed44-s120) | ZhichengLiao | 0 | 0 | safetensors; region:us |
+| 2026-11-20 21:27:08 | [Phoonnx/vits-udm-mms-graphemes](https://huggingface.co/Phoonnx/vits-udm-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; udm; license:cc-by-nc-4… |
+| 2026-11-20 21:27:25 | [Phoonnx/vits-xtd-mms-graphemes](https://huggingface.co/Phoonnx/vits-xtd-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; xtd; license:cc-by-nc-4… |
+| 2026-11-20 21:28:23 | [NexaNLP/llama3.2-3b-crossre-news-politics-without-instructions-autoregressive-seed42](https://huggingface.co/NexaNLP/llama3.2-3b-crossre-news-politics-without-instructions-autoregressive-seed42) | NexaNLP | 0 | 0 | safetensors; llama; region:us |
+| 2026-11-20 21:28:37 | [loom-fun-staging/unsloth-Qwen3.8-27B-UD-Q4_K_XL](https://huggingface.co/loom-fun-staging/unsloth-Qwen3.8-27B-UD-Q4_K_XL) | loom-fun-staging | 0 | 0 | loom; loom-serve; gguf; strix-halo; radeon-r9700; speculati… |
+| 2026-11-20 21:28:40 | [Phoonnx/vits-uk_ua-mms-graphemes](https://huggingface.co/Phoonnx/vits-uk_ua-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; uk; license:cc-by-nc-4.… |
+| 2026-11-20 21:28:41 | [Phoonnx/vits-xrb-mms-graphemes](https://huggingface.co/Phoonnx/vits-xrb-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; xrb; license:cc-by-nc-4… |
+| 2026-11-20 21:28:53 | [Aaalui/Bin](https://huggingface.co/Aaalui/Bin) | Aaalui | 0 | 0 | region:us |
+| 2026-11-20 21:29:04 | [Phoonnx/vits-xua-mms-graphemes](https://huggingface.co/Phoonnx/vits-xua-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; xua; license:cc-by-nc-4… |
+| 2026-11-20 21:30:29 | [Phoonnx/vits-yal-mms-graphemes](https://huggingface.co/Phoonnx/vits-yal-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; yal; license:cc-by-nc-4… |
+| 2026-11-20 21:30:42 | [Phoonnx/vits-xsu-mms-graphemes](https://huggingface.co/Phoonnx/vits-xsu-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; xsu; license:cc-by-nc-4… |
+| 2026-11-20 21:31:03 | [Phoonnx/vits-urb-mms-graphemes](https://huggingface.co/Phoonnx/vits-urb-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; urb; license:cc-by-nc-4… |
+| 2026-11-20 21:31:21 | [Phoonnx/vits-zty-mms-graphemes](https://huggingface.co/Phoonnx/vits-zty-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; zty; license:cc-by-nc-4… |
+| 2026-11-20 21:31:40 | [Phoonnx/vits-yat-mms-graphemes](https://huggingface.co/Phoonnx/vits-yat-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; yat; license:cc-by-nc-4… |
+| 2026-11-20 21:31:45 | [Phoonnx/vits-xtm-mms-graphemes](https://huggingface.co/Phoonnx/vits-xtm-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; xtm; license:cc-by-nc-4… |
+| 2026-11-20 21:31:58 | [xinhuang4/perceiver-retrieval](https://huggingface.co/xinhuang4/perceiver-retrieval) | xinhuang4 | 0 | 0 | safetensors; perceiver; pytorch; retrieval; license:apache-… |
+| 2026-11-20 21:32:04 | [kinit/qwen35-9b-hyperproof-dapo-full-two-stage-8k-gradient-reasoning-3.6k-dataset_modified-prompt](https://huggingface.co/kinit/qwen35-9b-hyperproof-dapo-full-two-stage-8k-gradient-reasoning-3.6k-dataset_modified-prompt) | kinit | 0 | 0 | region:us |
+| 2026-11-20 21:32:41 | [Phoonnx/vits-ycl-mms-graphemes](https://huggingface.co/Phoonnx/vits-ycl-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; ycl; license:cc-by-nc-4… |
+| 2026-11-20 21:33:28 | [yennhi0907/citation_discovery_scidoca_2025_no_leakage_scibert_attnpool_seed123](https://huggingface.co/yennhi0907/citation_discovery_scidoca_2025_no_leakage_scibert_attnpool_seed123) | yennhi0907 | 0 | 0 | safetensors; region:us |
+| 2026-11-20 21:33:46 | [willcagas/mini-deepseek-v3](https://huggingface.co/willcagas/mini-deepseek-v3) | willcagas | 0 | 0 | safetensors; deepseek-v3; mixture-of-experts; from-scratch;… |
+| 2026-11-20 21:33:46 | [Phoonnx/vits-urk-mms-graphemes](https://huggingface.co/Phoonnx/vits-urk-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; urk; license:cc-by-nc-4… |
+| 2026-11-20 21:33:47 | [Phoonnx/vits-yaa-mms-graphemes](https://huggingface.co/Phoonnx/vits-yaa-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; yaa; license:cc-by-nc-4… |
+| 2026-11-20 21:34:12 | [ShijunYu/gsm8ksft-llama3.2-1B-lora](https://huggingface.co/ShijunYu/gsm8ksft-llama3.2-1B-lora) | ShijunYu | 0 | 0 | transformers; safetensors; arxiv:1910.09700; endpoints_comp… |
+| 2026-11-20 21:34:15 | [Phoonnx/vits-yli-mms-graphemes](https://huggingface.co/Phoonnx/vits-yli-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; yli; license:cc-by-nc-4… |
+| 2026-11-20 21:34:17 | [NexaNLP/llama3.2-3b-crossre-news-politics-without-instructions-classification-head-seed42](https://huggingface.co/NexaNLP/llama3.2-3b-crossre-news-politics-without-instructions-classification-head-seed42) | NexaNLP | 0 | 0 | safetensors; llama; region:us |
+| 2026-11-20 21:34:19 | [Phoonnx/vits-uz_cyrl-mms-graphemes](https://huggingface.co/Phoonnx/vits-uz_cyrl-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; uz; license:cc-by-nc-4.… |
+| 2026-11-20 21:34:26 | [Phoonnx/vits-yao-mms-graphemes](https://huggingface.co/Phoonnx/vits-yao-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; yao; license:cc-by-nc-4… |
+| 2026-11-20 21:34:44 | [Phoonnx/vits-kri-mms_farmerline-graphemes](https://huggingface.co/Phoonnx/vits-kri-mms_farmerline-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; kri; license:other; reg… |
+| 2026-11-20 21:34:50 | [Phoonnx/vits-yuz-mms-graphemes](https://huggingface.co/Phoonnx/vits-yuz-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; yuz; license:cc-by-nc-4… |
+| 2026-11-20 21:35:16 | [Phoonnx/vits-vif-mms-graphemes](https://huggingface.co/Phoonnx/vits-vif-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; vif; license:cc-by-nc-4… |
+| 2026-11-20 21:35:20 | [Phoonnx/vits-yba-mms-graphemes](https://huggingface.co/Phoonnx/vits-yba-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; yba; license:cc-by-nc-4… |
+| 2026-11-20 21:35:23 | [emargo297/JucheAI-4B-Immersive-Q8_0](https://huggingface.co/emargo297/JucheAI-4B-Immersive-Q8_0) | emargo297 | 0 | 0 | region:us |
+| 2026-11-20 21:35:28 | [Jundot/Hy4-oQ4h-mtp](https://huggingface.co/Jundot/Hy4-oQ4h-mtp) | Jundot | 0 | 0 | region:us |
+| 2026-11-20 21:35:39 | [Phoonnx/vits-zac-mms-graphemes](https://huggingface.co/Phoonnx/vits-zac-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; zac; license:cc-by-nc-4… |
+| 2026-11-20 21:35:58 | [Phoonnx/vits-ee-mms_tekyerema-graphemes](https://huggingface.co/Phoonnx/vits-ee-mms_tekyerema-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; ee; license:cc-by-nc-4.… |
+| 2026-11-20 21:36:22 | [Phoonnx/vits-vut-mms-graphemes](https://huggingface.co/Phoonnx/vits-vut-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; vut; license:cc-by-nc-4… |
+| 2026-11-20 21:36:52 | [Phoonnx/vits-yea-mms-graphemes](https://huggingface.co/Phoonnx/vits-yea-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; yea; license:cc-by-nc-4… |
+| 2026-11-20 21:37:17 | [Phoonnx/vits-war-mms-graphemes](https://huggingface.co/Phoonnx/vits-war-mms-graphemes) | Phoonnx | 0 | 0 | region:us |
+| 2026-11-20 21:37:18 | [Phoonnx/vits-mr_in-mms_finetuned_monospeaker-graphemes](https://huggingface.co/Phoonnx/vits-mr_in-mms_finetuned_monospeaker-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; mr; license:cc-by-nc-4.… |
+| 2026-11-20 21:37:50 | [Miiche/OVON-qwen38rl-GRPO15-step0020](https://huggingface.co/Miiche/OVON-qwen38rl-GRPO15-step0020) | Miiche | 0 | 0 | safetensors; qwen3_5; region:us |
+| 2026-11-20 21:38:41 | [SOTAagi2030/Habitat-Acoustic-Experts-291](https://huggingface.co/SOTAagi2030/Habitat-Acoustic-Experts-291) | SOTAagi2030 | 0 | 0 | habitat-acoustic-ensemble; audio-classification; license:ap… |
+| 2026-11-20 21:39:52 | [AIxFuneStudio/Neon_Siren_Moss_Turbo](https://huggingface.co/AIxFuneStudio/Neon_Siren_Moss_Turbo) | AIxFuneStudio | 0 | 0 | license:other; region:us |
+| 2026-11-20 21:39:54 | [Phoonnx/vits-ta-mms_finetuned_monospeaker-graphemes](https://huggingface.co/Phoonnx/vits-ta-mms_finetuned_monospeaker-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; ta; license:cc-by-nc-4.… |
+| 2026-11-20 21:41:19 | [Phoonnx/vits-wlo-mms-graphemes](https://huggingface.co/Phoonnx/vits-wlo-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; wlo; license:cc-by-nc-4… |
+| 2026-11-20 21:41:25 | [mlx-community/Inkling-2-Mini-4bit](https://huggingface.co/mlx-community/Inkling-2-Mini-4bit) | mlx-community | 0 | 1 | mlx; safetensors; inkling2_loop; moe; image-text-to-text; c… |
+| 2026-11-20 21:41:30 | [Phoonnx/vits-yre-mms-graphemes](https://huggingface.co/Phoonnx/vits-yre-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; yre; license:cc-by-nc-4… |
+| 2026-11-20 21:41:38 | [Phoonnx/vits-zam-mms-graphemes](https://huggingface.co/Phoonnx/vits-zam-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; zam; license:cc-by-nc-4… |
+| 2026-11-20 21:41:59 | [Phoonnx/vits-wsg-mms-graphemes](https://huggingface.co/Phoonnx/vits-wsg-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; wsg; license:cc-by-nc-4… |
+| 2026-11-20 21:42:00 | [Phoonnx/vits-zaa-mms-graphemes](https://huggingface.co/Phoonnx/vits-zaa-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; zaa; license:cc-by-nc-4… |
+| 2026-11-20 21:42:03 | [Phoonnx/vits-zas-mms-graphemes](https://huggingface.co/Phoonnx/vits-zas-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; zas; license:cc-by-nc-4… |
+| 2026-11-20 21:42:12 | [karanpateliah/mae-multitask](https://huggingface.co/karanpateliah/mae-multitask) | karanpateliah | 0 | 0 | safetensors; mae; pytorch; multitask; license:mit; region:us |
+| 2026-11-20 21:42:55 | [agastyasridharan/caps-onpolicy-qwen2.5-32b-lora](https://huggingface.co/agastyasridharan/caps-onpolicy-qwen2.5-32b-lora) | agastyasridharan | 0 | 0 | safetensors; region:us |
+| 2026-11-20 21:43:14 | [Phoonnx/vits-zga-mms-graphemes](https://huggingface.co/Phoonnx/vits-zga-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; zga; license:cc-by-nc-4… |
+| 2026-11-20 21:43:35 | [Phoonnx/vits-zmz-mms-graphemes](https://huggingface.co/Phoonnx/vits-zmz-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; zmz; license:cc-by-nc-4… |
+| 2026-11-20 21:43:40 | [Phoonnx/vits-zae-mms-graphemes](https://huggingface.co/Phoonnx/vits-zae-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; zae; license:cc-by-nc-4… |
+| 2026-11-20 21:44:03 | [Phoonnx/vits-xed-mms-graphemes](https://huggingface.co/Phoonnx/vits-xed-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; xed; license:cc-by-nc-4… |
+| 2026-11-20 21:44:11 | [Phoonnx/vits-zpg-mms-graphemes](https://huggingface.co/Phoonnx/vits-zpg-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; zpg; license:cc-by-nc-4… |
+| 2026-11-20 21:44:12 | [Phoonnx/vits-zaq-mms-graphemes](https://huggingface.co/Phoonnx/vits-zaq-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; zaq; license:cc-by-nc-4… |
+| 2026-11-20 21:44:45 | [IndrasMirror/Inkling-2-Mini-XQ-Uncensored](https://huggingface.co/IndrasMirror/Inkling-2-Mini-XQ-Uncensored) | IndrasMirror | 0 | 0 | gguf; moe; inkling; inkling-2-mini; looped-transformer; qua… |
+| 2026-11-20 21:44:47 | [Phoonnx/vits-zpo-mms-graphemes](https://huggingface.co/Phoonnx/vits-zpo-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; zpo; license:cc-by-nc-4… |
+| 2026-11-20 21:44:49 | [Phoonnx/vits-zaw-mms-graphemes](https://huggingface.co/Phoonnx/vits-zaw-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; zaw; license:cc-by-nc-4… |
+| 2026-11-20 21:44:53 | [NexaNLP/llama3.2-3b-crossre-news-politics-with-instructions-autoregressive-seed42](https://huggingface.co/NexaNLP/llama3.2-3b-crossre-news-politics-with-instructions-autoregressive-seed42) | NexaNLP | 0 | 0 | safetensors; llama; region:us |
+| 2026-11-20 21:44:58 | [joeyAIDev/zils-lite-body-x11a](https://huggingface.co/joeyAIDev/zils-lite-body-x11a) | joeyAIDev | 0 | 0 | safetensors; qwen3_5; decision-model; zils; d3-lite; custom… |
+| 2026-11-20 21:45:03 | [Phoonnx/vits-xnr-mms-graphemes](https://huggingface.co/Phoonnx/vits-xnr-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; xnr; license:cc-by-nc-4… |
+| 2026-11-20 21:45:14 | [tanaysingh2512/swedish-grammar-scorer](https://huggingface.co/tanaysingh2512/swedish-grammar-scorer) | tanaysingh2512 | 0 | 0 | transformers; safetensors; modernbert; text-classification;… |
+| 2026-11-20 21:45:18 | [Phoonnx/vits-ztq-mms-graphemes](https://huggingface.co/Phoonnx/vits-ztq-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; ztq; license:cc-by-nc-4… |
+| 2026-11-20 21:45:35 | [Phoonnx/vits-ziw-mms-graphemes](https://huggingface.co/Phoonnx/vits-ziw-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; ziw; license:cc-by-nc-4… |
+| 2026-11-20 21:45:46 | [Phoonnx/vits-xsb-mms-graphemes](https://huggingface.co/Phoonnx/vits-xsb-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; xsb; license:cc-by-nc-4… |
+| 2026-11-20 21:46:20 | [Phoonnx/vits-zos-mms-graphemes](https://huggingface.co/Phoonnx/vits-zos-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; zos; license:cc-by-nc-4… |
+| 2026-11-20 21:46:32 | [Phoonnx/vits-xta-mms-graphemes](https://huggingface.co/Phoonnx/vits-xta-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; xta; license:cc-by-nc-4… |
+| 2026-11-20 21:46:33 | [Phoonnx/vits-zza-mms-graphemes](https://huggingface.co/Phoonnx/vits-zza-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; zza; license:cc-by-nc-4… |
+| 2026-11-20 21:46:59 | [ulises-c/socrates-bert-classifiers-zh](https://huggingface.co/ulises-c/socrates-bert-classifiers-zh) | ulises-c | 0 | 0 | transformers; safetensors; text-classification; education;… |
+| 2026-11-20 21:47:01 | [araysuter/Inkling-2-Mini-MLX-5bit](https://huggingface.co/araysuter/Inkling-2-Mini-MLX-5bit) | araysuter | 0 | 0 | mlx; safetensors; inkling2_loop; image-text-to-text; quanti… |
+| 2026-11-20 21:47:02 | [Phoonnx/vits-zpl-mms-graphemes](https://huggingface.co/Phoonnx/vits-zpl-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; zpl; license:cc-by-nc-4… |
+| 2026-11-20 21:47:30 | [Phoonnx/vits-ha-mms_main_farmerline-graphemes](https://huggingface.co/Phoonnx/vits-ha-mms_main_farmerline-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; ha; license:cc-by-4.0;… |
+| 2026-11-20 21:47:33 | [espnet/vctk_noisy_esp2_enh_training_conv_tasnet](https://huggingface.co/espnet/vctk_noisy_esp2_enh_training_conv_tasnet) | espnet | 0 | 0 | espnet; esp2_enh; vctk_noisy; region:us |
+| 2026-11-20 21:47:35 | [LeoZotos/OLMo-2-0425-1B_math_textbooks_qa_20261117_223500_a043ba](https://huggingface.co/LeoZotos/OLMo-2-0425-1B_math_textbooks_qa_20261117_223500_a043ba) | LeoZotos | 0 | 0 | safetensors; olmo2; finetuning; education; learning-dynamic… |
+| 2026-11-20 21:48:07 | [Phoonnx/vits-gu_in-mms_finetuned_monospeaker-graphemes](https://huggingface.co/Phoonnx/vits-gu_in-mms_finetuned_monospeaker-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; gu; license:cc-by-nc-4.… |
+| 2026-11-20 21:48:21 | [Phoonnx/vits-xtn-mms-graphemes](https://huggingface.co/Phoonnx/vits-xtn-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; xtn; license:cc-by-nc-4… |
+| 2026-11-20 21:48:34 | [Phoonnx/vits-es_co-mms_finetuned_colombian_monospeaker-graphemes](https://huggingface.co/Phoonnx/vits-es_co-mms_finetuned_colombian_monospeaker-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; es; license:cc-by-nc-4.… |
+| 2026-11-20 21:48:35 | [tm-hf-repo/krea2-illustration-batch](https://huggingface.co/tm-hf-repo/krea2-illustration-batch) | tm-hf-repo | 0 | 0 | region:us |
+| 2026-11-20 21:48:39 | [miladkiani/subdub-models](https://huggingface.co/miladkiani/subdub-models) | miladkiani | 0 | 0 | whisper; whisper.cpp; ggml; automatic-speech-recognition; f… |
+| 2026-11-20 21:48:41 | [ivchen8615/swin-t-retrieval](https://huggingface.co/ivchen8615/swin-t-retrieval) | ivchen8615 | 0 | 0 | safetensors; swin_t; pytorch; swin-t; retrieval; license:mi… |
+| 2026-11-20 21:49:18 | [Phoonnx/vits-zpu-mms-graphemes](https://huggingface.co/Phoonnx/vits-zpu-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; zpu; license:cc-by-nc-4… |
+| 2026-11-20 21:49:31 | [Phoonnx/vits-yad-mms-graphemes](https://huggingface.co/Phoonnx/vits-yad-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; yad; license:cc-by-nc-4… |
+| 2026-11-20 21:49:39 | [Superstar111/pi05-yam-sharpa-spoon-scoop-base22-pinch](https://huggingface.co/Superstar111/pi05-yam-sharpa-spoon-scoop-base22-pinch) | Superstar111 | 0 | 0 | robotics; openpi; pi0.5; vision-language-action; region:us |
+| 2026-11-20 21:49:53 | [odinjason/canary-de-int8](https://huggingface.co/odinjason/canary-de-int8) | odinjason | 0 | 0 | onnx; region:us |
+| 2026-11-20 21:50:00 | [Phoonnx/vits-yas-mms-graphemes](https://huggingface.co/Phoonnx/vits-yas-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; yas; license:cc-by-nc-4… |
+| 2026-11-20 21:50:17 | [Phoonnx/vits-zyb-mms-graphemes](https://huggingface.co/Phoonnx/vits-zyb-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; zyb; license:cc-by-nc-4… |
+| 2026-11-20 21:50:23 | [RKB109/multimodal-document-retrieval-20261120-model](https://huggingface.co/RKB109/multimodal-document-retrieval-20261120-model) | RKB109 | 0 | 0 | custom; synthetic-data; transparent-baseline; multimodal-ai… |
+| 2026-11-20 21:50:44 | [Phoonnx/vits-ybb-mms-graphemes](https://huggingface.co/Phoonnx/vits-ybb-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; ybb; license:cc-by-nc-4… |
+| 2026-11-20 21:50:53 | [Phoonnx/vits-tw-mms_simba_akuapem-graphemes](https://huggingface.co/Phoonnx/vits-tw-mms_simba_akuapem-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; tw; license:cc-by-4.0;… |
+| 2026-11-20 21:51:06 | [Phoonnx/vits-yka-mms-graphemes](https://huggingface.co/Phoonnx/vits-yka-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; yka; license:cc-by-nc-4… |
+| 2026-11-20 21:51:30 | [Phoonnx/vits-yua-mms-graphemes](https://huggingface.co/Phoonnx/vits-yua-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; yua; license:cc-by-nc-4… |
+| 2026-11-20 21:51:36 | [tiny226/affine-v2-mimo-uid558](https://huggingface.co/tiny226/affine-v2-mimo-uid558) | tiny226 | 0 | 0 | safetensors; qwen3_5; region:us |
+| 2026-11-20 21:51:38 | [kylekoolkid1/sentis-MiDaS](https://huggingface.co/kylekoolkid1/sentis-MiDaS) | kylekoolkid1 | 0 | 0 | unity-sentis; onnx; sentis; unity; depth estimation; depth-… |
+| 2026-11-20 21:51:45 | [esatapedico/Qwen3.8-27B-Ultimate-Heretic-Uncensored-Turbo-Brilliance-50x-AGI-NEO-NVFP4-BUDGET-GGUF](https://huggingface.co/esatapedico/Qwen3.8-27B-Ultimate-Heretic-Uncensored-Turbo-Brilliance-50x-AGI-NEO-NVFP4-BUDGET-GGUF) | esatapedico | 0 | 0 | gguf; nvfp4; qwen3.8; blackwell; ultimate-heretic; llama.cp… |
+| 2026-11-20 21:52:19 | [Phoonnx/vits-zab-mms-graphemes](https://huggingface.co/Phoonnx/vits-zab-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; zab; license:cc-by-nc-4… |
+| 2026-11-20 21:52:41 | [pedrogarciar13/beto-sentimiento-melisa](https://huggingface.co/pedrogarciar13/beto-sentimiento-melisa) | pedrogarciar13 | 0 | 0 | onnx; safetensors; bert; sentiment-analysis; spanish; melis… |
+| 2026-11-20 21:52:45 | [Phoonnx/vits-zai-mms-graphemes](https://huggingface.co/Phoonnx/vits-zai-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; zai; license:cc-by-nc-4… |
+| 2026-11-20 21:52:48 | [jcsq6/rotowire-gemma-4-lora](https://huggingface.co/jcsq6/rotowire-gemma-4-lora) | jcsq6 | 0 | 0 | peft; safetensors; lora; text-to-table; information-extract… |
+| 2026-11-20 21:53:31 | [Phoonnx/vits-zar-mms-graphemes](https://huggingface.co/Phoonnx/vits-zar-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; zar; license:cc-by-nc-4… |
+| 2026-11-20 21:53:59 | [Phoonnx/vits-tw-mms_tekyerema-graphemes](https://huggingface.co/Phoonnx/vits-tw-mms_tekyerema-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; tw; license:cc-by-nc-4.… |
+| 2026-11-20 21:54:25 | [untrue5149/swedish-grammaticality-modernbert-base](https://huggingface.co/untrue5149/swedish-grammaticality-modernbert-base) | untrue5149 | 0 | 0 | safetensors; modernbert; grammatical-error-detection; swedi… |
+| 2026-11-20 21:54:26 | [Phoonnx/vits-zca-mms-graphemes](https://huggingface.co/Phoonnx/vits-zca-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; zca; license:cc-by-nc-4… |
+| 2026-11-20 21:54:28 | [Phoonnx/vits-es_ar-mms_finetuned_argentinian_monospeaker-graphemes](https://huggingface.co/Phoonnx/vits-es_ar-mms_finetuned_argentinian_monospeaker-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; es; license:cc-by-nc-4.… |
+| 2026-11-20 21:54:52 | [pipenetwork/Inkling-2-Mini-MLX-4bit](https://huggingface.co/pipenetwork/Inkling-2-Mini-MLX-4bit) | pipenetwork | 0 | 0 | mlx; safetensors; inkling2_loop; moe; image-text-to-text; c… |
+| 2026-11-20 21:54:56 | [Phoonnx/vits-zlm-mms-graphemes](https://huggingface.co/Phoonnx/vits-zlm-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; zlm; license:cc-by-nc-4… |
+| 2026-11-20 21:54:59 | [BlackSaltStudios/noquarter-blackflag-audio-1.7b-crew-q4_k_m](https://huggingface.co/BlackSaltStudios/noquarter-blackflag-audio-1.7b-crew-q4_k_m) | BlackSaltStudios | 0 | 0 | license:apache-2.0; region:us |
+| 2026-11-20 21:55:01 | [Mounir95/Hgg](https://huggingface.co/Mounir95/Hgg) | Mounir95 | 0 | 0 | license:apache-2.0; region:us |
+| 2026-11-20 21:55:19 | [pipenetwork/Inkling-2-Mini-MLX-8bit](https://huggingface.co/pipenetwork/Inkling-2-Mini-MLX-8bit) | pipenetwork | 0 | 0 | mlx; safetensors; inkling2_loop; moe; image-text-to-text; c… |
+| 2026-11-20 21:55:23 | [Phoonnx/vits-zpc-mms-graphemes](https://huggingface.co/Phoonnx/vits-zpc-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; zpc; license:cc-by-nc-4… |
+| 2026-11-20 21:55:47 | [Phoonnx/vits-zpm-mms-graphemes](https://huggingface.co/Phoonnx/vits-zpm-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; zpm; license:cc-by-nc-4… |
+| 2026-11-20 21:55:56 | [nihalmotukuri/actuator-7b-gguf](https://huggingface.co/nihalmotukuri/actuator-7b-gguf) | nihalmotukuri | 0 | 0 | gguf; endpoints_compatible; region:us; conversational |
+| 2026-11-20 21:55:59 | [reflective-org/AIDE-Microphysics](https://huggingface.co/reflective-org/AIDE-Microphysics) | reflective-org | 0 | 0 | pytorch; climate; aerosol; microphysics; emulator; stratosp… |
+| 2026-11-20 21:56:30 | [Phoonnx/vits-zpz-mms-graphemes](https://huggingface.co/Phoonnx/vits-zpz-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; zpz; license:cc-by-nc-4… |
+| 2026-11-20 21:56:33 | [pipenetwork/Inkling-2-Mini-MLX-bf16](https://huggingface.co/pipenetwork/Inkling-2-Mini-MLX-bf16) | pipenetwork | 0 | 0 | mlx; safetensors; inkling2_loop; moe; image-text-to-text; c… |
+| 2026-11-20 21:56:57 | [tyrant35/zils-lite-probe-hs](https://huggingface.co/tyrant35/zils-lite-probe-hs) | tyrant35 | 0 | 0 | safetensors; zils; decision-model; base_model:joamCriff123/… |
+| 2026-11-20 21:57:14 | [Phoonnx/vits-zyp-mms-graphemes](https://huggingface.co/Phoonnx/vits-zyp-mms-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; zyp; license:cc-by-nc-4… |
+| 2026-11-20 21:57:23 | [Matt300209/Qwen3.8-27B-h](https://huggingface.co/Matt300209/Qwen3.8-27B-h) | Matt300209 | 0 | 0 | safetensors; qwen3_5; region:us |
+| 2026-11-20 21:58:04 | [Romano0216/generation-fast64-2023](https://huggingface.co/Romano0216/generation-fast64-2023) | Romano0216 | 0 | 0 | safetensors; beit; pytorch; generation; license:bsd-3-claus… |
+| 2026-11-20 21:58:05 | [tyrant35/zils-lite-probe-intent](https://huggingface.co/tyrant35/zils-lite-probe-intent) | tyrant35 | 0 | 0 | safetensors; zils; decision-model; base_model:joamCriff123/… |
+| 2026-11-20 21:58:08 | [Phoonnx/vits-tw-mms_simba_asanti-graphemes](https://huggingface.co/Phoonnx/vits-tw-mms_simba_asanti-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; tw; license:cc-by-4.0;… |
+| 2026-11-20 21:58:09 | [netprojects/Inkling-2-Mini-MLX-4-8bit](https://huggingface.co/netprojects/Inkling-2-Mini-MLX-4-8bit) | netprojects | 0 | 0 | mlx; safetensors; inkling2_loop; apple-silicon; moe; dspark… |
+| 2026-11-20 21:58:36 | [ukrbublik/opus-mt-ro-fr-int8-shift-att](https://huggingface.co/ukrbublik/opus-mt-ro-fr-int8-shift-att) | ukrbublik | 0 | 0 | onnx; translation; marian; ro; fr; base_model:Helsinki-NLP/… |
+| 2026-11-20 21:58:38 | [tyrant35/zils-lite-probe-wg](https://huggingface.co/tyrant35/zils-lite-probe-wg) | tyrant35 | 0 | 0 | safetensors; zils; decision-model; base_model:joamCriff123/… |
+| 2026-11-20 21:58:52 | [Phoonnx/vits-shn-mms-norhsangpha-graphemes](https://huggingface.co/Phoonnx/vits-shn-mms-norhsangpha-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; shn; license:other; reg… |
+| 2026-11-20 21:58:53 | [priscilla-smith/MyAwesomeModel-TestRepo](https://huggingface.co/priscilla-smith/MyAwesomeModel-TestRepo) | priscilla-smith | 0 | 0 | transformers; pytorch; bert; feature-extraction; license:mi… |
+| 2026-11-20 21:58:58 | [edwinwatanabe/classification](https://huggingface.co/edwinwatanabe/classification) | edwinwatanabe | 0 | 0 | safetensors; deit; pytorch; classification; license:apache-… |
+| 2026-11-20 21:59:14 | [Phoonnx/vits-es_cl-mms_finetuned_chilean_monospeaker-graphemes](https://huggingface.co/Phoonnx/vits-es_cl-mms_finetuned_chilean_monospeaker-graphemes) | Phoonnx | 0 | 0 | phoonnx; onnx; mms; text-to-speech; es; license:cc-by-nc-4.… |
+| 2026-11-20 21:59:31 | [ukrbublik/opus-mt-es-ru-int8-shift-att](https://huggingface.co/ukrbublik/opus-mt-es-ru-int8-shift-att) | ukrbublik | 0 | 0 | onnx; translation; marian; es; ru; base_model:Helsinki-NLP/… |
+| 2026-11-20 21:59:59 | [araysuter/Inkling-2-Mini-MLX-4bit](https://huggingface.co/araysuter/Inkling-2-Mini-MLX-4bit) | araysuter | 0 | 0 | mlx; safetensors; inkling2_loop; image-text-to-text; quanti… |
+| 2026-11-20 22:00:27 | [NoxTheExpie/NSFW-flash](https://huggingface.co/NoxTheExpie/NSFW-flash) | NoxTheExpie | 0 | 0 | transformers; safetensors; gguf; stablelm; text-generation;… |
+| 2026-11-20 22:00:30 | [ukrbublik/opus-mt-de-en-int8-shift-att](https://huggingface.co/ukrbublik/opus-mt-de-en-int8-shift-att) | ukrbublik | 0 | 0 | onnx; translation; marian; de; en; base_model:Helsinki-NLP/… |
+| 2026-11-20 22:00:48 | [optimatechlabs/ternzip-8b](https://huggingface.co/optimatechlabs/ternzip-8b) | optimatechlabs | 0 | 0 | ternary; lossless-compression; custom-format; apple-silicon… |
+| 2026-11-20 22:01:11 | [Derekonsio/GTAV](https://huggingface.co/Derekonsio/GTAV) | Derekonsio | 0 | 0 | region:us |
+| 2026-11-20 22:01:38 | [ukrbublik/opus-mt-de-es-int8-shift-att](https://huggingface.co/ukrbublik/opus-mt-de-es-int8-shift-att) | ukrbublik | 0 | 0 | onnx; translation; marian; de; es; base_model:Helsinki-NLP/… |
+| 2026-11-20 22:02:19 | [ibm-research/granite-vision-4.1-4b-GGUF](https://huggingface.co/ibm-research/granite-vision-4.1-4b-GGUF) | ibm-research | 0 | 0 | llama.cpp; gguf; language; granite-4.1; base_model:ibm-gran… |
+| 2026-11-20 22:02:25 | [taylordavismis/tiny-transformer-finetuned](https://huggingface.co/taylordavismis/tiny-transformer-finetuned) | taylordavismis | 0 | 0 | safetensors; tiny_transformer; pytorch; tiny-transformer; c… |
+| 2026-11-20 22:02:47 | [taylordavismis/reading-ocr-freeform](https://huggingface.co/taylordavismis/reading-ocr-freeform) | taylordavismis | 0 | 0 | safetensors; transformer; research-notes; ocr-freeform; lic… |
+| 2026-11-20 22:02:57 | [ishikaa/acquisition_generator_AS_answer_variance_combine_OH_MP_N_new_olmo7b](https://huggingface.co/ishikaa/acquisition_generator_AS_answer_variance_combine_OH_MP_N_new_olmo7b) | ishikaa | 0 | 0 | region:us |
+| 2026-11-20 22:03:12 | [wesrac/jhgflkjhggdhf](https://huggingface.co/wesrac/jhgflkjhggdhf) | wesrac | 0 | 1 | ja; base_model:nerkyor/Qwen3.8-27B-Coder390-EfficientThink-… |
+| 2026-11-20 22:03:20 | [dogknowsAI/40b70ca4904116ed](https://huggingface.co/dogknowsAI/40b70ca4904116ed) | dogknowsAI | 0 | 0 | region:us |
+| 2026-11-20 22:03:20 | [dogknowsAI/da2c68ac285ee4c5](https://huggingface.co/dogknowsAI/da2c68ac285ee4c5) | dogknowsAI | 0 | 0 | region:us |
+| 2026-11-20 22:03:23 | [julienkay/FLUX.2-klein-4B-onnx](https://huggingface.co/julienkay/FLUX.2-klein-4B-onnx) | julienkay | 0 | 0 | onnx; unity; unity-inference-engine; sentis; flux2; text-to… |
+| 2026-11-20 22:03:26 | [araysuter/Inkling-2-Mini-MLX-mixed-2bit](https://huggingface.co/araysuter/Inkling-2-Mini-MLX-mixed-2bit) | araysuter | 0 | 0 | mlx; safetensors; inkling2_loop; image-text-to-text; quanti… |
+| 2026-11-20 22:03:51 | [MabelCoco/MyAwesomeModel-TestRepo](https://huggingface.co/MabelCoco/MyAwesomeModel-TestRepo) | MabelCoco | 0 | 0 | transformers; pytorch; bert; feature-extraction; license:mi… |
+| 2026-11-20 22:04:10 | [ukrbublik/opus-mt-de-fr-int8-shift-att](https://huggingface.co/ukrbublik/opus-mt-de-fr-int8-shift-att) | ukrbublik | 0 | 0 | onnx; translation; marian; de; fr; base_model:Helsinki-NLP/… |
+| 2026-11-20 22:05:22 | [tylerhallkef/generation-colab](https://huggingface.co/tylerhallkef/generation-colab) | tylerhallkef | 0 | 0 | safetensors; flamingo; pytorch; generation; license:apache-… |
+| 2026-11-20 22:05:26 | [ukrbublik/opus-mt-de-it-int8-shift-att](https://huggingface.co/ukrbublik/opus-mt-de-it-int8-shift-att) | ukrbublik | 0 | 0 | onnx; translation; marian; de; it; base_model:Helsinki-NLP/… |
+| 2026-11-20 22:05:32 | [bken1980/Duality-AI](https://huggingface.co/bken1980/Duality-AI) | bken1980 | 0 | 0 | region:us |
+| 2026-11-20 22:05:45 | [ShneakySquirrel/GLM-5.3-CYBERSECURITY-FP8](https://huggingface.co/ShneakySquirrel/GLM-5.3-CYBERSECURITY-FP8) | ShneakySquirrel | 0 | 1 | safetensors; glm_moe_dsa; abliterated; crack; refusal-remov… |
+| 2026-11-20 22:05:54 | [bken1980/bken1980](https://huggingface.co/bken1980/bken1980) | bken1980 | 0 | 0 | region:us |
+| 2026-11-20 22:06:16 | [ukrbublik/opus-mt-de-nl-int8-shift-att](https://huggingface.co/ukrbublik/opus-mt-de-nl-int8-shift-att) | ukrbublik | 0 | 0 | onnx; translation; marian; de; nl; base_model:Helsinki-NLP/… |
+| 2026-11-20 22:06:21 | [Jomanne3/MyAwesomeModel-TestRepo](https://huggingface.co/Jomanne3/MyAwesomeModel-TestRepo) | Jomanne3 | 0 | 0 | transformers; pytorch; bert; feature-extraction; license:mi… |
+| 2026-11-20 22:07:14 | [sitor-ushen/postdoc-generation74](https://huggingface.co/sitor-ushen/postdoc-generation74) | sitor-ushen | 0 | 0 | safetensors; clip; pytorch; generation; license:apache-2.0;… |
+| 2026-11-20 22:07:15 | [ukrbublik/opus-mt-de-pl-int8-shift-att](https://huggingface.co/ukrbublik/opus-mt-de-pl-int8-shift-att) | ukrbublik | 0 | 0 | onnx; translation; marian; de; pl; base_model:Helsinki-NLP/… |
+| 2026-11-20 22:07:34 | [sitor-ushen/mobilevit-generation-medium](https://huggingface.co/sitor-ushen/mobilevit-generation-medium) | sitor-ushen | 0 | 0 | safetensors; mobilevit; pytorch; generation; license:mit; r… |
+| 2026-11-20 22:08:08 | [ryaluous/IcoNx937](https://huggingface.co/ryaluous/IcoNx937) | ryaluous | 0 | 0 | region:us |
+| 2026-11-20 22:08:11 | [MalaniAro/MyAwesomeModel-TestRepo](https://huggingface.co/MalaniAro/MyAwesomeModel-TestRepo) | MalaniAro | 0 | 0 | transformers; pytorch; bert; feature-extraction; license:mi… |
+| 2026-11-20 22:08:22 | [overpolish/unipase-onnx](https://huggingface.co/overpolish/unipase-onnx) | overpolish | 0 | 0 | onnx; speech-enhancement; audio-to-audio; arxiv:2604.14606;… |
+| 2026-11-20 22:08:30 | [ukrbublik/opus-mt-de-uk-int8-shift-att](https://huggingface.co/ukrbublik/opus-mt-de-uk-int8-shift-att) | ukrbublik | 0 | 0 | onnx; translation; marian; de; uk; base_model:Helsinki-NLP/… |
+| 2026-11-20 22:09:10 | [nazimboudeffa/PicoGPT1-Daisy](https://huggingface.co/nazimboudeffa/PicoGPT1-Daisy) | nazimboudeffa | 0 | 0 | transformers; safetensors; gguf; gpt2; text-generation; lla… |
+| 2026-11-20 22:09:26 | [dogknowsAI/d8f7a9f30d022dcb](https://huggingface.co/dogknowsAI/d8f7a9f30d022dcb) | dogknowsAI | 0 | 0 | region:us |
+| 2026-11-20 22:09:27 | [nberezny/smolvla_lite6_stack_wp](https://huggingface.co/nberezny/smolvla_lite6_stack_wp) | nberezny | 0 | 0 | lerobot; safetensors; robotics; smolvla; dataset:nberezny/l… |
+| 2026-11-20 22:09:44 | [ukrbublik/opus-mt-en-de-int8-shift-att](https://huggingface.co/ukrbublik/opus-mt-en-de-int8-shift-att) | ukrbublik | 0 | 0 | onnx; translation; marian; en; de; base_model:Helsinki-NLP/… |
+| 2026-11-20 22:09:45 | [RandallAerin/MyAwesomeModel-TestRepo](https://huggingface.co/RandallAerin/MyAwesomeModel-TestRepo) | RandallAerin | 0 | 0 | transformers; pytorch; bert; feature-extraction; license:mi… |
+| 2026-11-20 22:10:44 | [ukrbublik/opus-mt-en-es-int8-shift-att](https://huggingface.co/ukrbublik/opus-mt-en-es-int8-shift-att) | ukrbublik | 0 | 0 | onnx; translation; marian; en; es; base_model:Helsinki-NLP/… |
+| 2026-11-20 22:11:28 | [ukrbublik/opus-mt-en-fr-int8-shift-att](https://huggingface.co/ukrbublik/opus-mt-en-fr-int8-shift-att) | ukrbublik | 0 | 0 | onnx; translation; marian; en; fr; base_model:Helsinki-NLP/… |
+| 2026-11-20 22:12:16 | [ukrbublik/opus-mt-en-it-int8-shift-att](https://huggingface.co/ukrbublik/opus-mt-en-it-int8-shift-att) | ukrbublik | 0 | 0 | onnx; translation; marian; en; it; base_model:Helsinki-NLP/… |
+| 2026-11-20 22:13:00 | [1lock/gemma4-31b-m1](https://huggingface.co/1lock/gemma4-31b-m1) | 1lock | 0 | 0 | region:us |
+| 2026-11-20 22:13:02 | [ukrbublik/opus-mt-en-nl-int8-shift-att](https://huggingface.co/ukrbublik/opus-mt-en-nl-int8-shift-att) | ukrbublik | 0 | 0 | onnx; translation; marian; en; nl; base_model:Helsinki-NLP/… |
+| 2026-11-20 22:13:21 | [xl-24/gemma4-4b-atc-finetune-32-64-v3](https://huggingface.co/xl-24/gemma4-4b-atc-finetune-32-64-v3) | xl-24 | 0 | 0 | transformers; safetensors; text-generation-inference; unslo… |
+| 2026-11-20 22:13:24 | [HungryDino/qwen_2.5_7b-control_numbers-self_collapse_p10_e5_r8_ct128-gen9](https://huggingface.co/HungryDino/qwen_2.5_7b-control_numbers-self_collapse_p10_e5_r8_ct128-gen9) | HungryDino | 0 | 0 | transformers; safetensors; text-generation-inference; unslo… |
+| 2026-11-20 22:14:01 | [ukrbublik/opus-mt-en-ro-int8-shift-att](https://huggingface.co/ukrbublik/opus-mt-en-ro-int8-shift-att) | ukrbublik | 0 | 0 | onnx; translation; marian; en; ro; base_model:Helsinki-NLP/… |
+| 2026-11-20 22:14:20 | [Calvinio/Iza2](https://huggingface.co/Calvinio/Iza2) | Calvinio | 0 | 0 | region:us |
+| 2026-11-20 22:14:47 | [AX1Y2JP/tipsv2-b14-ONNX](https://huggingface.co/AX1Y2JP/tipsv2-b14-ONNX) | AX1Y2JP | 0 | 0 | onnx; tipsv2; vision; image-text; contrastive-learning; zer… |
+| 2026-11-20 22:14:48 | [xl-24/gemma4-4b-atc-finetune-32-64-v3-merged-16bit](https://huggingface.co/xl-24/gemma4-4b-atc-finetune-32-64-v3-merged-16bit) | xl-24 | 0 | 0 | transformers; safetensors; gemma4; image-text-to-text; text… |
+| 2026-11-20 22:14:59 | [ukrbublik/opus-mt-en-sv-int8-shift-att](https://huggingface.co/ukrbublik/opus-mt-en-sv-int8-shift-att) | ukrbublik | 0 | 0 | onnx; translation; marian; en; sv; base_model:Helsinki-NLP/… |
+| 2026-11-20 22:15:08 | [itsdhruvsetty/spde-gmrf-lane-perception](https://huggingface.co/itsdhruvsetty/spde-gmrf-lane-perception) | itsdhruvsetty | 0 | 0 | gmrf; spde; lane-detection; cmsis-nn; cortex-m; cuda; licen… |
+| 2026-11-20 22:15:13 | [AX1Y2JP/tipsv2-g14-ONNX](https://huggingface.co/AX1Y2JP/tipsv2-g14-ONNX) | AX1Y2JP | 0 | 0 | onnx; tipsv2; vision; image-text; contrastive-learning; zer… |
+| 2026-11-20 22:15:45 | [AX1Y2JP/tipsv2-l14-ONNX](https://huggingface.co/AX1Y2JP/tipsv2-l14-ONNX) | AX1Y2JP | 0 | 0 | onnx; tipsv2; vision; image-text; contrastive-learning; zer… |
 
-_Showing the first 200 of 260 models; see the [full CSV](data/new-models-2026-11-20T21-22-05-875651Z.csv)._
+_Showing the first 200 of 215 models; see the [full CSV](data/new-models-2026-11-20T22-20-40-224113Z.csv)._
 
 ## Data source
 
