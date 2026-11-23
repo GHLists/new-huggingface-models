@@ -9,216 +9,216 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 17:21 UTC
+## Latest list — 2026-11-23 18:21 UTC
 
-New models created between 2026-11-23 16:19 UTC and 2026-11-23 17:21 UTC.
+New models created between 2026-11-23 17:21 UTC and 2026-11-23 18:21 UTC.
 
-[Full CSV](data/new-models-2026-11-23T17-21-52-343304Z.csv)
+[Full CSV](data/new-models-2026-11-23T18-21-44-196241Z.csv)
 
 | Created (UTC) | Model | Author | Downloads | Likes | Tags |
 | :------------ | :---- | :----- | --------: | ----: | :--- |
-| 2026-11-23 16:20:36 | [rez020406/co173](https://huggingface.co/rez020406/co173) | rez020406 | 0 | 0 | region:us |
-| 2026-11-23 16:20:36 | [creativedev1234/co49](https://huggingface.co/creativedev1234/co49) | creativedev1234 | 0 | 0 | region:us |
-| 2026-11-23 16:20:43 | [rhine-river/co46](https://huggingface.co/rhine-river/co46) | rhine-river | 0 | 0 | region:us |
-| 2026-11-23 16:20:44 | [frenchchips/co58](https://huggingface.co/frenchchips/co58) | frenchchips | 0 | 0 | region:us |
-| 2026-11-23 16:20:44 | [supergpt79/co180](https://huggingface.co/supergpt79/co180) | supergpt79 | 0 | 0 | region:us |
-| 2026-11-23 16:20:47 | [tuliploverdad/co164](https://huggingface.co/tuliploverdad/co164) | tuliploverdad | 0 | 0 | region:us |
-| 2026-11-23 16:20:48 | [rez020406/co144](https://huggingface.co/rez020406/co144) | rez020406 | 0 | 0 | region:us |
-| 2026-11-23 16:20:48 | [frenchchips/co21](https://huggingface.co/frenchchips/co21) | frenchchips | 0 | 0 | region:us |
-| 2026-11-23 16:20:51 | [creativedev1234/co45](https://huggingface.co/creativedev1234/co45) | creativedev1234 | 0 | 0 | region:us |
-| 2026-11-23 16:20:52 | [frenchchips/co219](https://huggingface.co/frenchchips/co219) | frenchchips | 0 | 0 | region:us |
-| 2026-11-23 16:20:52 | [rhine-river/co66](https://huggingface.co/rhine-river/co66) | rhine-river | 0 | 0 | region:us |
-| 2026-11-23 16:20:56 | [rhine-river/co224](https://huggingface.co/rhine-river/co224) | rhine-river | 0 | 0 | region:us |
-| 2026-11-23 16:20:56 | [creativedev1234/co143](https://huggingface.co/creativedev1234/co143) | creativedev1234 | 0 | 0 | region:us |
-| 2026-11-23 16:20:57 | [rez020406/co182](https://huggingface.co/rez020406/co182) | rez020406 | 0 | 0 | region:us |
-| 2026-11-23 16:21:00 | [creativedev1234/co255](https://huggingface.co/creativedev1234/co255) | creativedev1234 | 0 | 0 | region:us |
-| 2026-11-23 16:21:03 | [tuliploverdad/co141](https://huggingface.co/tuliploverdad/co141) | tuliploverdad | 0 | 0 | region:us |
-| 2026-11-23 16:21:04 | [rhine-river/co246](https://huggingface.co/rhine-river/co246) | rhine-river | 0 | 0 | region:us |
-| 2026-11-23 16:21:07 | [rhine-river/co34](https://huggingface.co/rhine-river/co34) | rhine-river | 0 | 0 | region:us |
-| 2026-11-23 16:21:10 | [frenchchips/co18](https://huggingface.co/frenchchips/co18) | frenchchips | 0 | 0 | region:us |
-| 2026-11-23 16:21:10 | [frenchchips/co211](https://huggingface.co/frenchchips/co211) | frenchchips | 0 | 0 | region:us |
-| 2026-11-23 16:21:13 | [rhine-river/co72](https://huggingface.co/rhine-river/co72) | rhine-river | 0 | 0 | region:us |
-| 2026-11-23 16:21:13 | [tuliploverdad/co163](https://huggingface.co/tuliploverdad/co163) | tuliploverdad | 0 | 0 | region:us |
-| 2026-11-23 16:21:13 | [creativedev1234/co189](https://huggingface.co/creativedev1234/co189) | creativedev1234 | 0 | 0 | region:us |
-| 2026-11-23 16:21:18 | [creativedev1234/co38](https://huggingface.co/creativedev1234/co38) | creativedev1234 | 0 | 0 | region:us |
-| 2026-11-23 16:21:18 | [supergpt79/co112](https://huggingface.co/supergpt79/co112) | supergpt79 | 0 | 0 | region:us |
-| 2026-11-23 16:21:18 | [tuliploverdad/co122](https://huggingface.co/tuliploverdad/co122) | tuliploverdad | 0 | 0 | region:us |
-| 2026-11-23 16:21:21 | [rhine-river/co23](https://huggingface.co/rhine-river/co23) | rhine-river | 0 | 0 | region:us |
-| 2026-11-23 16:21:22 | [rez020406/co87](https://huggingface.co/rez020406/co87) | rez020406 | 0 | 0 | region:us |
-| 2026-11-23 16:21:22 | [creativedev1234/co7](https://huggingface.co/creativedev1234/co7) | creativedev1234 | 0 | 0 | region:us |
-| 2026-11-23 16:21:25 | [rhine-river/co31](https://huggingface.co/rhine-river/co31) | rhine-river | 0 | 0 | region:us |
-| 2026-11-23 16:21:26 | [frenchchips/co17](https://huggingface.co/frenchchips/co17) | frenchchips | 0 | 0 | region:us |
-| 2026-11-23 16:21:27 | [rhine-river/co25](https://huggingface.co/rhine-river/co25) | rhine-river | 0 | 0 | region:us |
-| 2026-11-23 16:21:29 | [creativedev1234/co64](https://huggingface.co/creativedev1234/co64) | creativedev1234 | 0 | 0 | region:us |
-| 2026-11-23 16:21:29 | [rhine-river/co208](https://huggingface.co/rhine-river/co208) | rhine-river | 0 | 0 | region:us |
-| 2026-11-23 16:21:33 | [frenchchips/co158](https://huggingface.co/frenchchips/co158) | frenchchips | 0 | 0 | region:us |
-| 2026-11-23 16:21:34 | [creativedev1234/co11](https://huggingface.co/creativedev1234/co11) | creativedev1234 | 0 | 0 | region:us |
-| 2026-11-23 16:21:35 | [creativedev1234/co60](https://huggingface.co/creativedev1234/co60) | creativedev1234 | 0 | 0 | region:us |
-| 2026-11-23 16:21:36 | [rez020406/co185](https://huggingface.co/rez020406/co185) | rez020406 | 0 | 0 | region:us |
-| 2026-11-23 16:21:37 | [creativedev1234/co53](https://huggingface.co/creativedev1234/co53) | creativedev1234 | 0 | 0 | region:us |
-| 2026-11-23 16:21:40 | [creativedev1234/co243](https://huggingface.co/creativedev1234/co243) | creativedev1234 | 0 | 0 | region:us |
-| 2026-11-23 16:21:41 | [supergpt79/co170](https://huggingface.co/supergpt79/co170) | supergpt79 | 0 | 0 | region:us |
-| 2026-11-23 16:21:42 | [tuliploverdad/co153](https://huggingface.co/tuliploverdad/co153) | tuliploverdad | 0 | 0 | region:us |
-| 2026-11-23 16:21:44 | [frenchchips/co84](https://huggingface.co/frenchchips/co84) | frenchchips | 0 | 0 | region:us |
-| 2026-11-23 16:21:44 | [supergpt79/co116](https://huggingface.co/supergpt79/co116) | supergpt79 | 0 | 0 | region:us |
-| 2026-11-23 16:21:45 | [check123432/co27](https://huggingface.co/check123432/co27) | check123432 | 0 | 0 | region:us |
-| 2026-11-23 16:21:49 | [Maksdev325/co32](https://huggingface.co/Maksdev325/co32) | Maksdev325 | 0 | 0 | region:us |
-| 2026-11-23 16:21:49 | [frenchchips/co236](https://huggingface.co/frenchchips/co236) | frenchchips | 0 | 0 | region:us |
-| 2026-11-23 16:21:51 | [creativedev1234/co252](https://huggingface.co/creativedev1234/co252) | creativedev1234 | 0 | 0 | region:us |
-| 2026-11-23 16:21:52 | [frenchchips/co14](https://huggingface.co/frenchchips/co14) | frenchchips | 0 | 0 | region:us |
-| 2026-11-23 16:21:54 | [creativedev1234/co8](https://huggingface.co/creativedev1234/co8) | creativedev1234 | 0 | 0 | region:us |
-| 2026-11-23 16:21:54 | [rez020406/co145](https://huggingface.co/rez020406/co145) | rez020406 | 0 | 0 | region:us |
-| 2026-11-23 16:21:57 | [frenchchips/co242](https://huggingface.co/frenchchips/co242) | frenchchips | 0 | 0 | region:us |
-| 2026-11-23 16:21:57 | [supergpt79/co178](https://huggingface.co/supergpt79/co178) | supergpt79 | 0 | 0 | region:us |
-| 2026-11-23 16:22:00 | [tuliploverdad/co99](https://huggingface.co/tuliploverdad/co99) | tuliploverdad | 0 | 0 | region:us |
-| 2026-11-23 16:22:01 | [rhine-river/co39](https://huggingface.co/rhine-river/co39) | rhine-river | 0 | 0 | region:us |
-| 2026-11-23 16:22:02 | [rhine-river/co218](https://huggingface.co/rhine-river/co218) | rhine-river | 0 | 0 | region:us |
-| 2026-11-23 16:22:04 | [rhine-river/co78](https://huggingface.co/rhine-river/co78) | rhine-river | 0 | 0 | region:us |
-| 2026-11-23 16:22:07 | [frenchchips/co47](https://huggingface.co/frenchchips/co47) | frenchchips | 0 | 0 | region:us |
-| 2026-11-23 16:22:07 | [supergpt79/co183](https://huggingface.co/supergpt79/co183) | supergpt79 | 0 | 0 | region:us |
-| 2026-11-23 16:22:09 | [creativedev1234/co51](https://huggingface.co/creativedev1234/co51) | creativedev1234 | 0 | 0 | region:us |
-| 2026-11-23 16:22:10 | [rhine-river/co13](https://huggingface.co/rhine-river/co13) | rhine-river | 0 | 0 | region:us |
-| 2026-11-23 16:22:11 | [rhine-river/co65](https://huggingface.co/rhine-river/co65) | rhine-river | 0 | 0 | region:us |
-| 2026-11-23 16:22:14 | [creativedev1234/co6](https://huggingface.co/creativedev1234/co6) | creativedev1234 | 0 | 0 | region:us |
-| 2026-11-23 16:22:14 | [frenchchips/co41](https://huggingface.co/frenchchips/co41) | frenchchips | 0 | 0 | region:us |
-| 2026-11-23 16:22:15 | [rhine-river/co109](https://huggingface.co/rhine-river/co109) | rhine-river | 0 | 0 | region:us |
-| 2026-11-23 16:22:17 | [supergpt79/co149](https://huggingface.co/supergpt79/co149) | supergpt79 | 0 | 0 | region:us |
-| 2026-11-23 16:22:18 | [tuliploverdad/co121](https://huggingface.co/tuliploverdad/co121) | tuliploverdad | 0 | 0 | region:us |
-| 2026-11-23 16:22:20 | [frenchchips/co73](https://huggingface.co/frenchchips/co73) | frenchchips | 0 | 0 | region:us |
-| 2026-11-23 16:22:21 | [rhine-river/co195](https://huggingface.co/rhine-river/co195) | rhine-river | 0 | 0 | region:us |
-| 2026-11-23 16:22:23 | [rez020406/co3](https://huggingface.co/rez020406/co3) | rez020406 | 0 | 0 | region:us |
-| 2026-11-23 16:22:23 | [frenchchips/co29](https://huggingface.co/frenchchips/co29) | frenchchips | 0 | 0 | region:us |
-| 2026-11-23 16:22:26 | [frenchchips/co33](https://huggingface.co/frenchchips/co33) | frenchchips | 0 | 0 | region:us |
-| 2026-11-23 16:24:20 | [Marselox/valorant-cheat-colorbot](https://huggingface.co/Marselox/valorant-cheat-colorbot) | Marselox | 0 | 0 | region:us |
-| 2026-11-23 16:24:20 | [Madi2004/path-of-exile-2-map-radar](https://huggingface.co/Madi2004/path-of-exile-2-map-radar) | Madi2004 | 0 | 0 | region:us |
-| 2026-11-23 16:24:20 | [daffy0208/polymarket-trading-arbitrage-bot](https://huggingface.co/daffy0208/polymarket-trading-arbitrage-bot) | daffy0208 | 0 | 0 | region:us |
-| 2026-11-23 16:24:54 | [zrbobozrx/discord-nitro-unlocker-quest-bot](https://huggingface.co/zrbobozrx/discord-nitro-unlocker-quest-bot) | zrbobozrx | 0 | 0 | region:us |
-| 2026-11-23 16:25:02 | [Kobyko/battlefield-6-cheat](https://huggingface.co/Kobyko/battlefield-6-cheat) | Kobyko | 0 | 0 | region:us |
-| 2026-11-23 16:25:12 | [Redin/monster-hunter-wilds-reframework](https://huggingface.co/Redin/monster-hunter-wilds-reframework) | Redin | 0 | 0 | region:us |
-| 2026-11-23 16:25:53 | [muse-models/Muse-Prompt-Shield-1-100M](https://huggingface.co/muse-models/Muse-Prompt-Shield-1-100M) | muse-models | 0 | 1 | transformers; safetensors; bert; text-classification; promp… |
-| 2026-11-23 16:26:05 | [Youzzevic/solara-executor-v3](https://huggingface.co/Youzzevic/solara-executor-v3) | Youzzevic | 0 | 0 | region:us |
-| 2026-11-23 16:26:06 | [daffy0208/monster-hunter-wilds-reframework](https://huggingface.co/daffy0208/monster-hunter-wilds-reframework) | daffy0208 | 0 | 0 | region:us |
-| 2026-11-23 16:26:06 | [Madi2004/bo6-warzone-unlock-tool](https://huggingface.co/Madi2004/bo6-warzone-unlock-tool) | Madi2004 | 0 | 0 | region:us |
-| 2026-11-23 16:26:06 | [Youzzevic/deadlock-cheat](https://huggingface.co/Youzzevic/deadlock-cheat) | Youzzevic | 0 | 0 | region:us |
-| 2026-11-23 16:26:06 | [Marselox/battlefield-6-cheat](https://huggingface.co/Marselox/battlefield-6-cheat) | Marselox | 0 | 0 | region:us |
-| 2026-11-23 16:26:09 | [ahahahwtff/arc-raiders-cheat](https://huggingface.co/ahahahwtff/arc-raiders-cheat) | ahahahwtff | 0 | 0 | region:us |
-| 2026-11-23 16:26:11 | [Rachitvig/qwen2.5-coder-1.5b-github-agent-sft](https://huggingface.co/Rachitvig/qwen2.5-coder-1.5b-github-agent-sft) | Rachitvig | 0 | 0 | safetensors; region:us |
-| 2026-11-23 16:26:38 | [zaper4life/polymarket-trading-arbitrage-bot](https://huggingface.co/zaper4life/polymarket-trading-arbitrage-bot) | zaper4life | 0 | 0 | region:us |
-| 2026-11-23 16:26:45 | [Hisohkoyage/bo6-warzone-unlock-tool](https://huggingface.co/Hisohkoyage/bo6-warzone-unlock-tool) | Hisohkoyage | 0 | 0 | region:us |
-| 2026-11-23 16:26:46 | [zrbobozrx/solara-executor-v3](https://huggingface.co/zrbobozrx/solara-executor-v3) | zrbobozrx | 0 | 0 | region:us |
-| 2026-11-23 16:26:52 | [Kdwet/HfM](https://huggingface.co/Kdwet/HfM) | Kdwet | 0 | 0 | license:apache-2.0; region:us |
-| 2026-11-23 16:26:58 | [Redin/arc-raiders-cheat](https://huggingface.co/Redin/arc-raiders-cheat) | Redin | 0 | 0 | region:us |
-| 2026-11-23 16:27:05 | [aahnxx/discord-nitro-unlocker-quest-bot](https://huggingface.co/aahnxx/discord-nitro-unlocker-quest-bot) | aahnxx | 0 | 0 | region:us |
-| 2026-11-23 16:27:06 | [DangKhoa09/yolo26-vietnamese-money](https://huggingface.co/DangKhoa09/yolo26-vietnamese-money) | DangKhoa09 | 0 | 0 | ultralytics; onnx; yolo; yolo26; object-detection; computer… |
-| 2026-11-23 16:27:19 | [visiting1453/discord-nitro-unlocker-quest-bot](https://huggingface.co/visiting1453/discord-nitro-unlocker-quest-bot) | visiting1453 | 0 | 0 | region:us |
-| 2026-11-23 16:27:33 | [Youzzevic/polymarket-trading-arbitrage-bot](https://huggingface.co/Youzzevic/polymarket-trading-arbitrage-bot) | Youzzevic | 0 | 0 | region:us |
-| 2026-11-23 16:27:40 | [Youzzevic/bo6-warzone-unlock-tool](https://huggingface.co/Youzzevic/bo6-warzone-unlock-tool) | Youzzevic | 0 | 0 | region:us |
-| 2026-11-23 16:27:44 | [ahahahwtff/discord-nitro-unlocker-quest-bot](https://huggingface.co/ahahahwtff/discord-nitro-unlocker-quest-bot) | ahahahwtff | 0 | 0 | region:us |
-| 2026-11-23 16:27:46 | [MichaelYanolja/bo6-warzone-unlock-tool](https://huggingface.co/MichaelYanolja/bo6-warzone-unlock-tool) | MichaelYanolja | 0 | 0 | region:us |
-| 2026-11-23 16:27:50 | [Ryuk2kc/deadlock-cheat](https://huggingface.co/Ryuk2kc/deadlock-cheat) | Ryuk2kc | 0 | 0 | region:us |
-| 2026-11-23 16:27:55 | [daffy0208/bo6-warzone-unlock-tool](https://huggingface.co/daffy0208/bo6-warzone-unlock-tool) | daffy0208 | 0 | 0 | region:us |
-| 2026-11-23 16:27:55 | [Marselox/discord-nitro-unlocker-quest-bot](https://huggingface.co/Marselox/discord-nitro-unlocker-quest-bot) | Marselox | 0 | 0 | region:us |
-| 2026-11-23 16:27:55 | [Madi2004/monster-hunter-wilds-reframework](https://huggingface.co/Madi2004/monster-hunter-wilds-reframework) | Madi2004 | 0 | 0 | region:us |
-| 2026-11-23 16:27:58 | [itzrealfazil/polymarket-trading-arbitrage-bot](https://huggingface.co/itzrealfazil/polymarket-trading-arbitrage-bot) | itzrealfazil | 0 | 0 | region:us |
-| 2026-11-23 16:28:00 | [reebasebastian/IK-voice-model](https://huggingface.co/reebasebastian/IK-voice-model) | reebasebastian | 0 | 0 | coreml; base_model:ai4bharat/indic-conformer-600m-multiling… |
-| 2026-11-23 16:28:15 | [zaper4life/discord-nitro-unlocker-quest-bot](https://huggingface.co/zaper4life/discord-nitro-unlocker-quest-bot) | zaper4life | 0 | 0 | region:us |
-| 2026-11-23 16:28:32 | [zrbobozrx/deadlock-cheat](https://huggingface.co/zrbobozrx/deadlock-cheat) | zrbobozrx | 0 | 0 | region:us |
-| 2026-11-23 16:28:32 | [tmdals929/liferpg-parser](https://huggingface.co/tmdals929/liferpg-parser) | tmdals929 | 0 | 0 | gguf; endpoints_compatible; region:us; conversational |
-| 2026-11-23 16:28:37 | [Kobyko/polymarket-trading-arbitrage-bot](https://huggingface.co/Kobyko/polymarket-trading-arbitrage-bot) | Kobyko | 0 | 0 | region:us |
-| 2026-11-23 16:28:38 | [aahnxx/deadlock-cheat](https://huggingface.co/aahnxx/deadlock-cheat) | aahnxx | 0 | 0 | region:us |
-| 2026-11-23 16:28:50 | [visiting1453/polymarket-trading-arbitrage-bot](https://huggingface.co/visiting1453/polymarket-trading-arbitrage-bot) | visiting1453 | 0 | 0 | region:us |
-| 2026-11-23 16:29:11 | [MichaelYanolja/monster-hunter-wilds-reframework](https://huggingface.co/MichaelYanolja/monster-hunter-wilds-reframework) | MichaelYanolja | 0 | 0 | region:us |
-| 2026-11-23 16:29:20 | [Ryuk2kc/battlefield-6-cheat](https://huggingface.co/Ryuk2kc/battlefield-6-cheat) | Ryuk2kc | 0 | 0 | region:us |
-| 2026-11-23 16:29:21 | [Youzzevic/battlefield-6-cheat](https://huggingface.co/Youzzevic/battlefield-6-cheat) | Youzzevic | 0 | 0 | region:us |
-| 2026-11-23 16:29:27 | [ahahahwtff/path-of-exile-2-map-radar](https://huggingface.co/ahahahwtff/path-of-exile-2-map-radar) | ahahahwtff | 0 | 0 | region:us |
-| 2026-11-23 16:29:34 | [itzrealfazil/battlefield-6-cheat](https://huggingface.co/itzrealfazil/battlefield-6-cheat) | itzrealfazil | 0 | 0 | region:us |
-| 2026-11-23 16:29:54 | [hocdz754/zqsymmodel1820](https://huggingface.co/hocdz754/zqsymmodel1820) | hocdz754 | 0 | 0 | safetensors; gguf; gpt2; license:mit; region:us |
-| 2026-11-23 16:29:58 | [zaper4life/solara-executor-v3](https://huggingface.co/zaper4life/solara-executor-v3) | zaper4life | 0 | 0 | region:us |
-| 2026-11-23 16:30:00 | [gradients-io-tournaments/tournament-tourn_552dac324b78e7bf_20261123-26a86ee0-d82b-4f18-8183-d549c1e7856e-5EcZmz41](https://huggingface.co/gradients-io-tournaments/tournament-tourn_552dac324b78e7bf_20261123-26a86ee0-d82b-4f18-8183-d549c1e7856e-5EcZmz41) | gradients-io-tournaments | 0 | 0 | region:us |
-| 2026-11-23 16:30:05 | [Hisohkoyage/valorant-cheat-colorbot](https://huggingface.co/Hisohkoyage/valorant-cheat-colorbot) | Hisohkoyage | 0 | 0 | region:us |
-| 2026-11-23 16:30:37 | [aahnxx/arc-raiders-cheat](https://huggingface.co/aahnxx/arc-raiders-cheat) | aahnxx | 0 | 0 | region:us |
-| 2026-11-23 16:30:56 | [enji-hex/qwen3-1.7b-sql](https://huggingface.co/enji-hex/qwen3-1.7b-sql) | enji-hex | 0 | 0 | region:us |
-| 2026-11-23 16:31:08 | [Lucasgitguy-co/LvW-Ming-TTS-0.5B](https://huggingface.co/Lucasgitguy-co/LvW-Ming-TTS-0.5B) | Lucasgitguy-co | 0 | 0 | transformers; onnx; safetensors; dense; text-generation; te… |
-| 2026-11-23 16:31:41 | [kingjones777/Qwen3.6-27B-CoupledWelfare-Curiosity-SuperRoc-GGUF](https://huggingface.co/kingjones777/Qwen3.6-27B-CoupledWelfare-Curiosity-SuperRoc-GGUF) | kingjones777 | 0 | 0 | gguf; super-roc; rocm-fp4; strix-halo; text-generation; bas… |
-| 2026-11-23 16:31:42 | [Madi2004/spt-aki-profile-editor-tarkov](https://huggingface.co/Madi2004/spt-aki-profile-editor-tarkov) | Madi2004 | 0 | 0 | region:us |
-| 2026-11-23 16:31:43 | [Marselox/marvel-rivals-skin-changer](https://huggingface.co/Marselox/marvel-rivals-skin-changer) | Marselox | 0 | 0 | region:us |
-| 2026-11-23 16:31:55 | [Marselox/poe2-auto-flask-cheat-hud](https://huggingface.co/Marselox/poe2-auto-flask-cheat-hud) | Marselox | 0 | 0 | region:us |
-| 2026-11-23 16:31:55 | [Madi2004/bf6-no-recoil-radar-hack](https://huggingface.co/Madi2004/bf6-no-recoil-radar-hack) | Madi2004 | 0 | 0 | region:us |
-| 2026-11-23 16:32:14 | [zrbobozrx/poe2-auto-flask-cheat-hud](https://huggingface.co/zrbobozrx/poe2-auto-flask-cheat-hud) | zrbobozrx | 0 | 0 | region:us |
-| 2026-11-23 16:32:18 | [Kobyko/samfw-frp-tool-v5](https://huggingface.co/Kobyko/samfw-frp-tool-v5) | Kobyko | 0 | 0 | region:us |
-| 2026-11-23 16:32:24 | [Darzzzz/sales-amount-transaction-predictor](https://huggingface.co/Darzzzz/sales-amount-transaction-predictor) | Darzzzz | 0 | 0 | joblib; region:us |
-| 2026-11-23 16:32:25 | [PorcupinePanda/DZ.DARWIN](https://huggingface.co/PorcupinePanda/DZ.DARWIN) | PorcupinePanda | 0 | 0 | transformers.js; onnx; qwen3; text-generation; webgpu; conv… |
-| 2026-11-23 16:32:26 | [zrbobozrx/arc-raiders-esp-no-recoil](https://huggingface.co/zrbobozrx/arc-raiders-esp-no-recoil) | zrbobozrx | 0 | 0 | region:us |
-| 2026-11-23 16:32:27 | [Kobyko/spt-aki-profile-editor-tarkov](https://huggingface.co/Kobyko/spt-aki-profile-editor-tarkov) | Kobyko | 0 | 0 | region:us |
-| 2026-11-23 16:32:31 | [Redin/fl-studio-2026-producer-unlocked](https://huggingface.co/Redin/fl-studio-2026-producer-unlocked) | Redin | 0 | 0 | region:us |
-| 2026-11-23 16:32:37 | [Makdiz/minimax-h3-aoti](https://huggingface.co/Makdiz/minimax-h3-aoti) | Makdiz | 0 | 1 | minimax-h3; aoti; license:other; region:us |
-| 2026-11-23 16:32:44 | [Redin/marvel-rivals-skin-changer](https://huggingface.co/Redin/marvel-rivals-skin-changer) | Redin | 0 | 0 | region:us |
-| 2026-11-23 16:32:48 | [Youzzevic/fortnite-hwid-spoofer-cheat](https://huggingface.co/Youzzevic/fortnite-hwid-spoofer-cheat) | Youzzevic | 0 | 0 | region:us |
-| 2026-11-23 16:32:58 | [eyes-ml/K2-Horizon-32B-mid4-datamix](https://huggingface.co/eyes-ml/K2-Horizon-32B-mid4-datamix) | eyes-ml | 0 | 0 | safetensors; k2_horizon; custom_code; region:us |
-| 2026-11-23 16:32:59 | [Youzzevic/monster-hunter-wilds-save-editor](https://huggingface.co/Youzzevic/monster-hunter-wilds-save-editor) | Youzzevic | 0 | 0 | region:us |
-| 2026-11-23 16:33:02 | [Youzzevic/capcut-pro-unlocked-pc-2026](https://huggingface.co/Youzzevic/capcut-pro-unlocked-pc-2026) | Youzzevic | 0 | 0 | region:us |
-| 2026-11-23 16:33:04 | [Miko1331/novashop-support-lora](https://huggingface.co/Miko1331/novashop-support-lora) | Miko1331 | 0 | 0 | peft; safetensors; base_model:adapter:unsloth/Meta-Llama-3.… |
-| 2026-11-23 16:33:08 | [ahahahwtff/slay-the-spire-2-mod-loader](https://huggingface.co/ahahahwtff/slay-the-spire-2-mod-loader) | ahahahwtff | 0 | 0 | region:us |
-| 2026-11-23 16:33:19 | [azeeer/eagle3-nextarms-r08](https://huggingface.co/azeeer/eagle3-nextarms-r08) | azeeer | 0 | 0 | safetensors; region:us |
-| 2026-11-23 16:33:22 | [Youzzevic/poe2-auto-flask-cheat-hud](https://huggingface.co/Youzzevic/poe2-auto-flask-cheat-hud) | Youzzevic | 0 | 0 | region:us |
-| 2026-11-23 16:33:23 | [Ryanham1lton/SneaselJCC](https://huggingface.co/Ryanham1lton/SneaselJCC) | Ryanham1lton | 0 | 0 | license:cc-by-4.0; region:us |
-| 2026-11-23 16:33:23 | [zaper4life/yimmenu-v2-gta5](https://huggingface.co/zaper4life/yimmenu-v2-gta5) | zaper4life | 0 | 0 | region:us |
-| 2026-11-23 16:33:35 | [ahahahwtff/samfw-frp-tool-v5](https://huggingface.co/ahahahwtff/samfw-frp-tool-v5) | ahahahwtff | 0 | 0 | region:us |
-| 2026-11-23 16:33:36 | [brouthen/microduck-football-act](https://huggingface.co/brouthen/microduck-football-act) | brouthen | 0 | 0 | lerobot; safetensors; LeRobot; act; microduck; football; si… |
-| 2026-11-23 16:33:42 | [Hisohkoyage/vape-v4-preactivated-ghost-client](https://huggingface.co/Hisohkoyage/vape-v4-preactivated-ghost-client) | Hisohkoyage | 0 | 0 | region:us |
-| 2026-11-23 16:33:48 | [zaper4life/fl-studio-2026-producer-unlocked](https://huggingface.co/zaper4life/fl-studio-2026-producer-unlocked) | zaper4life | 0 | 0 | region:us |
-| 2026-11-23 16:33:49 | [aahnxx/autodesk-2026-universal-patcher](https://huggingface.co/aahnxx/autodesk-2026-universal-patcher) | aahnxx | 0 | 0 | region:us |
-| 2026-11-23 16:33:59 | [fewrgbh56ry5gt4c3/Mellum2.1-12B-A2.5B-Thinking-oQ4e-fp16](https://huggingface.co/fewrgbh56ry5gt4c3/Mellum2.1-12B-A2.5B-Thinking-oQ4e-fp16) | fewrgbh56ry5gt4c3 | 0 | 0 | safetensors; mellum; 4-bit; region:us |
-| 2026-11-23 16:34:22 | [Hisohkoyage/fortnite-hwid-spoofer-cheat](https://huggingface.co/Hisohkoyage/fortnite-hwid-spoofer-cheat) | Hisohkoyage | 0 | 0 | region:us |
-| 2026-11-23 16:34:22 | [aahnxx/capcut-pro-unlocked-pc-2026](https://huggingface.co/aahnxx/capcut-pro-unlocked-pc-2026) | aahnxx | 0 | 0 | region:us |
-| 2026-11-23 16:34:27 | [daffy0208/fabfilter-total-bundle-2026](https://huggingface.co/daffy0208/fabfilter-total-bundle-2026) | daffy0208 | 0 | 0 | region:us |
-| 2026-11-23 16:34:27 | [Marselox/raydium-meteora-sniper-bot](https://huggingface.co/Marselox/raydium-meteora-sniper-bot) | Marselox | 0 | 0 | region:us |
-| 2026-11-23 16:34:27 | [Madi2004/cs2-esp-aimbot-hack](https://huggingface.co/Madi2004/cs2-esp-aimbot-hack) | Madi2004 | 0 | 0 | region:us |
-| 2026-11-23 16:34:28 | [visiting1453/slay-the-spire-2-mod-loader](https://huggingface.co/visiting1453/slay-the-spire-2-mod-loader) | visiting1453 | 0 | 0 | region:us |
-| 2026-11-23 16:34:56 | [roskosmos19/Rhea-Coder-0.5B](https://huggingface.co/roskosmos19/Rhea-Coder-0.5B) | roskosmos19 | 0 | 0 | region:us |
-| 2026-11-23 16:34:58 | [Marselox/exitlag-noping-trial-reset-unlocker](https://huggingface.co/Marselox/exitlag-noping-trial-reset-unlocker) | Marselox | 0 | 0 | region:us |
-| 2026-11-23 16:34:58 | [Madi2004/metamask-rabby-phantom-vault-decryptor](https://huggingface.co/Madi2004/metamask-rabby-phantom-vault-decryptor) | Madi2004 | 0 | 0 | region:us |
-| 2026-11-23 16:34:58 | [daffy0208/roblox-rivals-script-aimbot](https://huggingface.co/daffy0208/roblox-rivals-script-aimbot) | daffy0208 | 0 | 0 | region:us |
-| 2026-11-23 16:34:58 | [zrbobozrx/tradingview-premium-unlocked-desktop](https://huggingface.co/zrbobozrx/tradingview-premium-unlocked-desktop) | zrbobozrx | 0 | 0 | region:us |
-| 2026-11-23 16:34:59 | [MichaelYanolja/yimmenu-v2-gta5](https://huggingface.co/MichaelYanolja/yimmenu-v2-gta5) | MichaelYanolja | 0 | 0 | region:us |
-| 2026-11-23 16:35:01 | [Ryuk2kc/vape-v4-preactivated-ghost-client](https://huggingface.co/Ryuk2kc/vape-v4-preactivated-ghost-client) | Ryuk2kc | 0 | 0 | region:us |
-| 2026-11-23 16:35:17 | [Kobyko/davinci-resolve-studio-20-unlocked](https://huggingface.co/Kobyko/davinci-resolve-studio-20-unlocked) | Kobyko | 0 | 0 | region:us |
-| 2026-11-23 16:35:32 | [zrbobozrx/gta-6-pc-companion](https://huggingface.co/zrbobozrx/gta-6-pc-companion) | zrbobozrx | 0 | 0 | region:us |
-| 2026-11-23 16:35:32 | [itzrealfazil/autodesk-2026-universal-patcher](https://huggingface.co/itzrealfazil/autodesk-2026-universal-patcher) | itzrealfazil | 0 | 0 | region:us |
-| 2026-11-23 16:35:34 | [Kobyko/topaz-video-ai-6-pro-unlocked](https://huggingface.co/Kobyko/topaz-video-ai-6-pro-unlocked) | Kobyko | 0 | 0 | region:us |
-| 2026-11-23 16:35:38 | [Redin/swift-executor-roblox](https://huggingface.co/Redin/swift-executor-roblox) | Redin | 0 | 0 | region:us |
-| 2026-11-23 16:35:39 | [SamerAyyad/VLA_Samer_22.11.2026_200eps_policy_ACT_500k](https://huggingface.co/SamerAyyad/VLA_Samer_22.11.2026_200eps_policy_ACT_500k) | SamerAyyad | 0 | 0 | lerobot; safetensors; robotics; act; dataset:SamerAyyad/VLA… |
-| 2026-11-23 16:35:43 | [Redin/antares-autotune-pro-11-unlocked](https://huggingface.co/Redin/antares-autotune-pro-11-unlocked) | Redin | 0 | 0 | region:us |
-| 2026-11-23 16:35:49 | [Youzzevic/dead-rails-script-roblox](https://huggingface.co/Youzzevic/dead-rails-script-roblox) | Youzzevic | 0 | 0 | region:us |
-| 2026-11-23 16:35:50 | [Youzzevic/deep-live-cam-cuda-portable](https://huggingface.co/Youzzevic/deep-live-cam-cuda-portable) | Youzzevic | 0 | 0 | region:us |
-| 2026-11-23 16:36:02 | [Lucasgitguy-co/LvW-Ming-TTS-0.5B-MLX-bf16](https://huggingface.co/Lucasgitguy-co/LvW-Ming-TTS-0.5B-MLX-bf16) | Lucasgitguy-co | 0 | 0 | mlx-audio; safetensors; dense; mlx; text-to-speech; voice-c… |
-| 2026-11-23 16:36:10 | [Youzzevic/fivem-lua-executor-dumper](https://huggingface.co/Youzzevic/fivem-lua-executor-dumper) | Youzzevic | 0 | 0 | region:us |
-| 2026-11-23 16:36:11 | [Youzzevic/celery-executor-roblox](https://huggingface.co/Youzzevic/celery-executor-roblox) | Youzzevic | 0 | 0 | region:us |
-| 2026-11-23 16:36:13 | [fewrgbh56ry5gt4c3/qwen3.6-35b-a3b-oQ6e-mtp](https://huggingface.co/fewrgbh56ry5gt4c3/qwen3.6-35b-a3b-oQ6e-mtp) | fewrgbh56ry5gt4c3 | 0 | 0 | safetensors; qwen3_5_moe; 6-bit; region:us |
-| 2026-11-23 16:36:19 | [ahahahwtff/solara-v3-bootstrapper](https://huggingface.co/ahahahwtff/solara-v3-bootstrapper) | ahahahwtff | 0 | 0 | region:us |
-| 2026-11-23 16:36:22 | [lfeng03/MyAwesomeModel-TestRepo](https://huggingface.co/lfeng03/MyAwesomeModel-TestRepo) | lfeng03 | 0 | 0 | transformers; pytorch; bert; feature-extraction; license:mi… |
-| 2026-11-23 16:36:29 | [zaper4life/hyperliquid-perp-market-maker-bot](https://huggingface.co/zaper4life/hyperliquid-perp-market-maker-bot) | zaper4life | 0 | 0 | region:us |
-| 2026-11-23 16:36:29 | [Hisohkoyage/pump-fun-volume-bump-bot](https://huggingface.co/Hisohkoyage/pump-fun-volume-bump-bot) | Hisohkoyage | 0 | 0 | region:us |
-| 2026-11-23 16:36:31 | [ahahahwtff/deadlock-hack-script](https://huggingface.co/ahahahwtff/deadlock-hack-script) | ahahahwtff | 0 | 0 | region:us |
-| 2026-11-23 16:36:36 | [Madi2004/arceus-x-neo-pc](https://huggingface.co/Madi2004/arceus-x-neo-pc) | Madi2004 | 0 | 0 | region:us |
-| 2026-11-23 16:36:36 | [joonyeongs/cosmos3-edge-policy-droid-codex-review-pyrua-sol-fixed-150-full-ft-1k](https://huggingface.co/joonyeongs/cosmos3-edge-policy-droid-codex-review-pyrua-sol-fixed-150-full-ft-1k) | joonyeongs | 0 | 0 | cosmos; diffusers; safetensors; cosmos3_omni; cosmos3; poli… |
-| 2026-11-23 16:36:36 | [daffy0208/topaz-video-ai-6-pro-unlocked](https://huggingface.co/daffy0208/topaz-video-ai-6-pro-unlocked) | daffy0208 | 0 | 0 | region:us |
-| 2026-11-23 16:36:49 | [zaper4life/cs2-esp-aimbot-hack](https://huggingface.co/zaper4life/cs2-esp-aimbot-hack) | zaper4life | 0 | 0 | region:us |
-| 2026-11-23 16:36:50 | [gigihuang/smollm2-finetuned-chat-instruct-lora-adapters](https://huggingface.co/gigihuang/smollm2-finetuned-chat-instruct-lora-adapters) | gigihuang | 0 | 0 | llama; region:us |
-| 2026-11-23 16:36:53 | [Hisohkoyage/fabfilter-total-bundle-2026](https://huggingface.co/Hisohkoyage/fabfilter-total-bundle-2026) | Hisohkoyage | 0 | 0 | region:us |
-| 2026-11-23 16:36:58 | [aahnxx/idm-v6-42-unlocked-trial-reset](https://huggingface.co/aahnxx/idm-v6-42-unlocked-trial-reset) | aahnxx | 0 | 0 | region:us |
-| 2026-11-23 16:37:00 | [SoSolaris/xvla-b1123-1444-xv4_meanstd_hot](https://huggingface.co/SoSolaris/xvla-b1123-1444-xv4_meanstd_hot) | SoSolaris | 0 | 0 | lerobot; safetensors; robotics; xvla; dataset:SoSolaris/can… |
-| 2026-11-23 16:37:12 | [zrbobozrx/cryptic-executor-pc](https://huggingface.co/zrbobozrx/cryptic-executor-pc) | zrbobozrx | 0 | 0 | region:us |
-| 2026-11-23 16:37:12 | [Kobyko/arc-raiders-cheat](https://huggingface.co/Kobyko/arc-raiders-cheat) | Kobyko | 0 | 0 | region:us |
-| 2026-11-23 16:37:20 | [aahnxx/tradingview-premium-unlocked-desktop](https://huggingface.co/aahnxx/tradingview-premium-unlocked-desktop) | aahnxx | 0 | 0 | region:us |
-| 2026-11-23 16:37:31 | [Lucasgitguy-co/LvW-Ming-TTS-0.5B-MLX-8bit](https://huggingface.co/Lucasgitguy-co/LvW-Ming-TTS-0.5B-MLX-8bit) | Lucasgitguy-co | 0 | 0 | mlx-audio; safetensors; dense; mlx; text-to-speech; voice-c… |
-| 2026-11-23 16:37:35 | [RGDevloper/Intentclassification](https://huggingface.co/RGDevloper/Intentclassification) | RGDevloper | 0 | 0 | license:mit; region:us |
-| 2026-11-23 16:37:37 | [visiting1453/davinci-resolve-studio-20-unlocked](https://huggingface.co/visiting1453/davinci-resolve-studio-20-unlocked) | visiting1453 | 0 | 0 | region:us |
-| 2026-11-23 16:37:39 | [Redin/synapse-z-executor](https://huggingface.co/Redin/synapse-z-executor) | Redin | 0 | 0 | region:us |
-| 2026-11-23 16:37:40 | [Madi2004/swift-executor-roblox](https://huggingface.co/Madi2004/swift-executor-roblox) | Madi2004 | 0 | 0 | region:us |
-| 2026-11-23 16:37:40 | [Marselox/gta-6-pc-companion](https://huggingface.co/Marselox/gta-6-pc-companion) | Marselox | 0 | 0 | region:us |
+| 2026-11-23 17:21:53 | [aahnxx/arc-raiders-cheat-trainer](https://huggingface.co/aahnxx/arc-raiders-cheat-trainer) | aahnxx | 0 | 0 | region:us |
+| 2026-11-23 17:22:02 | [Lomsaa/it-takes-two-cheat-trainer](https://huggingface.co/Lomsaa/it-takes-two-cheat-trainer) | Lomsaa | 0 | 0 | region:us |
+| 2026-11-23 17:22:07 | [zrbobozrx/brookhaven-adopt-me-sols-rng-script](https://huggingface.co/zrbobozrx/brookhaven-adopt-me-sols-rng-script) | zrbobozrx | 0 | 0 | region:us |
+| 2026-11-23 17:22:07 | [chadouming/Hy-MT2-1.8B-int8-ov](https://huggingface.co/chadouming/Hy-MT2-1.8B-int8-ov) | chadouming | 0 | 0 | openvino; hunyuan_v1_dense; openvino-genai; int8; translati… |
+| 2026-11-23 17:22:09 | [Marselox/groundwork-simulator-cheat-trainer](https://huggingface.co/Marselox/groundwork-simulator-cheat-trainer) | Marselox | 0 | 0 | region:us |
+| 2026-11-23 17:22:09 | [daffy0208/tft-unlock-tool-2026](https://huggingface.co/daffy0208/tft-unlock-tool-2026) | daffy0208 | 0 | 0 | region:us |
+| 2026-11-23 17:22:09 | [Madi2004/30-floors-up-script](https://huggingface.co/Madi2004/30-floors-up-script) | Madi2004 | 0 | 0 | region:us |
+| 2026-11-23 17:22:13 | [zaper4life/steam-machine-mod-menu](https://huggingface.co/zaper4life/steam-machine-mod-menu) | zaper4life | 0 | 0 | region:us |
+| 2026-11-23 17:22:13 | [Kobyko/grand-theft-auto-v-enhanced-mod-menu](https://huggingface.co/Kobyko/grand-theft-auto-v-enhanced-mod-menu) | Kobyko | 0 | 0 | region:us |
+| 2026-11-23 17:22:16 | [ajhgjs/MyAwesomeModel-TestRepo](https://huggingface.co/ajhgjs/MyAwesomeModel-TestRepo) | ajhgjs | 0 | 0 | transformers; pytorch; bert; feature-extraction; license:mi… |
+| 2026-11-23 17:22:17 | [Hisohkoyage/doors-auto-farm-script](https://huggingface.co/Hisohkoyage/doors-auto-farm-script) | Hisohkoyage | 0 | 0 | region:us |
+| 2026-11-23 17:22:22 | [chadouming/Hy-MT2-1.8B-int4-ov](https://huggingface.co/chadouming/Hy-MT2-1.8B-int4-ov) | chadouming | 0 | 0 | openvino; hunyuan_v1_dense; openvino-genai; int4; translati… |
+| 2026-11-23 17:22:25 | [aahnxx/ea-sports-fc-27-mod-menu](https://huggingface.co/aahnxx/ea-sports-fc-27-mod-menu) | aahnxx | 0 | 0 | region:us |
+| 2026-11-23 17:22:26 | [MichaelYanolja/bubble-gum-simulator-infinity-script-3843](https://huggingface.co/MichaelYanolja/bubble-gum-simulator-infinity-script-3843) | MichaelYanolja | 0 | 0 | region:us |
+| 2026-11-23 17:22:27 | [Ryuk2kc/finnish-cottage-simulator-cheat-trainer](https://huggingface.co/Ryuk2kc/finnish-cottage-simulator-cheat-trainer) | Ryuk2kc | 0 | 0 | region:us |
+| 2026-11-23 17:22:31 | [Redin/rust-cheat-esp-spoofer](https://huggingface.co/Redin/rust-cheat-esp-spoofer) | Redin | 0 | 0 | region:us |
+| 2026-11-23 17:22:37 | [YunusAltar/my-avatar-script](https://huggingface.co/YunusAltar/my-avatar-script) | YunusAltar | 0 | 0 | region:us |
+| 2026-11-23 17:22:39 | [Alexia74737/argon-valex-executor](https://huggingface.co/Alexia74737/argon-valex-executor) | Alexia74737 | 0 | 0 | region:us |
+| 2026-11-23 17:22:39 | [wh0am-i/rf-detrMedium](https://huggingface.co/wh0am-i/rf-detrMedium) | wh0am-i | 0 | 0 | roboflow; rfdetr; transformer; object-detection; license-pl… |
+| 2026-11-23 17:22:41 | [Youzzevic/potassium-executor](https://huggingface.co/Youzzevic/potassium-executor) | Youzzevic | 0 | 0 | region:us |
+| 2026-11-23 17:22:43 | [zrbobozrx/valorant-esp-triggerbot](https://huggingface.co/zrbobozrx/valorant-esp-triggerbot) | zrbobozrx | 0 | 0 | region:us |
+| 2026-11-23 17:22:45 | [visiting1453/one-more-lawn-cheat-trainer](https://huggingface.co/visiting1453/one-more-lawn-cheat-trainer) | visiting1453 | 0 | 0 | region:us |
+| 2026-11-23 17:22:47 | [Kobyko/doomsday-ghost-client](https://huggingface.co/Kobyko/doomsday-ghost-client) | Kobyko | 0 | 0 | region:us |
+| 2026-11-23 17:22:47 | [elibomb/velocity-executor-roblox](https://huggingface.co/elibomb/velocity-executor-roblox) | elibomb | 0 | 0 | region:us |
+| 2026-11-23 17:22:48 | [Redin/brookhaven-adopt-me-sols-rng-script](https://huggingface.co/Redin/brookhaven-adopt-me-sols-rng-script) | Redin | 0 | 0 | region:us |
+| 2026-11-23 17:22:50 | [itzrealfazil/mahanakhon-racing-script](https://huggingface.co/itzrealfazil/mahanakhon-racing-script) | itzrealfazil | 0 | 0 | region:us |
+| 2026-11-23 17:22:59 | [MichaelYanolja/arc-raiders-cheat-trainer](https://huggingface.co/MichaelYanolja/arc-raiders-cheat-trainer) | MichaelYanolja | 0 | 0 | region:us |
+| 2026-11-23 17:23:00 | [Ryuk2kc/flash-loan-aave-uniswap-arbitrage-bot](https://huggingface.co/Ryuk2kc/flash-loan-aave-uniswap-arbitrage-bot) | Ryuk2kc | 0 | 0 | region:us |
+| 2026-11-23 17:23:01 | [s2naito/qwen3.5-0.8b-rag-sft-v4-v4c-avg](https://huggingface.co/s2naito/qwen3.5-0.8b-rag-sft-v4-v4c-avg) | s2naito | 0 | 0 | safetensors; qwen3_5; ja; base_model:Qwen/Qwen3.5-0.8B; bas… |
+| 2026-11-23 17:23:05 | [ahahahwtff/dandys-world-forsaken-evade-script](https://huggingface.co/ahahahwtff/dandys-world-forsaken-evade-script) | ahahahwtff | 0 | 0 | region:us |
+| 2026-11-23 17:23:10 | [lucianga/cinema-4d-2026-redshift-unlocked](https://huggingface.co/lucianga/cinema-4d-2026-redshift-unlocked) | lucianga | 0 | 0 | region:us |
+| 2026-11-23 17:23:13 | [Xainty/satisfactory-cheat-trainer](https://huggingface.co/Xainty/satisfactory-cheat-trainer) | Xainty | 0 | 0 | region:us |
+| 2026-11-23 17:23:17 | [zaper4life/dayz-mod-menu](https://huggingface.co/zaper4life/dayz-mod-menu) | zaper4life | 0 | 0 | region:us |
+| 2026-11-23 17:23:18 | [itzrealfazil/bubble-gum-simulator-infinity-script-3843](https://huggingface.co/itzrealfazil/bubble-gum-simulator-infinity-script-3843) | itzrealfazil | 0 | 0 | region:us |
+| 2026-11-23 17:23:20 | [Hisohkoyage/cities-skylines-mod-menu](https://huggingface.co/Hisohkoyage/cities-skylines-mod-menu) | Hisohkoyage | 0 | 0 | region:us |
+| 2026-11-23 17:23:21 | [Youzzevic/grand-theft-auto-v-enhanced-mod-menu](https://huggingface.co/Youzzevic/grand-theft-auto-v-enhanced-mod-menu) | Youzzevic | 0 | 0 | region:us |
+| 2026-11-23 17:23:22 | [Youzzevic/rust-cheat-esp-spoofer](https://huggingface.co/Youzzevic/rust-cheat-esp-spoofer) | Youzzevic | 0 | 0 | region:us |
+| 2026-11-23 17:23:23 | [ahahahwtff/potassium-executor](https://huggingface.co/ahahahwtff/potassium-executor) | ahahahwtff | 0 | 0 | region:us |
+| 2026-11-23 17:23:24 | [thasri-7/voxel-wars-script](https://huggingface.co/thasri-7/voxel-wars-script) | thasri-7 | 0 | 0 | region:us |
+| 2026-11-23 17:23:43 | [aahnxx/sekiro-shadows-die-twice-goty-editio-mod-m](https://huggingface.co/aahnxx/sekiro-shadows-die-twice-goty-editio-mod-m) | aahnxx | 0 | 0 | region:us |
+| 2026-11-23 17:23:46 | [Lucasgitguy-co/MiniCPM5-2B-Pi-Arete-f04bd1bc](https://huggingface.co/Lucasgitguy-co/MiniCPM5-2B-Pi-Arete-f04bd1bc) | Lucasgitguy-co | 0 | 0 | transformers; safetensors; llama; text-generation; pi; conv… |
+| 2026-11-23 17:23:48 | [c4tdr0ut/Llama-3.3-8B-Instruct-apostate](https://huggingface.co/c4tdr0ut/Llama-3.3-8B-Instruct-apostate) | c4tdr0ut | 0 | 0 | safetensors; llama; region:us |
+| 2026-11-23 17:23:49 | [visiting1453/marvel-rivals-cheat-trainer](https://huggingface.co/visiting1453/marvel-rivals-cheat-trainer) | visiting1453 | 0 | 0 | region:us |
+| 2026-11-23 17:23:53 | [zaper4life/autodesk-2026-universal-patcher](https://huggingface.co/zaper4life/autodesk-2026-universal-patcher) | zaper4life | 0 | 0 | region:us |
+| 2026-11-23 17:23:55 | [daffy0208/potassium-executor](https://huggingface.co/daffy0208/potassium-executor) | daffy0208 | 0 | 0 | region:us |
+| 2026-11-23 17:23:55 | [Madi2004/doomsday-ghost-client](https://huggingface.co/Madi2004/doomsday-ghost-client) | Madi2004 | 0 | 0 | region:us |
+| 2026-11-23 17:23:55 | [Marselox/grand-theft-auto-v-enhanced-mod-menu](https://huggingface.co/Marselox/grand-theft-auto-v-enhanced-mod-menu) | Marselox | 0 | 0 | region:us |
+| 2026-11-23 17:23:59 | [rasan187/pet-simulator-99-script](https://huggingface.co/rasan187/pet-simulator-99-script) | rasan187 | 0 | 0 | region:us |
+| 2026-11-23 17:23:59 | [Indeedman/delta-executor](https://huggingface.co/Indeedman/delta-executor) | Indeedman | 0 | 0 | region:us |
+| 2026-11-23 17:23:59 | [Roondog/grow-a-garden-script-roblox](https://huggingface.co/Roondog/grow-a-garden-script-roblox) | Roondog | 0 | 0 | region:us |
+| 2026-11-23 17:23:59 | [MichaelYanolja/ghost-of-tsushima-director-s-cut-mod-menu](https://huggingface.co/MichaelYanolja/ghost-of-tsushima-director-s-cut-mod-menu) | MichaelYanolja | 0 | 0 | region:us |
+| 2026-11-23 17:24:17 | [Ryuk2kc/kingdom-come-deliverance-ii-mod-menu](https://huggingface.co/Ryuk2kc/kingdom-come-deliverance-ii-mod-menu) | Ryuk2kc | 0 | 0 | region:us |
+| 2026-11-23 17:24:22 | [itzrealfazil/kaiju-alpha-auto-farm-script](https://huggingface.co/itzrealfazil/kaiju-alpha-auto-farm-script) | itzrealfazil | 0 | 0 | region:us |
+| 2026-11-23 17:24:27 | [aahnxx/dayz-mod-menu](https://huggingface.co/aahnxx/dayz-mod-menu) | aahnxx | 0 | 0 | region:us |
+| 2026-11-23 17:24:29 | [zrbobozrx/dandys-world-forsaken-evade-script](https://huggingface.co/zrbobozrx/dandys-world-forsaken-evade-script) | zrbobozrx | 0 | 0 | region:us |
+| 2026-11-23 17:24:29 | [daffy0208/dandys-world-forsaken-evade-script](https://huggingface.co/daffy0208/dandys-world-forsaken-evade-script) | daffy0208 | 0 | 0 | region:us |
+| 2026-11-23 17:24:31 | [Kobyko/dayz-mod-menu](https://huggingface.co/Kobyko/dayz-mod-menu) | Kobyko | 0 | 0 | region:us |
+| 2026-11-23 17:24:33 | [Lomsaa/kontakt-8-portable-library-manager](https://huggingface.co/Lomsaa/kontakt-8-portable-library-manager) | Lomsaa | 0 | 0 | region:us |
+| 2026-11-23 17:24:47 | [panoramaworks/new01](https://huggingface.co/panoramaworks/new01) | panoramaworks | 0 | 0 | license:apache-2.0; region:us |
+| 2026-11-23 17:24:51 | [Redin/cities-skylines-mod-menu](https://huggingface.co/Redin/cities-skylines-mod-menu) | Redin | 0 | 0 | region:us |
+| 2026-11-23 17:24:54 | [Lucasgitguy-co/RE-USE-Lite](https://huggingface.co/Lucasgitguy-co/RE-USE-Lite) | Lucasgitguy-co | 0 | 0 | safetensors; nemotron_reuse; speech-enhancement; denoising;… |
+| 2026-11-23 17:25:00 | [Youzzevic/sekiro-shadows-die-twice-goty-editio-mod-m](https://huggingface.co/Youzzevic/sekiro-shadows-die-twice-goty-editio-mod-m) | Youzzevic | 0 | 0 | region:us |
+| 2026-11-23 17:25:05 | [Youzzevic/marvel-rivals-cheat-trainer](https://huggingface.co/Youzzevic/marvel-rivals-cheat-trainer) | Youzzevic | 0 | 0 | region:us |
+| 2026-11-23 17:25:07 | [zrbobozrx/dayz-mod-menu](https://huggingface.co/zrbobozrx/dayz-mod-menu) | zrbobozrx | 0 | 0 | region:us |
+| 2026-11-23 17:25:11 | [Kobyko/cities-skylines-mod-menu](https://huggingface.co/Kobyko/cities-skylines-mod-menu) | Kobyko | 0 | 0 | region:us |
+| 2026-11-23 17:25:14 | [YunusAltar/celery-executor-roblox](https://huggingface.co/YunusAltar/celery-executor-roblox) | YunusAltar | 0 | 0 | region:us |
+| 2026-11-23 17:25:16 | [Alexia74737/deadlock-hack-script](https://huggingface.co/Alexia74737/deadlock-hack-script) | Alexia74737 | 0 | 0 | region:us |
+| 2026-11-23 17:25:17 | [ManuelR12/beto-sarcasmo-bs8](https://huggingface.co/ManuelR12/beto-sarcasmo-bs8) | ManuelR12 | 0 | 0 | safetensors; bert; sarcasmo; spanish; text-classification;… |
+| 2026-11-23 17:25:18 | [Redin/sekiro-shadows-die-twice-goty-editio-mod-m](https://huggingface.co/Redin/sekiro-shadows-die-twice-goty-editio-mod-m) | Redin | 0 | 0 | region:us |
+| 2026-11-23 17:25:27 | [ahahahwtff/ghost-of-tsushima-director-s-cut-mod-menu](https://huggingface.co/ahahahwtff/ghost-of-tsushima-director-s-cut-mod-menu) | ahahahwtff | 0 | 0 | region:us |
+| 2026-11-23 17:25:32 | [elibomb/cs2-esp-aimbot-hack](https://huggingface.co/elibomb/cs2-esp-aimbot-hack) | elibomb | 0 | 0 | region:us |
+| 2026-11-23 17:25:37 | [zaper4life/kingdom-come-deliverance-ii-mod-menu](https://huggingface.co/zaper4life/kingdom-come-deliverance-ii-mod-menu) | zaper4life | 0 | 0 | region:us |
+| 2026-11-23 17:25:37 | [grey-cat/23B1266-Final-Compression20-Submission01](https://huggingface.co/grey-cat/23B1266-Final-Compression20-Submission01) | grey-cat | 0 | 0 | safetensors; qwen3_5; region:us |
+| 2026-11-23 17:25:44 | [Hisohkoyage/kaiju-alpha-auto-farm-script](https://huggingface.co/Hisohkoyage/kaiju-alpha-auto-farm-script) | Hisohkoyage | 0 | 0 | region:us |
+| 2026-11-23 17:25:45 | [Marselox/dandys-world-forsaken-evade-script](https://huggingface.co/Marselox/dandys-world-forsaken-evade-script) | Marselox | 0 | 0 | region:us |
+| 2026-11-23 17:25:45 | [daffy0208/dayz-mod-menu](https://huggingface.co/daffy0208/dayz-mod-menu) | daffy0208 | 0 | 0 | region:us |
+| 2026-11-23 17:25:45 | [Madi2004/grand-theft-auto-v-enhanced-mod-menu](https://huggingface.co/Madi2004/grand-theft-auto-v-enhanced-mod-menu) | Madi2004 | 0 | 0 | region:us |
+| 2026-11-23 17:25:46 | [lucianga/dead-rails-script-roblox](https://huggingface.co/lucianga/dead-rails-script-roblox) | lucianga | 0 | 0 | region:us |
+| 2026-11-23 17:25:46 | [Youzzevic/ghost-of-tsushima-director-s-cut-mod-menu](https://huggingface.co/Youzzevic/ghost-of-tsushima-director-s-cut-mod-menu) | Youzzevic | 0 | 0 | region:us |
+| 2026-11-23 17:25:50 | [Xainty/davinci-resolve-studio-20-unlocked](https://huggingface.co/Xainty/davinci-resolve-studio-20-unlocked) | Xainty | 0 | 0 | region:us |
+| 2026-11-23 17:25:51 | [racklab/BankShot-Search](https://huggingface.co/racklab/BankShot-Search) | racklab | 0 | 0 | onnx; text-retrieval; edge-ai; openvino; intel-neural-compu… |
+| 2026-11-23 17:25:54 | [ahahahwtff/kingdom-come-deliverance-ii-mod-menu](https://huggingface.co/ahahahwtff/kingdom-come-deliverance-ii-mod-menu) | ahahahwtff | 0 | 0 | region:us |
+| 2026-11-23 17:26:06 | [thasri-7/axiom-trade-sniper-bot](https://huggingface.co/thasri-7/axiom-trade-sniper-bot) | thasri-7 | 0 | 0 | region:us |
+| 2026-11-23 17:26:12 | [jonardan/q-FrozenLake-v1-4x4-noSlippery](https://huggingface.co/jonardan/q-FrozenLake-v1-4x4-noSlippery) | jonardan | 0 | 0 | FrozenLake-v1-4x4-no_slippery; q-learning; reinforcement-le… |
+| 2026-11-23 17:26:15 | [aahnxx/aba-auto-farm-script](https://huggingface.co/aahnxx/aba-auto-farm-script) | aahnxx | 0 | 0 | region:us |
+| 2026-11-23 17:26:22 | [zrbobozrx/cities-skylines-mod-menu](https://huggingface.co/zrbobozrx/cities-skylines-mod-menu) | zrbobozrx | 0 | 0 | region:us |
+| 2026-11-23 17:26:23 | [zaper4life/kaiju-alpha-auto-farm-script](https://huggingface.co/zaper4life/kaiju-alpha-auto-farm-script) | zaper4life | 0 | 0 | region:us |
+| 2026-11-23 17:26:24 | [ManuelR12/beto-sarcasmo-bs16](https://huggingface.co/ManuelR12/beto-sarcasmo-bs16) | ManuelR12 | 0 | 0 | safetensors; bert; sarcasmo; spanish; text-classification;… |
+| 2026-11-23 17:26:26 | [Kobyko/sekiro-shadows-die-twice-goty-editio-mod-m](https://huggingface.co/Kobyko/sekiro-shadows-die-twice-goty-editio-mod-m) | Kobyko | 0 | 0 | region:us |
+| 2026-11-23 17:26:29 | [Hisohkoyage/aba-auto-farm-script](https://huggingface.co/Hisohkoyage/aba-auto-farm-script) | Hisohkoyage | 0 | 0 | region:us |
+| 2026-11-23 17:26:29 | [visiting1453/clean-the-bugs-auto-farm-script](https://huggingface.co/visiting1453/clean-the-bugs-auto-farm-script) | visiting1453 | 0 | 0 | region:us |
+| 2026-11-23 17:26:31 | [aahnxx/clean-the-bugs-auto-farm-script](https://huggingface.co/aahnxx/clean-the-bugs-auto-farm-script) | aahnxx | 0 | 0 | region:us |
+| 2026-11-23 17:26:32 | [Redin/marvel-rivals-cheat-trainer](https://huggingface.co/Redin/marvel-rivals-cheat-trainer) | Redin | 0 | 0 | region:us |
+| 2026-11-23 17:26:38 | [MichaelYanolja/crimson-desert-enhanced-mod-menu](https://huggingface.co/MichaelYanolja/crimson-desert-enhanced-mod-menu) | MichaelYanolja | 0 | 0 | region:us |
+| 2026-11-23 17:26:44 | [Indeedman/photon-sol-sniper-bot](https://huggingface.co/Indeedman/photon-sol-sniper-bot) | Indeedman | 0 | 0 | region:us |
+| 2026-11-23 17:26:44 | [Roondog/xeno-keyless-roblox](https://huggingface.co/Roondog/xeno-keyless-roblox) | Roondog | 0 | 0 | region:us |
+| 2026-11-23 17:26:45 | [rasan187/airdrop-sybil-multi-wallet-farm-bot](https://huggingface.co/rasan187/airdrop-sybil-multi-wallet-farm-bot) | rasan187 | 0 | 0 | region:us |
+| 2026-11-23 17:26:47 | [Lucasgitguy-co/RE-USE-Lite-MLX](https://huggingface.co/Lucasgitguy-co/RE-USE-Lite-MLX) | Lucasgitguy-co | 0 | 0 | mlx-audio; safetensors; nemotron_reuse; speech-enhancement;… |
+| 2026-11-23 17:26:50 | [kalcy0n/inkling-humanizer](https://huggingface.co/kalcy0n/inkling-humanizer) | kalcy0n | 0 | 0 | gguf; lora; text-editing; experimental; inkling2; text-gene… |
+| 2026-11-23 17:27:02 | [Lucasgitguy-co/RE-USE-Lite-GGUF](https://huggingface.co/Lucasgitguy-co/RE-USE-Lite-GGUF) | Lucasgitguy-co | 0 | 0 | audio.cpp; gguf; speech-enhancement; denoising; dereverbera… |
+| 2026-11-23 17:27:08 | [itzrealfazil/doors-auto-farm-script](https://huggingface.co/itzrealfazil/doors-auto-farm-script) | itzrealfazil | 0 | 0 | region:us |
+| 2026-11-23 17:27:10 | [voodooquant/Inkling-2-Mini-DSpark-PTQR-W8A8-G128](https://huggingface.co/voodooquant/Inkling-2-Mini-DSpark-PTQR-W8A8-G128) | voodooquant | 0 | 0 | vllm; inkling2_loop; inkling; dspark; speculative-decoding;… |
+| 2026-11-23 17:27:17 | [Youzzevic/kingdom-come-deliverance-ii-mod-menu](https://huggingface.co/Youzzevic/kingdom-come-deliverance-ii-mod-menu) | Youzzevic | 0 | 0 | region:us |
+| 2026-11-23 17:27:17 | [ManuelR12/beto-sarcasmo-bs32](https://huggingface.co/ManuelR12/beto-sarcasmo-bs32) | ManuelR12 | 0 | 0 | safetensors; bert; sarcasmo; spanish; text-classification;… |
+| 2026-11-23 17:27:24 | [Lomsaa/codex-executor-pc](https://huggingface.co/Lomsaa/codex-executor-pc) | Lomsaa | 0 | 0 | region:us |
+| 2026-11-23 17:27:26 | [voodooquant/Inkling-2-Mini-PTQR-W4A8-G128](https://huggingface.co/voodooquant/Inkling-2-Mini-PTQR-W4A8-G128) | voodooquant | 0 | 0 | vllm; safetensors; inkling2_loop; inkling; conversational;… |
+| 2026-11-23 17:27:27 | [MikhailSt/qwen35-9b-dflash-RCO-PQ2](https://huggingface.co/MikhailSt/qwen35-9b-dflash-RCO-PQ2) | MikhailSt | 0 | 0 | transformers; gguf; qwen3; feature-extraction; speculative-… |
+| 2026-11-23 17:27:36 | [ahahahwtff/kaiju-alpha-auto-farm-script](https://huggingface.co/ahahahwtff/kaiju-alpha-auto-farm-script) | ahahahwtff | 0 | 0 | region:us |
+| 2026-11-23 17:27:39 | [zaper4life/aba-auto-farm-script](https://huggingface.co/zaper4life/aba-auto-farm-script) | zaper4life | 0 | 0 | region:us |
+| 2026-11-23 17:27:46 | [Madi2004/slap-battles-script-pastebin](https://huggingface.co/Madi2004/slap-battles-script-pastebin) | Madi2004 | 0 | 0 | region:us |
+| 2026-11-23 17:27:46 | [Marselox/photon-executor](https://huggingface.co/Marselox/photon-executor) | Marselox | 0 | 0 | region:us |
+| 2026-11-23 17:27:46 | [daffy0208/farming-simulator-25-save-editor](https://huggingface.co/daffy0208/farming-simulator-25-save-editor) | daffy0208 | 0 | 0 | region:us |
+| 2026-11-23 17:27:56 | [ManuelR12/xlmr-large-sarcasmo-bs32](https://huggingface.co/ManuelR12/xlmr-large-sarcasmo-bs32) | ManuelR12 | 0 | 0 | safetensors; xlm-roberta; sarcasmo; spanish; text-classific… |
+| 2026-11-23 17:28:01 | [YunusAltar/deep-live-cam-cuda-portable](https://huggingface.co/YunusAltar/deep-live-cam-cuda-portable) | YunusAltar | 0 | 0 | region:us |
+| 2026-11-23 17:28:02 | [Alexia74737/bloxstrap-roblox-fflags](https://huggingface.co/Alexia74737/bloxstrap-roblox-fflags) | Alexia74737 | 0 | 0 | region:us |
+| 2026-11-23 17:28:04 | [sDarth/24b1064-Final-Compression20-Submission01](https://huggingface.co/sDarth/24b1064-Final-Compression20-Submission01) | sDarth | 0 | 0 | safetensors; qwen3_5; 4-bit; gptq; region:us |
+| 2026-11-23 17:28:16 | [Ehsantatooo1/OpenAl](https://huggingface.co/Ehsantatooo1/OpenAl) | Ehsantatooo1 | 0 | 1 | region:us |
+| 2026-11-23 17:28:16 | [visiting1453/steam-machine-mod-menu](https://huggingface.co/visiting1453/steam-machine-mod-menu) | visiting1453 | 0 | 0 | region:us |
+| 2026-11-23 17:28:20 | [elibomb/oringo-client-skyblock-dungeons](https://huggingface.co/elibomb/oringo-client-skyblock-dungeons) | elibomb | 0 | 0 | region:us |
+| 2026-11-23 17:28:22 | [zrbobozrx/survive-overnight-in-a-mega-store-script-p](https://huggingface.co/zrbobozrx/survive-overnight-in-a-mega-store-script-p) | zrbobozrx | 0 | 0 | region:us |
+| 2026-11-23 17:28:23 | [Kobyko/opiumware-executor](https://huggingface.co/Kobyko/opiumware-executor) | Kobyko | 0 | 0 | region:us |
+| 2026-11-23 17:28:24 | [Redin/marvel-s-spider-man-2-save-editor](https://huggingface.co/Redin/marvel-s-spider-man-2-save-editor) | Redin | 0 | 0 | region:us |
+| 2026-11-23 17:28:35 | [lucianga/solara-keyless-executor](https://huggingface.co/lucianga/solara-keyless-executor) | lucianga | 0 | 0 | region:us |
+| 2026-11-23 17:28:40 | [MichaelYanolja/doors-auto-farm-script](https://huggingface.co/MichaelYanolja/doors-auto-farm-script) | MichaelYanolja | 0 | 0 | region:us |
+| 2026-11-23 17:28:48 | [Xainty/binance-bybit-funding-arbitrage-bot](https://huggingface.co/Xainty/binance-bybit-funding-arbitrage-bot) | Xainty | 0 | 0 | region:us |
+| 2026-11-23 17:28:50 | [itzrealfazil/one-more-lawn-cheat-trainer](https://huggingface.co/itzrealfazil/one-more-lawn-cheat-trainer) | itzrealfazil | 0 | 0 | region:us |
+| 2026-11-23 17:28:50 | [Ryuk2kc/ea-sports-fc-27-mod-menu](https://huggingface.co/Ryuk2kc/ea-sports-fc-27-mod-menu) | Ryuk2kc | 0 | 0 | region:us |
+| 2026-11-23 17:28:54 | [Marselox/farming-simulator-25-save-editor](https://huggingface.co/Marselox/farming-simulator-25-save-editor) | Marselox | 0 | 0 | region:us |
+| 2026-11-23 17:28:54 | [daffy0208/survive-overnight-in-a-mega-store-script-p](https://huggingface.co/daffy0208/survive-overnight-in-a-mega-store-script-p) | daffy0208 | 0 | 0 | region:us |
+| 2026-11-23 17:28:54 | [thasri-7/polar-client-skyblock-mining](https://huggingface.co/thasri-7/polar-client-skyblock-mining) | thasri-7 | 0 | 0 | region:us |
+| 2026-11-23 17:29:01 | [Youzzevic/motocross-the-game-save-editor](https://huggingface.co/Youzzevic/motocross-the-game-save-editor) | Youzzevic | 0 | 0 | region:us |
+| 2026-11-23 17:29:21 | [Youzzevic/sirhurt-executor](https://huggingface.co/Youzzevic/sirhurt-executor) | Youzzevic | 0 | 0 | region:us |
+| 2026-11-23 17:29:28 | [dougalldeepmind/2026-11-23-qwen36-0-da-gpt-voice-15](https://huggingface.co/dougalldeepmind/2026-11-23-qwen36-0-da-gpt-voice-15) | dougalldeepmind | 0 | 0 | safetensors; region:us |
+| 2026-11-23 17:29:28 | [ahahahwtff/matrix-hub-executor](https://huggingface.co/ahahahwtff/matrix-hub-executor) | ahahahwtff | 0 | 0 | region:us |
+| 2026-11-23 17:29:31 | [zrbobozrx/opiumware-executor](https://huggingface.co/zrbobozrx/opiumware-executor) | zrbobozrx | 0 | 0 | region:us |
+| 2026-11-23 17:29:33 | [Kobyko/marvel-s-spider-man-2-save-editor](https://huggingface.co/Kobyko/marvel-s-spider-man-2-save-editor) | Kobyko | 0 | 0 | region:us |
+| 2026-11-23 17:29:35 | [Indeedman/vega-x-bootstrapper](https://huggingface.co/Indeedman/vega-x-bootstrapper) | Indeedman | 0 | 0 | region:us |
+| 2026-11-23 17:29:35 | [Roondog/melatonin-executor](https://huggingface.co/Roondog/melatonin-executor) | Roondog | 0 | 0 | region:us |
+| 2026-11-23 17:29:36 | [rasan187/madius-roblox-executor](https://huggingface.co/rasan187/madius-roblox-executor) | rasan187 | 0 | 0 | region:us |
+| 2026-11-23 17:29:37 | [Redin/motocross-the-game-save-editor](https://huggingface.co/Redin/motocross-the-game-save-editor) | Redin | 0 | 0 | region:us |
+| 2026-11-23 17:29:46 | [zaper4life/grand-theft-auto-v-enhanced-mod-menu](https://huggingface.co/zaper4life/grand-theft-auto-v-enhanced-mod-menu) | zaper4life | 0 | 0 | region:us |
+| 2026-11-23 17:29:55 | [Lucasgitguy-co/MiniCPM5-2B-Pi-Arete-f04bd1bc-MLX-4bit](https://huggingface.co/Lucasgitguy-co/MiniCPM5-2B-Pi-Arete-f04bd1bc-MLX-4bit) | Lucasgitguy-co | 0 | 0 | mlx; safetensors; llama; pi; text-generation; conversationa… |
+| 2026-11-23 17:30:11 | [xenarx/text-summarizer-t5](https://huggingface.co/xenarx/text-summarizer-t5) | xenarx | 0 | 0 | safetensors; t5; license:bsl-1.0; region:us |
+| 2026-11-23 17:30:13 | [Youzzevic/matrix-hub-executor](https://huggingface.co/Youzzevic/matrix-hub-executor) | Youzzevic | 0 | 0 | region:us |
+| 2026-11-23 17:30:17 | [Lomsaa/battlefield-6-cheat](https://huggingface.co/Lomsaa/battlefield-6-cheat) | Lomsaa | 0 | 0 | region:us |
+| 2026-11-23 17:30:19 | [ahahahwtff/grand-theft-auto-v-enhanced-mod-menu](https://huggingface.co/ahahahwtff/grand-theft-auto-v-enhanced-mod-menu) | ahahahwtff | 0 | 0 | region:us |
+| 2026-11-23 17:30:30 | [Madi2004/volt-executor](https://huggingface.co/Madi2004/volt-executor) | Madi2004 | 0 | 0 | region:us |
+| 2026-11-23 17:30:30 | [Marselox/slap-battles-script-pastebin](https://huggingface.co/Marselox/slap-battles-script-pastebin) | Marselox | 0 | 0 | region:us |
+| 2026-11-23 17:30:45 | [zaper4life/dandys-world-forsaken-evade-script](https://huggingface.co/zaper4life/dandys-world-forsaken-evade-script) | zaper4life | 0 | 0 | region:us |
+| 2026-11-23 17:30:46 | [visiting1453/cities-skylines-mod-menu](https://huggingface.co/visiting1453/cities-skylines-mod-menu) | visiting1453 | 0 | 0 | region:us |
+| 2026-11-23 17:30:51 | [Hisohkoyage/dayz-mod-menu](https://huggingface.co/Hisohkoyage/dayz-mod-menu) | Hisohkoyage | 0 | 0 | region:us |
+| 2026-11-23 17:30:56 | [YunusAltar/battlefield-6-cheat](https://huggingface.co/YunusAltar/battlefield-6-cheat) | YunusAltar | 0 | 0 | region:us |
+| 2026-11-23 17:30:56 | [aahnxx/cities-skylines-mod-menu](https://huggingface.co/aahnxx/cities-skylines-mod-menu) | aahnxx | 0 | 0 | region:us |
+| 2026-11-23 17:30:57 | [Alexia74737/hyperliquid-perp-market-maker-bot](https://huggingface.co/Alexia74737/hyperliquid-perp-market-maker-bot) | Alexia74737 | 0 | 0 | region:us |
+| 2026-11-23 17:31:01 | [MichaelYanolja/sekiro-shadows-die-twice-goty-editio-mod-m](https://huggingface.co/MichaelYanolja/sekiro-shadows-die-twice-goty-editio-mod-m) | MichaelYanolja | 0 | 0 | region:us |
+| 2026-11-23 17:31:08 | [Ryuk2kc/ghost-of-tsushima-director-s-cut-mod-menu](https://huggingface.co/Ryuk2kc/ghost-of-tsushima-director-s-cut-mod-menu) | Ryuk2kc | 0 | 0 | region:us |
+| 2026-11-23 17:31:10 | [elibomb/vape-v4-preactivated-ghost-client](https://huggingface.co/elibomb/vape-v4-preactivated-ghost-client) | elibomb | 0 | 0 | region:us |
+| 2026-11-23 17:31:15 | [cbc-528a/vietextract-1.5b](https://huggingface.co/cbc-528a/vietextract-1.5b) | cbc-528a | 0 | 0 | transformers; safetensors; qwen2; text-generation; vietname… |
+| 2026-11-23 17:31:17 | [Marselox/volt-executor](https://huggingface.co/Marselox/volt-executor) | Marselox | 0 | 0 | region:us |
+| 2026-11-23 17:31:17 | [Madi2004/vega-x-executor](https://huggingface.co/Madi2004/vega-x-executor) | Madi2004 | 0 | 0 | region:us |
+| 2026-11-23 17:31:17 | [daffy0208/slap-battles-script-pastebin](https://huggingface.co/daffy0208/slap-battles-script-pastebin) | daffy0208 | 0 | 0 | region:us |
+| 2026-11-23 17:31:22 | [itzrealfazil/kingdom-come-deliverance-ii-mod-menu](https://huggingface.co/itzrealfazil/kingdom-come-deliverance-ii-mod-menu) | itzrealfazil | 0 | 0 | region:us |
+| 2026-11-23 17:31:24 | [visiting1453/sekiro-shadows-die-twice-goty-editio-mod-m](https://huggingface.co/visiting1453/sekiro-shadows-die-twice-goty-editio-mod-m) | visiting1453 | 0 | 0 | region:us |
+| 2026-11-23 17:31:25 | [rujulaaaa/24B0065-Final-Compression10-Submission01](https://huggingface.co/rujulaaaa/24B0065-Final-Compression10-Submission01) | rujulaaaa | 0 | 0 | safetensors; qwen3_5; region:us |
+| 2026-11-23 17:31:32 | [lucianga/slay-the-spire-2-mod-loader](https://huggingface.co/lucianga/slay-the-spire-2-mod-loader) | lucianga | 0 | 0 | region:us |
+| 2026-11-23 17:31:42 | [shdlah/MyAwesomeModel-TestRepo](https://huggingface.co/shdlah/MyAwesomeModel-TestRepo) | shdlah | 0 | 0 | transformers; pytorch; bert; feature-extraction; license:mi… |
+| 2026-11-23 17:31:44 | [Xainty/bf6-no-recoil-radar-hack](https://huggingface.co/Xainty/bf6-no-recoil-radar-hack) | Xainty | 0 | 0 | region:us |
+| 2026-11-23 17:31:52 | [thasri-7/phantom-blade-zero-save-editor](https://huggingface.co/thasri-7/phantom-blade-zero-save-editor) | thasri-7 | 0 | 0 | region:us |
+| 2026-11-23 17:31:53 | [Youzzevic/dandys-world-forsaken-evade-script](https://huggingface.co/Youzzevic/dandys-world-forsaken-evade-script) | Youzzevic | 0 | 0 | region:us |
+| 2026-11-23 17:31:54 | [zrbobozrx/farming-simulator-25-save-editor](https://huggingface.co/zrbobozrx/farming-simulator-25-save-editor) | zrbobozrx | 0 | 0 | region:us |
+| 2026-11-23 17:31:56 | [Kobyko/survive-overnight-in-a-mega-store-script-p](https://huggingface.co/Kobyko/survive-overnight-in-a-mega-store-script-p) | Kobyko | 0 | 0 | region:us |
+| 2026-11-23 17:31:59 | [Madi2004/dx9ware-v2-executor](https://huggingface.co/Madi2004/dx9ware-v2-executor) | Madi2004 | 0 | 0 | region:us |
+| 2026-11-23 17:32:12 | [ahahahwtff/dayz-mod-menu](https://huggingface.co/ahahahwtff/dayz-mod-menu) | ahahahwtff | 0 | 0 | region:us |
+| 2026-11-23 17:32:14 | [Marselox/dx9ware-v2-executor](https://huggingface.co/Marselox/dx9ware-v2-executor) | Marselox | 0 | 0 | region:us |
+| 2026-11-23 17:32:14 | [daffy0208/volt-executor](https://huggingface.co/daffy0208/volt-executor) | daffy0208 | 0 | 0 | region:us |
+| 2026-11-23 17:32:14 | [Madi2004/serotonin-executor](https://huggingface.co/Madi2004/serotonin-executor) | Madi2004 | 0 | 0 | region:us |
+| 2026-11-23 17:32:24 | [zaper4life/cities-skylines-mod-menu](https://huggingface.co/zaper4life/cities-skylines-mod-menu) | zaper4life | 0 | 0 | region:us |
+| 2026-11-23 17:32:26 | [Hisohkoyage/sekiro-shadows-die-twice-goty-editio-mod-m](https://huggingface.co/Hisohkoyage/sekiro-shadows-die-twice-goty-editio-mod-m) | Hisohkoyage | 0 | 0 | region:us |
+| 2026-11-23 17:32:26 | [rasan187/arceus-x-neo-pc](https://huggingface.co/rasan187/arceus-x-neo-pc) | rasan187 | 0 | 0 | region:us |
+| 2026-11-23 17:32:26 | [Marselox/real-executor](https://huggingface.co/Marselox/real-executor) | Marselox | 0 | 0 | region:us |
+| 2026-11-23 17:32:26 | [daffy0208/volcano-executor](https://huggingface.co/daffy0208/volcano-executor) | daffy0208 | 0 | 0 | region:us |
+| 2026-11-23 17:32:26 | [Indeedman/firefox-pro-portable](https://huggingface.co/Indeedman/firefox-pro-portable) | Indeedman | 0 | 0 | region:us |
+| 2026-11-23 17:32:26 | [Roondog/tradingview-premium-unlocked-desktop](https://huggingface.co/Roondog/tradingview-premium-unlocked-desktop) | Roondog | 0 | 0 | region:us |
+| 2026-11-23 17:32:31 | [jonardan/Taxi-v3](https://huggingface.co/jonardan/Taxi-v3) | jonardan | 0 | 0 | Taxi-v3; q-learning; reinforcement-learning; custom-impleme… |
+| 2026-11-23 17:32:39 | [Madi2004/moomin-midsummer-madness-save-editor](https://huggingface.co/Madi2004/moomin-midsummer-madness-save-editor) | Madi2004 | 0 | 0 | region:us |
+| 2026-11-23 17:32:39 | [Marselox/lynx-executor](https://huggingface.co/Marselox/lynx-executor) | Marselox | 0 | 0 | region:us |
+| 2026-11-23 17:32:45 | [Marselox/ink-game-script-pastebin](https://huggingface.co/Marselox/ink-game-script-pastebin) | Marselox | 0 | 0 | region:us |
+| 2026-11-23 17:32:45 | [daffy0208/velocity-executor](https://huggingface.co/daffy0208/velocity-executor) | daffy0208 | 0 | 0 | region:us |
+| 2026-11-23 17:32:45 | [Madi2004/night-rider-script-pastebin](https://huggingface.co/Madi2004/night-rider-script-pastebin) | Madi2004 | 0 | 0 | region:us |
+| 2026-11-23 17:32:47 | [zrbobozrx/slap-battles-script-pastebin](https://huggingface.co/zrbobozrx/slap-battles-script-pastebin) | zrbobozrx | 0 | 0 | region:us |
+| 2026-11-23 17:32:48 | [aahnxx/ghost-of-tsushima-director-s-cut-mod-menu](https://huggingface.co/aahnxx/ghost-of-tsushima-director-s-cut-mod-menu) | aahnxx | 0 | 0 | region:us |
+| 2026-11-23 17:32:50 | [Redin/survive-overnight-in-a-mega-store-script-p](https://huggingface.co/Redin/survive-overnight-in-a-mega-store-script-p) | Redin | 0 | 0 | region:us |
+| 2026-11-23 17:32:50 | [Kobyko/farming-simulator-25-save-editor](https://huggingface.co/Kobyko/farming-simulator-25-save-editor) | Kobyko | 0 | 0 | region:us |
+| 2026-11-23 17:32:53 | [Ant202222/test](https://huggingface.co/Ant202222/test) | Ant202222 | 0 | 0 | license:apache-2.0; region:us |
+| 2026-11-23 17:32:57 | [MBHudson/Autonomous-Loop-Studio](https://huggingface.co/MBHudson/Autonomous-Loop-Studio) | MBHudson | 0 | 0 | gguf; en; dataset:MBHudson/Autonomous-Loop-Studio; base_mod… |
+| 2026-11-23 17:32:58 | [zrbobozrx/synapse-z-executor-v2](https://huggingface.co/zrbobozrx/synapse-z-executor-v2) | zrbobozrx | 0 | 0 | region:us |
+| 2026-11-23 17:32:59 | [Lomsaa/vega-x-bootstrapper](https://huggingface.co/Lomsaa/vega-x-bootstrapper) | Lomsaa | 0 | 0 | region:us |
+| 2026-11-23 17:32:59 | [visiting1453/kingdom-come-deliverance-ii-mod-menu](https://huggingface.co/visiting1453/kingdom-come-deliverance-ii-mod-menu) | visiting1453 | 0 | 0 | region:us |
+| 2026-11-23 17:33:02 | [Kobyko/lumen-executor](https://huggingface.co/Kobyko/lumen-executor) | Kobyko | 0 | 0 | region:us |
+| 2026-11-23 17:33:05 | [MichaelYanolja/kaiju-alpha-auto-farm-script](https://huggingface.co/MichaelYanolja/kaiju-alpha-auto-farm-script) | MichaelYanolja | 0 | 0 | region:us |
 
-_Showing the first 200 of 1,120 models; see the [full CSV](data/new-models-2026-11-23T17-21-52-343304Z.csv)._
+_Showing the first 200 of 1,584 models; see the [full CSV](data/new-models-2026-11-23T18-21-44-196241Z.csv)._
 
 ## Data source
 
