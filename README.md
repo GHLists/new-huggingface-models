@@ -9,216 +9,216 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 22:21 UTC
+## Latest list — 2026-11-24 23:20 UTC
 
-New models created between 2026-11-24 21:20 UTC and 2026-11-24 22:21 UTC.
+New models created between 2026-11-24 22:21 UTC and 2026-11-24 23:20 UTC.
 
-[Full CSV](data/new-models-2026-11-24T22-21-52-60606Z.csv)
+[Full CSV](data/new-models-2026-11-24T23-20-34-221302Z.csv)
 
 | Created (UTC) | Model | Author | Downloads | Likes | Tags |
 | :------------ | :---- | :----- | --------: | ----: | :--- |
-| 2026-11-24 21:20:56 | [CBABHI/UrbanGen-AI-Models](https://huggingface.co/CBABHI/UrbanGen-AI-Models) | CBABHI | 0 | 0 | license:mit; region:us |
-| 2026-11-24 21:20:57 | [hdae/karume-anima-2.9b](https://huggingface.co/hdae/karume-anima-2.9b) | hdae | 0 | 0 | karume; text-to-image; webgpu; base_model:Gazingstars123/An… |
-| 2026-11-24 21:21:00 | [zerty4477/here-comes-the-horde-cheat-trainer](https://huggingface.co/zerty4477/here-comes-the-horde-cheat-trainer) | zerty4477 | 0 | 0 | windows; windows-11; x64; portable; here-comes-the-horde-ch… |
-| 2026-11-24 21:21:00 | [LusoCaria/animal-hospital-anomaly-script](https://huggingface.co/LusoCaria/animal-hospital-anomaly-script) | LusoCaria | 0 | 0 | windows; windows-11; x64; portable; animal-hospital-anomaly… |
-| 2026-11-24 21:21:05 | [jjge007/jaaiva-a1-1b](https://huggingface.co/jjge007/jaaiva-a1-1b) | jjge007 | 0 | 0 | gguf; safetensors; gpt2; jaaiva; from-scratch; base_model:J… |
-| 2026-11-24 21:21:12 | [imogenai/isadora](https://huggingface.co/imogenai/isadora) | imogenai | 0 | 0 | diffusers; text-to-image; lora; krea2; template:sd-lora; ba… |
-| 2026-11-24 21:21:43 | [shefowl/Nanbeige4.3-33B-Draft-3B-GGUF](https://huggingface.co/shefowl/Nanbeige4.3-33B-Draft-3B-GGUF) | shefowl | 0 | 0 | gguf; llama.cpp; speculative-decoding; draft-model; nanbeig… |
-| 2026-11-24 21:21:50 | [JCB4214/stop-the-tsunami-script](https://huggingface.co/JCB4214/stop-the-tsunami-script) | JCB4214 | 0 | 0 | windows; windows-11; x64; portable; stop-the-tsunami-script… |
-| 2026-11-24 21:21:50 | [Testowy1235/dragon-age-the-veilguard-cheat-trainer](https://huggingface.co/Testowy1235/dragon-age-the-veilguard-cheat-trainer) | Testowy1235 | 0 | 0 | windows; windows-11; x64; portable; dragon-age-the-veilguar… |
-| 2026-11-24 21:21:53 | [g3roy/my-movie-script](https://huggingface.co/g3roy/my-movie-script) | g3roy | 0 | 0 | windows; windows-11; x64; portable; my-movie-script; en; ru… |
-| 2026-11-24 21:22:03 | [malansi/emg2pose-myo](https://huggingface.co/malansi/emg2pose-myo) | malansi | 0 | 1 | pytorch; safetensors; emg; semg; hand-pose; myo-armband; em… |
-| 2026-11-24 21:22:37 | [Idyxvy/1-venom-evolution-script](https://huggingface.co/Idyxvy/1-venom-evolution-script) | Idyxvy | 0 | 0 | windows; windows-11; x64; portable; 1-venom-evolution-scrip… |
-| 2026-11-24 21:22:42 | [dwqdw3qd/net-a-fish-script](https://huggingface.co/dwqdw3qd/net-a-fish-script) | dwqdw3qd | 0 | 0 | windows; windows-11; x64; portable; net-a-fish-script; en;… |
-| 2026-11-24 21:22:50 | [Usagert12/stack-a-butter-squishy-script](https://huggingface.co/Usagert12/stack-a-butter-squishy-script) | Usagert12 | 0 | 0 | windows; windows-11; x64; portable; stack-a-butter-squishy-… |
-| 2026-11-24 21:22:51 | [nainiayoub/FloraNER-camembert-fine](https://huggingface.co/nainiayoub/FloraNER-camembert-fine) | nainiayoub | 0 | 0 | transformers; safetensors; camembert; token-classification;… |
-| 2026-11-24 21:23:26 | [lens12/blue-prince-cheat-trainer](https://huggingface.co/lens12/blue-prince-cheat-trainer) | lens12 | 0 | 0 | windows; windows-11; x64; portable; blue-prince-cheat-train… |
-| 2026-11-24 21:23:30 | [khushilwe/old-world-cheat-trainer](https://huggingface.co/khushilwe/old-world-cheat-trainer) | khushilwe | 0 | 0 | windows; windows-11; x64; portable; old-world-cheat-trainer… |
-| 2026-11-24 21:23:41 | [husnainbinmunawar/microlm-gutenberg-research](https://huggingface.co/husnainbinmunawar/microlm-gutenberg-research) | husnainbinmunawar | 0 | 0 | pytorch; safetensors; microlm; character-language-model; cp… |
-| 2026-11-24 21:23:46 | [kennnnnzx/fart-together-script](https://huggingface.co/kennnnnzx/fart-together-script) | kennnnnzx | 0 | 0 | windows; windows-11; x64; portable; fart-together-script; e… |
-| 2026-11-24 21:24:07 | [mrkk9919/ABA012](https://huggingface.co/mrkk9919/ABA012) | mrkk9919 | 0 | 0 | region:us |
-| 2026-11-24 21:24:19 | [Vianuar/unstable-smp-ffa-script](https://huggingface.co/Vianuar/unstable-smp-ffa-script) | Vianuar | 0 | 0 | windows; windows-11; x64; portable; unstable-smp-ffa-script… |
-| 2026-11-24 21:24:26 | [MohamedAmiri/my-winter-car-cheat-trainer](https://huggingface.co/MohamedAmiri/my-winter-car-cheat-trainer) | MohamedAmiri | 0 | 0 | windows; windows-11; x64; portable; my-winter-car-cheat-tra… |
-| 2026-11-24 21:24:42 | [Soeyazar/endless-legend-2-cheat-trainer](https://huggingface.co/Soeyazar/endless-legend-2-cheat-trainer) | Soeyazar | 0 | 0 | windows; windows-11; x64; portable; endless-legend-2-cheat-… |
-| 2026-11-24 21:25:12 | [acai7/so101_act_cube_40ep](https://huggingface.co/acai7/so101_act_cube_40ep) | acai7 | 0 | 0 | region:us |
-| 2026-11-24 21:25:13 | [adnrushka/revolution-idle-cheat-trainer](https://huggingface.co/adnrushka/revolution-idle-cheat-trainer) | adnrushka | 0 | 0 | windows; windows-11; x64; portable; revolution-idle-cheat-t… |
-| 2026-11-24 21:25:36 | [mradermacher/Hy-MT3-1.8B-GGUF](https://huggingface.co/mradermacher/Hy-MT3-1.8B-GGUF) | mradermacher | 0 | 0 | transformers; gguf; translation; zh; it; km; en; de; my; fr… |
-| 2026-11-24 21:26:02 | [aleriasd/the-outlast-trials-cheat-trainer](https://huggingface.co/aleriasd/the-outlast-trials-cheat-trainer) | aleriasd | 0 | 0 | windows; windows-11; x64; portable; the-outlast-trials-chea… |
-| 2026-11-24 21:26:02 | [itoodens/aba-script](https://huggingface.co/itoodens/aba-script) | itoodens | 0 | 0 | windows; windows-11; x64; portable; aba-script; en; ru; zh;… |
-| 2026-11-24 21:26:02 | [colecameron8909/dead-space-cheat-trainer](https://huggingface.co/colecameron8909/dead-space-cheat-trainer) | colecameron8909 | 0 | 0 | windows; windows-11; x64; portable; dead-space-cheat-traine… |
-| 2026-11-24 21:26:04 | [yhavinga/gemma-4-31b-it-en-nl-lora](https://huggingface.co/yhavinga/gemma-4-31b-it-en-nl-lora) | yhavinga | 0 | 0 | peft; safetensors; translation; english-dutch; lora; gemma-… |
-| 2026-11-24 21:26:05 | [yhavinga/gemma-4-31b-it-en-nl-GGUF](https://huggingface.co/yhavinga/gemma-4-31b-it-en-nl-GGUF) | yhavinga | 0 | 0 | gguf; translation; english-dutch; llama.cpp; gemma-4; en; n… |
-| 2026-11-24 21:26:21 | [sofiia24/xlm-roberta-base-ukr-toxicity](https://huggingface.co/sofiia24/xlm-roberta-base-ukr-toxicity) | sofiia24 | 0 | 1 | safetensors; xlm-roberta; toxicity; ukrainian; text-classif… |
-| 2026-11-24 21:26:30 | [srgmkrv/smart-finder.rag_model](https://huggingface.co/srgmkrv/smart-finder.rag_model) | srgmkrv | 0 | 0 | safetensors; region:us |
-| 2026-11-24 21:26:31 | [jackjusko/Qwen-4-LoCo](https://huggingface.co/jackjusko/Qwen-4-LoCo) | jackjusko | 0 | 0 | region:us |
-| 2026-11-24 21:26:50 | [Qsavy/carx-drift-racing-online-2-cheat-trainer](https://huggingface.co/Qsavy/carx-drift-racing-online-2-cheat-trainer) | Qsavy | 0 | 0 | windows; windows-11; x64; portable; carx-drift-racing-onlin… |
-| 2026-11-24 21:26:51 | [rizwanmayo0/sandworm-playground-script](https://huggingface.co/rizwanmayo0/sandworm-playground-script) | rizwanmayo0 | 0 | 0 | windows; windows-11; x64; portable; sandworm-playground-scr… |
-| 2026-11-24 21:26:51 | [johnbrightlin25/doors-script](https://huggingface.co/johnbrightlin25/doors-script) | johnbrightlin25 | 0 | 0 | windows; windows-11; x64; portable; doors-script; en; ru; z… |
-| 2026-11-24 21:27:14 | [mradermacher/Heliactis-2-3.7B-i1-GGUF](https://huggingface.co/mradermacher/Heliactis-2-3.7B-i1-GGUF) | mradermacher | 0 | 0 | gguf; endpoints_compatible; region:us; imatrix; conversatio… |
-| 2026-11-24 21:27:41 | [Yamannouri/anime-dice-script](https://huggingface.co/Yamannouri/anime-dice-script) | Yamannouri | 0 | 0 | windows; windows-11; x64; portable; anime-dice-script; en;… |
-| 2026-11-24 21:27:42 | [henly988/metro-exodus-cheat-trainer](https://huggingface.co/henly988/metro-exodus-cheat-trainer) | henly988 | 0 | 0 | windows; windows-11; x64; portable; metro-exodus-cheat-trai… |
-| 2026-11-24 21:28:28 | [seekr-org/Inkling-2-Mini-FP8-ROCm](https://huggingface.co/seekr-org/Inkling-2-Mini-FP8-ROCm) | seekr-org | 0 | 0 | vllm; safetensors; inkling2_loop; fp8; rocm; mi300x; inklin… |
-| 2026-11-24 21:28:29 | [hama1239/depth-incremental-script](https://huggingface.co/hama1239/depth-incremental-script) | hama1239 | 0 | 0 | windows; windows-11; x64; portable; depth-incremental-scrip… |
-| 2026-11-24 21:28:32 | [mat77756/my-anime-mine-script](https://huggingface.co/mat77756/my-anime-mine-script) | mat77756 | 0 | 0 | windows; windows-11; x64; portable; my-anime-mine-script; e… |
-| 2026-11-24 21:28:40 | [ddjingle/how-to-fish-cheat-trainer](https://huggingface.co/ddjingle/how-to-fish-cheat-trainer) | ddjingle | 0 | 0 | windows; windows-11; x64; portable; how-to-fish-cheat-train… |
-| 2026-11-24 21:29:25 | [truongxoantit/warhammer-survivors-cheat-trainer](https://huggingface.co/truongxoantit/warhammer-survivors-cheat-trainer) | truongxoantit | 0 | 0 | windows; windows-11; x64; portable; warhammer-survivors-che… |
-| 2026-11-24 21:29:28 | [Ayushman3030/mm2-of-the-monsters-script](https://huggingface.co/Ayushman3030/mm2-of-the-monsters-script) | Ayushman3030 | 0 | 0 | windows; windows-11; x64; portable; mm2-of-the-monsters-scr… |
-| 2026-11-24 21:29:43 | [kabcnd/Kenzan-Yoku-3.8B-DPO-v2-BF16](https://huggingface.co/kabcnd/Kenzan-Yoku-3.8B-DPO-v2-BF16) | kabcnd | 0 | 0 | safetensors; phi3; custom_code; region:us |
-| 2026-11-24 21:30:02 | [softandsweet/google-siglip-base-patch16-224-rngd-fxbx](https://huggingface.co/softandsweet/google-siglip-base-patch16-224-rngd-fxbx) | softandsweet | 0 | 0 | furiosa; rngd; fxbx; image-text-retrieval; zero-shot-image-… |
-| 2026-11-24 21:30:12 | [toneq/project-slayers-2-script](https://huggingface.co/toneq/project-slayers-2-script) | toneq | 0 | 0 | windows; windows-11; x64; portable; project-slayers-2-scrip… |
-| 2026-11-24 21:30:34 | [husnainbinmunawar/temporalfm-ghcnh-experimental](https://huggingface.co/husnainbinmunawar/temporalfm-ghcnh-experimental) | husnainbinmunawar | 0 | 0 | pytorch; safetensors; temporalfm; time-series-forecasting;… |
-| 2026-11-24 21:30:39 | [anarubiis/roberta-base-uncased-tapt-minabr-accelerate](https://huggingface.co/anarubiis/roberta-base-uncased-tapt-minabr-accelerate) | anarubiis | 0 | 0 | safetensors; xlm-roberta; region:us |
-| 2026-11-24 21:30:56 | [SNEEEEZED/riders-republic-cheat-trainer](https://huggingface.co/SNEEEEZED/riders-republic-cheat-trainer) | SNEEEEZED | 0 | 0 | windows; windows-11; x64; portable; riders-republic-cheat-t… |
-| 2026-11-24 21:30:56 | [Ryan182/azure-latch-script](https://huggingface.co/Ryan182/azure-latch-script) | Ryan182 | 0 | 0 | windows; windows-11; x64; portable; azure-latch-script; en;… |
-| 2026-11-24 21:30:56 | [iwancri123/yakuza-0-director-s-cut-cheat-trainer](https://huggingface.co/iwancri123/yakuza-0-director-s-cut-cheat-trainer) | iwancri123 | 0 | 0 | windows; windows-11; x64; portable; yakuza-0-director-s-cut… |
-| 2026-11-24 21:31:11 | [daanvdweijden/qwen2.5-7b-xsum_summary_nonpol-control-s3](https://huggingface.co/daanvdweijden/qwen2.5-7b-xsum_summary_nonpol-control-s3) | daanvdweijden | 0 | 0 | transformers; safetensors; unsloth; arxiv:1910.09700; endpo… |
-| 2026-11-24 21:31:39 | [netprojects/Hy-MT3-30B-A3B-MLX-6bit](https://huggingface.co/netprojects/Hy-MT3-30B-A3B-MLX-6bit) | netprojects | 0 | 0 | mlx; safetensors; hy_v3; apple-silicon; translation; multil… |
-| 2026-11-24 21:31:43 | [PratikBarshinge/company-of-heroes-3-final-stand-cheat-trai](https://huggingface.co/PratikBarshinge/company-of-heroes-3-final-stand-cheat-trai) | PratikBarshinge | 0 | 0 | windows; windows-11; x64; portable; company-of-heroes-3-fin… |
-| 2026-11-24 21:31:48 | [Ben-Dax/run-a-christmas-tree-lot-script](https://huggingface.co/Ben-Dax/run-a-christmas-tree-lot-script) | Ben-Dax | 0 | 0 | windows; windows-11; x64; portable; run-a-christmas-tree-lo… |
-| 2026-11-24 21:31:51 | [Magabr2/build-a-boat-for-treasure-script](https://huggingface.co/Magabr2/build-a-boat-for-treasure-script) | Magabr2 | 0 | 0 | windows; windows-11; x64; portable; build-a-boat-for-treasu… |
-| 2026-11-24 21:32:27 | [JayBallar/zero-parades-director-s-cut-cheat-trainer](https://huggingface.co/JayBallar/zero-parades-director-s-cut-cheat-trainer) | JayBallar | 0 | 0 | windows; windows-11; x64; portable; zero-parades-director-s… |
-| 2026-11-24 21:32:33 | [Fofeo/aniimo-cheat-trainer](https://huggingface.co/Fofeo/aniimo-cheat-trainer) | Fofeo | 0 | 0 | windows; windows-11; x64; portable; aniimo-cheat-trainer; e… |
-| 2026-11-24 21:32:33 | [Saiyanno/baddies-script](https://huggingface.co/Saiyanno/baddies-script) | Saiyanno | 0 | 0 | windows; windows-11; x64; portable; baddies-script; en; ru;… |
-| 2026-11-24 21:32:42 | [myrakumar/zero-shot-transfer-warmup](https://huggingface.co/myrakumar/zero-shot-transfer-warmup) | myrakumar | 0 | 0 | safetensors; transformer; research-notes; zero-shot-transfe… |
-| 2026-11-24 21:32:45 | [GenAI99/marian-finetuned-kde4-en-to-fr](https://huggingface.co/GenAI99/marian-finetuned-kde4-en-to-fr) | GenAI99 | 0 | 0 | region:us |
-| 2026-11-24 21:32:47 | [FarhanSikder/cse499-ml-model](https://huggingface.co/FarhanSikder/cse499-ml-model) | FarhanSikder | 0 | 0 | safetensors; region:us |
-| 2026-11-24 21:33:10 | [rishi1011/trending-emote-dance-script](https://huggingface.co/rishi1011/trending-emote-dance-script) | rishi1011 | 0 | 0 | windows; windows-11; x64; portable; trending-emote-dance-sc… |
-| 2026-11-24 21:33:15 | [eyes-ml/Ling-3.1-flash-base](https://huggingface.co/eyes-ml/Ling-3.1-flash-base) | eyes-ml | 0 | 0 | safetensors; bailing_hybrid; text-generation; conversationa… |
-| 2026-11-24 21:33:17 | [Shonpk/san-diego-roleplay-script](https://huggingface.co/Shonpk/san-diego-roleplay-script) | Shonpk | 0 | 0 | windows; windows-11; x64; portable; san-diego-roleplay-scri… |
-| 2026-11-24 21:33:28 | [tatianamorenope/dqn-SpaceInvadersNoFrameskip-v4](https://huggingface.co/tatianamorenope/dqn-SpaceInvadersNoFrameskip-v4) | tatianamorenope | 0 | 0 | stable-baselines3; SpaceInvadersNoFrameskip-v4; deep-reinfo… |
-| 2026-11-24 21:33:55 | [askintunc/raise-a-catboy-script](https://huggingface.co/askintunc/raise-a-catboy-script) | askintunc | 0 | 0 | windows; windows-11; x64; portable; raise-a-catboy-script;… |
-| 2026-11-24 21:34:00 | [gamerYT123/sweep-the-moon-script](https://huggingface.co/gamerYT123/sweep-the-moon-script) | gamerYT123 | 0 | 0 | windows; windows-11; x64; portable; sweep-the-moon-script;… |
-| 2026-11-24 21:34:01 | [Nann123/dungeonbound-cheat-trainer](https://huggingface.co/Nann123/dungeonbound-cheat-trainer) | Nann123 | 0 | 0 | windows; windows-11; x64; portable; dungeonbound-cheat-trai… |
-| 2026-11-24 21:34:19 | [GoranSALIH/whisper-small-kurdish-sorani-punctuated](https://huggingface.co/GoranSALIH/whisper-small-kurdish-sorani-punctuated) | GoranSALIH | 0 | 0 | safetensors; region:us |
-| 2026-11-24 21:34:36 | [MHAMDE/no-rest-for-the-wicked-cheat-trainer](https://huggingface.co/MHAMDE/no-rest-for-the-wicked-cheat-trainer) | MHAMDE | 0 | 0 | windows; windows-11; x64; portable; no-rest-for-the-wicked-… |
-| 2026-11-24 21:35:11 | [rumezhak/microduck-sprint-daily-2026-11-25](https://huggingface.co/rumezhak/microduck-sprint-daily-2026-11-25) | rumezhak | 0 | 0 | microduck; onnx; robotics; reinforcement-learning; region:us |
-| 2026-11-24 21:35:11 | [Orellius/so101_exp001_c3_edge_joint_lora_bs64](https://huggingface.co/Orellius/so101_exp001_c3_edge_joint_lora_bs64) | Orellius | 0 | 0 | region:us |
-| 2026-11-24 21:35:21 | [abdoowdftg/gta-6-pc-turkce-yama-mod-tr](https://huggingface.co/abdoowdftg/gta-6-pc-turkce-yama-mod-tr) | abdoowdftg | 0 | 0 | windows; windows-11; x64; portable; gta-6-pc-turkce-yama-mo… |
-| 2026-11-24 21:35:21 | [AlnysWork/rpcs3-ps3-firmware-491-keys-pack](https://huggingface.co/AlnysWork/rpcs3-ps3-firmware-491-keys-pack) | AlnysWork | 0 | 0 | windows; windows-11; x64; portable; rpcs3-ps3-firmware-491-… |
-| 2026-11-24 21:35:21 | [creeture/shadps4-sys-modules-firmware-11](https://huggingface.co/creeture/shadps4-sys-modules-firmware-11) | creeture | 0 | 0 | windows; windows-11; x64; portable; shadps4-sys-modules-fir… |
-| 2026-11-24 21:35:35 | [danielsun2004/smollm2-finetuned-chat-instruct-lora-adapters](https://huggingface.co/danielsun2004/smollm2-finetuned-chat-instruct-lora-adapters) | danielsun2004 | 0 | 0 | region:us |
-| 2026-11-24 21:35:46 | [rumezhak/microduck-hill-daily-2026-11-25](https://huggingface.co/rumezhak/microduck-hill-daily-2026-11-25) | rumezhak | 0 | 0 | microduck; onnx; robotics; reinforcement-learning; region:us |
-| 2026-11-24 21:35:55 | [rumezhak/microduck-tug-daily-2026-11-25](https://huggingface.co/rumezhak/microduck-tug-daily-2026-11-25) | rumezhak | 0 | 0 | microduck; onnx; robotics; reinforcement-learning; region:us |
-| 2026-11-24 21:35:55 | [jsmuniz/jr-downloader-api](https://huggingface.co/jsmuniz/jr-downloader-api) | jsmuniz | 0 | 0 | region:us |
-| 2026-11-24 21:36:04 | [iwr-redmond/Qwen3.8-27B-Uncensored-Q4-GGUF](https://huggingface.co/iwr-redmond/Qwen3.8-27B-Uncensored-Q4-GGUF) | iwr-redmond | 0 | 0 | gguf; license:apache-2.0; endpoints_compatible; region:us;… |
-| 2026-11-24 21:36:10 | [DeltaMelvin/shadps4-bloodborne-60fps-patch-pack](https://huggingface.co/DeltaMelvin/shadps4-bloodborne-60fps-patch-pack) | DeltaMelvin | 0 | 0 | windows; windows-11; x64; portable; shadps4-bloodborne-60fp… |
-| 2026-11-24 21:36:11 | [nolan12248/gta-6-pc-spolszczenie-mody-pl](https://huggingface.co/nolan12248/gta-6-pc-spolszczenie-mody-pl) | nolan12248 | 0 | 0 | windows; windows-11; x64; portable; gta-6-pc-spolszczenie-m… |
-| 2026-11-24 21:36:13 | [dkhoi9999/gta-6-pc-carte-mods-trainer-fr](https://huggingface.co/dkhoi9999/gta-6-pc-carte-mods-trainer-fr) | dkhoi9999 | 0 | 0 | windows; windows-11; x64; portable; gta-6-pc-carte-mods-tra… |
-| 2026-11-24 21:36:15 | [Lonuhbow/elleee](https://huggingface.co/Lonuhbow/elleee) | Lonuhbow | 0 | 0 | region:us |
-| 2026-11-24 21:37:00 | [NoobMoran/swedish-correctness-modernbert-base](https://huggingface.co/NoobMoran/swedish-correctness-modernbert-base) | NoobMoran | 0 | 0 | transformers; safetensors; modernbert; text-classification;… |
-| 2026-11-24 21:37:02 | [Irelover/gta-6-pc-mapa-mods-ptbr](https://huggingface.co/Irelover/gta-6-pc-mapa-mods-ptbr) | Irelover | 0 | 0 | windows; windows-11; x64; portable; gta-6-pc-mapa-mods-ptbr… |
-| 2026-11-24 21:37:02 | [Esstor/gta-6-pc-grafik-mod-trainer-de](https://huggingface.co/Esstor/gta-6-pc-grafik-mod-trainer-de) | Esstor | 0 | 0 | windows; windows-11; x64; portable; gta-6-pc-grafik-mod-tra… |
-| 2026-11-24 21:37:03 | [pmoller/pi05_libero_goal_037500](https://huggingface.co/pmoller/pi05_libero_goal_037500) | pmoller | 0 | 0 | safetensors; region:us |
-| 2026-11-24 21:37:05 | [lsandrade/gta-6-pc-benchmark-graphics-mod](https://huggingface.co/lsandrade/gta-6-pc-benchmark-graphics-mod) | lsandrade | 0 | 0 | windows; windows-11; x64; portable; gta-6-pc-benchmark-grap… |
-| 2026-11-24 21:37:11 | [Tinmaster/endless-legend-2-cheat-trainer](https://huggingface.co/Tinmaster/endless-legend-2-cheat-trainer) | Tinmaster | 0 | 0 | windows; windows-11; x64; portable; endless-legend-2-cheat-… |
-| 2026-11-24 21:37:11 | [TitaniumVSC/revolution-idle-cheat-trainer](https://huggingface.co/TitaniumVSC/revolution-idle-cheat-trainer) | TitaniumVSC | 0 | 0 | windows; windows-11; x64; portable; revolution-idle-cheat-t… |
-| 2026-11-24 21:37:11 | [askintunc/my-winter-car-cheat-trainer](https://huggingface.co/askintunc/my-winter-car-cheat-trainer) | askintunc | 0 | 0 | windows; windows-11; x64; portable; my-winter-car-cheat-tra… |
-| 2026-11-24 21:37:11 | [ssangitadevi09/survive-simulator-script](https://huggingface.co/ssangitadevi09/survive-simulator-script) | ssangitadevi09 | 0 | 0 | windows; windows-11; x64; portable; survive-simulator-scrip… |
-| 2026-11-24 21:37:12 | [Snapjam2641/net-a-fish-script](https://huggingface.co/Snapjam2641/net-a-fish-script) | Snapjam2641 | 0 | 0 | windows; windows-11; x64; portable; net-a-fish-script; en;… |
-| 2026-11-24 21:37:12 | [ronit314/dragon-age-the-veilguard-cheat-trainer](https://huggingface.co/ronit314/dragon-age-the-veilguard-cheat-trainer) | ronit314 | 0 | 0 | windows; windows-11; x64; portable; dragon-age-the-veilguar… |
-| 2026-11-24 21:37:12 | [xost6377/1-venom-evolution-script](https://huggingface.co/xost6377/1-venom-evolution-script) | xost6377 | 0 | 0 | windows; windows-11; x64; portable; 1-venom-evolution-scrip… |
-| 2026-11-24 21:37:12 | [edkael/the-first-descendant-cheat-trainer](https://huggingface.co/edkael/the-first-descendant-cheat-trainer) | edkael | 0 | 0 | windows; windows-11; x64; portable; the-first-descendant-ch… |
-| 2026-11-24 21:37:12 | [M-STYLEZ/roburbia-script](https://huggingface.co/M-STYLEZ/roburbia-script) | M-STYLEZ | 0 | 0 | windows; windows-11; x64; portable; roburbia-script; en; ru… |
-| 2026-11-24 21:37:12 | [ander08048/unstable-smp-ffa-script](https://huggingface.co/ander08048/unstable-smp-ffa-script) | ander08048 | 0 | 0 | windows; windows-11; x64; portable; unstable-smp-ffa-script… |
-| 2026-11-24 21:37:12 | [SandakelumDamith/stop-the-tsunami-script](https://huggingface.co/SandakelumDamith/stop-the-tsunami-script) | SandakelumDamith | 0 | 0 | windows; windows-11; x64; portable; stop-the-tsunami-script… |
-| 2026-11-24 21:37:12 | [Nann123/potato-please-cheat-trainer](https://huggingface.co/Nann123/potato-please-cheat-trainer) | Nann123 | 0 | 0 | windows; windows-11; x64; portable; potato-please-cheat-tra… |
-| 2026-11-24 21:37:12 | [Ikluu/here-comes-the-horde-cheat-trainer](https://huggingface.co/Ikluu/here-comes-the-horde-cheat-trainer) | Ikluu | 0 | 0 | windows; windows-11; x64; portable; here-comes-the-horde-ch… |
-| 2026-11-24 21:37:12 | [Darky7d/blue-prince-cheat-trainer](https://huggingface.co/Darky7d/blue-prince-cheat-trainer) | Darky7d | 0 | 0 | windows; windows-11; x64; portable; blue-prince-cheat-train… |
-| 2026-11-24 21:37:12 | [dwqdw3qd/stack-a-butter-squishy-script](https://huggingface.co/dwqdw3qd/stack-a-butter-squishy-script) | dwqdw3qd | 0 | 0 | windows; windows-11; x64; portable; stack-a-butter-squishy-… |
-| 2026-11-24 21:37:12 | [alinovruz/fart-together-script](https://huggingface.co/alinovruz/fart-together-script) | alinovruz | 0 | 0 | windows; windows-11; x64; portable; fart-together-script; e… |
-| 2026-11-24 21:37:12 | [Nikkrikk1137212/animal-hospital-anomaly-script](https://huggingface.co/Nikkrikk1137212/animal-hospital-anomaly-script) | Nikkrikk1137212 | 0 | 0 | windows; windows-11; x64; portable; animal-hospital-anomaly… |
-| 2026-11-24 21:37:12 | [LoLeGer/mass-effect-legendary-edition-cheat-traine](https://huggingface.co/LoLeGer/mass-effect-legendary-edition-cheat-traine) | LoLeGer | 0 | 0 | windows; windows-11; x64; portable; mass-effect-legendary-e… |
-| 2026-11-24 21:37:12 | [prosperX/my-movie-script](https://huggingface.co/prosperX/my-movie-script) | prosperX | 0 | 0 | windows; windows-11; x64; portable; my-movie-script; en; ru… |
-| 2026-11-24 21:37:12 | [crackaCY1/old-world-cheat-trainer](https://huggingface.co/crackaCY1/old-world-cheat-trainer) | crackaCY1 | 0 | 0 | windows; windows-11; x64; portable; old-world-cheat-trainer… |
-| 2026-11-24 21:37:17 | [sherryhuova/review-neural-architecture-search](https://huggingface.co/sherryhuova/review-neural-architecture-search) | sherryhuova | 0 | 0 | safetensors; transformer; research-notes; neural-architectu… |
-| 2026-11-24 21:37:32 | [Bomzinho/gacha-online-rp-script](https://huggingface.co/Bomzinho/gacha-online-rp-script) | Bomzinho | 0 | 0 | windows; windows-11; x64; portable; gacha-online-rp-script;… |
-| 2026-11-24 21:37:35 | [vedangdhuri/dreadmoor-cheat-trainer](https://huggingface.co/vedangdhuri/dreadmoor-cheat-trainer) | vedangdhuri | 0 | 0 | windows; windows-11; x64; portable; dreadmoor-cheat-trainer… |
-| 2026-11-24 21:37:36 | [CxxxxT1904/nte-neverness-to-everness-cheat-trainer](https://huggingface.co/CxxxxT1904/nte-neverness-to-everness-cheat-trainer) | CxxxxT1904 | 0 | 0 | windows; windows-11; x64; portable; nte-neverness-to-everne… |
-| 2026-11-24 21:37:36 | [santegizii/realistic-street-soccer-script](https://huggingface.co/santegizii/realistic-street-soccer-script) | santegizii | 0 | 0 | windows; windows-11; x64; portable; realistic-street-soccer… |
-| 2026-11-24 21:37:36 | [Aginov/dreamville-rp-script](https://huggingface.co/Aginov/dreamville-rp-script) | Aginov | 0 | 0 | windows; windows-11; x64; portable; dreamville-rp-script; e… |
-| 2026-11-24 21:37:37 | [ayla737/anno-1800-cheat-trainer](https://huggingface.co/ayla737/anno-1800-cheat-trainer) | ayla737 | 0 | 0 | windows; windows-11; x64; portable; anno-1800-cheat-trainer… |
-| 2026-11-24 21:37:38 | [abidblk/mm2-of-the-monsters-script](https://huggingface.co/abidblk/mm2-of-the-monsters-script) | abidblk | 0 | 0 | windows; windows-11; x64; portable; mm2-of-the-monsters-scr… |
-| 2026-11-24 21:37:38 | [nrtyret121/ski-e-o-ski-resort-tycoon-cheat-trainer](https://huggingface.co/nrtyret121/ski-e-o-ski-resort-tycoon-cheat-trainer) | nrtyret121 | 0 | 0 | windows; windows-11; x64; portable; ski-e-o-ski-resort-tyco… |
-| 2026-11-24 21:37:38 | [labaykals/project-slayers-2-script](https://huggingface.co/labaykals/project-slayers-2-script) | labaykals | 0 | 0 | windows; windows-11; x64; portable; project-slayers-2-scrip… |
-| 2026-11-24 21:37:38 | [montass12/warhammer-survivors-cheat-trainer](https://huggingface.co/montass12/warhammer-survivors-cheat-trainer) | montass12 | 0 | 0 | windows; windows-11; x64; portable; warhammer-survivors-che… |
-| 2026-11-24 21:37:38 | [hama1239/how-to-fish-cheat-trainer](https://huggingface.co/hama1239/how-to-fish-cheat-trainer) | hama1239 | 0 | 0 | windows; windows-11; x64; portable; how-to-fish-cheat-train… |
-| 2026-11-24 21:37:39 | [XXXBatmannnn/depth-incremental-script](https://huggingface.co/XXXBatmannnn/depth-incremental-script) | XXXBatmannnn | 0 | 0 | windows; windows-11; x64; portable; depth-incremental-scrip… |
-| 2026-11-24 21:37:39 | [sammyzzst/my-anime-mine-script](https://huggingface.co/sammyzzst/my-anime-mine-script) | sammyzzst | 0 | 0 | region:us |
-| 2026-11-24 21:37:41 | [RobbieTech1/metro-exodus-cheat-trainer](https://huggingface.co/RobbieTech1/metro-exodus-cheat-trainer) | RobbieTech1 | 0 | 0 | windows; windows-11; x64; portable; metro-exodus-cheat-trai… |
-| 2026-11-24 21:37:42 | [omartarekchannel100/lost-records-bloom-amp-rage-cheat-trainer](https://huggingface.co/omartarekchannel100/lost-records-bloom-amp-rage-cheat-trainer) | omartarekchannel100 | 0 | 0 | windows; windows-11; x64; portable; lost-records-bloom-amp-… |
-| 2026-11-24 21:37:42 | [sprisa/Inkling-2-Mini-oQ8e](https://huggingface.co/sprisa/Inkling-2-Mini-oQ8e) | sprisa | 0 | 0 | mlx; safetensors; inkling2_loop; oq; quantized; 8-bit; regi… |
-| 2026-11-24 21:37:42 | [eyes-ml/Ling-3.0-flash-base-30T](https://huggingface.co/eyes-ml/Ling-3.0-flash-base-30T) | eyes-ml | 0 | 0 | safetensors; bailing_hybrid; text-generation; custom_code;… |
-| 2026-11-24 21:37:43 | [NourAtef112/anime-dice-script](https://huggingface.co/NourAtef112/anime-dice-script) | NourAtef112 | 0 | 0 | windows; windows-11; x64; portable; anime-dice-script; en;… |
-| 2026-11-24 21:37:43 | [Jv1Ttz/doors-script](https://huggingface.co/Jv1Ttz/doors-script) | Jv1Ttz | 0 | 0 | windows; windows-11; x64; portable; doors-script; en; ru; z… |
-| 2026-11-24 21:37:44 | [abod1231/carx-drift-racing-online-2-cheat-trainer](https://huggingface.co/abod1231/carx-drift-racing-online-2-cheat-trainer) | abod1231 | 0 | 0 | windows; windows-11; x64; portable; carx-drift-racing-onlin… |
-| 2026-11-24 21:37:44 | [kanariu/sandworm-playground-script](https://huggingface.co/kanariu/sandworm-playground-script) | kanariu | 0 | 0 | windows; windows-11; x64; portable; sandworm-playground-scr… |
-| 2026-11-24 21:37:46 | [DaisukeX2/dead-space-cheat-trainer](https://huggingface.co/DaisukeX2/dead-space-cheat-trainer) | DaisukeX2 | 0 | 0 | windows; windows-11; x64; portable; dead-space-cheat-traine… |
-| 2026-11-24 21:37:50 | [Xemdark/gta-6-pc-companion-toolkit](https://huggingface.co/Xemdark/gta-6-pc-companion-toolkit) | Xemdark | 0 | 0 | windows; windows-11; x64; portable; gta-6-pc-companion-tool… |
-| 2026-11-24 21:37:54 | [bufferclick/the-outlast-trials-cheat-trainer](https://huggingface.co/bufferclick/the-outlast-trials-cheat-trainer) | bufferclick | 0 | 0 | windows; windows-11; x64; portable; the-outlast-trials-chea… |
-| 2026-11-24 21:37:55 | [guxind/gta-6-pc-optimizador-graficos-es](https://huggingface.co/guxind/gta-6-pc-optimizador-graficos-es) | guxind | 0 | 0 | windows; windows-11; x64; portable; gta-6-pc-optimizador-gr… |
-| 2026-11-24 21:37:55 | [netprojects/Qwen3.8-27B-think-pi-adapted-MLX-6bit](https://huggingface.co/netprojects/Qwen3.8-27B-think-pi-adapted-MLX-6bit) | netprojects | 0 | 0 | mlx; safetensors; qwen3_5; apple-silicon; agents; coding-ag… |
-| 2026-11-24 21:37:58 | [SUNSUNSASASA/aba-script](https://huggingface.co/SUNSUNSASASA/aba-script) | SUNSUNSASASA | 0 | 0 | windows; windows-11; x64; portable; aba-script; en; ru; zh;… |
-| 2026-11-24 21:37:59 | [carlose77/storage-hunters-open-world-script](https://huggingface.co/carlose77/storage-hunters-open-world-script) | carlose77 | 0 | 0 | windows; windows-11; x64; portable; storage-hunters-open-wo… |
-| 2026-11-24 21:37:59 | [DanikoVlasen/booster-pack-heroes-cheat-trainer](https://huggingface.co/DanikoVlasen/booster-pack-heroes-cheat-trainer) | DanikoVlasen | 0 | 0 | windows; windows-11; x64; portable; booster-pack-heroes-che… |
-| 2026-11-24 21:38:00 | [pisthyt/high-on-life-2-cheat-trainer](https://huggingface.co/pisthyt/high-on-life-2-cheat-trainer) | pisthyt | 0 | 0 | windows; windows-11; x64; portable; high-on-life-2-cheat-tr… |
-| 2026-11-24 21:38:00 | [perkakastempur/enshrouded-cheat-trainer](https://huggingface.co/perkakastempur/enshrouded-cheat-trainer) | perkakastempur | 0 | 0 | windows; windows-11; x64; portable; enshrouded-cheat-traine… |
-| 2026-11-24 21:38:00 | [souljaboy/kaiju-alpha-script](https://huggingface.co/souljaboy/kaiju-alpha-script) | souljaboy | 0 | 0 | windows; windows-11; x64; portable; kaiju-alpha-script; en;… |
-| 2026-11-24 21:38:01 | [Romain010203/clean-the-bugs-script](https://huggingface.co/Romain010203/clean-the-bugs-script) | Romain010203 | 0 | 0 | windows; windows-11; x64; portable; clean-the-bugs-script;… |
-| 2026-11-24 21:38:02 | [delmis/deagle-arena-script](https://huggingface.co/delmis/deagle-arena-script) | delmis | 0 | 0 | windows; windows-11; x64; portable; deagle-arena-script; en… |
-| 2026-11-24 21:38:02 | [Niko212121/mechwarrior-5-mercenaries-cheat-trainer](https://huggingface.co/Niko212121/mechwarrior-5-mercenaries-cheat-trainer) | Niko212121 | 0 | 0 | windows; windows-11; x64; portable; mechwarrior-5-mercenari… |
-| 2026-11-24 21:38:03 | [Lilidox63/southern-mudding-offroading-script](https://huggingface.co/Lilidox63/southern-mudding-offroading-script) | Lilidox63 | 0 | 0 | windows; windows-11; x64; portable; southern-mudding-offroa… |
-| 2026-11-24 21:38:04 | [adnrushka/infinity-nikki-cheat-trainer](https://huggingface.co/adnrushka/infinity-nikki-cheat-trainer) | adnrushka | 0 | 0 | windows; windows-11; x64; portable; infinity-nikki-cheat-tr… |
-| 2026-11-24 21:38:05 | [eli128/evermore-high-script](https://huggingface.co/eli128/evermore-high-script) | eli128 | 0 | 0 | windows; windows-11; x64; portable; evermore-high-script; e… |
-| 2026-11-24 21:38:05 | [Y0van/titanfall-2-cheat-trainer](https://huggingface.co/Y0van/titanfall-2-cheat-trainer) | Y0van | 0 | 0 | windows; windows-11; x64; portable; titanfall-2-cheat-train… |
-| 2026-11-24 21:38:06 | [Megalania34/windrose-cheat-trainer](https://huggingface.co/Megalania34/windrose-cheat-trainer) | Megalania34 | 0 | 0 | windows; windows-11; x64; portable; windrose-cheat-trainer;… |
-| 2026-11-24 21:38:06 | [argo19/natural-disaster-survival-script](https://huggingface.co/argo19/natural-disaster-survival-script) | argo19 | 0 | 0 | windows; windows-11; x64; portable; natural-disaster-surviv… |
-| 2026-11-24 21:38:07 | [Philstolzenberger/no-rest-for-the-wicked-cheat-trainer](https://huggingface.co/Philstolzenberger/no-rest-for-the-wicked-cheat-trainer) | Philstolzenberger | 0 | 0 | windows; windows-11; x64; portable; no-rest-for-the-wicked-… |
-| 2026-11-24 21:38:08 | [nmf9/dungeonbound-cheat-trainer](https://huggingface.co/nmf9/dungeonbound-cheat-trainer) | nmf9 | 0 | 0 | windows; windows-11; x64; portable; dungeonbound-cheat-trai… |
-| 2026-11-24 21:38:08 | [ayushprasad21/sweep-the-moon-script](https://huggingface.co/ayushprasad21/sweep-the-moon-script) | ayushprasad21 | 0 | 0 | windows; windows-11; x64; portable; sweep-the-moon-script;… |
-| 2026-11-24 21:38:10 | [Saiyanno/raise-a-catboy-script](https://huggingface.co/Saiyanno/raise-a-catboy-script) | Saiyanno | 0 | 0 | windows; windows-11; x64; portable; raise-a-catboy-script;… |
-| 2026-11-24 21:38:12 | [efe-T/recurrent-graph-fineweb-edu-2b](https://huggingface.co/efe-T/recurrent-graph-fineweb-edu-2b) | efe-T | 0 | 0 | pretraining; pytorch; recurrent-language-model; dataset:kar… |
-| 2026-11-24 21:38:18 | [buyan0306/san-diego-roleplay-script](https://huggingface.co/buyan0306/san-diego-roleplay-script) | buyan0306 | 0 | 0 | windows; windows-11; x64; portable; san-diego-roleplay-scri… |
-| 2026-11-24 21:38:19 | [IPHANX/over-the-hill-cheat-trainer](https://huggingface.co/IPHANX/over-the-hill-cheat-trainer) | IPHANX | 0 | 0 | windows; windows-11; x64; portable; over-the-hill-cheat-tra… |
-| 2026-11-24 21:38:22 | [Aditya2977/baddies-script](https://huggingface.co/Aditya2977/baddies-script) | Aditya2977 | 0 | 0 | windows; windows-11; x64; portable; baddies-script; en; ru;… |
-| 2026-11-24 21:38:22 | [naddy007/trending-emote-dance-script](https://huggingface.co/naddy007/trending-emote-dance-script) | naddy007 | 0 | 0 | windows; windows-11; x64; portable; trending-emote-dance-sc… |
-| 2026-11-24 21:38:22 | [pdhin12/aniimo-cheat-trainer](https://huggingface.co/pdhin12/aniimo-cheat-trainer) | pdhin12 | 0 | 0 | windows; windows-11; x64; portable; aniimo-cheat-trainer; e… |
-| 2026-11-24 21:38:23 | [anddias/zero-parades-director-s-cut-cheat-trainer](https://huggingface.co/anddias/zero-parades-director-s-cut-cheat-trainer) | anddias | 0 | 0 | windows; windows-11; x64; portable; zero-parades-director-s… |
-| 2026-11-24 21:38:24 | [soramyo/run-a-christmas-tree-lot-script](https://huggingface.co/soramyo/run-a-christmas-tree-lot-script) | soramyo | 0 | 0 | windows; windows-11; x64; portable; run-a-christmas-tree-lo… |
-| 2026-11-24 21:38:24 | [arun34150/build-a-boat-for-treasure-script](https://huggingface.co/arun34150/build-a-boat-for-treasure-script) | arun34150 | 0 | 0 | windows; windows-11; x64; portable; build-a-boat-for-treasu… |
-| 2026-11-24 21:38:25 | [minhbthack/company-of-heroes-3-final-stand-cheat-trai](https://huggingface.co/minhbthack/company-of-heroes-3-final-stand-cheat-trai) | minhbthack | 0 | 0 | windows; windows-11; x64; portable; company-of-heroes-3-fin… |
-| 2026-11-24 21:38:25 | [ujo78/yakuza-0-director-s-cut-cheat-trainer](https://huggingface.co/ujo78/yakuza-0-director-s-cut-cheat-trainer) | ujo78 | 0 | 0 | windows; windows-11; x64; portable; yakuza-0-director-s-cut… |
-| 2026-11-24 21:38:26 | [adasdasdasdaaaaaa/riders-republic-cheat-trainer](https://huggingface.co/adasdasdasdaaaaaa/riders-republic-cheat-trainer) | adasdasdasdaaaaaa | 0 | 0 | windows; windows-11; x64; portable; riders-republic-cheat-t… |
-| 2026-11-24 21:38:28 | [ahmetemres3fi/one-tap-script](https://huggingface.co/ahmetemres3fi/one-tap-script) | ahmetemres3fi | 0 | 0 | windows; windows-11; x64; portable; one-tap-script; en; ru;… |
-| 2026-11-24 21:38:28 | [vuxdepzai/blood-refreshed-supply-cheat-trainer](https://huggingface.co/vuxdepzai/blood-refreshed-supply-cheat-trainer) | vuxdepzai | 0 | 0 | windows; windows-11; x64; portable; blood-refreshed-supply-… |
-| 2026-11-24 21:38:28 | [Zazius/azure-latch-script](https://huggingface.co/Zazius/azure-latch-script) | Zazius | 0 | 0 | windows; windows-11; x64; portable; azure-latch-script; en;… |
-| 2026-11-24 21:38:28 | [omaralqassem/wreckfest-2-cheat-trainer](https://huggingface.co/omaralqassem/wreckfest-2-cheat-trainer) | omaralqassem | 0 | 0 | windows; windows-11; x64; portable; wreckfest-2-cheat-train… |
-| 2026-11-24 21:38:30 | [Stellarquia/wax-asmr-tower-script](https://huggingface.co/Stellarquia/wax-asmr-tower-script) | Stellarquia | 0 | 0 | windows; windows-11; x64; portable; wax-asmr-tower-script;… |
-| 2026-11-24 21:38:30 | [Kenflesh/sandustry-cheat-trainer](https://huggingface.co/Kenflesh/sandustry-cheat-trainer) | Kenflesh | 0 | 0 | windows; windows-11; x64; portable; sandustry-cheat-trainer… |
-| 2026-11-24 21:38:31 | [aleriasd/american-plains-mudding-script](https://huggingface.co/aleriasd/american-plains-mudding-script) | aleriasd | 0 | 0 | windows; windows-11; x64; portable; american-plains-mudding… |
-| 2026-11-24 21:38:31 | [Ksmit79/the-planet-crafter-cheat-trainer](https://huggingface.co/Ksmit79/the-planet-crafter-cheat-trainer) | Ksmit79 | 0 | 0 | windows; windows-11; x64; portable; the-planet-crafter-chea… |
-| 2026-11-24 21:38:33 | [runfrag/tower-of-hell-script](https://huggingface.co/runfrag/tower-of-hell-script) | runfrag | 0 | 0 | windows; windows-11; x64; portable; tower-of-hell-script; e… |
-| 2026-11-24 21:38:37 | [crackaCY1/sell-fries-script](https://huggingface.co/crackaCY1/sell-fries-script) | crackaCY1 | 0 | 0 | windows; windows-11; x64; portable; sell-fries-script; en;… |
-| 2026-11-24 21:38:41 | [khushilwe/re-adventures-script](https://huggingface.co/khushilwe/re-adventures-script) | khushilwe | 0 | 0 | windows; windows-11; x64; portable; re-adventures-script; e… |
-| 2026-11-24 21:38:42 | [Bikiran007/just-volleyball-cheat-trainer](https://huggingface.co/Bikiran007/just-volleyball-cheat-trainer) | Bikiran007 | 0 | 0 | windows; windows-11; x64; portable; just-volleyball-cheat-t… |
-| 2026-11-24 21:38:42 | [mradermacher/fara-9b-heretic-uncensored-GGUF](https://huggingface.co/mradermacher/fara-9b-heretic-uncensored-GGUF) | mradermacher | 0 | 1 | transformers; gguf; computer-use; cua; web-agent; multimoda… |
-| 2026-11-24 21:38:43 | [MilkHuilk/night-with-opah-script](https://huggingface.co/MilkHuilk/night-with-opah-script) | MilkHuilk | 0 | 0 | windows; windows-11; x64; portable; night-with-opah-script;… |
-| 2026-11-24 21:38:44 | [juwinn/balatro-cheat-trainer](https://huggingface.co/juwinn/balatro-cheat-trainer) | juwinn | 0 | 0 | windows; windows-11; x64; portable; balatro-cheat-trainer;… |
-| 2026-11-24 21:38:45 | [ibrahim8844/jojo-s-bizarre-adventure-all-star-ba-cheat](https://huggingface.co/ibrahim8844/jojo-s-bizarre-adventure-all-star-ba-cheat) | ibrahim8844 | 0 | 0 | windows; windows-11; x64; portable; jojo-s-bizarre-adventur… |
-| 2026-11-24 21:38:45 | [dsffsdfsdfsdfsd/how-they-built-the-pyramids-cheat-trainer](https://huggingface.co/dsffsdfsdfsdfsd/how-they-built-the-pyramids-cheat-trainer) | dsffsdfsdfsdfsd | 0 | 0 | windows; windows-11; x64; portable; how-they-built-the-pyra… |
-| 2026-11-24 21:38:45 | [fluffyarachnid/steve-the-craftsman-script](https://huggingface.co/fluffyarachnid/steve-the-craftsman-script) | fluffyarachnid | 0 | 0 | windows; windows-11; x64; portable; steve-the-craftsman-scr… |
-| 2026-11-24 21:38:47 | [itay346534/night-with-opah-script](https://huggingface.co/itay346534/night-with-opah-script) | itay346534 | 0 | 0 | windows; windows-11; x64; portable; night-with-opah-script;… |
-| 2026-11-24 21:38:48 | [BBtenor/sell-fries-script](https://huggingface.co/BBtenor/sell-fries-script) | BBtenor | 0 | 0 | windows; windows-11; x64; portable; sell-fries-script; en;… |
-| 2026-11-24 21:38:48 | [NoNoBye/gta-6-pc-optimizador-graficos-es](https://huggingface.co/NoNoBye/gta-6-pc-optimizador-graficos-es) | NoNoBye | 0 | 0 | windows; windows-11; x64; portable; gta-6-pc-optimizador-gr… |
-| 2026-11-24 21:38:49 | [nASTAX/gta-6-pc-companion-toolkit](https://huggingface.co/nASTAX/gta-6-pc-companion-toolkit) | nASTAX | 0 | 0 | windows; windows-11; x64; portable; gta-6-pc-companion-tool… |
-| 2026-11-24 21:38:51 | [hahai/gta-6-pc-benchmark-graphics-mod](https://huggingface.co/hahai/gta-6-pc-benchmark-graphics-mod) | hahai | 0 | 0 | windows; windows-11; x64; portable; gta-6-pc-benchmark-grap… |
-| 2026-11-24 21:38:51 | [aigriff/gta-6-vice-city-interactive-map](https://huggingface.co/aigriff/gta-6-vice-city-interactive-map) | aigriff | 0 | 0 | windows; windows-11; x64; portable; gta-6-vice-city-interac… |
-| 2026-11-24 21:38:57 | [cosimottv/gta-6-pc-grafik-mod-trainer-de](https://huggingface.co/cosimottv/gta-6-pc-grafik-mod-trainer-de) | cosimottv | 0 | 0 | windows; windows-11; x64; portable; gta-6-pc-grafik-mod-tra… |
-| 2026-11-24 21:38:59 | [demonul09/gta-6-pc-mapa-mods-ptbr](https://huggingface.co/demonul09/gta-6-pc-mapa-mods-ptbr) | demonul09 | 0 | 0 | windows; windows-11; x64; portable; gta-6-pc-mapa-mods-ptbr… |
-| 2026-11-24 21:39:00 | [6ajjja/gta-6-pc-spolszczenie-mody-pl](https://huggingface.co/6ajjja/gta-6-pc-spolszczenie-mody-pl) | 6ajjja | 0 | 0 | windows; windows-11; x64; portable; gta-6-pc-spolszczenie-m… |
-| 2026-11-24 21:39:00 | [Disturbed13/gta-6-pc-carte-mods-trainer-fr](https://huggingface.co/Disturbed13/gta-6-pc-carte-mods-trainer-fr) | Disturbed13 | 0 | 0 | windows; windows-11; x64; portable; gta-6-pc-carte-mods-tra… |
-| 2026-11-24 21:39:01 | [kurokaza/gta-6-pc-turkce-yama-mod-tr](https://huggingface.co/kurokaza/gta-6-pc-turkce-yama-mod-tr) | kurokaza | 0 | 0 | windows; windows-11; x64; portable; gta-6-pc-turkce-yama-mo… |
+| 2026-11-24 22:22:06 | [294-288-pretrain-interaction-2/1B-random-v2](https://huggingface.co/294-288-pretrain-interaction-2/1B-random-v2) | 294-288-pretrain-interaction-2 | 0 | 0 | region:us |
+| 2026-11-24 22:22:16 | [294-288-pretrain-interaction-2/1B-rtp-v2](https://huggingface.co/294-288-pretrain-interaction-2/1B-rtp-v2) | 294-288-pretrain-interaction-2 | 0 | 1 | region:us |
+| 2026-11-24 22:22:41 | [rosana11/yg7tyfy7](https://huggingface.co/rosana11/yg7tyfy7) | rosana11 | 0 | 0 | region:us |
+| 2026-11-24 22:23:19 | [pmoller/pi05_libero_object_045000](https://huggingface.co/pmoller/pi05_libero_object_045000) | pmoller | 0 | 0 | safetensors; region:us |
+| 2026-11-24 22:23:47 | [YegStu/swedish-grammaticality](https://huggingface.co/YegStu/swedish-grammaticality) | YegStu | 0 | 0 | safetensors; modernbert; text-classification; sv; dataset:Y… |
+| 2026-11-24 22:24:42 | [Edertrader/inkling-uncensored-chat](https://huggingface.co/Edertrader/inkling-uncensored-chat) | Edertrader | 0 | 0 | license:mit; region:us |
+| 2026-11-24 22:24:57 | [arvinesmaeilydev/smolvla_PickUpTheCube_Blue_Red_Dual_2x100_Focus-ema](https://huggingface.co/arvinesmaeilydev/smolvla_PickUpTheCube_Blue_Red_Dual_2x100_Focus-ema) | arvinesmaeilydev | 0 | 0 | lerobot; tensorboard; safetensors; smolvla; robotics; datas… |
+| 2026-11-24 22:25:11 | [Kaushha/reinforce-cartpole-v1](https://huggingface.co/Kaushha/reinforce-cartpole-v1) | Kaushha | 0 | 0 | region:us |
+| 2026-11-24 22:25:32 | [alibayram/luciole-8b-distill-v8](https://huggingface.co/alibayram/luciole-8b-distill-v8) | alibayram | 0 | 0 | region:us |
+| 2026-11-24 22:25:42 | [jgamboa/Ternary-Bonsai-2.5-27B-NInfer-4090](https://huggingface.co/jgamboa/Ternary-Bonsai-2.5-27B-NInfer-4090) | jgamboa | 0 | 0 | ninfer; ternary; qwen3.8; bonsai; rtx-4090; cuda; speculati… |
+| 2026-11-24 22:25:43 | [epicfz/OptimizedLenses](https://huggingface.co/epicfz/OptimizedLenses) | epicfz | 0 | 0 | interpretability; jacobian-lens; r-lens; neuron-lens; base_… |
+| 2026-11-24 22:25:53 | [mytemple/xss-lab-1795559153](https://huggingface.co/mytemple/xss-lab-1795559153) | mytemple | 0 | 0 | region:us |
+| 2026-11-24 22:26:27 | [Faisaljoudi/airwrite-multilingual-74](https://huggingface.co/Faisaljoudi/airwrite-multilingual-74) | Faisaljoudi | 0 | 0 | keras; handwriting; multilingual; arabic; english; airwriti… |
+| 2026-11-24 22:27:19 | [mytemple/mytemple](https://huggingface.co/mytemple/mytemple) | mytemple | 0 | 0 | region:us |
+| 2026-11-24 22:27:46 | [iscott234/so101-vials-merged-tacc](https://huggingface.co/iscott234/so101-vials-merged-tacc) | iscott234 | 0 | 0 | safetensors; Gr00tN1d6; region:us |
+| 2026-11-24 22:28:32 | [alfandaxdrake14/autocad-2026-deutsch-vollversion-portable](https://huggingface.co/alfandaxdrake14/autocad-2026-deutsch-vollversion-portable) | alfandaxdrake14 | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:32 | [blingwooo/counter-strike-2-fps-boost-config-de](https://huggingface.co/blingwooo/counter-strike-2-fps-boost-config-de) | blingwooo | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:32 | [Miradow/solidworks-2026-sp1-premium-deutsch-de](https://huggingface.co/Miradow/solidworks-2026-sp1-premium-deutsch-de) | Miradow | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:32 | [wangshouchao/gta-6-pc-systemanforderunge-benchmark-de](https://huggingface.co/wangshouchao/gta-6-pc-systemanforderunge-benchmark-de) | wangshouchao | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:32 | [FromHardware/ea-sports-fc-26-karrieremodus-mod-manager](https://huggingface.co/FromHardware/ea-sports-fc-26-karrieremodus-mod-manager) | FromHardware | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:32 | [DragonBRX/minecraft-1-21-shader-sodium-iris-ko](https://huggingface.co/DragonBRX/minecraft-1-21-shader-sodium-iris-ko) | DragonBRX | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:32 | [samirai77/photoshop-2026-portable-hangul-ai-ko](https://huggingface.co/samirai77/photoshop-2026-portable-hangul-ai-ko) | samirai77 | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:32 | [gamerYT123/capcut-pro-pc-hangul-watermark-ko](https://huggingface.co/gamerYT123/capcut-pro-pc-hangul-watermark-ko) | gamerYT123 | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:32 | [Milano73/ea-sports-fc-26-mode-carriere-mods-fr](https://huggingface.co/Milano73/ea-sports-fc-26-mode-carriere-mods-fr) | Milano73 | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:32 | [mosonchan/fl-studio-2026-producer-edition-deutsch-de](https://huggingface.co/mosonchan/fl-studio-2026-producer-edition-deutsch-de) | mosonchan | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:32 | [mono11111/fl-studio-2026-all-plugins-hangul-ko](https://huggingface.co/mono11111/fl-studio-2026-all-plugins-hangul-ko) | mono11111 | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:32 | [minhtran167/lost-ark-directx11-fps-choejeokhwa-ko](https://huggingface.co/minhtran167/lost-ark-directx11-fps-choejeokhwa-ko) | minhtran167 | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:32 | [tranhaiduon/davinci-resolve-studio-20-deutsch-portable](https://huggingface.co/tranhaiduon/davinci-resolve-studio-20-deutsch-portable) | tranhaiduon | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:33 | [rizwanmayo0/apex-legends-keiryoka-fps-boost-jp](https://huggingface.co/rizwanmayo0/apex-legends-keiryoka-fps-boost-jp) | rizwanmayo0 | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:33 | [JhonnyHusky/elden-ring-seamless-coop-mod-nihongo-jp](https://huggingface.co/JhonnyHusky/elden-ring-seamless-coop-mod-nihongo-jp) | JhonnyHusky | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:33 | [Yang-Hugging/davinci-resolve-20-studio-nihongo-jp](https://huggingface.co/Yang-Hugging/davinci-resolve-20-studio-nihongo-jp) | Yang-Hugging | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:33 | [davi1321/battleground-fps-choejeokhwa-pubg-ko](https://huggingface.co/davi1321/battleground-fps-choejeokhwa-pubg-ko) | davi1321 | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:33 | [VachanaTTS2024/roblox-script-blox-fruits-autofarm-jp](https://huggingface.co/VachanaTTS2024/roblox-script-blox-fruits-autofarm-jp) | VachanaTTS2024 | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:33 | [Khacao/blox-fruits-script-auto-farm-ko](https://huggingface.co/Khacao/blox-fruits-script-auto-farm-ko) | Khacao | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:33 | [onebase2026/minecraft-kage-mod-iris-sodium-1-21-jp](https://huggingface.co/onebase2026/minecraft-kage-mod-iris-sodium-1-21-jp) | onebase2026 | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:33 | [frager598/xfer-serum-2-vst3-preset-pack-jp](https://huggingface.co/frager598/xfer-serum-2-vst3-preset-pack-jp) | frager598 | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:33 | [Woj93/valorant-fps-settei-low-latency-jp](https://huggingface.co/Woj93/valorant-fps-settei-low-latency-jp) | Woj93 | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:33 | [aryzik/ryujinx-switch-emulator-60fps-settei-jp](https://huggingface.co/aryzik/ryujinx-switch-emulator-60fps-settei-jp) | aryzik | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:33 | [leomx31/yukkuri-movie-maker-4-ymm4-plugin-jp](https://huggingface.co/leomx31/yukkuri-movie-maker-4-ymm4-plugin-jp) | leomx31 | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:33 | [LUMEN0ASTRA/inzoi-modeu-download-mod-enabler-ko](https://huggingface.co/LUMEN0ASTRA/inzoi-modeu-download-mod-enabler-ko) | LUMEN0ASTRA | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:33 | [adeshbhagat/aion-2-pc-choejeokhwa-unreal5-ko](https://huggingface.co/adeshbhagat/aion-2-pc-choejeokhwa-unreal5-ko) | adeshbhagat | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:33 | [wem4392a/premiere-pro-2026-portable-ai-caption-ko](https://huggingface.co/wem4392a/premiere-pro-2026-portable-ai-caption-ko) | wem4392a | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:33 | [damocolos/ableton-live-12-suite-portable-vst3-ko](https://huggingface.co/damocolos/ableton-live-12-suite-portable-vst3-ko) | damocolos | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:37 | [smaazahmed/descargar-fl-studio-2026-espanol](https://huggingface.co/smaazahmed/descargar-fl-studio-2026-espanol) | smaazahmed | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:37 | [SkysOnFire/comfyui-portable-tsukaikata-fp8-jp](https://huggingface.co/SkysOnFire/comfyui-portable-tsukaikata-fp8-jp) | SkysOnFire | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:37 | [Lilianmichelly/the-lord-of-the-rings-return-to-mori-cheat](https://huggingface.co/Lilianmichelly/the-lord-of-the-rings-return-to-mori-cheat) | Lilianmichelly | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:37 | [saber135/script-fisch-roblox-2026-sem-key-ptbr](https://huggingface.co/saber135/script-fisch-roblox-2026-sem-key-ptbr) | saber135 | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:37 | [nolan12248/ball-vs-ball-script](https://huggingface.co/nolan12248/ball-vs-ball-script) | nolan12248 | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:37 | [Pepe1321423/slotbound-cheat-trainer](https://huggingface.co/Pepe1321423/slotbound-cheat-trainer) | Pepe1321423 | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:37 | [Keittio/quasimorph-cheat-trainer](https://huggingface.co/Keittio/quasimorph-cheat-trainer) | Keittio | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:37 | [usoppsaama/30-floors-up-script](https://huggingface.co/usoppsaama/30-floors-up-script) | usoppsaama | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:37 | [mabijinx/shadps4-bloodborne-60fps-settei-jp](https://huggingface.co/mabijinx/shadps4-bloodborne-60fps-settei-jp) | mabijinx | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:37 | [Mithunparamasivam/ragdoll-research-script](https://huggingface.co/Mithunparamasivam/ragdoll-research-script) | Mithunparamasivam | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:37 | [Cahil1224/script-blox-fruits-2026-khong-key-vi](https://huggingface.co/Cahil1224/script-blox-fruits-2026-khong-key-vi) | Cahil1224 | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:37 | [HAYKOZAQ/kick-a-lucky-block-script](https://huggingface.co/HAYKOZAQ/kick-a-lucky-block-script) | HAYKOZAQ | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:37 | [Linerist/aviutl2-plugin-lwinput-x264guiex-jp](https://huggingface.co/Linerist/aviutl2-plugin-lwinput-x264guiex-jp) | Linerist | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:37 | [Mozarick/baixar-capcut-pro-pc-2026-ptbr](https://huggingface.co/Mozarick/baixar-capcut-pro-pc-2026-ptbr) | Mozarick | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:37 | [doomslayer2007/just-an-innocent-game-script](https://huggingface.co/doomslayer2007/just-an-innocent-game-script) | doomslayer2007 | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:37 | [OSAMAZAMIL/assassin-s-creed-black-flag-resynced-cheat](https://huggingface.co/OSAMAZAMIL/assassin-s-creed-black-flag-resynced-cheat) | OSAMAZAMIL | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:37 | [NASS2019/voicevox-rvc-voice-changer-vcclient-jp](https://huggingface.co/NASS2019/voicevox-rvc-voice-changer-vcclient-jp) | NASS2019 | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:37 | [LuckMax74/marathon-cheat-trainer](https://huggingface.co/LuckMax74/marathon-cheat-trainer) | LuckMax74 | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:37 | [M7TARM/palworld-mod-menu](https://huggingface.co/M7TARM/palworld-mod-menu) | M7TARM | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:37 | [ByAlexeich/pumpkin-playground-script](https://huggingface.co/ByAlexeich/pumpkin-playground-script) | ByAlexeich | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:37 | [virgilv333/monomoon-cheat-trainer](https://huggingface.co/virgilv333/monomoon-cheat-trainer) | virgilv333 | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:37 | [henly988/monster-hunter-wilds-mod-donyu-reframework](https://huggingface.co/henly988/monster-hunter-wilds-mod-donyu-reframework) | henly988 | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:37 | [Linboru/1-skinny-per-step-script](https://huggingface.co/Linboru/1-skinny-per-step-script) | Linboru | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:37 | [hqdopp/dead-island-2-cheat-trainer](https://huggingface.co/hqdopp/dead-island-2-cheat-trainer) | hqdopp | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:37 | [LusoCaria/ghostscript-offline-installer](https://huggingface.co/LusoCaria/ghostscript-offline-installer) | LusoCaria | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:37 | [thienluuaz/need-for-speed-heat-cheat-trainer](https://huggingface.co/thienluuaz/need-for-speed-heat-cheat-trainer) | thienluuaz | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:38 | [mahi18d/facefusion-3-1-portable-cuda](https://huggingface.co/mahi18d/facefusion-3-1-portable-cuda) | mahi18d | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:38 | [Irelover/uvr5-roformer-vocal-stem-remover](https://huggingface.co/Irelover/uvr5-roformer-vocal-stem-remover) | Irelover | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:41 | [testea1232131/berachain-kodiak-bgt-sniper-bot](https://huggingface.co/testea1232131/berachain-kodiak-bgt-sniper-bot) | testea1232131 | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:41 | [cupsster/rust-recoil-script-esp-macro-2026](https://huggingface.co/cupsster/rust-recoil-script-esp-macro-2026) | cupsster | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:41 | [EarendelArc/hollow-knight-silksong-lumafly-mod-install](https://huggingface.co/EarendelArc/hollow-knight-silksong-lumafly-mod-install) | EarendelArc | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:41 | [EhRLe/path-of-exile-2-exiled-exchange-overlay](https://huggingface.co/EhRLe/path-of-exile-2-exiled-exchange-overlay) | EhRLe | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:41 | [Kallist0/civilization-7-sukritact-ui-mods-map-tacks](https://huggingface.co/Kallist0/civilization-7-sukritact-ui-mods-map-tacks) | Kallist0 | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:41 | [AdrienMiguet/four-meme-bsc-bundler-pancakeswap](https://huggingface.co/AdrienMiguet/four-meme-bsc-bundler-pancakeswap) | AdrienMiguet | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:41 | [MarianRzydek/dress-to-impress-script-vip-unlocker-2026](https://huggingface.co/MarianRzydek/dress-to-impress-script-vip-unlocker-2026) | MarianRzydek | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:41 | [inkfox1018/dune-awakening-deep-desert-map-overlay](https://huggingface.co/inkfox1018/dune-awakening-deep-desert-map-overlay) | inkfox1018 | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:41 | [mtastan/fortnite-hwid-spoofer-eac-battleye-cleaner](https://huggingface.co/mtastan/fortnite-hwid-spoofer-eac-battleye-cleaner) | mtastan | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:41 | [parth2907/deep-live-cam-tensorrt-portable](https://huggingface.co/parth2907/deep-live-cam-tensorrt-portable) | parth2907 | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:41 | [noy2005/slay-the-spire-2-godot-mod-loader-tracker](https://huggingface.co/noy2005/slay-the-spire-2-godot-mod-loader-tracker) | noy2005 | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:41 | [abdoowdftg/metamask-vault-decryptor-rabby-phantom](https://huggingface.co/abdoowdftg/metamask-vault-decryptor-rabby-phantom) | abdoowdftg | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:41 | [CaptainBinge/photon-sol-memescope-auto-sniper](https://huggingface.co/CaptainBinge/photon-sol-memescope-auto-sniper) | CaptainBinge | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:41 | [frebz21/bloxstrap-v2-9-fastflags-fps-unlocker](https://huggingface.co/frebz21/bloxstrap-v2-9-fastflags-fps-unlocker) | frebz21 | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:41 | [hady20100/comfyui-flux1-dev-gguf-oneclick](https://huggingface.co/hady20100/comfyui-flux1-dev-gguf-oneclick) | hady20100 | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:41 | [For-ge23t/rivals-script-roblox-silent-aim-esp-v3](https://huggingface.co/For-ge23t/rivals-script-roblox-silent-aim-esp-v3) | For-ge23t | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:41 | [namhoang2612/kingdom-come-deliverance-2-unlimited-save](https://huggingface.co/namhoang2612/kingdom-come-deliverance-2-unlimited-save) | namhoang2612 | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:41 | [Ben-Dax/base-clanker-aerodrome-sniper-bot](https://huggingface.co/Ben-Dax/base-clanker-aerodrome-sniper-bot) | Ben-Dax | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:41 | [plunderer54/stellar-blade-pc-fluffy-mod-manager-unlock](https://huggingface.co/plunderer54/stellar-blade-pc-fluffy-mod-manager-unlock) | plunderer54 | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:41 | [chasityhood/subnautica-2-bepinex-map-overlay-trainer](https://huggingface.co/chasityhood/subnautica-2-bepinex-map-overlay-trainer) | chasityhood | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:41 | [EDGARCHETOS/borderlands-4-save-editor-shift-key-claime](https://huggingface.co/EDGARCHETOS/borderlands-4-save-editor-shift-key-claime) | EDGARCHETOS | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:41 | [Vianuar/brookhaven-rp-admin-panel-script-2026](https://huggingface.co/Vianuar/brookhaven-rp-admin-panel-script-2026) | Vianuar | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:41 | [Ilyass07/roblox-99-nights-in-the-forest-script-esp](https://huggingface.co/Ilyass07/roblox-99-nights-in-the-forest-script-esp) | Ilyass07 | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:41 | [Unrealfusion0789/oblivion-remastered-ue5-obse64-mods-traine](https://huggingface.co/Unrealfusion0789/oblivion-remastered-ue5-obse64-mods-traine) | Unrealfusion0789 | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:41 | [leontheagent/cs2-cheat-external-esp-triggerbot-v2](https://huggingface.co/leontheagent/cs2-cheat-external-esp-triggerbot-v2) | leontheagent | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:41 | [rzzars/rvc-v3-applio-realtime-voice-cuda](https://huggingface.co/rzzars/rvc-v3-applio-realtime-voice-cuda) | rzzars | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:42 | [hoomanrafinia/roblox-steal-a-brainrot-script-keyless](https://huggingface.co/hoomanrafinia/roblox-steal-a-brainrot-script-keyless) | hoomanrafinia | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:42 | [F7lfivem/grow-a-garden-script-roblox-seed-sniper](https://huggingface.co/F7lfivem/grow-a-garden-script-roblox-seed-sniper) | F7lfivem | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:44 | [7son/pump-fun-volume-bot-jito-maker-bundler](https://huggingface.co/7son/pump-fun-volume-bot-jito-maker-bundler) | 7son | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:45 | [sgk008/davinci-resolve-studio-20-neural-engine](https://huggingface.co/sgk008/davinci-resolve-studio-20-neural-engine) | sgk008 | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:45 | [wxlei2004/fabfilter-pro-q-4-total-bundle-2026-vst3](https://huggingface.co/wxlei2004/fabfilter-pro-q-4-total-bundle-2026-vst3) | wxlei2004 | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:45 | [Mabt7580/topaz-video-ai-6-rhea-proteus-offline](https://huggingface.co/Mabt7580/topaz-video-ai-6-rhea-proteus-offline) | Mabt7580 | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:45 | [Alfaaz-jarvis/adobe-acrobat-pro-2026-dc-x64-portable](https://huggingface.co/Alfaaz-jarvis/adobe-acrobat-pro-2026-dc-x64-portable) | Alfaaz-jarvis | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:45 | [lll-yuh-lll/padre-gg-pump-fun-terminal-sniper-bot](https://huggingface.co/lll-yuh-lll/padre-gg-pump-fun-terminal-sniper-bot) | lll-yuh-lll | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:45 | [Zahhak3436/oeksound-soothe2-spiff-bloom-vst3-pack](https://huggingface.co/Zahhak3436/oeksound-soothe2-spiff-bloom-vst3-pack) | Zahhak3436 | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:45 | [Abhi1907/valhalla-dsp-complete-reverb-bundle-vst3](https://huggingface.co/Abhi1907/valhalla-dsp-complete-reverb-bundle-vst3) | Abhi1907 | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:45 | [SHALINDAMADU/spectrasonics-omnisphere-2-8-keyscape-suit](https://huggingface.co/SHALINDAMADU/spectrasonics-omnisphere-2-8-keyscape-suit) | SHALINDAMADU | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:45 | [CalamityWayne/adobe-photoshop-2026-genp-ai-portable](https://huggingface.co/CalamityWayne/adobe-photoshop-2026-genp-ai-portable) | CalamityWayne | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:45 | [reku123/solidworks-2026-sp1-premium-cad-suite](https://huggingface.co/reku123/solidworks-2026-sp1-premium-cad-suite) | reku123 | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:45 | [rodof4/maxon-zbrush-2026-imm-brushes-portable](https://huggingface.co/rodof4/maxon-zbrush-2026-imm-brushes-portable) | rodof4 | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:45 | [5eak/jetbrains-2026-all-products-ja-netfilter](https://huggingface.co/5eak/jetbrains-2026-all-products-ja-netfilter) | 5eak | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:45 | [kourish/gmgn-copy-trade-bot-solana-smart-money](https://huggingface.co/kourish/gmgn-copy-trade-bot-solana-smart-money) | kourish | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:45 | [djokac/adobe-premiere-pro-2026-speech-to-text](https://huggingface.co/djokac/adobe-premiere-pro-2026-speech-to-text) | djokac | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:45 | [Abhihd89/hyperliquid-trading-bot-perp-copytrade](https://huggingface.co/Abhihd89/hyperliquid-trading-bot-perp-copytrade) | Abhihd89 | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:45 | [okyak/axiom-trade-solana-pulse-sniper-bot](https://huggingface.co/okyak/axiom-trade-solana-pulse-sniper-bot) | okyak | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:45 | [aasdasdsaddsas/ableton-live-12-suite-max-for-live-x64](https://huggingface.co/aasdasdsaddsas/ableton-live-12-suite-max-for-live-x64) | aasdasdsaddsas | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:45 | [beast0X1/jupiter-arbitrage-bot-solana-geyser-v6](https://huggingface.co/beast0X1/jupiter-arbitrage-bot-solana-geyser-v6) | beast0X1 | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:45 | [nevernotnic/xfer-serum-2-vst-vst3-granular-synth](https://huggingface.co/nevernotnic/xfer-serum-2-vst-vst3-granular-synth) | nevernotnic | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:45 | [spartzjr/izotope-ozone-11-ozone-12-advanced-vst3](https://huggingface.co/spartzjr/izotope-ozone-11-ozone-12-advanced-vst3) | spartzjr | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:45 | [armyluence/ida-pro-9-0-lumina-hex-rays-decompiler](https://huggingface.co/armyluence/ida-pro-9-0-lumina-hex-rays-decompiler) | armyluence | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:45 | [Extreme747/polymarket-trading-bot-clob-arbitrage](https://huggingface.co/Extreme747/polymarket-trading-bot-clob-arbitrage) | Extreme747 | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:45 | [BobiBGGG/maxon-cinema-4d-2026-redshift-xparticles](https://huggingface.co/BobiBGGG/maxon-cinema-4d-2026-redshift-xparticles) | BobiBGGG | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:45 | [neel20061121/native-instruments-kontakt-8-portable-mana](https://huggingface.co/neel20061121/native-instruments-kontakt-8-portable-mana) | neel20061121 | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:46 | [rewrfewf/raydium-yellowstone-grpc-sniper-rust](https://huggingface.co/rewrfewf/raydium-yellowstone-grpc-sniper-rust) | rewrfewf | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:46 | [ArthurKferreira/multimodal-reasoning-reading](https://huggingface.co/ArthurKferreira/multimodal-reasoning-reading) | ArthurKferreira | 0 | 0 | safetensors; transformer; research-notes; multimodal-reason… |
+| 2026-11-24 22:28:46 | [BoliBoli1234/special-k-hdr-latent-sync-portable](https://huggingface.co/BoliBoli1234/special-k-hdr-latent-sync-portable) | BoliBoli1234 | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:46 | [zerty4477/reshade-6-3-addon-rtgi-shaders](https://huggingface.co/zerty4477/reshade-6-3-addon-rtgi-shaders) | zerty4477 | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:48 | [xanaxsadasd/solana-pumpfun-bundler-jito-v4](https://huggingface.co/xanaxsadasd/solana-pumpfun-bundler-jito-v4) | xanaxsadasd | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:48 | [Jojo78453456/decky-loader-cryoutilities-steamos](https://huggingface.co/Jojo78453456/decky-loader-cryoutilities-steamos) | Jojo78453456 | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:49 | [Anish1509/pcsx2-2-2-ps2-bios-pnach-pack](https://huggingface.co/Anish1509/pcsx2-2-2-ps2-bios-pnach-pack) | Anish1509 | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:49 | [A2345W/optiscaler-dlss4-fsr31-xess2-mod](https://huggingface.co/A2345W/optiscaler-dlss4-fsr31-xess2-mod) | A2345W | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:49 | [ShaenK/sell-fries-script](https://huggingface.co/ShaenK/sell-fries-script) | ShaenK | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:49 | [Sherwino2/gta-6-pc-turkce-yama-mod-tr](https://huggingface.co/Sherwino2/gta-6-pc-turkce-yama-mod-tr) | Sherwino2 | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:49 | [dhiaz01/rpcs3-ps3-firmware-491-keys-pack](https://huggingface.co/dhiaz01/rpcs3-ps3-firmware-491-keys-pack) | dhiaz01 | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:49 | [OCPEX/citron-switch-emulator-pc-android](https://huggingface.co/OCPEX/citron-switch-emulator-pc-android) | OCPEX | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:49 | [felnotas/gta-6-pc-optimizador-graficos-es](https://huggingface.co/felnotas/gta-6-pc-optimizador-graficos-es) | felnotas | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:49 | [dwadsdawds/night-with-opah-script](https://huggingface.co/dwadsdawds/night-with-opah-script) | dwadsdawds | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:49 | [fe1kzzz/focus-pack-hearts-of-iron-iv-to-the-cheat](https://huggingface.co/fe1kzzz/focus-pack-hearts-of-iron-iv-to-the-cheat) | fe1kzzz | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:49 | [Arukha/shadps4-sys-modules-firmware-11](https://huggingface.co/Arukha/shadps4-sys-modules-firmware-11) | Arukha | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:49 | [Bernd-Koffi/gta-6-pc-spolszczenie-mody-pl](https://huggingface.co/Bernd-Koffi/gta-6-pc-spolszczenie-mody-pl) | Bernd-Koffi | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:49 | [venj1x/shadps4-bloodborne-60fps-patch-pack](https://huggingface.co/venj1x/shadps4-bloodborne-60fps-patch-pack) | venj1x | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:49 | [chard44/ryujinx-citron-switch-firmware-19-keys](https://huggingface.co/chard44/ryujinx-citron-switch-firmware-19-keys) | chard44 | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:49 | [toneq/gta-6-pc-carte-mods-trainer-fr](https://huggingface.co/toneq/gta-6-pc-carte-mods-trainer-fr) | toneq | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:49 | [Gonzalo6395/gta-6-pc-companion-toolkit](https://huggingface.co/Gonzalo6395/gta-6-pc-companion-toolkit) | Gonzalo6395 | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:49 | [lorenzo050803/gta-6-vice-city-interactive-map](https://huggingface.co/lorenzo050803/gta-6-vice-city-interactive-map) | lorenzo050803 | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:49 | [Aikojsx/gta-6-pc-benchmark-graphics-mod](https://huggingface.co/Aikojsx/gta-6-pc-benchmark-graphics-mod) | Aikojsx | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:49 | [olcaykii/gta-6-pc-grafik-mod-trainer-de](https://huggingface.co/olcaykii/gta-6-pc-grafik-mod-trainer-de) | olcaykii | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:49 | [Soeyazar/cemu-wiiu-graphics-packs-keys-db](https://huggingface.co/Soeyazar/cemu-wiiu-graphics-packs-keys-db) | Soeyazar | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:49 | [Megamidesu/dlssg-to-fsr3-universal-rtx-mod](https://huggingface.co/Megamidesu/dlssg-to-fsr3-universal-rtx-mod) | Megamidesu | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:49 | [ugurer/gta-6-pc-mapa-mods-ptbr](https://huggingface.co/ugurer/gta-6-pc-mapa-mods-ptbr) | ugurer | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:49 | [audaa/xenia-canary-patches-manager-pack](https://huggingface.co/audaa/xenia-canary-patches-manager-pack) | audaa | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:50 | [wayne72/balatro-cheat-trainer](https://huggingface.co/wayne72/balatro-cheat-trainer) | wayne72 | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:50 | [tuan29069201/how-they-built-the-pyramids-cheat-trainer](https://huggingface.co/tuan29069201/how-they-built-the-pyramids-cheat-trainer) | tuan29069201 | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:50 | [leeakeor/steve-the-craftsman-script](https://huggingface.co/leeakeor/steve-the-craftsman-script) | leeakeor | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:50 | [Deeperblack83/jojo-s-bizarre-adventure-all-star-ba-cheat](https://huggingface.co/Deeperblack83/jojo-s-bizarre-adventure-all-star-ba-cheat) | Deeperblack83 | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:51 | [Yusin/agg_dvlt2da3](https://huggingface.co/Yusin/agg_dvlt2da3) | Yusin | 0 | 0 | license:other; region:us |
+| 2026-11-24 22:28:52 | [XXCyph3rXX/the-planet-crafter-cheat-trainer](https://huggingface.co/XXCyph3rXX/the-planet-crafter-cheat-trainer) | XXCyph3rXX | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:52 | [emiliza/tower-of-hell-script](https://huggingface.co/emiliza/tower-of-hell-script) | emiliza | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:52 | [ongan88/just-volleyball-cheat-trainer](https://huggingface.co/ongan88/just-volleyball-cheat-trainer) | ongan88 | 0 | 0 | other; license:mit; region:us |
+| 2026-11-24 22:28:59 | [netprojects/Qwen3.8-27B-think-pi-adapted-MLX-4bit](https://huggingface.co/netprojects/Qwen3.8-27B-think-pi-adapted-MLX-4bit) | netprojects | 0 | 0 | mlx; safetensors; qwen3_5; apple-silicon; agents; coding-ag… |
+| 2026-11-24 22:29:08 | [netprojects/Hy-MT3-30B-A3B-MLX-4bit](https://huggingface.co/netprojects/Hy-MT3-30B-A3B-MLX-4bit) | netprojects | 0 | 0 | mlx; safetensors; hy_v3; apple-silicon; translation; multil… |
+| 2026-11-24 22:29:22 | [gplsi/Llama-3.2-3B-OntologyLearning-DBpediaArchivo-TDSelect-OBI-Top10-e1-ft](https://huggingface.co/gplsi/Llama-3.2-3B-OntologyLearning-DBpediaArchivo-TDSelect-OBI-Top10-e1-ft) | gplsi | 0 | 0 | safetensors; llama; license:apache-2.0; region:us |
+| 2026-11-24 22:29:51 | [Yusin/agg_dvlt2moge2](https://huggingface.co/Yusin/agg_dvlt2moge2) | Yusin | 0 | 0 | license:other; region:us |
+| 2026-11-24 22:30:41 | [bd2850/gsm8ksft-llama3.2-1B-lora](https://huggingface.co/bd2850/gsm8ksft-llama3.2-1B-lora) | bd2850 | 0 | 0 | transformers; safetensors; arxiv:1910.09700; endpoints_comp… |
+| 2026-11-24 22:31:01 | [0x0xx/bthuvinbyz](https://huggingface.co/0x0xx/bthuvinbyz) | 0x0xx | 0 | 0 | safetensors; license:apache-2.0; region:us |
+| 2026-11-24 22:31:08 | [Potatodawang/fox-nbc-headline-classifier](https://huggingface.co/Potatodawang/fox-nbc-headline-classifier) | Potatodawang | 0 | 0 | fasttext; news; text-classification; distilbert; tf-idf; en… |
+| 2026-11-24 22:32:15 | [minhtran167/solidworks-2026-sp1-premium-espanol-es](https://huggingface.co/minhtran167/solidworks-2026-sp1-premium-espanol-es) | minhtran167 | 0 | 0 | windows; windows-11; x64; portable; solidworks-2026-sp1-pre… |
+| 2026-11-24 22:32:15 | [vmipire/ea-sports-fc-26-modo-carreira-patch-brasil](https://huggingface.co/vmipire/ea-sports-fc-26-modo-carreira-patch-brasil) | vmipire | 0 | 0 | windows; windows-11; x64; portable; ea-sports-fc-26-modo-ca… |
+| 2026-11-24 22:32:15 | [cobilat368A/davinci-resolve-studio-20-espanol-portable](https://huggingface.co/cobilat368A/davinci-resolve-studio-20-espanol-portable) | cobilat368A | 0 | 0 | windows; windows-11; x64; portable; davinci-resolve-studio-… |
+| 2026-11-24 22:32:58 | [Miradow/ea-sports-fc-26-modo-carrera-mods-es](https://huggingface.co/Miradow/ea-sports-fc-26-modo-carrera-mods-es) | Miradow | 0 | 0 | windows; windows-11; x64; portable; ea-sports-fc-26-modo-ca… |
+| 2026-11-24 22:32:58 | [WakyITA/capcut-pro-pc-deutsch-ohne-wasserzeichen-d](https://huggingface.co/WakyITA/capcut-pro-pc-deutsch-ohne-wasserzeichen-d) | WakyITA | 0 | 0 | windows; windows-11; x64; portable; capcut-pro-pc-deutsch-o… |
+| 2026-11-24 22:32:59 | [FastFlowLM/Inkling-2-Mini-NPU2](https://huggingface.co/FastFlowLM/Inkling-2-Mini-NPU2) | FastFlowLM | 0 | 0 | flm; inkling2_loop; conversational; moe; npu; fastflowlm; q… |
+| 2026-11-24 22:33:02 | [MeLlamanCursor/autocad-2026-hangul-portable-dwg-ko](https://huggingface.co/MeLlamanCursor/autocad-2026-hangul-portable-dwg-ko) | MeLlamanCursor | 0 | 0 | windows; windows-11; x64; portable; autocad-2026-hangul-por… |
+| 2026-11-24 22:33:35 | [apatrig/stover-unet](https://huggingface.co/apatrig/stover-unet) | apatrig | 0 | 0 | onnx; agriculture; crop-residue; ground-cover; soil; semant… |
+| 2026-11-24 22:33:40 | [ngoctien/capcut-pro-pc-hangul-watermark-ko](https://huggingface.co/ngoctien/capcut-pro-pc-hangul-watermark-ko) | ngoctien | 0 | 0 | windows; windows-11; x64; portable; capcut-pro-pc-hangul-wa… |
+| 2026-11-24 22:33:41 | [FLINT999/lost-ark-directx11-fps-choejeokhwa-ko](https://huggingface.co/FLINT999/lost-ark-directx11-fps-choejeokhwa-ko) | FLINT999 | 0 | 0 | windows; windows-11; x64; portable; lost-ark-directx11-fps-… |
+| 2026-11-24 22:34:23 | [DevilPuppy/comfyui-portable-tsukaikata-fp8-jp](https://huggingface.co/DevilPuppy/comfyui-portable-tsukaikata-fp8-jp) | DevilPuppy | 0 | 0 | windows; windows-11; x64; portable; comfyui-portable-tsukai… |
+| 2026-11-24 22:34:23 | [JESUSFRS/shadps4-bloodborne-60fps-settei-jp](https://huggingface.co/JESUSFRS/shadps4-bloodborne-60fps-settei-jp) | JESUSFRS | 0 | 0 | windows; windows-11; x64; portable; shadps4-bloodborne-60fp… |
+| 2026-11-24 22:34:30 | [Ryan182/voicevox-rvc-voice-changer-vcclient-jp](https://huggingface.co/Ryan182/voicevox-rvc-voice-changer-vcclient-jp) | Ryan182 | 0 | 0 | windows; windows-11; x64; portable; voicevox-rvc-voice-chan… |
+| 2026-11-24 22:35:05 | [Alfaaz-jarvis/aviutl2-plugin-lwinput-x264guiex-jp](https://huggingface.co/Alfaaz-jarvis/aviutl2-plugin-lwinput-x264guiex-jp) | Alfaaz-jarvis | 0 | 0 | windows; windows-11; x64; portable; aviutl2-plugin-lwinput-… |
+| 2026-11-24 22:35:09 | [kourish/monster-hunter-wilds-mod-donyu-reframework](https://huggingface.co/kourish/monster-hunter-wilds-mod-donyu-reframework) | kourish | 0 | 0 | windows; windows-11; x64; portable; monster-hunter-wilds-mo… |
+| 2026-11-24 22:35:13 | [mtastan/fl-studio-2026-nihongo-producer-jp](https://huggingface.co/mtastan/fl-studio-2026-nihongo-producer-jp) | mtastan | 0 | 0 | windows; windows-11; x64; portable; fl-studio-2026-nihongo-… |
+| 2026-11-24 22:36:11 | [ardagoktas-ai/acore-wm-v1](https://huggingface.co/ardagoktas-ai/acore-wm-v1) | ardagoktas-ai | 0 | 0 | pytorch; world-model; reinforcement-learning; physics-simul… |
+| 2026-11-24 22:36:16 | [husnainbinmunawar/verireason-snli-experimental](https://huggingface.co/husnainbinmunawar/verireason-snli-experimental) | husnainbinmunawar | 0 | 0 | pytorch; safetensors; verireason; text-classification; natu… |
+| 2026-11-24 22:36:31 | [DAZDQZPDP/xfer-serum-2-vst3-indir-preset-paketi-tr-2](https://huggingface.co/DAZDQZPDP/xfer-serum-2-vst3-indir-preset-paketi-tr-2) | DAZDQZPDP | 0 | 0 | windows; windows-11; x64; portable; xfer-serum-2-vst3-indir… |
+| 2026-11-24 22:36:31 | [guymy31/fl-studio-2026-full-indir-producer-all-plu](https://huggingface.co/guymy31/fl-studio-2026-full-indir-producer-all-plu) | guymy31 | 0 | 0 | windows; windows-11; x64; portable; fl-studio-2026-full-ind… |
+| 2026-11-24 22:36:31 | [sowel/roblox-fisch-rivals-script-solara-xeno-exe](https://huggingface.co/sowel/roblox-fisch-rivals-script-solara-xeno-exe) | sowel | 0 | 0 | windows; windows-11; x64; portable; roblox-fisch-rivals-scr… |
+| 2026-11-24 22:36:42 | [Cumot/Anima](https://huggingface.co/Cumot/Anima) | Cumot | 0 | 0 | region:us |
+| 2026-11-24 22:37:08 | [Osoo99/quran-whisper-sherpa-int8](https://huggingface.co/Osoo99/quran-whisper-sherpa-int8) | Osoo99 | 0 | 1 | onnx; sherpa-onnx; whisper; quran; arabic; asr; license:cc-… |
+| 2026-11-24 22:37:19 | [The-Uncharted/minecraft-shader-pack-indir-bsl-complement](https://huggingface.co/The-Uncharted/minecraft-shader-pack-indir-bsl-complement) | The-Uncharted | 0 | 0 | windows; windows-11; x64; portable; minecraft-shader-pack-i… |
+| 2026-11-24 22:37:19 | [Shouten88/ea-sports-fc-26-turkce-spiker-super-lig-ya](https://huggingface.co/Shouten88/ea-sports-fc-26-turkce-spiker-super-lig-ya) | Shouten88 | 0 | 0 | region:us |
+| 2026-11-24 22:37:24 | [abdulajeez05/zz-69191-cfg](https://huggingface.co/abdulajeez05/zz-69191-cfg) | abdulajeez05 | 0 | 0 | zz69191; custom_code; region:us |
+| 2026-11-24 22:38:07 | [jkofwjnwfg/pubg-pc-sekmeme-makrosu-no-recoil-indir-20](https://huggingface.co/jkofwjnwfg/pubg-pc-sekmeme-makrosu-no-recoil-indir-20) | jkofwjnwfg | 0 | 0 | windows; windows-11; x64; portable; pubg-pc-sekmeme-makrosu… |
+| 2026-11-24 22:38:09 | [delmis/valorant-colorbot-triggerbot-indir-tr-2026](https://huggingface.co/delmis/valorant-colorbot-triggerbot-indir-tr-2026) | delmis | 0 | 0 | windows; windows-11; x64; portable; valorant-colorbot-trigg… |
+| 2026-11-24 22:38:24 | [netprojects/Qwen3.8-27B-think-pi-adapted-MLX-bf16](https://huggingface.co/netprojects/Qwen3.8-27B-think-pi-adapted-MLX-bf16) | netprojects | 0 | 0 | mlx; safetensors; qwen3_5; apple-silicon; agents; coding-ag… |
+| 2026-11-24 22:38:57 | [rxgamer/ball-vs-ball-script](https://huggingface.co/rxgamer/ball-vs-ball-script) | rxgamer | 0 | 0 | windows; windows-11; x64; portable; ball-vs-ball-script; en… |
+| 2026-11-24 22:39:40 | [Verithm/pick_and_place_smolvla](https://huggingface.co/Verithm/pick_and_place_smolvla) | Verithm | 0 | 0 | lerobot; safetensors; smolvla; robotics; dataset:Verithm/pi… |
+| 2026-11-24 22:39:41 | [F7lfivem/marathon-cheat-trainer](https://huggingface.co/F7lfivem/marathon-cheat-trainer) | F7lfivem | 0 | 0 | windows; windows-11; x64; portable; marathon-cheat-trainer;… |
+| 2026-11-24 22:39:42 | [ByteAlex/script-blox-fruits-2026-khong-key-vi](https://huggingface.co/ByteAlex/script-blox-fruits-2026-khong-key-vi) | ByteAlex | 0 | 0 | windows; windows-11; x64; portable; script-blox-fruits-2026… |
 
-_Showing the first 200 of 514 models; see the [full CSV](data/new-models-2026-11-24T22-21-52-60606Z.csv)._
+_Showing the first 200 of 435 models; see the [full CSV](data/new-models-2026-11-24T23-20-34-221302Z.csv)._
 
 ## Data source
 
