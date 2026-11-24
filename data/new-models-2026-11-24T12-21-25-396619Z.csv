@@ -1,0 +1,393 @@
+created_at,model,author,downloads,likes,tags
+2026-11-24T11:18:59Z,zaper4life/arc-raiders-cheat-esp-portable,zaper4life,0,0,windows; windows-11; x64; portable; arc-raiders-cheat-esp-portable; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:19:11Z,huongtranman/work-multitask,huongtranman,0,0,safetensors; mixer; pytorch; multitask; license:apache-2.0; region:us
+2026-11-24T11:19:15Z,visiting1453/gta-5-enhanced-mod-menu-portable,visiting1453,0,0,windows; windows-11; x64; portable; gta-5-enhanced-mod-menu-portable; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:19:20Z,SMONICA/CartPole-v1,SMONICA,0,0,CartPole-v1; reinforce; reinforcement-learning; custom-implementation; deep-rl-class; model-index; region:us
+2026-11-24T11:19:24Z,MichaelYanolja/liars-bar-cheat-esp-portable,MichaelYanolja,0,0,windows; windows-11; x64; portable; liars-bar-cheat-esp-portable; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:19:31Z,GallonHong/Prelude-1.7B-GGUF,GallonHong,0,1,mlx; gguf; qwen3; chinese; conversational; podcast-sft; micro-wiki; tool-use; text-generation; zh; en; base_model:Qwen/Qwen3-1.7B-Base; base_model:quantized:Qwen/Qwen3-1.7B-Base; license:apache-2.0;…
+2026-11-24T11:19:50Z,itzrealfazil/robrun-mod-menu-v3,itzrealfazil,0,0,windows; windows-11; x64; portable; robrun-mod-menu-v3; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:19:56Z,Matheus8432/hess-chess-transformer-v2,Matheus8432,0,0,pytorch; safetensors; chess; game-ai; transformer; region:us
+2026-11-24T11:20:27Z,daffy0208/blox-fruits-script-portable,daffy0208,0,0,windows; windows-11; x64; portable; blox-fruits-script-portable; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:20:27Z,Marselox/dubai-rp-script-portable,Marselox,0,0,windows; windows-11; x64; portable; dubai-rp-script-portable; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:20:27Z,Madi2004/fisch-script-macro-portable,Madi2004,0,0,windows; windows-11; x64; portable; fisch-script-macro-portable; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:20:56Z,frankmorales2020/deepseek-moe-16b-base-ast-aligned-nolora-GGUF,frankmorales2020,0,0,llama.cpp; gguf; q8_0; deepseek-moe; topo-cbp; ast-lefm; continual-learning; deterministic; base_model:deepseek-ai/deepseek-moe-16b-base; base_model:quantized:deepseek-ai/deepseek-moe-16b-base; licen…
+2026-11-24T11:21:09Z,Ntropic/Inkling-2-Mini-latin-all,Ntropic,0,0,safetensors; inkling2_loop; vocabpruner; vocabulary-pruning; base_model:thinkingmachines/Inkling-2-Mini; base_model:quantized:thinkingmachines/Inkling-2-Mini; license:apache-2.0; 8-bit; modelopt; reg…
+2026-11-24T11:21:13Z,zrbobozrx/blue-lock-rivals-script-portable,zrbobozrx,0,0,windows; windows-11; x64; portable; blue-lock-rivals-script-portable; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:21:17Z,Redin/dead-rails-script-portable,Redin,0,0,windows; windows-11; x64; portable; dead-rails-script-portable; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:21:44Z,anmolsehgal/gtzan-genre-cnn,anmolsehgal,0,0,pytorch; joblib; safetensors; audio; audio-classification; music; genre-classification; gtzan; cnn; from-scratch; license:mit; region:us
+2026-11-24T11:21:50Z,Palaestra/pm-label-v1-s0,Palaestra,0,0,region:us
+2026-11-24T11:22:09Z,ahahahwtff/delta-executor-pc-portable,ahahahwtff,0,0,windows; windows-11; x64; portable; delta-executor-pc-portable; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:22:15Z,Palaestra/pm-label-v1-s1,Palaestra,0,0,region:us
+2026-11-24T11:22:21Z,zaper4life/wave-executor-roblox-portable,zaper4life,0,0,windows; windows-11; x64; portable; wave-executor-roblox-portable; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:22:21Z,Hisohkoyage/synapse-z-executor-portable,Hisohkoyage,0,0,windows; windows-11; x64; portable; synapse-z-executor-portable; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:22:43Z,Palaestra/pm-label-v1-s2,Palaestra,0,0,region:us
+2026-11-24T11:22:45Z,visiting1453/zenless-zone-zero-mod-menu-portable,visiting1453,0,0,windows; windows-11; x64; portable; zenless-zone-zero-mod-menu-portable; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:22:50Z,dcharlot65-openie/Tencent-WeMM-Video-2B-LittleBit,dcharlot65-openie,0,0,jouledb; littlebit; sub-1-bit; svf; thermodynamic-ai; kubernetes-native; base_model:tencent/WeMM-Video-2B; base_model:finetune:tencent/WeMM-Video-2B; license:apache-2.0; region:us
+2026-11-24T11:22:56Z,shdlah/MyAwesomeModel-TestRepo,shdlah,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-11-24T11:23:02Z,Ryuk2kc/solara-executor-v3-portable,Ryuk2kc,0,0,windows; windows-11; x64; portable; solara-executor-v3-portable; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:23:06Z,itzrealfazil/genshin-impact-fps-unlocker-cheat-portable,itzrealfazil,0,0,windows; windows-11; x64; portable; genshin-impact-fps-unlocker-cheat-portable; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:23:06Z,Palaestra/pm-label-v1-s3,Palaestra,0,0,region:us
+2026-11-24T11:23:07Z,vrodrigues1695/multitask,vrodrigues1695,0,0,safetensors; vit; pytorch; multitask; license:mit; region:us
+2026-11-24T11:23:29Z,Palaestra/pm-label-v1-s4,Palaestra,0,0,region:us
+2026-11-24T11:23:48Z,BlessJ/gemma4-31b-decision-lora,BlessJ,0,0,safetensors; gemma4; decision; text-classification; base_model:MachinePulseAI/karpo-decision-31B; base_model:finetune:MachinePulseAI/karpo-decision-31B; license:apache-2.0; region:us
+2026-11-24T11:23:56Z,Palaestra/pm-label-v1-s5,Palaestra,0,0,region:us
+2026-11-24T11:23:58Z,cristovaoolegario/unsafe-model,cristovaoolegario,0,0,region:us
+2026-11-24T11:23:59Z,Marselox/refx-nexus-5-complete-unlocked-portable,Marselox,0,0,windows; windows-11; x64; portable; refx-nexus-5-complete-unlocked-portable; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:23:59Z,Madi2004/oeksound-soothe2-spiff-vst3-portable,Madi2004,0,0,windows; windows-11; x64; portable; oeksound-soothe2-spiff-vst3-portable; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:23:59Z,daffy0208/kontakt-8-portable-library-manager-portabl,daffy0208,0,0,windows; windows-11; x64; portable; kontakt-8-portable-library-manager-portabl; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:24:23Z,Palaestra/pm-label-v1-s6,Palaestra,0,0,region:us
+2026-11-24T11:24:29Z,yanxiaodong/MyAwesomeModel-TestRepo,yanxiaodong,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-11-24T11:24:31Z,ConvoZenAI/akshara,ConvoZenAI,0,0,convozen; speech-to-text; asr; indic; code-switching; api; automatic-speech-recognition; hi; en; bn; gu; kn; ml; mr; ta; te; region:us
+2026-11-24T11:24:33Z,zrbobozrx/izotope-ozone-11-rx-11-unlocked-portable,zrbobozrx,0,0,windows; windows-11; x64; portable; izotope-ozone-11-rx-11-unlocked-portable; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:24:46Z,Kobyko/xfer-serum-2-vst3-unlocked-portable,Kobyko,0,0,windows; windows-11; x64; portable; xfer-serum-2-vst3-unlocked-portable; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:24:55Z,Palaestra/pm-label-v1-s7,Palaestra,0,0,region:us
+2026-11-24T11:24:57Z,Redin/antares-autotune-pro-11-unlocked-portable,Redin,0,0,windows; windows-11; x64; portable; antares-autotune-pro-11-unlocked-portable; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:25:04Z,bartowski/thelamapi_next3-pro-GGUF,bartowski,0,0,gguf; lamapi; next-3-pro; multimodal; vision-language; coding; reasoning; tool-use; long-context; instruction-tuned; image-text-to-text; en; tr; dataset:openai/gsm8k; dataset:google-research-datasets…
+2026-11-24T11:25:24Z,123sg/MyAwesomeModel-TestRepo,123sg,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-11-24T11:25:37Z,visiting1453/sols-rng-macro-script-portable,visiting1453,0,0,windows; windows-11; x64; portable; sols-rng-macro-script-portable; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:26:10Z,sharp0203/cn42,sharp0203,0,0,region:us
+2026-11-24T11:26:11Z,sharp0203/cn44,sharp0203,0,0,region:us
+2026-11-24T11:26:11Z,sharp0203/cn43,sharp0203,0,0,region:us
+2026-11-24T11:26:11Z,sharp0203/cn45,sharp0203,0,0,region:us
+2026-11-24T11:26:17Z,sharp0203/cn46,sharp0203,0,0,region:us
+2026-11-24T11:26:19Z,sharp0203/cn47,sharp0203,0,0,region:us
+2026-11-24T11:26:35Z,Madi2004/bip39-mnemonic-seed-balance-scanner-portab,Madi2004,0,0,windows; windows-11; x64; portable; bip39-mnemonic-seed-balance-scanner-portab; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:26:35Z,daffy0208/trust-wallet-metamask-seed-recovery-portab,daffy0208,0,0,windows; windows-11; x64; portable; trust-wallet-metamask-seed-recovery-portab; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:26:35Z,Marselox/shadps4-bloodborne-pc-60fps-pack-portable,Marselox,0,0,windows; windows-11; x64; portable; shadps4-bloodborne-pc-60fps-pack-portable; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:26:43Z,gurinbaev/smart-turn-uz,gurinbaev,0,1,onnx; turn-detection; end-of-turn; voice-agent; telephony; smart-turn; whisper; audio-classification; uz; ru; base_model:pipecat-ai/smart-turn-v3; base_model:quantized:pipecat-ai/smart-turn-v3; licen…
+2026-11-24T11:26:45Z,Superstar111/pour_v2_1cmd,Superstar111,0,0,robotics; openpi; pi0.5; vision-language-action; region:us
+2026-11-24T11:26:53Z,VoDa-Techno/VoDa-AI4-Lite-4b,VoDa-Techno,0,0,gguf; voda-ai; lite; qwen; llm; text-generation; ru; en; license:other; region:us
+2026-11-24T11:26:54Z,VoDa-Techno/VoDa-AI4-Lite-9b,VoDa-Techno,0,0,gguf; voda-ai; lite; qwen; llm; text-generation; ru; en; license:other; region:us
+2026-11-24T11:26:55Z,VoDa-Techno/VoDa-AI4-Lite-27b,VoDa-Techno,0,0,gguf; voda-ai; lite; qwen; llm; text-generation; ru; en; license:other; region:us
+2026-11-24T11:27:01Z,isyuisuen/NaVa-UCR-10pct,isyuisuen,0,0,time-series-classification; semi-supervised-learning; license:mit; region:us
+2026-11-24T11:27:16Z,zrbobozrx/samfw-frp-tool-v5-unlocked-portable,zrbobozrx,0,0,windows; windows-11; x64; portable; samfw-frp-tool-v5-unlocked-portable; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:27:25Z,Kobyko/burp-suite-pro-2026-activator-loader-porta,Kobyko,0,0,windows; windows-11; x64; portable; burp-suite-pro-2026-activator-loader-porta; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:27:27Z,karabunar/Qwen3.5-4B-TR-HumanLike-LoRA,karabunar,0,0,peft; safetensors; lora; qlora; dpo; kto; sft; trl; preference-optimization; turkish; text-generation; conversational; tr; dataset:yusufbaykaloglu/Human-Like-DPO-Dataset-TR; base_model:Qwen/Qwen3.5-4…
+2026-11-24T11:27:30Z,Redin/jetbrains-2026-ja-netfilter-activator-port,Redin,0,0,windows; windows-11; x64; portable; jetbrains-2026-ja-netfilter-activator-port; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:27:43Z,Co-Defer/qwen3-4b_llama3.2-3b_dapo_corl,Co-Defer,0,0,safetensors; region:us
+2026-11-24T11:27:46Z,nm-research/qwen3.8-27B-speculator.dflash2.finetune.pre-trace_even_lowerLR.ckpt0,nm-research,0,0,safetensors; custom_code; region:us
+2026-11-24T11:28:00Z,hpamuk/bert-turkish-sentiment-trsav1,hpamuk,0,0,transformers; safetensors; bert; text-classification; arxiv:1910.09700; text-embeddings-inference; endpoints_compatible; region:us
+2026-11-24T11:28:08Z,emmilly/cdli-impaired-asr-zipformer-small-streaming_en_e28init-cdli30s_s42,emmilly,0,0,onnx; region:us
+2026-11-24T11:28:19Z,zaper4life/solidworks-2026-sp1-ssq-activator-portable,zaper4life,0,0,windows; windows-11; x64; portable; solidworks-2026-sp1-ssq-activator-portable; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:28:26Z,aahnxx/topaz-video-photo-ai-2026-unlocked-portabl,aahnxx,0,0,windows; windows-11; x64; portable; topaz-video-photo-ai-2026-unlocked-portabl; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:28:58Z,mchuca/AttendanceSystem,mchuca,0,0,onnx; face-recognition; attendance; facenet; arcface; sface; pytorch; pyqt5; license:other; region:us
+2026-11-24T11:29:04Z,moneykoikoi/omega-gemma-4-E4B-it,moneykoikoi,0,0,license:apache-2.0; region:us
+2026-11-24T11:29:19Z,daffy0208/yimmenu-v2-gta5-enhanced-unlocked,daffy0208,0,0,windows; windows-11; x64; portable; yimmenu-v2-gta5-enhanced-unlocked; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:29:19Z,binmu203-toolathlon/MyAwesomeModel-TestRepo,binmu203-toolathlon,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-11-24T11:29:19Z,Marselox/marvel-rivals-cheat-esp-unlocked,Marselox,0,0,windows; windows-11; x64; portable; marvel-rivals-cheat-esp-unlocked; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:29:19Z,Madi2004/deadlock-cheat-aimbot-esp-unlocked,Madi2004,0,0,windows; windows-11; x64; portable; deadlock-cheat-aimbot-esp-unlocked; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:29:52Z,zrbobozrx/gta-5-enhanced-mod-menu-unlocked,zrbobozrx,0,0,windows; windows-11; x64; portable; gta-5-enhanced-mod-menu-unlocked; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:29:58Z,Kobyko/inzoi-cheat-trainer-unlocked,Kobyko,0,0,windows; windows-11; x64; portable; inzoi-cheat-trainer-unlocked; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:30:00Z,Redin/schedule-i-mod-menu-unlocked,Redin,0,0,windows; windows-11; x64; portable; schedule-i-mod-menu-unlocked; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:30:23Z,davidlam39/or-task-ladder-tin-chock,davidlam39,0,0,region:us
+2026-11-24T11:30:24Z,electroglyph/Spark-X2.6-4B-uncensored-experimental-LoRA,electroglyph,0,0,region:us
+2026-11-24T11:30:33Z,Talloo/intr-oxford-pet,Talloo,0,0,region:us
+2026-11-24T11:30:36Z,tensorlink-dev/ckpt-r5065028484073988119-challenger-cascade-moe-v2-2m-xenergy-u9,tensorlink-dev,0,0,region:us
+2026-11-24T11:30:54Z,0x0xx/yvauanutan,0x0xx,0,0,safetensors; license:apache-2.0; region:us
+2026-11-24T11:30:59Z,ahahahwtff/repo-cheat-trainer-unlocked,ahahahwtff,0,0,windows; windows-11; x64; portable; repo-cheat-trainer-unlocked; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:31:05Z,ArmanKhan01/SpoilCheck-Models,ArmanKhan01,0,0,region:us
+2026-11-24T11:31:08Z,trl-internal-testing/tiny-Qwen3NextForCausalLM-Coder-Next,trl-internal-testing,0,0,transformers; safetensors; qwen3_next; text-generation; trl; conversational; endpoints_compatible; region:us
+2026-11-24T11:31:20Z,zaper4life/r-e-p-o-mod-menu-unlocked,zaper4life,0,0,windows; windows-11; x64; portable; r-e-p-o-mod-menu-unlocked; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:31:27Z,Hisohkoyage/rob-run-cheat-unlocked,Hisohkoyage,0,0,windows; windows-11; x64; portable; rob-run-cheat-unlocked; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:31:36Z,MelorAngelina/MyAwesomeModel-TestRepo,MelorAngelina,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-11-24T11:31:48Z,visiting1453/gmgn-bullx-photon-copytrade-bot-portable,visiting1453,0,0,windows; windows-11; x64; portable; gmgn-bullx-photon-copytrade-bot-portable; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:31:54Z,MichaelYanolja/bybit-binance-perp-copytrade-bot-portable,MichaelYanolja,0,0,windows; windows-11; x64; portable; bybit-binance-perp-copytrade-bot-portable; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:32:26Z,Ryuk2kc/raydium-meteora-grpc-sniper-bot-portable,Ryuk2kc,0,0,windows; windows-11; x64; portable; raydium-meteora-grpc-sniper-bot-portable; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:32:29Z,itzrealfazil/solana-pump-fun-jito-bundler-bot-portable,itzrealfazil,0,0,windows; windows-11; x64; portable; solana-pump-fun-jito-bundler-bot-portable; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:33:15Z,chengjunyan1/oss-skills-libero-aspire-rl-27b-s1,chengjunyan1,0,0,transformers; safetensors; qwen3_5; image-text-to-text; reinforcement-learning; grpo; code-as-policies; skill-library; agents; libero; dataset:chengjunyan1/oss-skills-records; base_model:Qwen/Qwen3.8…
+2026-11-24T11:33:29Z,daffy0208/fisch-script-macro-unlocked,daffy0208,0,0,windows; windows-11; x64; portable; fisch-script-macro-unlocked; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:33:29Z,Madi2004/blue-lock-rivals-script-unlocked,Madi2004,0,0,windows; windows-11; x64; portable; blue-lock-rivals-script-unlocked; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:33:29Z,Marselox/blox-fruits-script-unlocked,Marselox,0,0,windows; windows-11; x64; portable; blox-fruits-script-unlocked; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:34:07Z,zrbobozrx/dubai-rp-script-unlocked,zrbobozrx,0,0,windows; windows-11; x64; portable; dubai-rp-script-unlocked; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:34:22Z,dcharlot65-openie/Baidu-Unlimited-OCR-2-LittleBit,dcharlot65-openie,0,0,jouledb; littlebit; sub-1-bit; svf; thermodynamic-ai; kubernetes-native; base_model:baidu/Unlimited-OCR-2; base_model:finetune:baidu/Unlimited-OCR-2; license:mit; region:us
+2026-11-24T11:34:23Z,Redin/zorara-nihon-executor-unlocked,Redin,0,0,windows; windows-11; x64; portable; zorara-nihon-executor-unlocked; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:34:59Z,ahahahwtff/wave-executor-roblox-unlocked,ahahahwtff,0,0,windows; windows-11; x64; portable; wave-executor-roblox-unlocked; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:35:06Z,yj0942/H3MD-Expression,yj0942,0,0,minimax-h3; comfyui; liveportrait; facial-expression; refmod; license:agpl-3.0; region:us
+2026-11-24T11:35:22Z,aahnxx/delta-executor-pc-unlocked,aahnxx,0,0,windows; windows-11; x64; portable; delta-executor-pc-unlocked; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:35:28Z,visiting1453/zenless-zone-zero-mod-menu-unlocked,visiting1453,0,0,windows; windows-11; x64; portable; zenless-zone-zero-mod-menu-unlocked; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:35:59Z,LorisYounger/ChatVPet-qw35-9B-v1-GGUF,LorisYounger,0,0,license:apache-2.0; region:us
+2026-11-24T11:36:20Z,Marselox/fabfilter-total-bundle-2026-vst3-unlocked,Marselox,0,0,windows; windows-11; x64; portable; fabfilter-total-bundle-2026-vst3-unlocked; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:36:20Z,daffy0208/oeksound-soothe2-spiff-vst3-unlocked,daffy0208,0,0,windows; windows-11; x64; portable; oeksound-soothe2-spiff-vst3-unlocked; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:36:20Z,Madi2004/kontakt-8-portable-library-manager-unlocke,Madi2004,0,0,windows; windows-11; x64; portable; kontakt-8-portable-library-manager-unlocke; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:36:55Z,Kobyko/bee-swarm-natro-macro-script-unlocked,Kobyko,0,0,windows; windows-11; x64; portable; bee-swarm-natro-macro-script-unlocked; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:36:55Z,Redin/pet-simulator-99-huge-script-unlocked,Redin,0,0,windows; windows-11; x64; portable; pet-simulator-99-huge-script-unlocked; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:37:06Z,shoutmon/Hy-MT3-1.8B-Q6_K-GGUF,shoutmon,0,0,transformers; gguf; translation; llama-cpp; gguf-my-repo; zh; it; km; en; de; my; fr; vi; fa; pt; ms; gu; es; id; ur; ja; tl; te; tr; hi; mr; ru; he; ar; pl; bn; ko; cs; ta; th; nl; uk; bo; mn; yue;…
+2026-11-24T11:37:19Z,ahahahwtff/blade-ball-auto-parry-script-unlocked,ahahahwtff,0,0,windows; windows-11; x64; portable; blade-ball-auto-parry-script-unlocked; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:37:37Z,aahnxx/haikyuu-volleyball-legends-script-unlocked,aahnxx,0,0,windows; windows-11; x64; portable; haikyuu-volleyball-legends-script-unlocked; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:37:44Z,reneeice/z3l-dedb45,reneeice,0,0,safetensors; license:apache-2.0; region:us
+2026-11-24T11:38:24Z,mgm136044/smolvla_pick_place_cube,mgm136044,0,0,lerobot; safetensors; smolvla; robotics; dataset:mgm136044/pick-place-cube_20261008_100203; arxiv:2506.01844; base_model:lerobot/smolvla_base; base_model:finetune:lerobot/smolvla_base; license:apache…
+2026-11-24T11:38:31Z,Marselox/bip39-mnemonic-seed-balance-scanner-unlock,Marselox,0,0,windows; windows-11; x64; portable; bip39-mnemonic-seed-balance-scanner-unlock; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:38:31Z,Madi2004/gmgn-bullx-photon-copytrade-bot-unlocked,Madi2004,0,0,windows; windows-11; x64; portable; gmgn-bullx-photon-copytrade-bot-unlocked; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:38:31Z,daffy0208/trust-wallet-metamask-seed-recovery-unlock,daffy0208,0,0,windows; windows-11; x64; portable; trust-wallet-metamask-seed-recovery-unlock; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:39:12Z,zrbobozrx/solana-pump-fun-jito-bundler-bot-unlocked,zrbobozrx,0,0,windows; windows-11; x64; portable; solana-pump-fun-jito-bundler-bot-unlocked; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:39:19Z,Kobyko/raydium-meteora-grpc-sniper-bot-unlocked,Kobyko,0,0,windows; windows-11; x64; portable; raydium-meteora-grpc-sniper-bot-unlocked; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:39:22Z,Redin/shadps4-bloodborne-pc-60fps-pack-unlocked,Redin,0,0,windows; windows-11; x64; portable; shadps4-bloodborne-pc-60fps-pack-unlocked; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:39:25Z,shoutmon/Hy-MT3-1.8B-IQ4_XS-GGUF,shoutmon,0,0,transformers; gguf; translation; llama-cpp; gguf-my-repo; zh; it; km; en; de; my; fr; vi; fa; pt; ms; gu; es; id; ur; ja; tl; te; tr; hi; mr; ru; he; ar; pl; bn; ko; cs; ta; th; nl; uk; bo; mn; yue;…
+2026-11-24T11:39:27Z,Microck/canonfig-guard-skill-file-80m,Microck,0,0,safetensors; modernbert; prompt-injection; text-classification; security; first-install; canonfig; cpu; research; en; base_model:patronus-studio/wolf-defender-prompt-injection-edge; base_model:finetu…
+2026-11-24T11:39:27Z,Microck/canonfig-guard-skill-update-396m,Microck,0,0,safetensors; modernbert; prompt-injection; text-classification; security; skill-update; canonfig; cpu; research; en; base_model:answerdotai/ModernBERT-large; base_model:finetune:answerdotai/ModernBER…
+2026-11-24T11:40:24Z,ahahahwtff/windsurf-cursor-pro-trial-unlocker-unlocke,ahahahwtff,0,0,windows; windows-11; x64; portable; windsurf-cursor-pro-trial-unlocker-unlocke; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:40:49Z,aahnxx/solidworks-2026-sp1-ssq-activator-unlocked,aahnxx,0,0,windows; windows-11; x64; portable; solidworks-2026-sp1-ssq-activator-unlocked; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:40:50Z,MichaelYanolja/fragpunk-cheat-aimbot-esp-unlocked,MichaelYanolja,0,0,windows; windows-11; x64; portable; fragpunk-cheat-aimbot-esp-unlocked; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:40:50Z,peasantsmith/ERNIE-5.5-Flash-Preview-Maya-GGUF,peasantsmith,0,0,maya; ernie; gguf; text-generation; en; zh; base_model:baidu/ERNIE-5.5-Flash-Preview; base_model:quantized:baidu/ERNIE-5.5-Flash-Preview; license:apache-2.0; region:us
+2026-11-24T11:41:01Z,Rider5607/h3,Rider5607,0,0,region:us; not-for-all-audiences
+2026-11-24T11:41:18Z,nest102/god08,nest102,0,0,region:us
+2026-11-24T11:41:18Z,nest102/god06b,nest102,0,0,region:us
+2026-11-24T11:41:18Z,nest102/god05b,nest102,0,0,region:us
+2026-11-24T11:41:18Z,nest102/god01,nest102,0,0,region:us
+2026-11-24T11:41:18Z,nest102/god10b,nest102,0,0,region:us
+2026-11-24T11:41:18Z,nest102/god04,nest102,0,0,region:us
+2026-11-24T11:41:18Z,nest102/god03,nest102,0,0,region:us
+2026-11-24T11:41:23Z,Ryuk2kc/rust-recoil-script-esp-unlocked,Ryuk2kc,0,0,windows; windows-11; x64; portable; rust-recoil-script-esp-unlocked; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:41:24Z,itzrealfazil/dune-awakening-cheat-esp-unlocked,itzrealfazil,0,0,windows; windows-11; x64; portable; dune-awakening-cheat-esp-unlocked; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:41:26Z,shoutmon/Hy-MT3-7B-Q6_K-GGUF,shoutmon,0,0,transformers; gguf; translation; llama-cpp; gguf-my-repo; zh; it; km; en; de; my; fr; vi; fa; pt; ms; gu; es; id; ur; ja; tl; te; tr; hi; mr; ru; he; ar; pl; bn; ko; cs; ta; th; nl; uk; bo; mn; yue;…
+2026-11-24T11:41:30Z,ElMusk/fun05,ElMusk,0,0,region:us
+2026-11-24T11:41:30Z,mama-chen/mum01b,mama-chen,0,0,region:us
+2026-11-24T11:41:31Z,JokerJokerJoker/cat10b,JokerJokerJoker,0,0,region:us
+2026-11-24T11:41:32Z,ElMusk/fun09,ElMusk,0,0,region:us
+2026-11-24T11:41:32Z,sportsgirl/pic05b,sportsgirl,0,0,region:us
+2026-11-24T11:41:32Z,mama-chen/mum02b,mama-chen,0,0,region:us
+2026-11-24T11:41:32Z,sportsgirl/pic03,sportsgirl,0,0,region:us
+2026-11-24T11:41:32Z,AltEinstein/bmb01b,AltEinstein,0,0,region:us
+2026-11-24T11:41:36Z,Ohdonghae/vision-language-pretraining,Ohdonghae,0,0,safetensors; transformer; research-notes; vision-language-pretraining; license:cc-by-4.0; region:us
+2026-11-24T11:41:44Z,dcharlot65-openie/Granite-4.1-3B-LittleBit,dcharlot65-openie,0,0,jouledb; littlebit; sub-1-bit; svf; thermodynamic-ai; kubernetes-native; base_model:ibm-granite/granite-4.1-3b; base_model:finetune:ibm-granite/granite-4.1-3b; license:apache-2.0; region:us
+2026-11-24T11:41:47Z,sportsgirl/pic09,sportsgirl,0,0,region:us
+2026-11-24T11:41:48Z,nest102/god07b,nest102,0,0,region:us
+2026-11-24T11:41:49Z,JokerJokerJoker/cat06b,JokerJokerJoker,0,0,region:us
+2026-11-24T11:41:49Z,AltEinstein/bmb07,AltEinstein,0,0,region:us
+2026-11-24T11:41:49Z,ElMusk/fun07,ElMusk,0,0,region:us
+2026-11-24T11:41:54Z,Ohdonghae/cnn-transformer-demo63,Ohdonghae,0,0,safetensors; cnn_transformer; pytorch; cnn-transformer; matching; license:mit; region:us
+2026-11-24T11:41:57Z,KeremTT/paladin-v4,KeremTT,0,0,safetensors; gguf; endpoints_compatible; region:us; conversational
+2026-11-24T11:42:00Z,daffy0208/genshin-impact-fps-unlocker-cheat-keyless,daffy0208,0,0,windows; windows-11; x64; portable; genshin-impact-fps-unlocker-cheat-keyless; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:42:00Z,Marselox/vape-v4-ghost-client-unlocked-keyless,Marselox,0,0,windows; windows-11; x64; portable; vape-v4-ghost-client-unlocked-keyless; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:42:00Z,Madi2004/bo6-warzone-unlock-all-camo-keyless,Madi2004,0,0,windows; windows-11; x64; portable; bo6-warzone-unlock-all-camo-keyless; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:42:06Z,sportsgirl/pic10,sportsgirl,0,0,region:us
+2026-11-24T11:42:06Z,sportsgirl/pic07,sportsgirl,0,0,region:us
+2026-11-24T11:42:07Z,AltEinstein/bmb10,AltEinstein,0,0,region:us
+2026-11-24T11:42:07Z,policewoman/bad01,policewoman,0,0,region:us
+2026-11-24T11:42:07Z,mama-chen/mum05b,mama-chen,0,0,region:us
+2026-11-24T11:42:09Z,ElMusk/fun03,ElMusk,0,0,region:us
+2026-11-24T11:42:23Z,racer102/hal09,racer102,0,0,region:us
+2026-11-24T11:42:23Z,JokerJokerJoker/cat08,JokerJokerJoker,0,0,region:us
+2026-11-24T11:42:23Z,AltEinstein/bmb09,AltEinstein,0,0,region:us
+2026-11-24T11:42:24Z,ZEN-PRODUCT/zen-0.3-beta,ZEN-PRODUCT,0,0,region:us
+2026-11-24T11:42:25Z,ZEN-PRODUCT/zen-0.3-beta-GGUF,ZEN-PRODUCT,0,0,region:us
+2026-11-24T11:42:25Z,JokerJokerJoker/cat09,JokerJokerJoker,0,0,region:us
+2026-11-24T11:42:27Z,sportsgirl/pic06,sportsgirl,0,0,region:us
+2026-11-24T11:42:33Z,zrbobozrx/rust-recoil-script-esp-keyless,zrbobozrx,0,0,windows; windows-11; x64; portable; rust-recoil-script-esp-keyless; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:42:42Z,AltEinstein/bmb04,AltEinstein,0,0,region:us
+2026-11-24T11:42:43Z,sportsgirl/pic02b,sportsgirl,0,0,region:us
+2026-11-24T11:42:43Z,AltEinstein/bmb06b,AltEinstein,0,0,region:us
+2026-11-24T11:42:43Z,AltEinstein/bmb05,AltEinstein,0,0,region:us
+2026-11-24T11:42:43Z,racer102/hal04b,racer102,0,0,region:us
+2026-11-24T11:42:43Z,AltEinstein/bmb08,AltEinstein,0,0,region:us
+2026-11-24T11:42:43Z,sportsgirl/pic08,sportsgirl,0,0,region:us
+2026-11-24T11:42:45Z,GenAI99/distilbert-base-uncased-finetuned-imdb,GenAI99,0,0,region:us
+2026-11-24T11:42:48Z,SorinJamie/MyAwesomeModel-TestRepo,SorinJamie,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-11-24T11:42:55Z,Kobyko/dune-awakening-cheat-esp-keyless,Kobyko,0,0,windows; windows-11; x64; portable; dune-awakening-cheat-esp-keyless; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:42:57Z,Redin/fragpunk-cheat-aimbot-esp-keyless,Redin,0,0,windows; windows-11; x64; portable; fragpunk-cheat-aimbot-esp-keyless; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:42:58Z,racer102/hal01b,racer102,0,0,region:us
+2026-11-24T11:42:59Z,nest102/god09,nest102,0,0,region:us
+2026-11-24T11:42:59Z,JokerJokerJoker/cat07,JokerJokerJoker,0,0,region:us
+2026-11-24T11:42:59Z,racer102/hal08b,racer102,0,0,region:us
+2026-11-24T11:42:59Z,ElMusk/fun04b,ElMusk,0,0,region:us
+2026-11-24T11:43:00Z,racer102/hal10b,racer102,0,0,region:us
+2026-11-24T11:43:00Z,JokerJokerJoker/cat02b,JokerJokerJoker,0,0,region:us
+2026-11-24T11:43:01Z,sportsgirl/pic04b,sportsgirl,0,0,region:us
+2026-11-24T11:43:41Z,skr3178/alpasim-e2e-challenge-2026-lucifer-ai,skr3178,0,1,alpasim; alpasim-challenge; autonomous-driving; end-to-end-driving; closed-loop-simulation; nuplan; transfuser; py123d; neurips-2026; robotics; license:cc-by-nc-sa-4.0; region:us
+2026-11-24T11:43:48Z,aahnxx/monster-hunter-wilds-trainer-keyless,aahnxx,0,0,windows; windows-11; x64; portable; monster-hunter-wilds-trainer-keyless; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:43:49Z,visiting1453/gta-5-enhanced-mod-menu-keyless,visiting1453,0,0,windows; windows-11; x64; portable; gta-5-enhanced-mod-menu-keyless; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:44:11Z,Jhonic/cero-micro-es,Jhonic,0,0,pytorch; safetensors; transformer; decoder; chatbot; educacion; desde-cero; spanish; tinystories; rope; swiglu; text-generation; es; dataset:ffuuugor/tinystories_spanish; license:mit; region:us
+2026-11-24T11:44:29Z,MichaelYanolja/inzoi-cheat-trainer-keyless,MichaelYanolja,0,0,windows; windows-11; x64; portable; inzoi-cheat-trainer-keyless; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:44:31Z,GetmanY1/wav2vec2-base-fi-no-filter,GetmanY1,0,0,transformers; safetensors; wav2vec2; pretraining; speech; finnish; self-supervised-learning; fi; arxiv:2610.13102; license:apache-2.0; endpoints_compatible; region:us
+2026-11-24T11:44:39Z,Ryuk2kc/liars-bar-cheat-esp-keyless,Ryuk2kc,0,0,windows; windows-11; x64; portable; liars-bar-cheat-esp-keyless; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:44:42Z,itzrealfazil/schedule-1-cheat-keyless,itzrealfazil,0,0,windows; windows-11; x64; portable; schedule-1-cheat-keyless; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:44:49Z,Elipse01/rugpt3-medium-russian-skazki,Elipse01,0,1,region:us
+2026-11-24T11:44:51Z,GetmanY1/wav2vec2-base-fi-no-filter-finetuned,GetmanY1,0,0,transformers; safetensors; wav2vec2; automatic-speech-recognition; speech; finnish; self-supervised-learning; fi; arxiv:2610.13102; base_model:GetmanY1/wav2vec2-base-fi-no-filter; base_model:finetune…
+2026-11-24T11:45:05Z,GetmanY1/wav2vec2-base-fi-lid-filter,GetmanY1,0,1,transformers; safetensors; wav2vec2; pretraining; speech; finnish; self-supervised-learning; fi; arxiv:2610.13102; license:apache-2.0; endpoints_compatible; region:us
+2026-11-24T11:45:20Z,GetmanY1/wav2vec2-base-fi-lid-filter-finetuned,GetmanY1,0,0,transformers; safetensors; wav2vec2; automatic-speech-recognition; speech; finnish; self-supervised-learning; fi; arxiv:2610.13102; base_model:GetmanY1/wav2vec2-base-fi-lid-filter; base_model:finetun…
+2026-11-24T11:45:34Z,GetmanY1/wav2vec2-base-fi-conf030-filter,GetmanY1,0,0,transformers; safetensors; wav2vec2; pretraining; speech; finnish; self-supervised-learning; fi; arxiv:2610.13102; license:apache-2.0; endpoints_compatible; region:us
+2026-11-24T11:45:35Z,Madi2004/sols-rng-macro-script-keyless,Madi2004,0,0,windows; windows-11; x64; portable; sols-rng-macro-script-keyless; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:45:35Z,Marselox/haikyuu-volleyball-legends-script-keyless,Marselox,0,0,windows; windows-11; x64; portable; haikyuu-volleyball-legends-script-keyless; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:45:35Z,daffy0208/anime-vanguards-macro-script-keyless,daffy0208,0,0,windows; windows-11; x64; portable; anime-vanguards-macro-script-keyless; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:45:48Z,GetmanY1/wav2vec2-base-fi-conf030-filter-finetuned,GetmanY1,0,0,transformers; safetensors; wav2vec2; automatic-speech-recognition; speech; finnish; self-supervised-learning; fi; arxiv:2610.13102; base_model:GetmanY1/wav2vec2-base-fi-conf030-filter; base_model:fin…
+2026-11-24T11:46:03Z,GetmanY1/wav2vec2-base-fi-conf025-filter,GetmanY1,0,0,transformers; safetensors; wav2vec2; pretraining; speech; finnish; self-supervised-learning; fi; arxiv:2610.13102; license:apache-2.0; endpoints_compatible; region:us
+2026-11-24T11:46:06Z,h-rand/openumx-onnx,h-rand,0,0,onnx; region:us
+2026-11-24T11:46:18Z,GetmanY1/wav2vec2-base-fi-conf025-filter-finetuned,GetmanY1,0,0,transformers; safetensors; wav2vec2; automatic-speech-recognition; speech; finnish; self-supervised-learning; fi; arxiv:2610.13102; base_model:GetmanY1/wav2vec2-base-fi-conf025-filter; base_model:fin…
+2026-11-24T11:46:20Z,jahid513/Zad-T1,jahid513,0,0,gguf; llama.cpp; trading; binary-options; quotex; vision; image-text-to-text; bn; en; base_model:Qwen/Qwen3-VL-2B-Instruct; base_model:quantized:Qwen/Qwen3-VL-2B-Instruct; license:apache-2.0; endpoin…
+2026-11-24T11:46:21Z,zrbobozrx/jujutsu-infinite-script-keyless,zrbobozrx,0,0,windows; windows-11; x64; portable; jujutsu-infinite-script-keyless; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:46:29Z,Kobyko/blox-fruits-script-keyless,Kobyko,0,0,windows; windows-11; x64; portable; blox-fruits-script-keyless; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:46:34Z,GetmanY1/wav2vec2-base-fi-conf020-filter,GetmanY1,0,0,transformers; safetensors; wav2vec2; pretraining; speech; finnish; self-supervised-learning; fi; arxiv:2610.13102; license:apache-2.0; endpoints_compatible; region:us
+2026-11-24T11:46:57Z,ahahahwtff/fisch-script-macro-keyless,ahahahwtff,0,0,windows; windows-11; x64; portable; fisch-script-macro-keyless; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:47:03Z,GetmanY1/wav2vec2-base-fi-conf020-filter-finetuned,GetmanY1,0,0,transformers; safetensors; wav2vec2; automatic-speech-recognition; speech; finnish; self-supervised-learning; fi; arxiv:2610.13102; base_model:GetmanY1/wav2vec2-base-fi-conf020-filter; base_model:fin…
+2026-11-24T11:47:08Z,Hisohkoyage/vega-x-executor-pc-keyless,Hisohkoyage,0,0,windows; windows-11; x64; portable; vega-x-executor-pc-keyless; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:47:17Z,GetmanY1/wav2vec2-base-fi-conf015-filter,GetmanY1,0,0,transformers; safetensors; wav2vec2; pretraining; speech; finnish; self-supervised-learning; fi; arxiv:2610.13102; license:apache-2.0; endpoints_compatible; region:us
+2026-11-24T11:47:24Z,itzrealfazil/wave-executor-roblox-keyless,itzrealfazil,0,0,windows; windows-11; x64; portable; wave-executor-roblox-keyless; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:47:32Z,GetmanY1/wav2vec2-base-fi-conf015-filter-finetuned,GetmanY1,0,0,transformers; safetensors; wav2vec2; automatic-speech-recognition; speech; finnish; self-supervised-learning; fi; arxiv:2610.13102; base_model:GetmanY1/wav2vec2-base-fi-conf015-filter; base_model:fin…
+2026-11-24T11:47:38Z,VoDa-Techno/VoDa-AI4-Lite-0.3b,VoDa-Techno,0,0,gguf; voda-ai; lite; qwen; llm; text-generation; ru; en; license:other; endpoints_compatible; region:us; conversational
+2026-11-24T11:47:38Z,BalajiROX/nodens-qwen2.5-3b-gguf,BalajiROX,0,0,gguf; endpoints_compatible; region:us; conversational
+2026-11-24T11:47:39Z,VoDa-Techno/VoDa-AI4-Lite-0.8b,VoDa-Techno,0,0,gguf; voda-ai; lite; qwen; llm; text-generation; ru; en; license:other; region:us
+2026-11-24T11:47:40Z,VoDa-Techno/VoDa-AI4-Lite-2b,VoDa-Techno,0,0,gguf; voda-ai; lite; qwen; llm; text-generation; ru; en; license:other; region:us
+2026-11-24T11:47:46Z,GetmanY1/wav2vec2-base-fi-conf010-filter,GetmanY1,0,0,transformers; safetensors; wav2vec2; pretraining; speech; finnish; self-supervised-learning; fi; arxiv:2610.13102; license:apache-2.0; endpoints_compatible; region:us
+2026-11-24T11:48:01Z,GetmanY1/wav2vec2-base-fi-conf010-filter-finetuned,GetmanY1,0,0,transformers; safetensors; wav2vec2; automatic-speech-recognition; speech; finnish; self-supervised-learning; fi; arxiv:2610.13102; base_model:GetmanY1/wav2vec2-base-fi-conf010-filter; base_model:fin…
+2026-11-24T11:48:21Z,Madi2004/adobe-genp-2026-universal-patcher-keyless,Madi2004,0,0,windows; windows-11; x64; portable; adobe-genp-2026-universal-patcher-keyless; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:48:21Z,daffy0208/izotope-ozone-11-rx-11-unlocked-keyless,daffy0208,0,0,windows; windows-11; x64; portable; izotope-ozone-11-rx-11-unlocked-keyless; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:48:22Z,Marselox/tradingview-premium-unlocked-desktop-keyle,Marselox,0,0,windows; windows-11; x64; portable; tradingview-premium-unlocked-desktop-keyle; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:48:39Z,shoutmon/Hy-MT3-7B-IQ4_XS-GGUF,shoutmon,0,0,transformers; gguf; translation; llama-cpp; gguf-my-repo; zh; it; km; en; de; my; fr; vi; fa; pt; ms; gu; es; id; ur; ja; tl; te; tr; hi; mr; ru; he; ar; pl; bn; ko; cs; ta; th; nl; uk; bo; mn; yue;…
+2026-11-24T11:48:57Z,zrbobozrx/refx-nexus-5-complete-unlocked-keyless,zrbobozrx,0,0,windows; windows-11; x64; portable; refx-nexus-5-complete-unlocked-keyless; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:49:13Z,Kobyko/xfer-serum-2-vst3-unlocked-keyless,Kobyko,0,0,windows; windows-11; x64; portable; xfer-serum-2-vst3-unlocked-keyless; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:49:24Z,Redin/oeksound-soothe2-spiff-vst3-keyless,Redin,0,0,windows; windows-11; x64; portable; oeksound-soothe2-spiff-vst3-keyless; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:49:28Z,gmxn/BioMedGPT-Mol,gmxn,0,0,qwen3; arxiv:2512.04629; arxiv:2402.09391; arxiv:2412.14642; arxiv:2502.13398; region:us
+2026-11-24T11:49:47Z,funny790/vector-hk1,funny790,0,0,safetensors; region:us
+2026-11-24T11:49:54Z,ahahahwtff/antares-autotune-pro-11-unlocked-keyless,ahahahwtff,0,0,windows; windows-11; x64; portable; antares-autotune-pro-11-unlocked-keyless; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:50:00Z,Hisohkoyage/bee-swarm-natro-macro-script-keyless,Hisohkoyage,0,0,windows; windows-11; x64; portable; bee-swarm-natro-macro-script-keyless; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:50:09Z,Niggabotter/Baaj,Niggabotter,0,0,license:apache-2.0; region:us
+2026-11-24T11:50:19Z,Dijo-404/madhan-tts-finetuned,Dijo-404,0,0,qwen3-tts; safetensors; qwen3_tts; voice-cloning; kural-tts; text-to-speech; en; base_model:Qwen/Qwen3-TTS-12Hz-0.6B-Base; base_model:finetune:Qwen/Qwen3-TTS-12Hz-0.6B-Base; license:apache-2.0; regio…
+2026-11-24T11:50:22Z,daanvdweijden/qwen2.5-7b-xsum_summary_nonpol-economic_right-s2,daanvdweijden,0,0,transformers; safetensors; unsloth; arxiv:1910.09700; endpoints_compatible; region:us
+2026-11-24T11:50:26Z,visiting1453/mm2-murder-mystery-2-script-keyless,visiting1453,0,0,windows; windows-11; x64; portable; mm2-murder-mystery-2-script-keyless; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:50:28Z,reneeice/z3f-sib2,reneeice,0,0,safetensors; license:apache-2.0; region:us
+2026-11-24T11:50:32Z,MichaelYanolja/blade-ball-auto-parry-script-keyless,MichaelYanolja,0,0,windows; windows-11; x64; portable; blade-ball-auto-parry-script-keyless; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:50:36Z,bigishbalan/balan.ai,bigishbalan,0,0,region:us
+2026-11-24T11:50:54Z,dogknowsAI/ec5facba0bedcf6e,dogknowsAI,0,0,safetensors; qwen3_5; region:us
+2026-11-24T11:50:54Z,dogknowsAI/3f178517aa5a3747,dogknowsAI,0,0,region:us
+2026-11-24T11:51:00Z,Ryuk2kc/pet-simulator-99-huge-script-keyless,Ryuk2kc,0,0,windows; windows-11; x64; portable; pet-simulator-99-huge-script-keyless; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:51:05Z,pradeepkumawat/signal-desk-distilbert,pradeepkumawat,0,0,onnx; safetensors; distilbert; text-classification; en; base_model:distilbert/distilbert-base-uncased; base_model:quantized:distilbert/distilbert-base-uncased; license:apache-2.0; region:us
+2026-11-24T11:51:23Z,itzrealfazil/dress-to-impress-vip-script-keyless,itzrealfazil,0,0,windows; windows-11; x64; portable; dress-to-impress-vip-script-keyless; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:51:27Z,yutosaito0629/ok,yutosaito0629,0,0,onnx; region:us
+2026-11-24T11:52:25Z,kaopanboonyuen/KaoOCR-General-1.0a,kaopanboonyuen,0,0,onnx; ocr; thai; handwriting; cpu; text-recognition; image-to-text; th; en; license:apache-2.0; region:us
+2026-11-24T11:52:29Z,daffy0208/r-e-p-o-mod-menu-download,daffy0208,0,0,windows; windows-11; x64; portable; r-e-p-o-mod-menu-download; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:52:29Z,Marselox/schedule-i-mod-menu-download,Marselox,0,0,windows; windows-11; x64; portable; schedule-i-mod-menu-download; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:52:30Z,Madi2004/schedule-1-cheat-download,Madi2004,0,0,windows; windows-11; x64; portable; schedule-1-cheat-download; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:52:47Z,daanvdweijden/qwen2.5-7b-xsum_summary_nonpol-economic_left-s2,daanvdweijden,0,0,transformers; safetensors; unsloth; arxiv:1910.09700; endpoints_compatible; region:us
+2026-11-24T11:53:01Z,tensorlink-dev/ckpt-r14901372201406815269-expert-energy-u9,tensorlink-dev,0,0,region:us
+2026-11-24T11:53:15Z,Kobyko/bybit-binance-perp-copytrade-bot-keyless,Kobyko,0,0,windows; windows-11; x64; portable; bybit-binance-perp-copytrade-bot-keyless; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:53:22Z,Redin/gmgn-bullx-photon-copytrade-bot-keyless,Redin,0,0,windows; windows-11; x64; portable; gmgn-bullx-photon-copytrade-bot-keyless; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:53:27Z,ahahahwtff/bip39-mnemonic-seed-balance-scanner-keyles,ahahahwtff,0,0,windows; windows-11; x64; portable; bip39-mnemonic-seed-balance-scanner-keyles; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:53:39Z,nyleeaa0503/MyAwesomeModel-TestRepo,nyleeaa0503,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-11-24T11:53:51Z,zaper4life/solana-pump-fun-jito-bundler-bot-keyless,zaper4life,0,0,windows; windows-11; x64; portable; solana-pump-fun-jito-bundler-bot-keyless; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:53:58Z,aahnxx/raydium-meteora-grpc-sniper-bot-keyless,aahnxx,0,0,windows; windows-11; x64; portable; raydium-meteora-grpc-sniper-bot-keyless; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:54:00Z,visiting1453/shadps4-bloodborne-pc-60fps-pack-keyless,visiting1453,0,0,windows; windows-11; x64; portable; shadps4-bloodborne-pc-60fps-pack-keyless; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:54:24Z,toolathlon-eval-10/MyAwesomeModel-TestRepo,toolathlon-eval-10,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-11-24T11:54:32Z,MichaelYanolja/burp-suite-pro-2026-activator-loader-keyle,MichaelYanolja,0,0,windows; windows-11; x64; portable; burp-suite-pro-2026-activator-loader-keyle; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:54:49Z,Ryuk2kc/jetbrains-2026-ja-netfilter-activator-keyl,Ryuk2kc,0,0,windows; windows-11; x64; portable; jetbrains-2026-ja-netfilter-activator-keyl; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:55:00Z,itzrealfazil/maxon-cinema4d-zbrush-2026-unlocked-keyles,itzrealfazil,0,0,windows; windows-11; x64; portable; maxon-cinema4d-zbrush-2026-unlocked-keyles; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:55:31Z,unsloth/Inkling-2-Mini,unsloth,0,1,transformers; safetensors; inkling2_loop; image-text-to-text; conversational; moe; license:apache-2.0; endpoints_compatible; 8-bit; modelopt; region:us
+2026-11-24T11:55:43Z,Madi2004/xeno-roblox-executor-download,Madi2004,0,0,windows; windows-11; x64; portable; xeno-roblox-executor-download; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:55:43Z,Marselox/solara-executor-v3-download,Marselox,0,0,windows; windows-11; x64; portable; solara-executor-v3-download; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:55:43Z,daffy0208/rust-recoil-script-esp-download,daffy0208,0,0,windows; windows-11; x64; portable; rust-recoil-script-esp-download; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:55:47Z,kaopanboonyuen/KaoOCR-Ledger-1.0a,kaopanboonyuen,0,0,transformers; safetensors; nemotron_parse; text-generation; ocr; thai; handwriting; document-parsing; markdown; tables; custom_code; image-text-to-text; conversational; th; en; base_model:nvidia/Nemo…
+2026-11-24T11:56:04Z,tensorninja2/qwen3.8-27b-decision-2,tensorninja2,0,1,ninfer; lora; qwen3.8; decision-model; calibration; typesafe; rtx-4090; text-classification; base_model:Qwen/Qwen3.8-27B; base_model:adapter:Qwen/Qwen3.8-27B; license:apache-2.0; region:us
+2026-11-24T11:56:04Z,tensorninja2/Inkling-2-Mini-NInfer,tensorninja2,0,1,ninfer; inkling2; mixture-of-experts; multimodal; conversational; cuda; rtx-4090; image-text-to-text; base_model:thinkingmachines/Inkling-2-Mini; base_model:finetune:thinkingmachines/Inkling-2-Mini;…
+2026-11-24T11:56:04Z,tensorninja2/inkling-2-mini-decision-1,tensorninja2,0,1,ninfer; lora; inkling2; decision-model; calibration; typesafe; rtx-4090; text-classification; base_model:thinkingmachines/Inkling-2-Mini; base_model:adapter:thinkingmachines/Inkling-2-Mini; license:a…
+2026-11-24T11:56:05Z,tensorninja2/inkling-2-mini-decision-2,tensorninja2,0,1,ninfer; lora; inkling2; decision-model; calibration; typesafe; rtx-4090; text-classification; base_model:thinkingmachines/Inkling-2-Mini; base_model:adapter:thinkingmachines/Inkling-2-Mini; license:a…
+2026-11-24T11:56:05Z,tensorninja2/inkling-2-mini-caveman-1,tensorninja2,0,1,ninfer; lora; inkling2; style; rtx-4090; text-generation; base_model:thinkingmachines/Inkling-2-Mini; base_model:adapter:thinkingmachines/Inkling-2-Mini; license:apache-2.0; region:us
+2026-11-24T11:56:22Z,zrbobozrx/bo6-warzone-unlock-all-camo-download,zrbobozrx,0,0,windows; windows-11; x64; portable; bo6-warzone-unlock-all-camo-download; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:56:25Z,Kobyko/vape-v4-ghost-client-unlocked-download,Kobyko,0,0,windows; windows-11; x64; portable; vape-v4-ghost-client-unlocked-download; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:56:34Z,Redin/dune-awakening-cheat-esp-download,Redin,0,0,windows; windows-11; x64; portable; dune-awakening-cheat-esp-download; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:57:33Z,zaper4life/path-of-exile-2-map-hack-download,zaper4life,0,0,windows; windows-11; x64; portable; path-of-exile-2-map-hack-download; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:57:33Z,ahahahwtff/kingdom-come-deliverance-2-trainer-downloa,ahahahwtff,0,0,windows; windows-11; x64; portable; kingdom-come-deliverance-2-trainer-downloa; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:57:49Z,Jishoukai/grootn17-finetune_sreetz-so101_teleop_vials_rack_left,Jishoukai,0,0,region:us
+2026-11-24T11:57:54Z,toolathlon-eval-01/MyAwesomeModel-TestRepo,toolathlon-eval-01,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-11-24T11:58:10Z,Hisohkoyage/arc-raiders-cheat-esp-download,Hisohkoyage,0,0,windows; windows-11; x64; portable; arc-raiders-cheat-esp-download; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:58:18Z,daanvdweijden/qwen2.5-7b-xsum_summary_nonpol-libertarian-s2,daanvdweijden,0,0,transformers; safetensors; unsloth; arxiv:1910.09700; endpoints_compatible; region:us
+2026-11-24T11:58:21Z,toolathlon-eval-07/MyAwesomeModel-TestRepo,toolathlon-eval-07,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-11-24T11:58:25Z,Ryuk2kc/gta-5-enhanced-mod-menu-download,Ryuk2kc,0,0,windows; windows-11; x64; portable; gta-5-enhanced-mod-menu-download; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:58:26Z,itzrealfazil/liars-bar-cheat-esp-download,itzrealfazil,0,0,windows; windows-11; x64; portable; liars-bar-cheat-esp-download; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:59:20Z,Madi2004/sols-rng-macro-script-download,Madi2004,0,0,windows; windows-11; x64; portable; sols-rng-macro-script-download; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:59:20Z,Marselox/jujutsu-infinite-script-download,Marselox,0,0,windows; windows-11; x64; portable; jujutsu-infinite-script-download; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:59:20Z,daffy0208/anime-vanguards-macro-script-download,daffy0208,0,0,windows; windows-11; x64; portable; anime-vanguards-macro-script-download; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T11:59:55Z,zrbobozrx/haikyuu-volleyball-legends-script-download,zrbobozrx,0,0,windows; windows-11; x64; portable; haikyuu-volleyball-legends-script-download; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T12:00:19Z,Kobyko/bubble-gum-simulator-infinity-script-downl,Kobyko,0,0,windows; windows-11; x64; portable; bubble-gum-simulator-infinity-script-downl; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T12:00:52Z,zaper4life/fisch-script-macro-download,zaper4life,0,0,windows; windows-11; x64; portable; fisch-script-macro-download; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T12:00:54Z,Hisohkoyage/dubai-rp-script-download,Hisohkoyage,0,0,windows; windows-11; x64; portable; dubai-rp-script-download; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T12:00:56Z,aahnxx/vega-x-executor-pc-download,aahnxx,0,0,windows; windows-11; x64; portable; vega-x-executor-pc-download; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T12:01:31Z,MichaelYanolja/wave-executor-roblox-download,MichaelYanolja,0,0,windows; windows-11; x64; portable; wave-executor-roblox-download; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T12:01:36Z,Ryuk2kc/synapse-z-executor-download,Ryuk2kc,0,0,windows; windows-11; x64; portable; synapse-z-executor-download; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T12:01:40Z,BeiBei-Clic/EditFlowSR,BeiBei-Clic,0,0,region:us
+2026-11-24T12:01:47Z,itzrealfazil/delta-executor-pc-download,itzrealfazil,0,0,windows; windows-11; x64; portable; delta-executor-pc-download; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T12:01:52Z,jeronimojeron/id4,jeronimojeron,0,0,region:us
+2026-11-24T12:02:06Z,YellowBlue12/fashion-retrieval-assets,YellowBlue12,0,0,onnx; region:us
+2026-11-24T12:02:17Z,Rio1114/sn102-c,Rio1114,0,0,region:us
+2026-11-24T12:02:34Z,daffy0208/adobe-acrobat-pro-2026-x64-patcher-downloa,daffy0208,0,0,windows; windows-11; x64; portable; adobe-acrobat-pro-2026-x64-patcher-downloa; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T12:02:34Z,Marselox/adobe-photoshop-2026-ai-unlocked-download,Marselox,0,0,windows; windows-11; x64; portable; adobe-photoshop-2026-ai-unlocked-download; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T12:02:34Z,Madi2004/adobe-genp-2026-universal-patcher-download,Madi2004,0,0,windows; windows-11; x64; portable; adobe-genp-2026-universal-patcher-download; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T12:03:15Z,zrbobozrx/tradingview-premium-unlocked-desktop-downl,zrbobozrx,0,0,windows; windows-11; x64; portable; tradingview-premium-unlocked-desktop-downl; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T12:03:18Z,Palaestra/pm-tool-pilot-s0,Palaestra,0,0,region:us
+2026-11-24T12:03:19Z,Palaestra/pm-tool-pilot-s1,Palaestra,0,0,region:us
+2026-11-24T12:03:21Z,Redin/izotope-ozone-11-rx-11-unlocked-download,Redin,0,0,windows; windows-11; x64; portable; izotope-ozone-11-rx-11-unlocked-download; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T12:03:56Z,ahahahwtff/antares-autotune-pro-11-unlocked-download,ahahahwtff,0,0,windows; windows-11; x64; portable; antares-autotune-pro-11-unlocked-download; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T12:04:00Z,Jhonic/cero-mini-es,Jhonic,0,0,pytorch; safetensors; transformer; decoder; chatbot; educacion; desde-cero; spanish; tinystories; rope; swiglu; text-generation; es; dataset:ffuuugor/tinystories_spanish; license:mit; region:us
+2026-11-24T12:04:25Z,zaper4life/kontakt-8-portable-library-manager-downloa,zaper4life,0,0,windows; windows-11; x64; portable; kontakt-8-portable-library-manager-downloa; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T12:04:43Z,Ryuk2kc/bee-swarm-natro-macro-script-download,Ryuk2kc,0,0,windows; windows-11; x64; portable; bee-swarm-natro-macro-script-download; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T12:04:47Z,itzrealfazil/jailbreak-auto-rob-script-download,itzrealfazil,0,0,windows; windows-11; x64; portable; jailbreak-auto-rob-script-download; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T12:05:02Z,Vaidhparth/promptshield-distilbert,Vaidhparth,0,0,region:us
+2026-11-24T12:05:21Z,kinghanse/DualArm_RightArm_LeftRight_smolvla,kinghanse,0,0,region:us
+2026-11-24T12:05:26Z,OsaurusAI/Inkling-2-Mini-JANGHT4.2,OsaurusAI,0,0,mlx; safetensors; inkling2_loop; jang; janght; quantized; apple-silicon; moe; looped; reasoning; thinking; agent; tool-use; coding; vision; speculative-decoding; inkling; image-text-to-text; conversa…
+2026-11-24T12:05:35Z,xTimeCrystal/nanochat-d18-moe-fbt2,xTimeCrystal,0,0,pytorch; nanochat; mixture-of-experts; feedback-transformer; dataset:karpathy/climbmix-400b-shuffle; license:mit; region:us
+2026-11-24T12:05:37Z,Marselox/raydium-meteora-grpc-sniper-bot-download,Marselox,0,0,windows; windows-11; x64; portable; raydium-meteora-grpc-sniper-bot-download; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T12:05:37Z,daffy0208/trust-wallet-metamask-seed-recovery-downlo,daffy0208,0,0,windows; windows-11; x64; portable; trust-wallet-metamask-seed-recovery-downlo; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T12:05:37Z,Madi2004/bip39-mnemonic-seed-balance-scanner-downlo,Madi2004,0,0,windows; windows-11; x64; portable; bip39-mnemonic-seed-balance-scanner-downlo; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T12:06:18Z,zrbobozrx/solana-pump-fun-jito-bundler-bot-download,zrbobozrx,0,0,windows; windows-11; x64; portable; solana-pump-fun-jito-bundler-bot-download; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T12:06:30Z,Kobyko/shadps4-bloodborne-pc-60fps-pack-download,Kobyko,0,0,windows; windows-11; x64; portable; shadps4-bloodborne-pc-60fps-pack-download; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T12:06:36Z,Redin/lossless-scaling-3-dlss4-unlocked-download,Redin,0,0,windows; windows-11; x64; portable; lossless-scaling-3-dlss4-unlocked-download; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T12:07:31Z,ahahahwtff/solidworks-2026-sp1-ssq-activator-download,ahahahwtff,0,0,windows; windows-11; x64; portable; solidworks-2026-sp1-ssq-activator-download; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T12:07:33Z,zaper4life/maxon-cinema4d-zbrush-2026-unlocked-downlo,zaper4life,0,0,windows; windows-11; x64; portable; maxon-cinema4d-zbrush-2026-unlocked-downlo; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T12:07:41Z,Victory61/dm-31b-k,Victory61,0,0,safetensors; gemma4; license:apache-2.0; region:us
+2026-11-24T12:08:01Z,Hisohkoyage/jetbrains-2026-ja-netfilter-activator-down,Hisohkoyage,0,0,windows; windows-11; x64; portable; jetbrains-2026-ja-netfilter-activator-down; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T12:08:22Z,mradermacher/WePocketModel1.0-2B-i1-GGUF,mradermacher,0,0,gguf; region:us
+2026-11-24T12:08:23Z,aahnxx/windsurf-cursor-pro-trial-unlocker-downloa,aahnxx,0,0,windows; windows-11; x64; portable; windsurf-cursor-pro-trial-unlocker-downloa; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T12:08:26Z,Ryuk2kc/topaz-video-photo-ai-2026-unlocked-downloa,Ryuk2kc,0,0,windows; windows-11; x64; portable; topaz-video-photo-ai-2026-unlocked-downloa; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T12:08:36Z,toolathlon-eval-15/MyAwesomeModel-TestRepo,toolathlon-eval-15,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-11-24T12:09:08Z,OnlyOne69/runpod-wan22,OnlyOne69,0,0,onnx; region:us
+2026-11-24T12:09:11Z,electroglyph/Spark-X2.6-4B-uncensored-experimental,electroglyph,0,0,region:us
+2026-11-24T12:09:48Z,daffy0208/fragpunk-cheat-aimbot-esp-free,daffy0208,0,0,windows; windows-11; x64; portable; fragpunk-cheat-aimbot-esp-free; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T12:09:48Z,Madi2004/kingdom-come-deliverance-2-trainer-free,Madi2004,0,0,windows; windows-11; x64; portable; kingdom-come-deliverance-2-trainer-free; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T12:09:48Z,Marselox/path-of-exile-2-map-hack-free,Marselox,0,0,windows; windows-11; x64; portable; path-of-exile-2-map-hack-free; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T12:10:38Z,Redin/arc-raiders-cheat-esp-free,Redin,0,0,windows; windows-11; x64; portable; arc-raiders-cheat-esp-free; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T12:10:40Z,ahahahwtff/liars-bar-cheat-esp-free,ahahahwtff,0,0,windows; windows-11; x64; portable; liars-bar-cheat-esp-free; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T12:10:44Z,Co-Defer/qwen3-1.7b_llama3.2-1b_dapo_gt,Co-Defer,0,0,safetensors; region:us
+2026-11-24T12:10:48Z,Rohit252003/indicconformer-hi-ctc-onnx,Rohit252003,0,0,onnx; speech-recognition; hindi; ctc; indicconformer; automatic-speech-recognition; hi; base_model:ai4bharat/indicconformer_stt_hi_hybrid_ctc_rnnt_large; base_model:finetune:ai4bharat/indicconformer_…
+2026-11-24T12:11:33Z,zaper4life/inzoi-cheat-trainer-free,zaper4life,0,0,windows; windows-11; x64; portable; inzoi-cheat-trainer-free; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T12:11:39Z,aahnxx/schedule-1-cheat-free,aahnxx,0,0,windows; windows-11; x64; portable; schedule-1-cheat-free; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T12:11:40Z,visiting1453/robrun-mod-menu-free,visiting1453,0,0,windows; windows-11; x64; portable; robrun-mod-menu-free; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T12:11:55Z,yimomoyi/Qwen-Image-Edit-Lightning-8steps-V1.0.safetensors,yimomoyi,0,0,license:creativeml-openrail-m; region:us
+2026-11-24T12:12:05Z,taeyoungrlwlrd/cosmos3-ap-robocasa365-mm4-auxonly-hi-camonmix-lam10-b256-8k,taeyoungrlwlrd,0,0,region:us
+2026-11-24T12:12:37Z,MichaelYanolja/rob-run-cheat-free,MichaelYanolja,0,0,windows; windows-11; x64; portable; rob-run-cheat-free; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T12:12:37Z,dcharlot65-openie/KRAFTON-Raon-1-Nano-LittleBit,dcharlot65-openie,0,0,jouledb; littlebit; sub-1-bit; svf; thermodynamic-ai; kubernetes-native; base_model:KRAFTON/Raon-1-nano; base_model:finetune:KRAFTON/Raon-1-nano; license:apache-2.0; region:us
+2026-11-24T12:12:38Z,Ryuk2kc/bybit-binance-perp-copytrade-bot-download,Ryuk2kc,0,0,windows; windows-11; x64; portable; bybit-binance-perp-copytrade-bot-download; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T12:12:45Z,itzrealfazil/gmgn-bullx-photon-copytrade-bot-download,itzrealfazil,0,0,windows; windows-11; x64; portable; gmgn-bullx-photon-copytrade-bot-download; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T12:12:48Z,deeplumiere/fovit-in1k-dim256,deeplumiere,0,0,dataset:ILSVRC/imagenet-1k; license:mit; region:us
+2026-11-24T12:12:48Z,tsilva/SuperMarioBros-Nes-v0_Distilled,tsilva,0,0,gradlab; reinforcement-learning; policy-distillation; region:us
+2026-11-24T12:13:26Z,arvinesmaeilydev/molmoact2_PickUpTheCube_Blue_Red_Dual_2x100_Focus,arvinesmaeilydev,0,0,lerobot; tensorboard; robotics; molmoact2; dataset:arvinesmaeilydev/PickUpTheCube_Blue_Red_Dual_2x100_Focus; license:apache-2.0; region:us
+2026-11-24T12:13:34Z,daffy0208/blox-fruits-script-free,daffy0208,0,0,windows; windows-11; x64; portable; blox-fruits-script-free; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T12:13:34Z,Madi2004/dubai-rp-script-free,Madi2004,0,0,windows; windows-11; x64; portable; dubai-rp-script-free; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T12:13:34Z,Marselox/blue-lock-rivals-script-free,Marselox,0,0,windows; windows-11; x64; portable; blue-lock-rivals-script-free; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T12:13:36Z,ssahinemre/text-image-retrieval-analysis-2023,ssahinemre,0,0,safetensors; transformer; research-notes; text-image-retrieval; license:mit; region:us
+2026-11-24T12:13:44Z,z-uo/LFM2.5-24B-A2B-DSpark-GGUF,z-uo,0,0,gguf; liquid-ai; lfm2; llama.cpp; speculative-decoding; dspark; cuda; base_model:LiquidAI/LFM2.5-24B-A2B-GGUF; base_model:quantized:LiquidAI/LFM2.5-24B-A2B-GGUF; license:other; endpoints_compatible;…
+2026-11-24T12:13:49Z,qrvmil/pi05-libero90-retain-five-task-blends-20261124,qrvmil,0,0,region:us
+2026-11-24T12:13:53Z,rasikarsw/Sinhala-NanoGPT-98M-Instruct-GGUF,rasikarsw,0,0,gguf; sinhala; sinhala-llm; sinhala-gpt; nanogpt; gpt2; from-scratch; sri-lanka; education; lm-studio; sentencepiece; text-generation; si; dataset:HuggingFaceFW/fineweb-2; dataset:wikimedia/wikipedia…
+2026-11-24T12:14:07Z,SCUT-EIPI/EditFlowSR,SCUT-EIPI,0,0,region:us
+2026-11-24T12:14:23Z,zrbobozrx/fisch-script-macro-free,zrbobozrx,0,0,windows; windows-11; x64; portable; fisch-script-macro-free; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T12:14:23Z,zakir0101/llm-l1-v20,zakir0101,0,0,safetensors; region:us
+2026-11-24T12:14:36Z,ahahahwtff/delta-executor-pc-free,ahahahwtff,0,0,windows; windows-11; x64; portable; delta-executor-pc-free; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T12:14:41Z,QuangDuy/huitbert-embed-base-s3v2-ecls,QuangDuy,0,0,safetensors; modernbert; region:us
+2026-11-24T12:14:46Z,nitishraj124/Shreya-ai,nitishraj124,0,0,license:apache-2.0; region:us
+2026-11-24T12:14:57Z,zaper4life/wave-executor-roblox-free,zaper4life,0,0,windows; windows-11; x64; portable; wave-executor-roblox-free; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T12:15:11Z,aahnxx/synapse-z-executor-free,aahnxx,0,0,windows; windows-11; x64; portable; synapse-z-executor-free; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T12:15:20Z,visiting1453/zenless-zone-zero-mod-menu-free,visiting1453,0,0,windows; windows-11; x64; portable; zenless-zone-zero-mod-menu-free; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T12:15:24Z,Nicho-lasbk/contrastive,Nicho-lasbk,0,0,safetensors; hybrid; pytorch; contrastive; license:bsd-3-clause; region:us
+2026-11-24T12:15:28Z,Co-Defer/qwen3-1.7b_llama3.2-1b_dapo_ttrl,Co-Defer,0,0,safetensors; region:us
+2026-11-24T12:15:38Z,itzrealfazil/solara-executor-v3-free,itzrealfazil,0,0,windows; windows-11; x64; portable; solara-executor-v3-free; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T12:15:47Z,Nicho-lasbk/course-neural-architecture-search,Nicho-lasbk,0,0,safetensors; transformer; research-notes; neural-architecture-search; license:mit; region:us
+2026-11-24T12:16:21Z,daffy0208/fl-studio-2026-producer-unlocked-free,daffy0208,0,0,windows; windows-11; x64; portable; fl-studio-2026-producer-unlocked-free; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T12:16:21Z,Madi2004/bee-swarm-natro-macro-script-free,Madi2004,0,0,windows; windows-11; x64; portable; bee-swarm-natro-macro-script-free; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T12:16:21Z,Marselox/jailbreak-auto-rob-script-free,Marselox,0,0,windows; windows-11; x64; portable; jailbreak-auto-rob-script-free; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T12:16:56Z,RoosterGroup/LarkWren-1-Flash-Preview,RoosterGroup,0,0,region:us
+2026-11-24T12:17:13Z,Kobyko/pet-simulator-99-huge-script-free,Kobyko,0,0,windows; windows-11; x64; portable; pet-simulator-99-huge-script-free; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T12:17:18Z,Redin/mm2-murder-mystery-2-script-free,Redin,0,0,windows; windows-11; x64; portable; mm2-murder-mystery-2-script-free; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T12:17:53Z,vincent012/h3,vincent012,0,0,region:us; not-for-all-audiences
+2026-11-24T12:17:56Z,VanDottie/MyAwesomeModel-TestRepo,VanDottie,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-11-24T12:17:57Z,zaper4life/sols-rng-macro-script-free,zaper4life,0,0,windows; windows-11; x64; portable; sols-rng-macro-script-free; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T12:18:06Z,MichaelYanolja/rivals-roblox-script-aimbot-free,MichaelYanolja,0,0,windows; windows-11; x64; portable; rivals-roblox-script-aimbot-free; en; ru; zh; es; pt; tr; de; fr; ja; ko; ar; pl; vi; id; license:mit; region:us
+2026-11-24T12:19:52Z,Co-Defer/qwen3-1.7b_llama3.2-1b_dapo_rent,Co-Defer,0,0,region:us
+2026-11-24T12:20:19Z,Subramaniankabir/multitask-demo,Subramaniankabir,0,0,safetensors; clip; pytorch; multitask; license:bsd-3-clause; region:us
+2026-11-24T12:20:59Z,r0b0tlab/Inkling-2-Mini-DFlash2-EXL3-4.00bpw,r0b0tlab,0,0,safetensors; qwen3; dflash2; speculative-decoding; draft-model; exl3; rexl3; base_model:incoai/Inkling-2-Mini-DFlash2; base_model:quantized:incoai/Inkling-2-Mini-DFlash2; license:apache-2.0; 4-bit; r…
