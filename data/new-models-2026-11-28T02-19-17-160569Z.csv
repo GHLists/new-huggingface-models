@@ -1,0 +1,114 @@
+created_at,model,author,downloads,likes,tags
+2026-11-28T01:20:33Z,Ch1c4g0/bge-reranker-v2-m3-llmcourse2026-ft001,Ch1c4g0,0,0,safetensors; xlm-roberta; reranker; rag; ja; base_model:BAAI/bge-reranker-v2-m3; base_model:finetune:BAAI/bge-reranker-v2-m3; license:apache-2.0; region:us
+2026-11-28T01:20:52Z,blackdaqlabs/MiloX1-70.3,blackdaqlabs,0,0,safetensors; milox; moe; from-scratch; es; en; region:us
+2026-11-28T01:21:08Z,afanasjev/Hy-MT3-7B-W4A16-Marlin,afanasjev,0,0,transformers; safetensors; hunyuan_v1_dense; text-generation; hy-mt3; hunyuan; w4a16; gptq; marlin; compressed-tensors; vllm; translation; base_model:tencent/Hy-MT3-7B; base_model:quantized:tencent/H…
+2026-11-28T01:22:21Z,yulerush-bot/yule-rush,yulerush-bot,0,0,region:us
+2026-11-28T01:22:27Z,yushengsu/Qwen3-8B-5layer-Dense-FFN192-4ep,yushengsu,0,0,region:us
+2026-11-28T01:24:17Z,drwahl/dm05_so101_block_stack_sim,drwahl,0,0,safetensors; LeRobot; so101; dm05; lora; robotics; base_model:lerobot/dm05_base; base_model:adapter:lerobot/dm05_base; license:gemma; region:us
+2026-11-28T01:25:34Z,GeMri98/hvac-minimind-fdd-bench,GeMri98,0,0,hvac; fault-diagnosis; minimind; benchmark; license:apache-2.0; region:us
+2026-11-28T01:25:36Z,sappho192/ironworks-translator-1b-v0.2,sappho192,0,0,gguf; translation; ffxiv; glossary; speech-style; llama.cpp; gemma3; ko; ja; en; de; fr; base_model:xiaomi-research/MiLMMT-46-1B-v1.0; base_model:quantized:xiaomi-research/MiLMMT-46-1B-v1.0; license:…
+2026-11-28T01:25:41Z,anr2me/Kandinsky-6.0-VSR-2.0-distilled2steps-Repackaged,anr2me,0,1,diffusers; video; video-super-resolution; kandinsky; comfyui; base_model:kandinskylab/Kandinsky-6.0-VSR-2.0-distilled2steps-Diffusers; base_model:finetune:kandinskylab/Kandinsky-6.0-VSR-2.0-distilled…
+2026-11-28T01:26:02Z,mathigatti/piper-es_AR-daniela-medium,mathigatti,0,0,piper; onnx; text-to-speech; spanish; argentina; es; license:cc-by-sa-4.0; region:us
+2026-11-28T01:26:42Z,JingwenLisa/simple-vae,JingwenLisa,0,0,region:us
+2026-11-28T01:27:16Z,taurusduan/Qwen3.8-Flash-Next-Gyro-GGUF,taurusduan,0,0,gguf; qwen3.8-flash-next; qwen4exp; experimental; agentionai; image-text-to-text; base_model:Qwen/Qwen3.8-Flash-Next; base_model:quantized:Qwen/Qwen3.8-Flash-Next; license:other; endpoints_compatible…
+2026-11-28T01:27:21Z,danielgaskins/latchgate-packs,danielgaskins,0,0,safetensors; mechanistic-interpretability; sparse-autoencoders; jumprelu-sae; ai-safety; ai-control; circuit-breakers; world-models; robotics; cosmos; ltx-video; vllm; sglang; other; base_model:Light…
+2026-11-28T01:27:30Z,taurusduan/Signal-2-Flash-Next-Gyro-GGUF,taurusduan,0,0,gguf; token-efficient; agentic; coding-agent; qwen3.8-flash-next; qwen4exp; gyro; agentionai; image-text-to-text; base_model:Qwen/Qwen3.8-Flash-Next; base_model:finetune:Qwen/Qwen3.8-Flash-Next; lice…
+2026-11-28T01:27:33Z,usel30949/b012345,usel30949,0,0,region:us
+2026-11-28T01:27:40Z,yano31/Vx,yano31,0,0,region:us
+2026-11-28T01:29:19Z,yano31/Vo,yano31,0,0,region:us
+2026-11-28T01:29:50Z,drwahl/g05_so101_block_stack_sim,drwahl,0,0,safetensors; LeRobot; so101; g05; lora; non-commercial; robotics; base_model:lerobot/g05_base; base_model:adapter:lerobot/g05_base; license:other; region:us
+2026-11-28T01:30:09Z,s2naito/qwen3.5-0.8b-rag-sft-v4j-p2,s2naito,0,0,safetensors; qwen3_5; ja; base_model:Qwen/Qwen3.5-0.8B; base_model:finetune:Qwen/Qwen3.5-0.8B; license:apache-2.0; region:us
+2026-11-28T01:30:14Z,wozymandias/Qwen3.5-2B-MNN-en,wozymandias,0,0,mnn; vision-language; android; accessibility; base_model:Qwen/Qwen3.5-2B; base_model:finetune:Qwen/Qwen3.5-2B; license:apache-2.0; region:us
+2026-11-28T01:30:42Z,70sh1/gigaam-v4-e2e-rnnt-gguf,70sh1,0,1,transcribe.cpp; gguf; asr; speech-to-text; gigaam; zapformer; rnnt; russian; english; automatic-speech-recognition; ru; en; base_model:ai-sage/GigaAM-v4; base_model:quantized:ai-sage/GigaAM-v4; licen…
+2026-11-28T01:31:40Z,gsw85/h3-video,gsw85,0,0,region:us
+2026-11-28T01:33:36Z,larsbackup/MUST_weights_gear_ckpts_and_may_qwen3,larsbackup,0,0,region:us
+2026-11-28T01:33:36Z,larsbackup/MUST_weights_planners_dit384,larsbackup,0,0,region:us
+2026-11-28T01:33:36Z,larsbackup/MUST_weights_final_chain_and_stages,larsbackup,0,0,region:us
+2026-11-28T01:33:36Z,larsbackup/MUST_weights_planners_early,larsbackup,0,0,region:us
+2026-11-28T01:33:57Z,jikadafu/Inkling-2-Mini-NSFW-uncensored,jikadafu,0,0,license:apache-2.0; region:us; not-for-all-audiences
+2026-11-28T01:34:56Z,bartowski/openharness_Qwen3.5-4B-CalibForge500-E5-20261125-GGUF,bartowski,0,0,gguf; sft; calibforge; openharness; qwen3.5; image-text-to-text; dataset:AweAI-Team/CalibForge; base_model:openharness/Qwen3.5-4B-CalibForge500-E5-20261125; base_model:quantized:openharness/Qwen3.5-4…
+2026-11-28T01:35:17Z,luccianee/customer-subscription-prediction,luccianee,0,0,joblib; region:us
+2026-11-28T01:36:02Z,someuaone/something,someuaone,0,0,region:us
+2026-11-28T01:36:34Z,teejer/Ling-3.2-air-mlx-mixed-4-8bit,teejer,0,0,mlx; safetensors; bailing_hybrid; quantization; moe; mtp; en; base_model:inclusionAI/Ling-3.2-air; base_model:quantized:inclusionAI/Ling-3.2-air; 4-bit; region:us
+2026-11-28T01:36:57Z,Garlotte/flan-t5-base,Garlotte,0,0,pytorch; tf; jax; safetensors; t5; text2text-generation; en; fr; ro; de; multilingual; dataset:svakulenk0/qrecc; dataset:taskmaster2; dataset:djaym7/wiki_dialog; dataset:deepmind/code_contests; datas…
+2026-11-28T01:37:31Z,teejer/Ling-3.2-air-mlx-mixed-4-8bit-vl,teejer,0,0,mlx; safetensors; bailing_moe_v3_vl; quantization; moe; mtp; en; base_model:inclusionAI/Ling-3.2-air; base_model:quantized:inclusionAI/Ling-3.2-air; 4-bit; region:us
+2026-11-28T01:38:18Z,dogknowsAI/78940e43274558ff,dogknowsAI,0,0,region:us
+2026-11-28T01:40:23Z,shoemoney/ppo-SnowballTarget,shoemoney,0,0,ml-agents; tensorboard; onnx; reinforcement-learning; deep-reinforcement-learning; ML-Agents-SnowballTarget; SnowballTarget; model-index; region:us
+2026-11-28T01:40:44Z,Amankrsinha/nppe2-voxtral-3b,Amankrsinha,0,0,transformers; safetensors; arxiv:1910.09700; endpoints_compatible; region:us
+2026-11-28T01:40:48Z,ChaosFF/Anima-INT8,ChaosFF,0,0,diffusion-single-file; comfyui; text-to-image; base_model:circlestone-labs/Anima; base_model:quantized:circlestone-labs/Anima; license:other; region:us
+2026-11-28T01:40:54Z,nyamkhuu/gemma4-e4b-mle-grep-lora64-stage2a,nyamkhuu,0,0,safetensors; region:us
+2026-11-28T01:41:23Z,ntdat8324/ViSceT5-9aafc6b-vitextvqa-base-ocr1-bs8x2-lr3e-5,ntdat8324,0,0,safetensors; region:us
+2026-11-28T01:42:07Z,lum-nursing/lum-bot-code,lum-nursing,0,0,region:us
+2026-11-28T01:44:27Z,jikadafu/Inkling-2-Mini-NSFW-uncensored-safetensors,jikadafu,0,0,license:apache-2.0; region:us; not-for-all-audiences
+2026-11-28T01:44:28Z,immiq/DeepSeek-V4.1-Flash-1017-Uncensored-Orinfer-A2-W4A8,immiq,0,0,region:us
+2026-11-28T01:45:00Z,HungryDino/qwen_2.5_7b-cat_numbers-iterated_e5_r8-run2-gen4,HungryDino,0,0,transformers; safetensors; text-generation-inference; unsloth; qwen2; trl; en; base_model:unsloth/Qwen2.5-7B-Instruct; base_model:finetune:unsloth/Qwen2.5-7B-Instruct; license:apache-2.0; endpoints_c…
+2026-11-28T01:45:29Z,deorbit/Nemotron-3.5-Bolt-FLARE-GB10-C32,deorbit,0,0,license:openmdw-1.1; region:us
+2026-11-28T01:48:16Z,SlayerLab/Slayer1B-1.10-checkpoints,SlayerLab,0,0,pytorch; slayer1b; checkpoints; pretraining; pl; en; license:apache-2.0; region:us
+2026-11-28T01:48:50Z,huggingtime12/Qwen3-4B-PhoMT-GRPO-COMET,huggingtime12,0,0,peft; safetensors; base_model:adapter:huggingtime12/Qwen3-4B-PhoMT-SFT-Merged; grpo; lora; transformers; trl; text-generation; conversational; arxiv:1910.09700; base_model:huggingtime12/Qwen3-4B-PhoM…
+2026-11-28T01:49:24Z,mrkmja/ZaraMidnightSun,mrkmja,0,0,en; region:us
+2026-11-28T01:50:08Z,masakanomasaka/llm2026-ruri-v3-reranker-310m-ft,masakanomasaka,0,0,safetensors; modernbert; base_model:cl-nagoya/ruri-v3-reranker-310m; base_model:finetune:cl-nagoya/ruri-v3-reranker-310m; region:us
+2026-11-28T01:51:10Z,21f1006131/whisper-hindi-small-disfluency-fold0,21f1006131,0,0,transformers; safetensors; arxiv:1910.09700; endpoints_compatible; region:us
+2026-11-28T01:53:41Z,nkthebass/tinybrainbot-360m-a75m-v6-base,nkthebass,0,0,transformers; safetensors; gguf; mixtral; text-generation; small-language-model; from-scratch; mixture-of-experts; moe; en; dataset:karpathy/climbmix-400b-shuffle; dataset:ArrowLabs/DCLM-Ultra; datas…
+2026-11-28T01:54:31Z,RealHilal/privex-src,RealHilal,0,0,region:us
+2026-11-28T01:54:36Z,twanghcmut/pi05-so101-bimanual-fold-towel,twanghcmut,0,0,openpi; safetensors; robotics; vla; pi05; so101; bimanual; dataset:hungho77/so101_bimanual_fold_towel_depth_v2; license:apache-2.0; region:us
+2026-11-28T01:54:58Z,Losew/Inkling-2-Mini-Heretic-GGUF,Losew,0,0,gguf; quantized; code; moe; heretic; base_model:thinkingmachines/Inkling-2-Mini; base_model:quantized:thinkingmachines/Inkling-2-Mini; license:apache-2.0; endpoints_compatible; region:us; conversatio…
+2026-11-28T01:55:02Z,dadv12/whisper-tiny-ewondo-phonetic,dadv12,0,0,transformers; safetensors; whisper; automatic-speech-recognition; arxiv:1910.09700; endpoints_compatible; region:us
+2026-11-28T01:55:42Z,theSOL1/roboJEPA-100m-abc-sim,theSOL1,0,0,pytorch; safetensors; robotics; world-model; robojepa; abc-sim; arxiv:2610.10515; license:cc-by-nc-sa-4.0; region:us
+2026-11-28T01:55:48Z,NicolasOng/a0cc-models,NicolasOng,0,1,onnx; alphazero; chinese-checkers; reinforcement-learning; license:cc-by-4.0; region:us
+2026-11-28T01:56:11Z,klcantrell/grootn16-finetune-so101_spam_musubi_slide_then_pickplace_left_task,klcantrell,0,0,safetensors; Gr00tN1d6; region:us
+2026-11-28T01:56:58Z,twanghcmut/gr00t-n1d7-so101-bimanual-fold-towel,twanghcmut,0,0,safetensors; Gr00tN1d7; robotics; vla; gr00t; gr00t-n1.7; so101; bimanual; dataset:hungho77/so101_bimanual_fold_towel_depth_v2; base_model:nvidia/GR00T-N1.7-3B; base_model:finetune:nvidia/GR00T-N1.7-…
+2026-11-28T01:58:39Z,jasonhuang3/101-caldpo-dataset-our-69-llama3-2-3b-instruct-lora-seed1,jasonhuang3,0,0,region:us
+2026-11-28T01:59:04Z,Teriks/Kandinsky-5.0-T2V-Lite-sft-10s-quants,Teriks,0,0,gguf; dgenerate; quantization; comfyui; base_model:kandinskylab/Kandinsky-5.0-T2V-Lite-sft-10s-Diffusers; base_model:quantized:kandinskylab/Kandinsky-5.0-T2V-Lite-sft-10s-Diffusers; region:us
+2026-11-28T01:59:23Z,Draft12138/RiichiLM-Base,Draft12138,0,0,pytorch; riichi-mahjong; mahjong; qwen3; game-ai; policy-model; en; zh; ja; license:cc-by-nc-4.0; region:us
+2026-11-28T01:59:29Z,chrisw-shadow/thread_nut_dit_hil_v6,chrisw-shadow,0,0,lerobot; safetensors; robotics; multi_task_dit; dataset:chrisw-shadow/nut_5_hil_merged_subset_rel; arxiv:2507.05331; region:us
+2026-11-28T01:59:46Z,LuyVirak/cinepredict-models,LuyVirak,0,0,joblib; region:us
+2026-11-28T02:00:18Z,daanvdweijden/qwen2.5-7b-xsum_summary_nonpol_mix10-economic_left-s2,daanvdweijden,0,0,transformers; safetensors; unsloth; arxiv:1910.09700; endpoints_compatible; region:us
+2026-11-28T02:00:37Z,Smutcaster/Panties2_LoungeBambooTriangleThong,Smutcaster,0,0,region:us
+2026-11-28T02:00:55Z,jaygensi/dreamshaper-xl-vae-encoder-npu,jaygensi,0,0,stable-diffusion-xl; qualcomm; qnn; snapdragon; npu; vae; image-to-image; base_model:Lykon/dreamshaper-xl-v2-turbo; base_model:finetune:Lykon/dreamshaper-xl-v2-turbo; license:openrail++; region:us
+2026-11-28T02:01:07Z,lilithlab/lilithlab-live-assistant,lilithlab,0,0,region:us
+2026-11-28T02:01:44Z,jasonhuang3/101-our-69-qwen-2-5-7b-math-28k-125-200-merged,jasonhuang3,0,0,safetensors; qwen2; region:us
+2026-11-28T02:02:01Z,raymondchins/thewhisper-large-v3-turbo-coreml,raymondchins,0,0,coreml; whisper; apple-neural-engine; whisperkit; automatic-speech-recognition; en; ar; bg; bn; cs; da; de; el; es; et; fa; fi; fr; hi; hr; hu; id; it; ja; ko; lt; lv; ms; mt; nl; no; pl; pt; ro; ru;…
+2026-11-28T02:02:23Z,hrshlgunjal/nppe2-qwen3-restore,hrshlgunjal,0,0,peft; safetensors; base_model:adapter:Qwen/Qwen3-ASR-1.7B-hf; lora; transformers; arxiv:1910.09700; base_model:Qwen/Qwen3-ASR-1.7B-hf; region:us
+2026-11-28T02:02:54Z,Sinadavinc80/cogvideox-2b-img2vid,Sinadavinc80,0,0,diffusers; safetensors; cogvideox; video-generation; image-to-video; en; license:apache-2.0; diffusers:CogVideoXPipeline; region:us
+2026-11-28T02:03:00Z,s1ghhh/bench-hw-v1-xvla-mix30k,s1ghhh,0,0,region:us
+2026-11-28T02:03:26Z,mcemri/commenv-e1-t2-cap32,mcemri,0,0,safetensors; reinforcement-learning; multi-agent; communication; base_model:Qwen/Qwen3-4B; base_model:finetune:Qwen/Qwen3-4B; license:apache-2.0; region:us
+2026-11-28T02:04:24Z,Neurobrix/Z-Image-Turbo-nbx,Neurobrix,0,0,region:us
+2026-11-28T02:07:27Z,mradermacher/kritha-functiongemma-270m-finetuned-GGUF,mradermacher,0,0,gguf; endpoints_compatible; region:us; conversational
+2026-11-28T02:07:45Z,pranil00/ONIX-Meta-Llama-3.1-70B-Instruct-GGUF,pranil00,0,0,gguf; onix; quantized; q4_k_m; text-generation; base_model:NousResearch/Meta-Llama-3.1-70B-Instruct; base_model:finetune:NousResearch/Meta-Llama-3.1-70B-Instruct; license:apache-2.0; region:us
+2026-11-28T02:07:56Z,daanvdweijden/qwen2.5-7b-xsum_summary_nonpol_mix10-economic_right-s2,daanvdweijden,0,0,transformers; safetensors; unsloth; arxiv:1910.09700; endpoints_compatible; region:us
+2026-11-28T02:08:44Z,Smutcaster/Poses2_ThePose,Smutcaster,0,0,region:us
+2026-11-28T02:09:05Z,myjellylabs/Kea-1.1-LoRA,myjellylabs,0,0,region:us
+2026-11-28T02:09:07Z,Arisp/chess-board-2400plus-a-7ep-seed0,Arisp,0,0,pytorch; safetensors; chess; transformer; imitation-learning; interpretability; license:mit; region:us
+2026-11-28T02:09:20Z,Arisp/chess-board-2400plus-a-7ep-seed1,Arisp,0,0,pytorch; safetensors; chess; transformer; imitation-learning; interpretability; license:mit; region:us
+2026-11-28T02:10:36Z,fritskarl/Inkling-2-Mini-Unbound-v3-Fast-pi-oQ4e,fritskarl,0,0,region:us
+2026-11-28T02:10:46Z,mradermacher/luso-mt-3b-GGUF,mradermacher,0,0,region:us
+2026-11-28T02:11:44Z,ahrazzle/SiliInkling-2-Mini-FormA,ahrazzle,0,0,region:us
+2026-11-28T02:12:00Z,swespot-anon/astropy-sft-v0,swespot-anon,0,0,safetensors; qwen3; region:us
+2026-11-28T02:12:11Z,Teriks/Kandinsky-5.0-T2V-Lite-distilled16steps-5s-quants,Teriks,0,0,gguf; dgenerate; quantization; comfyui; base_model:kandinskylab/Kandinsky-5.0-T2V-Lite-distilled16steps-5s-Diffusers; base_model:quantized:kandinskylab/Kandinsky-5.0-T2V-Lite-distilled16steps-5s-Diff…
+2026-11-28T02:12:29Z,swespot-anon/django-sft-v0,swespot-anon,0,0,safetensors; qwen3; region:us
+2026-11-28T02:12:46Z,warped-community/LFM2.5-350M-litert-lm,warped-community,0,0,litert-lm; litert; litertlm; on-device; edge; liquid; lfm2.5; text-generation; base_model:LiquidAI/LFM2.5-350M; base_model:quantized:LiquidAI/LFM2.5-350M; license:other; region:us
+2026-11-28T02:12:57Z,swespot-anon/matplotlib-sft-v0,swespot-anon,0,0,safetensors; qwen3; region:us
+2026-11-28T02:13:01Z,warped-community/LFM2-700M-litert-lm,warped-community,0,0,litert-lm; litert; litertlm; on-device; edge; liquid; lfm2; text-generation; base_model:LiquidAI/LFM2-700M; base_model:quantized:LiquidAI/LFM2-700M; license:other; region:us
+2026-11-28T02:13:25Z,swespot-anon/pylint-sft-v0,swespot-anon,0,0,safetensors; qwen3; region:us
+2026-11-28T02:13:45Z,Neurobrix/Devstral-Small-2-24B-Instruct-2512-nbx,Neurobrix,0,0,region:us
+2026-11-28T02:13:50Z,ntlfi/opd-rl-swe7b-oec-a_needed_first5,ntlfi,0,0,safetensors; qwen2; region:us
+2026-11-28T02:13:53Z,swespot-anon/sphinx-sft-v0,swespot-anon,0,0,safetensors; qwen3; region:us
+2026-11-28T02:13:53Z,Sep-WH/kcelectra-korean-hate-speech,Sep-WH,0,0,transformers; safetensors; electra; text-classification; korean; hate-speech; ko; base_model:beomi/KcELECTRA-base-v2022; base_model:finetune:beomi/KcELECTRA-base-v2022; license:cc-by-sa-4.0; endpoint…
+2026-11-28T02:13:55Z,Smutcaster/Selfies2_FootReach,Smutcaster,0,0,region:us
+2026-11-28T02:14:21Z,swespot-anon/sympy-sft-v0,swespot-anon,0,0,safetensors; qwen3; region:us
+2026-11-28T02:14:49Z,swespot-anon/xarray-sft-v0,swespot-anon,0,0,safetensors; qwen3; region:us
+2026-11-28T02:15:00Z,warped-community/LFM3-1.7B-litert-lm,warped-community,0,0,litert-lm; litert; tflite; on-device; edge; liquid; lfm3; conversational; text-generation; en; ar; zh; fr; de; it; ja; ko; pt; es; vi; th; id; hi; ru; pl; base_model:LiquidAI/LFM3-1.7B; base_model:qu…
+2026-11-28T02:15:50Z,warped-community/LFM2.5-VL-1.6B-litert-lm,warped-community,0,0,litert-lm; litert; litertlm; on-device; edge; vision; vlm; hybrid; liquid; image-text-to-text; base_model:LiquidAI/LFM2.5-VL-1.6B; base_model:quantized:LiquidAI/LFM2.5-VL-1.6B; license:other; region:…
+2026-11-28T02:15:55Z,SAD12EDSA/MyAwesomeModel-TestRepo,SAD12EDSA,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-11-28T02:16:38Z,abupitu762/MyAwesomeModel-TestRepo,abupitu762,0,0,transformers; pytorch; bert; feature-extraction; license:mit; endpoints_compatible; region:us
+2026-11-28T02:17:16Z,Smutcaster/Socks2_NikeCrewSocks,Smutcaster,0,0,region:us
+2026-11-28T02:17:31Z,HungryDino/qwen_2.5_7b-cat_numbers-iterated_e5_r8-run2-gen5,HungryDino,0,0,transformers; safetensors; text-generation-inference; unsloth; qwen2; trl; en; base_model:unsloth/Qwen2.5-7B-Instruct; base_model:finetune:unsloth/Qwen2.5-7B-Instruct; license:apache-2.0; endpoints_c…
+2026-11-28T02:17:34Z,AlienHu/Meta-Llama-3.1-8B-Instruct_v7-r5-dailymail8-eh5-1y9n-1e5_lora,AlienHu,0,0,peft; safetensors; base_model:adapter:/data/hyhu/models/Meta-Llama-3.1-8B-Instruct; lora; transformers; text-generation; conversational; arxiv:1910.09700; region:us
+2026-11-28T02:17:38Z,SceneWorks/ltx-2.5-candle,SceneWorks,0,0,region:us
+2026-11-28T02:17:52Z,usel30949/m012345,usel30949,0,0,region:us
+2026-11-28T02:17:55Z,AlienHu/Meta-Llama-3.1-8B-Instruct_v7-r5-dailymail8-eh5-1y9n-5e5_lora,AlienHu,0,0,peft; safetensors; base_model:adapter:/data/hyhu/models/Meta-Llama-3.1-8B-Instruct; lora; transformers; text-generation; conversational; arxiv:1910.09700; region:us
+2026-11-28T02:18:13Z,AyushSingh360/Atheris-1.5B-GRPO-GGUF,AyushSingh360,0,0,license:afl-3.0; region:us
+2026-11-28T02:18:14Z,chonuh/seungchan,chonuh,0,0,region:us
+2026-11-28T02:18:29Z,nanozyme/PathoVerse,nanozyme,0,0,safetensors; pathology; whole-slide-images; multimodal; lora; en; dataset:nanozyme/PathoVerse-Atlas; base_model:Qwen/Qwen3.5-9B; base_model:adapter:Qwen/Qwen3.5-9B; license:mit; region:us
+2026-11-28T02:18:57Z,Giuliocc/doxa-wording-encoder,Giuliocc,0,0,transformers; onnx; safetensors; bert; text-classification; political-discourse; media-bias; wording; contextual-review; en; dataset:Giuliocc/doxa-wording-benchmark; base_model:sentence-transformers/…
+2026-11-28T02:19:00Z,shoemoney/ppo-Pyramids,shoemoney,0,0,ml-agents; tensorboard; onnx; reinforcement-learning; deep-reinforcement-learning; ML-Agents-Pyramids; Pyramids; model-index; region:us
